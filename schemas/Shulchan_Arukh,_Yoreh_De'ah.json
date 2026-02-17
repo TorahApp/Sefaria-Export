@@ -24,6 +24,12 @@
             },
             {
                 "term_slugs": [
+                    "ramah",
+                    "yoreh-deah"
+                ]
+            },
+            {
+                "term_slugs": [
                     "yoreh-deah"
                 ]
             }
@@ -213,7 +219,7 @@
         "key": "Shulchan Arukh, Yoreh De'ah"
     },
     "order": [
-        2
+        15
     ],
     "authors": [
         {
@@ -1035,7 +1041,7 @@
                 {
                     "nodeType": "ArrayMapNode",
                     "depth": 1,
-                    "wholeRef": "Shulchan Arukh, Yoreh De'ah 139-177",
+                    "wholeRef": "Shulchan Arukh, Yoreh De'ah 139-158",
                     "includeSections": true,
                     "titles": [
                         {
@@ -1071,7 +1077,36 @@
                         "Shulchan Arukh, Yoreh De'ah 155",
                         "Shulchan Arukh, Yoreh De'ah 156",
                         "Shulchan Arukh, Yoreh De'ah 157",
-                        "Shulchan Arukh, Yoreh De'ah 158",
+                        "Shulchan Arukh, Yoreh De'ah 158"
+                    ],
+                    "addressTypes": [
+                        "Siman"
+                    ],
+                    "sectionNames": [
+                        "Siman"
+                    ],
+                    "offset": 138
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Shulchan Arukh, Yoreh De'ah 159-177",
+                    "includeSections": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Interest",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הלכות ריבית",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Interest",
+                    "heTitle": "הלכות ריבית",
+                    "refs": [
                         "Shulchan Arukh, Yoreh De'ah 159",
                         "Shulchan Arukh, Yoreh De'ah 160",
                         "Shulchan Arukh, Yoreh De'ah 161",
@@ -1098,7 +1133,7 @@
                     "sectionNames": [
                         "Siman"
                     ],
-                    "offset": 138
+                    "offset": 158
                 },
                 {
                     "nodeType": "ArrayMapNode",

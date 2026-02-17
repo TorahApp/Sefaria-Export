@@ -16,6 +16,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -61,6 +68,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "netzach-yisrael"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "he",
@@ -79,7 +94,7 @@
     },
     "authors": [
         {
-            "en": "Maharal",
+            "en": "Judah Loew of Prague (Maharal)",
             "he": "מהר\"ל",
             "slug": "maharal"
         }

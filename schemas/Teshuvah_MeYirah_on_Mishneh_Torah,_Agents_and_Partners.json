@@ -35,6 +35,26 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             10,
             3,
@@ -63,7 +83,7 @@
     },
     "authors": [
         {
-            "en": "Eliyahu David Rabinowitz Teomim",
+            "en": "Eliyahu David Rabinowitz-Teomim",
             "he": "אליהו דוד רבינוביץ' תאומים",
             "slug": "eliyahu-david-rabinowitz-teomim"
         }

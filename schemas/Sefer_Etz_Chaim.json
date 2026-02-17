@@ -17,6 +17,13 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "shaar-haklalim"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Shaar HaKlalim",
@@ -61,27 +68,36 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "sefer",
+                    "etz-chaim"
+                ]
+            }
+        ],
         "titles": [
             {
-                "lang": "en",
-                "text": "Etz Chaim"
+                "text": "Etz Chaim",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Etz Hayyim, Etz Chayim"
+                "text": "Etz Hayyim, Etz Chayim",
+                "lang": "en"
             },
             {
-                "lang": "he",
                 "text": "עץ חיים",
+                "lang": "he",
                 "primary": true
             },
             {
-                "lang": "he",
-                "text": "ספר עץ חיים"
+                "text": "ספר עץ חיים",
+                "lang": "he"
             },
             {
-                "lang": "he",
-                "text": "ספר ע\"ח"
+                "text": "ספר ע\"ח",
+                "lang": "he"
             },
             {
                 "text": "Sefer Etz Chaim",
@@ -96,12 +112,13 @@
     "authors": [
         {
             "en": "Chaim Vital",
-            "he": "חיים ויטל",
+            "he": "חיים ויטאל",
             "slug": "chaim-vital"
         }
     ],
-    "enDesc": "Etz Chaim (Tree of Life) is a collection of the teachings of Rabbi Yitzchak Luria (Arizal) as recorded by his disciple, Rabbi Chaim Vital. It is the primary introduction, interpretation, and synthesis of Lurianic Kabbalah. The Shemonah She'arim (Eight Gates) was arranged by Rabbi Shmuel Vital, the son of Chaim Vital. Etz Chaim is the only work published within Chaim Vital's lifetime. The rest of his writings were buried with him in an unedited form, until Shmuel Vital supposedly had a dream that he was to exhume his father's grave and remove certain writings, leaving the others buried. Shmuel Vital went on to redact and publish the works as the Eight Gates, which were then, at times, subdivided into other works. Sephardic kabbalists endeavour to study all eight gates. Etz Chaim is typically published in a single-volume, three-part arrangement: the initial two parts published by Chaim Vital, with a third part, Nahar Shalom, by Rabbi Shalom Sharabi, now considered the third part.",
-    "enShortDesc": "Foundational anthology of Lurianic Kabbalah presenting its theology and its theory of the world’s creation.",
+    "enDesc": "Etz Chaim (Tree of Life) is a collection of the teachings of Rabbi Isaac Luria (Arizal) as recorded by his disciple, Rabbi Chaim Vital. It is the primary introduction, interpretation, and synthesis of Lurianic Kabbalah. The Shemonah Shearim (Eight Gates) was arranged by Rabbi Samuel Vital, the son of Chaim Vital. Etz Chaim was the only work published within Chaim Vital's lifetime. The rest of his writings were buried with him in an unedited form until Samuel supposedly had a dream that he was to exhume his father's grave and remove certain writings, leaving the others buried. Samuel Vital went on to edit, annotate, and publish the works as the Eight Gates, which were then, at times, subdivided into other works. Sephardic kabbalists try to study all eight gates. Etz Chaim is typically published in a single-volume, three-part arrangement: the initial two parts are by Chaim Vital, with a third part, Nahar Shalom, by Rabbi Shalom Sharabi.",
+    "heDesc": "",
+    "enShortDesc": "Foundational anthology of Lurianic Kabbalah presenting its theology and its theory of the world’s creation",
     "heShortDesc": "אנתולוגיה יסודית של הקבלה הלוריאנית, המציגה את היסודות התאולוגיים שלה ואת התאוריה של בריאת העולם.",
     "pubDate": [
         1782

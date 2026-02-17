@@ -5,27 +5,27 @@
         "Zohar"
     ],
     "schema": {
-        "nodes": [
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Paragraph"
+        ],
+        "match_templates": [
             {
-                "nodeType": "JaggedArrayNode",
-                "depth": 2,
-                "addressTypes": [
-                    "Integer",
-                    "Integer"
-                ],
-                "sectionNames": [
-                    "Chapter",
-                    "Paragraph"
-                ],
-                "default": true,
-                "title": "",
-                "heTitle": "",
-                "heSectionNames": [
-                    "פרק",
-                    "פסקה"
-                ],
-                "key": "default"
+                "term_slugs": [
+                    "beur-hagra",
+                    "sifra-detzniuta"
+                ]
             }
+        ],
+        "lengths": [
+            5,
+            297
         ],
         "titles": [
             {
@@ -49,8 +49,15 @@
         ],
         "title": "Beur HaGra on Sifra DeTzniuta",
         "heTitle": "ביאור הגר\"א על ספרא דצניעותא",
+        "heSectionNames": [
+            "פרק",
+            "פסקה"
+        ],
         "key": "Beur HaGra on Sifra DeTzniuta"
     },
+    "order": [
+        20
+    ],
     "authors": [
         {
             "en": "Vilna Gaon",
@@ -58,9 +65,9 @@
             "slug": "vilna-gaon"
         }
     ],
-    "enDesc": "The Vilna Gaon was a staunch opponent of the chasidic movement, yet shared the movement’s interest in kabbalah and is considered an important and unique kabbalist. In addition to his Zohar commentary Yahel Ohr, he wrote an extensive commentary on Sifra DeTzniuta (Book of Concealment), a brief section included in the Zohar considered one of its core components. The Gra’s commentary on these chapters is similarly seen as essential to understanding his approach to kabbalah. It is often published with an introduction by Rabbi Chaim of Volozhin, discussing the Gaon’s views on both the revealed Torah and the esoteric concepts hidden in Sifra DeTzniuta.\n",
+    "enDesc": "The Vilna Gaon, a staunch opponent of the Chasidic movement, nevertheless shared the movement’s interest in Kabbalah and is considered an important and unique kabbalist. In addition to his Zohar commentary, *Yahel Ohr,* he wrote an extensive commentary on Sifra DeTzniuta (\"The Book of Concealment\"), a brief section included of the Zohar considered one of its core sections. His commentary on these chapters is similarly seen as essential to understanding his approach to Kabbalah. The commentary is often published with an introduction by Rabbi Chaim of Volozhin that discusses the Gaon’s views on both the revealed Torah and the esoteric concepts hidden in Sifra DeTzniuta.\n",
     "heDesc": "",
-    "enShortDesc": "18th century commentary on a key component of the Zohar, by the Vilna Gaon.",
+    "enShortDesc": "18th-century commentary on a core section of the Zohar, by the Vilna Gaon",
     "heShortDesc": "",
     "pubDate": [
         1820
@@ -70,7 +77,7 @@
         1770
     ],
     "pubPlace": "Vilna",
-    "dependence": "commentary",
+    "dependence": "Commentary",
     "base_text_titles": [
         {
             "en": "Zohar",
@@ -90,6 +97,11 @@
         "ביאור הגר\"א על ספרא דצניעותא",
         "פירוש הגר\"א על ספרא דצניעותא"
     ],
+    "sectionNames": [
+        "Chapter",
+        "Paragraph"
+    ],
+    "depth": 2,
     "heCategories": [
         "קבלה",
         "זהר"

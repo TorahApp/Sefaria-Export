@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "title-page1"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -42,6 +49,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
                 ],
                 "sharedTitle": "Introduction",
                 "titles": [
@@ -88,6 +102,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ptil-tekhelet"
+                ]
+            }
+        ],
         "titles": [
             {
                 "primary": true,
@@ -106,7 +128,7 @@
     },
     "authors": [
         {
-            "en": "Gershon Henoch Leiner of Radzin",
+            "en": "Gershon Chanokh Leiner of Radzin",
             "he": "גרשון חנוך העניך ליינר",
             "slug": "gershon-henoch-leiner-of-radzin"
         }

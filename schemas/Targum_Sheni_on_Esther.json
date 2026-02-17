@@ -7,30 +7,30 @@
         "Writings"
     ],
     "schema": {
-        "nodes": [
+        "nodeType": "JaggedArrayNode",
+        "depth": 3,
+        "addressTypes": [
+            "Integer",
+            "Integer",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Chapter",
+            "Verse",
+            "Paragraph"
+        ],
+        "match_templates": [
             {
-                "nodeType": "JaggedArrayNode",
-                "depth": 3,
-                "addressTypes": [
-                    "Integer",
-                    "Integer",
-                    "Integer"
-                ],
-                "sectionNames": [
-                    "Chapter",
-                    "Verse",
-                    "Paragraph"
-                ],
-                "default": true,
-                "title": "",
-                "heTitle": "",
-                "heSectionNames": [
-                    "פרק",
-                    "פסוק",
-                    "פסקה"
-                ],
-                "key": "default"
+                "term_slugs": [
+                    "targum-sheni",
+                    "esther"
+                ]
             }
+        ],
+        "lengths": [
+            10,
+            164,
+            301
         ],
         "titles": [
             {
@@ -46,12 +46,17 @@
         ],
         "title": "Targum Sheni on Esther",
         "heTitle": "תרגום שני על אסתר",
+        "heSectionNames": [
+            "פרק",
+            "פסוק",
+            "פסקה"
+        ],
         "key": "Targum Sheni on Esther"
     },
     "authors": [],
-    "enDesc": "Targum Sheni on Esther is an Aramaic translation and elaboration on the book of Esther. The work’s origins are a matter of debate, and scholars date its composition to between the fourth and eleventh centuries. The text includes line by line translations but also incorporates lengthy stories and other materials that are not direct translations of the biblical text. ",
+    "enDesc": "The Targum Sheni (“second Aramaic translation”) on the book of Esther differs from other targumim in that it is better described as an “extensive midrashic paraphrase” than as a translation. In composing the work, the author drew on much preexisting midrash on the book of Esther and reworked it into his running narrative expansion of the work in Aramaic. Largely because of the difficulty in establishing the work’s relative chronological relationship to other midrashic works on the book of Esther, Targum Sheni is especially difficult to date, and scholars have provided dates of composition ranging from the fourth to the 11th centuries, with a date somewhere in the middle being the most likely. ",
     "heDesc": "",
-    "enShortDesc": "Aramaic translation and elaboration upon the book of Esther compiled sometime between the 4th and 11th centuries. ",
+    "enShortDesc": "Aramaic midrashic paraphrase of the book of Esther with a likely late seventh-century date",
     "heShortDesc": "",
     "dependence": "targum",
     "base_text_titles": [
@@ -71,6 +76,12 @@
     "heTitleVariants": [
         "תרגום שני על אסתר"
     ],
+    "sectionNames": [
+        "Chapter",
+        "Verse",
+        "Paragraph"
+    ],
+    "depth": 3,
     "heCategories": [
         "תנ\"ך",
         "תרגומים",

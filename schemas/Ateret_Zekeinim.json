@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "title"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Title",
@@ -42,6 +49,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
                 ],
                 "sharedTitle": "Introduction",
                 "titles": [
@@ -75,6 +89,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "index"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -124,6 +145,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "the-form-of-the-foundations"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "The Form of the Foundations",
@@ -144,6 +172,14 @@
                 "key": "The Form of the Foundations"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ateret-zekeinim"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "עטרת זקנים",
@@ -162,9 +198,9 @@
     },
     "authors": [
         {
-            "en": "Abarbanel",
+            "en": "Isaac Abarbanel",
             "he": "אברבנאל",
-            "slug": "abarbanel"
+            "slug": "isaac-abarbanel"
         }
     ],
     "enDesc": "Ateret Zekeinim (“Crown of the Elders”) is the first completed work of Isaac Abarbanel. It is a commentary on Exodus 23:20-24:18, a series of verses that discuss God’s sending of an angel to accompany the Israelites, a covenant between God and the Israelites, the “seeing of God”, and Moses’ ascent to Mount Sinai to receive a second set of tablets. In the process of interpretation, Ateret Zekeinim focuses on themes such as prophecy, divine providence, and the uniqueness of the Jewish people. The work begins with a series of questions on the biblical verses, proceeds to note and critique approaches of earlier commentators, and ultimately presents the author’s interpretation.",

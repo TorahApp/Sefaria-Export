@@ -10,7 +10,7 @@
         "depth": 4,
         "addressTypes": [
             "Volume",
-            "Integer",
+            "Perek",
             "Integer",
             "Integer"
         ],
@@ -20,14 +20,27 @@
             "Teaching",
             ""
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "orot-hakodesh"
+                ]
+            }
+        ],
+        "lengths": [
+            3,
+            4,
+            150,
+            458
+        ],
         "titles": [
             {
-                "lang": "en",
-                "text": "Orot Hakodesh"
+                "text": "Orot Hakodesh",
+                "lang": "en"
             },
             {
-                "lang": "he",
                 "text": "אורות הקודש",
+                "lang": "he",
                 "primary": true
             },
             {
@@ -48,14 +61,14 @@
     },
     "authors": [
         {
-            "en": "Avraham Yitzchak HaCohen Kook",
+            "en": "Abraham Isaac HaCohen Kook",
             "he": "הרב אברהם יצחק הכהן קוק",
-            "slug": "avraham-yitzchak-hacohen-kook"
+            "slug": "abraham-isaac-hacohen-kook"
         }
     ],
-    "enDesc": "Four volume compilation of essays containing the philosophy of R' Avraham Yitzchak Kook, edited and published by his student R' David HaKohen (\"The Nazir\").",
+    "enDesc": "Four-volume compilation of essays containing the philosophy of Rabbi Abraham Isaac HaCohen Kook, edited and published by his student Rabbi David HaKohen (\"The Nazir\").",
     "heDesc": "אחד מספריו העיקריים של הרב אברהם יצחק הכהן קוק, בו מרוכז חלק ניכר ממשנתו הרוחנית. הספר סודר ונערך על ידי תלמידו של הרב קוק, הרב דוד כהן (\"הנזיר\"), מתוך כתבי היד שהרב מסר לו.",
-    "enShortDesc": "Four-volume compilation of essays containing Rav Kook’s philosophy, edited by his student, Rav David HaKohen (\"The Nazir\").",
+    "enShortDesc": "Four-volume compilation of essays containing R. Kook’s philosophy, edited by his student, R. David HaKohen (\"The Nazir\")",
     "heShortDesc": "ארבעה כרכים הכוללים מסות פילוסופיות פרי כתיבתו של הרב קוק בעריכת תלמידו הרב דוד הכהן (\"הרב הנזיר\").",
     "pubDate": [
         1938

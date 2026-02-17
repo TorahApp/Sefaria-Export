@@ -18,6 +18,21 @@
         "sectionNames": [
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tiferet-shmuel",
+                    "yoma"
+                ]
+            }
+        ],
+        "lengths": [
+            6
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "תפארת שמואל על יומא",
@@ -41,7 +56,7 @@
         {
             "en": "Aharon Shmuel Kaidanover",
             "he": "אהרן שמואל קאידנוור",
-            "slug": "aharon-shmuel-kaidanover"
+            "slug": "aaron-samuel-kaidanover"
         }
     ],
     "pubDate": [

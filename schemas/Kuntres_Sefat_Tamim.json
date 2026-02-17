@@ -8,12 +8,23 @@
         "nodeType": "JaggedArrayNode",
         "depth": 2,
         "addressTypes": [
-            "Integer",
+            "Perek",
             "Integer"
         ],
         "sectionNames": [
             "Chapter",
             "Paragraph"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "kuntres-sefat-tamim"
+                ]
+            }
+        ],
+        "lengths": [
+            7,
+            87
         ],
         "titles": [
             {
@@ -37,7 +48,7 @@
     },
     "authors": [
         {
-            "en": "Israel Meir Kagan",
+            "en": "Israel Meir Kagan (Chafetz Chaim)",
             "he": "רבי ישראל מאיר הכהן",
             "slug": "israel-meir-kagan"
         }

@@ -18,6 +18,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tosafot-ri-hazaken",
+                    "kiddushin"
+                ]
+            }
+        ],
         "lengths": [
             164,
             924
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^(.*?)\\."
         ],
         "titles": [
             {
@@ -53,7 +60,7 @@
     },
     "authors": [
         {
-            "en": "Isaac ben Samuel of Dampierre",
+            "en": "Isaac ben Samuel of Dampierre (Ri HaZaken)",
             "he": "יצחק בן שמואל הזקן מדַמְפִּיֶיר",
             "slug": "isaac-ben-samuel-of-dampierre"
         }

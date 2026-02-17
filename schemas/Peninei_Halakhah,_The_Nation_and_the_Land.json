@@ -222,6 +222,26 @@
                 "key": "Supplement"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "peninei-halakhah",
+                    "the-nation-and-the-land"
+                ]
+            }
+        ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "add",
+                "input_terms": [
+                    "shulchan-arukh"
+                ],
+                "output_terms": [
+                    "choshen-mishpat"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "he",

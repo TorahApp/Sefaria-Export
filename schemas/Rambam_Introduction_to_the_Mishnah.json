@@ -16,6 +16,19 @@
             "Section",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "rambam",
+                    "introduction",
+                    "mishnah"
+                ]
+            }
+        ],
+        "lengths": [
+            29,
+            466
+        ],
         "titles": [
             {
                 "lang": "en",
@@ -49,7 +62,7 @@
     ],
     "authors": [
         {
-            "en": "Rambam",
+            "en": "Moses ben Maimon (Rambam)",
             "he": "רמב\"ם",
             "slug": "rambam"
         }

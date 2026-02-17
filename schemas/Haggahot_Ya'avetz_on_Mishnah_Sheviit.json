@@ -19,6 +19,24 @@
             "Mishnah",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "haggahot-yaavetz",
+                    "mishnah",
+                    "sheviit"
+                ]
+            }
+        ],
+        "lengths": [
+            10,
+            9,
+            11
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "הגהות יעב\"ץ על משנה שביעית",
@@ -40,8 +58,17 @@
         ],
         "key": "Haggahot Ya'avetz on Mishnah Sheviit"
     },
+    "authors": [
+        {
+            "en": "Yaakov Emden",
+            "he": "יעקב עמדין",
+            "slug": "yaakov-emden"
+        }
+    ],
     "enDesc": "In addition to the many works he authored more formally, 18th-century German scholar Rabbi Yaakov Emden filled the margins of his copy of the Talmud with notes. He indicated in several places that he intended to publish these notes, but did not do so in his lifetime. They were first printed as Haggahot Ya’avetz (Notes of Yaakov ben Tzvi) in the late-19th-century Vilna edition of the Talmud that is still in wide use today.",
+    "heDesc": "",
     "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1883
     ],

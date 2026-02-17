@@ -14,6 +14,13 @@
                 "sectionNames": [
                     "paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "authors-introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Author's Introduction",
@@ -54,6 +61,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ohr-hasekhel"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "אור השכל",
@@ -70,16 +85,19 @@
         "heTitle": "אור השכל",
         "key": "Ohr HaSekhel"
     },
+    "order": [
+        55
+    ],
     "authors": [
         {
-            "en": "Avraham Abulafia",
+            "en": "Abraham Abulafia",
             "he": "אברהם אבולעפיה",
-            "slug": "avraham-abulafia"
+            "slug": "abraham-ben-samuel-abulafia"
         }
     ],
-    "enDesc": "Ohr HaSekhel (Light of the Intellect), written by 13th-century kabbalist Avraham Abulafia at the request of his students, is a guide to achieving prophetic enlightenment – or, if prophecy is withheld, at least to unlocking secrets of Torah and the reasons for commandments. Like Abulafia’s other works, it reflects Maimonidean philosophy as well as earlier kabbalistic texts, emphasizing the role of human intellect and the power of letters and their combinations. Each of the ten chapters is connected with a group of letters and a specific topic or goal.",
+    "enDesc": "Ohr HaSekhel (Light of the Intellect), written by 13th-century kabbalist Abraham Abulafia at the request of his students, is a guide to achieving prophetic enlightenment — or, if prophecy is withheld, at least to unlocking secrets of Torah and the reasons for commandments. Like Abulafia’s other works, it reflects Maimonidean philosophy as well as earlier kabbalistic texts, emphasizing the role of human intellect and the power of letters and their combinations. Each of the ten chapters is connected with a group of letters and a specific topic or goal.",
     "heDesc": "״אור השכל״, שנכתב על ידי המקובל רבי אברהם אבולעפיה בן המאה ה-13 לבקשת תלמידיו, הוא מדריך להשגת הארה נבואית - או, אם הנבואה נמנעת, לפחות לגילוי סודות התורה והנבואה והסיבות למצוות. בדומה ליצירות אחרות של אבולעפיה, היא מתייחסת לפילוסופיה של הרמב\"ם וכן לטקסטים קבליים קדומים יותר, תוך שימת דגש על תפקיד האינטלקט האנושי ועל כוחן של אותיות השפה העברית וצירופיהן. כל אחד מעשרת הפרקים קשור לקבוצת אותיות ולנושא או מטרה ספציפיים.",
-    "enShortDesc": "13th-century handbook of “Prophetic Kabbalah” by Rabbi Avraham Abulafia, considered the founder of the approach.",
+    "enShortDesc": "13th-century handbook of “Prophetic Kabbalah” by R. Araham Abulafia, considered the founder of the approach",
     "heShortDesc": "ספר העוסק בקבלה נבואית מהמאה ה-13 מאת רבי אברהם אבולעפיה, הנחשב למייסד הגישה",
     "pubDate": [
         2001

@@ -48,12 +48,18 @@
                 ]
             }
         ],
-        "ref_resolver_context_swaps": {
-            "halakha": [
-                "yerushalmi",
-                "niddah"
-            ]
-        },
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "halakha"
+                ],
+                "output_terms": [
+                    "yerushalmi",
+                    "niddah"
+                ]
+            }
+        ],
         "lengths": [
             4,
             25,
@@ -65,11 +71,6 @@
             false
         ],
         "titles": [
-            {
-                "text": "תלמוד ירושלמי נדה",
-                "lang": "he",
-                "primary": true
-            },
             {
                 "text": "JT Nidah",
                 "lang": "en"
@@ -97,6 +98,11 @@
             {
                 "text": "Y. Nidd.",
                 "lang": "en"
+            },
+            {
+                "text": "תלמוד ירושלמי נדה",
+                "lang": "he",
+                "primary": true
             },
             {
                 "text": "Jerusalem Talmud Niddah",
@@ -130,6 +136,7 @@
     "compPlace": "Talmudic Israel",
     "pubPlace": "Venice",
     "era": "A",
+    "is_cited": true,
     "corpora": [
         "Yerushalmi"
     ],
@@ -144,8 +151,8 @@
         "Jerusalem Talmud Niddah"
     ],
     "heTitleVariants": [
-        "תלמוד ירושלמי נדה",
-        "ירושלמי נדה"
+        "ירושלמי נדה",
+        "תלמוד ירושלמי נדה"
     ],
     "alts": {
         "Venice": {
@@ -167,7 +174,34 @@
                         "Jerusalem Talmud Niddah 1:4:7-6:5"
                     ],
                     "startingAddress": "48d",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-128"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-128"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -201,7 +235,34 @@
                         "Jerusalem Talmud Niddah 2:7:3-9"
                     ],
                     "startingAddress": "49c",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-223"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-223"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -234,7 +295,34 @@
                         "Jerusalem Talmud Niddah 3:4:6-5:4"
                     ],
                     "startingAddress": "50c",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-323"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-323"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -266,7 +354,34 @@
                         "Jerusalem Talmud Niddah 4:1:2-7:1"
                     ],
                     "startingAddress": "51a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-419"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "fourth"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-419"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "fourth"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 4",
@@ -285,11 +400,6 @@
                 }
             ],
             "titles": [
-                {
-                    "text": "תלמוד ירושלמי נדה",
-                    "lang": "he",
-                    "primary": true
-                },
                 {
                     "text": "JT Nidah",
                     "lang": "en"
@@ -317,6 +427,11 @@
                 {
                     "text": "Y. Nidd.",
                     "lang": "en"
+                },
+                {
+                    "text": "תלמוד ירושלמי נדה",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Niddah",
@@ -353,7 +468,34 @@
                         "Jerusalem Talmud Niddah 1:6:5"
                     ],
                     "startingAddress": "1a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-128"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-128"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -390,7 +532,34 @@
                         "Jerusalem Talmud Niddah 2:7:6-9"
                     ],
                     "startingAddress": "6a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-223"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-223"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -428,7 +597,34 @@
                         "Jerusalem Talmud Niddah 3:5:3-4"
                     ],
                     "startingAddress": "9a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-323"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-323"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -460,7 +656,34 @@
                         "Jerusalem Talmud Niddah 4:6:1-7:1"
                     ],
                     "startingAddress": "12b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-419"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "fourth"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-419"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "fourth"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 4",
@@ -479,11 +702,6 @@
                 }
             ],
             "titles": [
-                {
-                    "text": "תלמוד ירושלמי נדה",
-                    "lang": "he",
-                    "primary": true
-                },
                 {
                     "text": "JT Nidah",
                     "lang": "en"
@@ -511,6 +729,11 @@
                 {
                     "text": "Y. Nidd.",
                     "lang": "en"
+                },
+                {
+                    "text": "תלמוד ירושלמי נדה",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Niddah",

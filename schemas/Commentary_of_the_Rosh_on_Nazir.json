@@ -18,6 +18,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "rosh",
+                    "nazir"
+                ]
+            }
+        ],
         "lengths": [
             132,
             1033
@@ -53,7 +61,7 @@
     },
     "authors": [
         {
-            "en": "Rosh",
+            "en": "Rabbenu Asher ben Yechiel (Rosh)",
             "he": "רא\"ש",
             "slug": "rosh"
         }

@@ -19,6 +19,11 @@
         "match_templates": [
             {
                 "term_slugs": [
+                    "genesis-rabbah"
+                ]
+            },
+            {
+                "term_slugs": [
                     "genesis",
                     "rabbah"
                 ]
@@ -28,6 +33,13 @@
                     "midrash",
                     "genesis",
                     "rabbah"
+                ]
+            },
+            {
+                "term_slugs": [
+                    "midrash",
+                    "midrash-rabbah",
+                    "genesis"
                 ]
             },
             {
@@ -173,17 +185,17 @@
         1.0
     ],
     "authors": [],
-    "enDesc": "Bereshit Rabbah is a talmudic-era midrash on the Book of Genesis. It covers most of the book (excluding genealogies and similar passages) with verse-by-verse and often word-by-word commentary. Written in Hebrew mixed with Aramaic and occasional Greek words, its style is simple and clear.",
+    "enDesc": "Bereshit Rabbah is a talmudic-era midrash on the book of Genesis. It interprets most of Genesis (with the exception of genealogies and such) with verse-by-verse and often word-by-word commentary. Written in Hebrew, mixed with Aramaic and occasional Greek words, its style is simple and clear.",
     "heDesc": "\"בראשית רבה\" הינו מדרש אגדה על ספר בראשית. הוא כולל פירושים פשוטים רבים למילים ולפסוקים, המתאימים להוראת הספר לילדים, לעתים קרובות בארמית. בנוסף כולל החיבור גם תיאורים אגדיים מגוונים, שהיו פופולריים בדרשות הפומביות שהוצגו בבתי הכנסת בתקופה בה נוצר. המסורת המייחסת את חיבורו של \"בראשית רבה\" לרב אושעיא מלמדת אולי שהוא החל את מלאכת איסוף המדרשים, אך תוספות רבות נוספו אחרי תקופתו לפני שהחיבור נערך (במאה ה-5-4 לספירה). העורך חיבר בין הסברים ארוכים וקצרים ובין פרשנויות אגדיות לפסקאות המקראיות, לעתים באופן אנונימי ולעתים באזכור שם בעל הפרשנות/האגדה. גם לאחר עריכה זו, ככל הנראה, לא נחתם הטקסט סופית, וניתן היה להוסיף פסקאות נוספות, להגדיל את מספר פסקאות ההקדמה לחלק מסוים של המדרש או להוסיף מלל לאלו הקיימים. מבנה החיבור מורכב מפרשיות, אשר מספרן נע בין 98 ל-101 בהתאם למהדורות כתב-יד שונות, וארגון זה של הטקסט דומה במקצת למחזור התלת-שנתי של קריאת התורה, כפי שהיה נהוג בארץ ישראל.",
-    "enShortDesc": "Talmudic-era midrash on the Book of Genesis with verse-by-verse interpretations.",
+    "enShortDesc": "Talmudic-era midrash on the book of Genesis with verse-by-verse interpretations",
     "heShortDesc": "מדרש על ספר בראשית מתקופת התלמוד, ובו פירושים רצופים על פסוקי הספר.",
     "pubDate": [
         1512
     ],
     "compDate": [
-        500
+        400
     ],
-    "compPlace": "Talmudic Israel/Babylon",
+    "compPlace": "Talmudic Israel",
     "pubPlace": "Istanbul",
     "era": "T",
     "is_cited": true,
@@ -239,16 +251,16 @@
         "מדרש רבה"
     ],
     "compDateString": {
-        "en": " (500 CE)",
-        "he": " (500 לספירה)"
+        "en": " (400 CE)",
+        "he": " (400 לספירה)"
     },
     "pubDateString": {
         "en": " (1512 CE)",
         "he": " (1512 לספירה)"
     },
     "compPlaceString": {
-        "en": "Talmudic Israel/Babylon",
-        "he": "ישראל / בבל התלמודית"
+        "en": "Talmudic Israel",
+        "he": "ישראל התלמודית"
     },
     "pubPlaceString": {
         "en": "Istanbul",

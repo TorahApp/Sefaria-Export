@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -71,6 +78,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "the-six-hundred-thirteen-commandments"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "The Six Hundred Thirteen Commandments",
@@ -91,6 +105,15 @@
                 "key": "The Six Hundred Thirteen Commandments"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ezra-ben-solomon",
+                    "song-of-songs"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "עזרא בן שלמה על שיר השירים",
@@ -109,7 +132,7 @@
     },
     "authors": [
         {
-            "en": "Ezra ben Shlomo of Gerona",
+            "en": "Ezra ben Solomon of Gerona",
             "he": "עזרא בן שלמה מגרונה",
             "slug": "ezra-ben-shlomo-of-gerona"
         }

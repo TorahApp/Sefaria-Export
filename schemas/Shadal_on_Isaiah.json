@@ -16,6 +16,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -65,6 +72,15 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "shadal",
+                    "isaiah"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "שד\"ל על ישעיהו",
@@ -83,14 +99,14 @@
     },
     "authors": [
         {
-            "en": "Shadal",
+            "en": "Samuel David Luzzatto",
             "he": "שד\"ל",
-            "slug": "shadal"
+            "slug": "samuel-david-luzzatto"
         }
     ],
     "enDesc": "Samuel David Luzzatto (\"Shadal\") opens his 19th-century commentary on Isaiah with an introduction that lays out ten principles at the root of all his Bible commentaries, wherein he explains his use of non-traditional and even non-Jewish interpretations; describes the extended process of writing and revising through discussion with seven different groups of students; and fundraising that eventually led to the work’s publication. One key element of the work is Shadal’s view, contrary to critical scholarship of the time, that the entire book was written by Isaiah. The Hebrew commentary was published alongside Shadal’s translation of Isaiah into Italian.",
     "heDesc": "",
-    "enShortDesc": "",
+    "enShortDesc": "19th-century commentary on the book of Isaiah by Samuel David Luzzatto, originally published alongside the author's own translation of Isaiah into Italian",
     "heShortDesc": "",
     "pubDate": [
         1867
@@ -100,7 +116,7 @@
         1855
     ],
     "pubPlace": " Padua",
-    "dependence": "commentary",
+    "dependence": "Commentary",
     "base_text_titles": [
         {
             "en": "Isaiah",

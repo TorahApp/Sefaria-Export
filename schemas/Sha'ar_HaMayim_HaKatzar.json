@@ -8,12 +8,23 @@
         "nodeType": "JaggedArrayNode",
         "depth": 2,
         "addressTypes": [
-            "Integer",
-            "Integer"
+            "Siman",
+            "Seif"
         ],
         "sectionNames": [
             "Gate",
             "Paragraph"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "shaar-hamayim-hakatzar"
+                ]
+            }
+        ],
+        "lengths": [
+            11,
+            13
         ],
         "titles": [
             {
@@ -45,7 +56,7 @@
     },
     "authors": [
         {
-            "en": "Rashba",
+            "en": "Shlomo ibn Adret (Rashba)",
             "he": "רשב\"א",
             "slug": "rashba1"
         }
