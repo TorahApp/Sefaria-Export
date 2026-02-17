@@ -20,6 +20,13 @@
                     "Paragraph",
                     "Comment"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -65,6 +72,16 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "etz-yosef",
+                    "lamentations",
+                    "rabbah"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "he",
@@ -83,7 +100,7 @@
     },
     "authors": [
         {
-            "en": "Chanoch Zundel ben Yosef",
+            "en": "Chanokh Zundel ben Yosef",
             "he": "חנוך זונדל בן יוסף",
             "slug": "chanoch-zundel-ben-yosef"
         }

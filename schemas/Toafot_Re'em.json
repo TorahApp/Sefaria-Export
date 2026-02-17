@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -42,6 +49,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "comments-on-authors-introduction"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -83,10 +97,22 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "toafot-reem"
+                ]
+            }
+        ],
         "titles": [
             {
-                "lang": "he",
+                "text": "Tosafot Re'em",
+                "lang": "en"
+            },
+            {
                 "text": "תועפות ראם",
+                "lang": "he",
                 "primary": true
             },
             {
@@ -106,9 +132,10 @@
             "slug": "abraham-abba-schiff"
         }
     ],
-    "enDesc": "Commentary on Sefer Yere'im by the first publisher of the complete version of the book.",
+    "enDesc": "Commentary on Sefer Yereim by the first publisher of the complete version of the book",
     "heDesc": "ביאור מקיף לספר יראים, חובר על ידי המו\"ל הראשון של הספר השלם.",
-    "enShortDesc": "19th-century commentary on Sefer Yereim added by Rabbi Abraham Abba Schiff when he published the first complete edition of the work.",
+    "enShortDesc": "19th-century commentary on Sefer Yereim added by R. Abraham Abba Schiff when he published the first complete edition of the work",
+    "heShortDesc": "",
     "pubDate": [
         1891
     ],
@@ -125,6 +152,7 @@
     },
     "heTitle": "תועפות ראם",
     "titleVariants": [
+        "Tosafot Re'em",
         "Toafot Re'em"
     ],
     "heTitleVariants": [

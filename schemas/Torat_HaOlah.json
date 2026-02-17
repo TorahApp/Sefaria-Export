@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "authors-introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -44,6 +51,13 @@
                 "sectionNames": [
                     "Part",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "index"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -76,6 +90,13 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "part-1"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -107,6 +128,13 @@
                         "sectionNames": [
                             "Paragraph"
                         ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "introduction"
+                                ]
+                            }
+                        ],
                         "titles": [
                             {
                                 "primary": true,
@@ -145,6 +173,14 @@
                             "פסקה"
                         ],
                         "key": "default"
+                    }
+                ],
+                "nodeType": "SchemaNode",
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "part-2"
+                        ]
                     }
                 ],
                 "titles": [
@@ -174,6 +210,13 @@
                         "sectionNames": [
                             "Paragraph"
                         ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "introduction"
+                                ]
+                            }
+                        ],
                         "titles": [
                             {
                                 "primary": true,
@@ -214,6 +257,14 @@
                         "key": "default"
                     }
                 ],
+                "nodeType": "SchemaNode",
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "part-3"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -238,6 +289,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "kabballic-commentary-to-barukh-sheamar"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -267,6 +325,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "concluding-poems"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -287,11 +352,19 @@
                 "key": "Concluding Poems"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "torat-haolah"
+                ]
+            }
+        ],
         "titles": [
             {
-                "primary": true,
                 "text": "תורת העולה",
-                "lang": "he"
+                "lang": "he",
+                "primary": true
             },
             {
                 "text": "Torat HaOlah",
@@ -305,14 +378,14 @@
     },
     "authors": [
         {
-            "en": "Moses Isserles",
+            "en": "Moses Isserles (Rema)",
             "he": "משה בן ישראל איסרלישׂ",
-            "slug": "moses-isserles"
+            "slug": "moses-isserles-(rema)"
         }
     ],
-    "enDesc": "A discussion of the deeper meaning of the sacrifices and the service in the Temple, by R' Moshe Isserles (Rama), the author of the glosses to the Shulchan Aruch. Besides discussing the laws of the Temple and their reasons, the Rama discusses principles of faith.",
+    "enDesc": "A discussion of the deeper meaning of the sacrifices and the service in the Temple, by Rabbi Moses Isserles (Rema), the author of the glosses to the Shulchan Arukh. Besides discussing the laws of the Temple and their logic, he also discusses principles of faith.",
     "heDesc": "עניני הכוונות הפנימיות הרמוזות בבנין בית המקדש וכליו, הכהנים ובגדיהם, ועבודות הקרבנות.",
-    "enShortDesc": "16th-century work of the Rema that analyzes the sacrifices and service in the Temple, blending philosophy and kabbalah.",
+    "enShortDesc": "16th-century work of the Rema that analyzes the sacrifices and service in the Temple, blending philosophy and Kabbalah",
     "heShortDesc": "ספרו של הרמ\"א, שחי במאה ה-16, המנתח את עבודת המקדש והקורבנות מנקודת מבט פילוסופית וקבלית.",
     "pubDate": [
         1570

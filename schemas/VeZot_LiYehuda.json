@@ -4,24 +4,23 @@
         "Kabbalah"
     ],
     "schema": {
-        "nodes": [
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "paragraph"
+        ],
+        "match_templates": [
             {
-                "nodeType": "JaggedArrayNode",
-                "depth": 1,
-                "addressTypes": [
-                    "Integer"
-                ],
-                "sectionNames": [
-                    "paragraph"
-                ],
-                "default": true,
-                "title": "",
-                "heTitle": "",
-                "heSectionNames": [
-                    ""
-                ],
-                "key": "default"
+                "term_slugs": [
+                    "vezot-liyehuda"
+                ]
             }
+        ],
+        "lengths": [
+            17
         ],
         "titles": [
             {
@@ -45,18 +44,24 @@
         ],
         "title": "VeZot LiYehuda",
         "heTitle": "אגרת וזאת ליהודה",
+        "heSectionNames": [
+            ""
+        ],
         "key": "VeZot LiYehuda"
     },
+    "order": [
+        70
+    ],
     "authors": [
         {
-            "en": "Avraham Abulafia",
+            "en": "Abraham Abulafia",
             "he": "אברהם אבולעפיה",
-            "slug": "avraham-abulafia"
+            "slug": "abraham-ben-samuel-abulafia"
         }
     ],
-    "enDesc": "Rabbi Avraham Abulafia was the 13th-century founder of a practical kabbalistic approach that taught that manipulation of letters and divine names could achieve divine connection and even prophecy. He left Barcelona after Rabbi Shlomo Aderet (Rashba), a kabbalist and renowned legal authority, issued sharp criticism against him. Abulafia wrote a letter to Rabbi Yehuda Salmon, VeZot LiYehuda, in which he argued that the Rashba’s view rested on inaccurate information, explained his own approach in relation to other kabbalistic streams, and asked R. Yehuda to intervene with the Rashba on his behalf.",
+    "enDesc": "Rabbi Abraham Abulafia was the 13th-century founder of a practical kabbalistic approach that taught that manipulation of letters and divine names could achieve divine connection and even prophecy. He left Barcelona after Rabbi [Shlomo ibn Adret (Rashba)](https://www.sefaria.org/topics/rashba1?sort=Relevance&amp;tab=sources), a kabbalist and renowned legal authority, issued sharp criticism against him. Abulafia wrote a letter to Rabbi Yehuda Salmon, VeZot LiYehuda, in which he argued that the Rashba’s view rested on inaccurate information, explained his own approach in relation to other kabbalistic streams, and asked Rabbi Yehuda to intervene with the Rashba on his behalf.",
     "heDesc": "רבי אברהם אבולעפיה היה המייסד במאה ה-13 של גישה קבלית מעשית שלימדה ששימוש מסוים באותיות השפה העברית והשמות האלוהיים יכולה להשיג קשר אלוהי ואפילו נבואה. הוא עזב את ברצלונה לאחר שהרב שלמה אדרת (רשב\"א), מקובל וסמכות הלכתית ידועה, הוציא נגדו ביקורת נוקבת. אבולעפיה כתב מכתב לרבי יהודה שלמון, \"וזאת ליהודה\", בו טען שדעת הרשב\"א נשענת על מידע לא מדויק, הסביר את גישתו שלו ביחס לזרמים קבליים אחרים, וביקש מר' יהודה להתערב ולדבר עם הרשב\"א בשמו.",
-    "enShortDesc": "13th-century letter in which Rabbi Avraham Abulafia defends himself and his “Prophetic Kabbalah” approach.",
+    "enShortDesc": "13th-century letter in which Rabbi Abraham Abulafia defends himself and his “Prophetic Kabbalah” approach",
     "heShortDesc": "מכתב מהמאה ה-13 בו מגן רבי אברהם אבולעפיה על עצמו ועל גישת הקבלה הנבואית",
     "pubDate": [
         1853
@@ -78,6 +83,10 @@
     "heTitleVariants": [
         "אגרת וזאת ליהודה"
     ],
+    "sectionNames": [
+        "paragraph"
+    ],
+    "depth": 1,
     "heCategories": [
         "קבלה"
     ],

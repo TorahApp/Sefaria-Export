@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -63,6 +70,15 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "pirkei-moshe",
+                    "pirkei-avot"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "פרקי משה על אבות",
@@ -81,9 +97,9 @@
     },
     "authors": [
         {
-            "en": "Moshe Almosnino",
+            "en": "Moses Almosnino",
             "he": "רבי משה אלמושנינו",
-            "slug": "moshe-almosnino"
+            "slug": "moses-almosnino"
         }
     ],
     "enDesc": " Pirkei Moshe is a commentary on Pirkei Avot, the tractate of Mishnah popularly known as Ethics of the Fathers. Written by Rabbi Moshe Almosnino in 16th-century Salonica and published by his son, it was well received and often quoted by other commentators, but was hard to find until it was reprinted centuries later. The author was known for his scholarship in many areas of general and Jewish studies, including Aristotelian philosophy, languages, and biblical interpretation; his wide-ranging knowledge is often reflected in his explanations, which have been lauded for their clarity and depth. ",
@@ -99,7 +115,7 @@
     ],
     "compPlace": "Salonica / Thessaloniki ",
     "pubPlace": "Salonica / Thessaloniki ",
-    "dependence": "commentary",
+    "dependence": "Commentary",
     "base_text_titles": [
         {
             "en": "Pirkei Avot",

@@ -48,12 +48,18 @@
                 ]
             }
         ],
-        "ref_resolver_context_swaps": {
-            "halakha": [
-                "yerushalmi",
-                "bikkurim"
-            ]
-        },
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "halakha"
+                ],
+                "output_terms": [
+                    "yerushalmi",
+                    "bikkurim"
+                ]
+            }
+        ],
         "lengths": [
             3,
             21,
@@ -65,11 +71,6 @@
             false
         ],
         "titles": [
-            {
-                "text": "תלמוד ירושלמי בכורים",
-                "lang": "he",
-                "primary": true
-            },
             {
                 "text": "JT Bikurim",
                 "lang": "en"
@@ -95,6 +96,19 @@
                 "lang": "he"
             },
             {
+                "text": "ירושלמי ביכורים",
+                "lang": "he"
+            },
+            {
+                "text": "תלמוד ירושלמי ביכורים",
+                "lang": "he"
+            },
+            {
+                "text": "תלמוד ירושלמי בכורים",
+                "lang": "he",
+                "primary": true
+            },
+            {
                 "text": "Jerusalem Talmud Bikkurim",
                 "lang": "en",
                 "primary": true
@@ -112,7 +126,9 @@
     "order": [
         11
     ],
+    "authors": [],
     "enDesc": "Bikkurim (First-Fruits) belongs to the first order, Zera'im (seeds) and discusses the prohibition of the immediate use of a tree after it has been planted, as stated in Leviticus 19:23-25. It consists of three chapters.",
+    "heDesc": "",
     "enShortDesc": "First fruits and grains ceremoniously brought to the Temple and given to a priest next to the altar.",
     "heShortDesc": "טקס הבאת ביכורי פירות ותבואה משבעת המינים לבית המקדש ונתינתם לכהן ליד המזבח.",
     "pubDate": [
@@ -126,6 +142,7 @@
     "compPlace": "Talmudic Israel",
     "pubPlace": "Venice",
     "era": "A",
+    "is_cited": true,
     "corpora": [
         "Yerushalmi"
     ],
@@ -139,8 +156,10 @@
         "Jerusalem Talmud Bikkurim"
     ],
     "heTitleVariants": [
-        "תלמוד ירושלמי בכורים",
-        "ירושלמי בכורים"
+        "ירושלמי בכורים",
+        "ירושלמי ביכורים",
+        "תלמוד ירושלמי ביכורים",
+        "תלמוד ירושלמי בכורים"
     ],
     "alts": {
         "Venice": {
@@ -162,7 +181,34 @@
                         "Jerusalem Talmud Bikkurim 1:5:8-9:3"
                     ],
                     "startingAddress": "63c",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "יש-מביאין"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "יש-מביאין"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -197,7 +243,34 @@
                         "Jerusalem Talmud Bikkurim 2:4:4-6:9"
                     ],
                     "startingAddress": "64b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "התרומה-והביכורים"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "התרומה-והביכורים"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -230,7 +303,45 @@
                         "Jerusalem Talmud Bikkurim 3:3:16-6:4"
                     ],
                     "startingAddress": "65b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "כיצד-מפרישין"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "כיצד-מפרישין"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "last"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "last"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -249,11 +360,6 @@
                 }
             ],
             "titles": [
-                {
-                    "text": "תלמוד ירושלמי בכורים",
-                    "lang": "he",
-                    "primary": true
-                },
                 {
                     "text": "JT Bikurim",
                     "lang": "en"
@@ -277,6 +383,19 @@
                 {
                     "text": "ירושלמי בכורים",
                     "lang": "he"
+                },
+                {
+                    "text": "ירושלמי ביכורים",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי ביכורים",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי בכורים",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Bikkurim",
@@ -313,7 +432,34 @@
                         "Jerusalem Talmud Bikkurim 1:8:1-9:3"
                     ],
                     "startingAddress": "1a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "יש-מביאין"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "יש-מביאין"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -352,7 +498,34 @@
                         "Jerusalem Talmud Bikkurim 2:6:2-9"
                     ],
                     "startingAddress": "6b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "התרומה-והביכורים"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "התרומה-והביכורים"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -388,7 +561,45 @@
                         "Jerusalem Talmud Bikkurim 3:6:1-4"
                     ],
                     "startingAddress": "10b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "כיצד-מפרישין"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "כיצד-מפרישין"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "last"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "last"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -407,11 +618,6 @@
                 }
             ],
             "titles": [
-                {
-                    "text": "תלמוד ירושלמי בכורים",
-                    "lang": "he",
-                    "primary": true
-                },
                 {
                     "text": "JT Bikurim",
                     "lang": "en"
@@ -435,6 +641,19 @@
                 {
                     "text": "ירושלמי בכורים",
                     "lang": "he"
+                },
+                {
+                    "text": "ירושלמי ביכורים",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי ביכורים",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי בכורים",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Bikkurim",

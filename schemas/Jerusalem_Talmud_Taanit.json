@@ -48,12 +48,18 @@
                 ]
             }
         ],
-        "ref_resolver_context_swaps": {
-            "halakha": [
-                "yerushalmi",
-                "taanit1"
-            ]
-        },
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "halakha"
+                ],
+                "output_terms": [
+                    "yerushalmi",
+                    "taanit1"
+                ]
+            }
+        ],
         "lengths": [
             4,
             40,
@@ -65,11 +71,6 @@
             false
         ],
         "titles": [
-            {
-                "text": "תלמוד ירושלמי תענית",
-                "lang": "he",
-                "primary": true
-            },
             {
                 "text": "Talmud Yerushalmi Ta'anit",
                 "lang": "en"
@@ -95,12 +96,93 @@
                 "lang": "en"
             },
             {
+                "text": "Jerusalem Talmud Ta'anit",
+                "lang": "en"
+            },
+            {
+                "text": "Yerushalmi Taaniyot",
+                "lang": "en"
+            },
+            {
                 "text": "ירושלמי תענית",
                 "lang": "he"
             },
             {
-                "text": "Jerusalem Talmud Ta'anit",
-                "lang": "en"
+                "text": "ירושלמי תעניות",
+                "lang": "he"
+            },
+            {
+                "text": "ירוש' תעניות",
+                "lang": "he"
+            },
+            {
+                "text": "ירו' תעניות",
+                "lang": "he"
+            },
+            {
+                "text": "ירו' תענית",
+                "lang": "he"
+            },
+            {
+                "text": "ירוש' תענית",
+                "lang": "he"
+            },
+            {
+                "text": "ירושלמי, תענית",
+                "lang": "he"
+            },
+            {
+                "text": "תלמוד ירושלמי, תעניות",
+                "lang": "he"
+            },
+            {
+                "text": "תלמוד ירושלמי, תענית",
+                "lang": "he"
+            },
+            {
+                "text": "ירושלמי תענ'",
+                "lang": "he"
+            },
+            {
+                "text": "ירושלמי תעני'",
+                "lang": "he"
+            },
+            {
+                "text": "ירו' תעני'",
+                "lang": "he"
+            },
+            {
+                "text": "ירוש' תעני'",
+                "lang": "he"
+            },
+            {
+                "text": "ירוש' תענ'",
+                "lang": "he"
+            },
+            {
+                "text": "ירושלמי, תעניות",
+                "lang": "he"
+            },
+            {
+                "text": "ירוש', תענית",
+                "lang": "he"
+            },
+            {
+                "text": "ירוש', תעניות",
+                "lang": "he"
+            },
+            {
+                "text": "ירו', תענית",
+                "lang": "he"
+            },
+            {
+                "text": "ירו', תעניות",
+                "lang": "he"
+            },
+            {
+                "text": "תלמוד ירושלמי תענית",
+                "lang": "he",
+                "primary": true
             },
             {
                 "text": "Jerusalem Talmud Taanit",
@@ -120,7 +202,9 @@
     "order": [
         20
     ],
+    "authors": [],
     "enDesc": "Tractate Taanit (“Fast”) is located in Seder Moed (“the Order of Festivals”). Its four chapters discuss laws and stories relating to fast days, with a focus on fast days enacted by Jewish courts in times of drought. The tractate also discusses praying for rain, the fast days of the 17th of Tamuz and Tisha B’Av, and the concept of ma’amadot, in which groups of laypeople witnessed sacrifices in the Temple or gathered to read Torah, pray, and fast while sacrifices were being offered.",
+    "heDesc": "",
     "enShortDesc": "Praying for rain, fasting in times of drought, and annual fast days marking Jerusalem’s destruction.",
     "heShortDesc": "תפילה על הגשם, צום בימי בצורת והצומות שנקבעו לזכר חורבן ירושלים.",
     "pubDate": [
@@ -134,6 +218,7 @@
     "compPlace": "Talmudic Israel",
     "pubPlace": "Venice",
     "era": "A",
+    "is_cited": true,
     "corpora": [
         "Yerushalmi"
     ],
@@ -146,11 +231,30 @@
         "Yerushalmi Ta'anit",
         "JT Ta'anit",
         "Jerusalem Talmud Ta'anit",
+        "Yerushalmi Taaniyot",
         "Jerusalem Talmud Taanit"
     ],
     "heTitleVariants": [
-        "תלמוד ירושלמי תענית",
-        "ירושלמי תענית"
+        "ירושלמי תענית",
+        "ירושלמי תעניות",
+        "ירוש' תעניות",
+        "ירו' תעניות",
+        "ירו' תענית",
+        "ירוש' תענית",
+        "ירושלמי, תענית",
+        "תלמוד ירושלמי, תעניות",
+        "תלמוד ירושלמי, תענית",
+        "ירושלמי תענ'",
+        "ירושלמי תעני'",
+        "ירו' תעני'",
+        "ירוש' תעני'",
+        "ירוש' תענ'",
+        "ירושלמי, תעניות",
+        "ירוש', תענית",
+        "ירוש', תעניות",
+        "ירו', תענית",
+        "ירו', תעניות",
+        "תלמוד ירושלמי תענית"
     ],
     "alts": {
         "Venice": {
@@ -174,7 +278,34 @@
                         "Jerusalem Talmud Taanit 1:6:9-8:5"
                     ],
                     "startingAddress": "63c",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-139"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -211,7 +342,34 @@
                         "Jerusalem Talmud Taanit 2:14:2-3"
                     ],
                     "startingAddress": "64d",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-233"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -245,7 +403,34 @@
                         "Jerusalem Talmud Taanit 3:9:8-11:5"
                     ],
                     "startingAddress": "66b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-331"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -286,7 +471,45 @@
                         "Jerusalem Talmud Taanit 4:6:4-7:4"
                     ],
                     "startingAddress": "67a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-427"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "fourth"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-427"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "fourth"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "last"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "last"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 4",
@@ -305,11 +528,6 @@
                 }
             ],
             "titles": [
-                {
-                    "text": "תלמוד ירושלמי תענית",
-                    "lang": "he",
-                    "primary": true
-                },
                 {
                     "text": "Talmud Yerushalmi Ta'anit",
                     "lang": "en"
@@ -335,12 +553,93 @@
                     "lang": "en"
                 },
                 {
+                    "text": "Jerusalem Talmud Ta'anit",
+                    "lang": "en"
+                },
+                {
+                    "text": "Yerushalmi Taaniyot",
+                    "lang": "en"
+                },
+                {
                     "text": "ירושלמי תענית",
                     "lang": "he"
                 },
                 {
-                    "text": "Jerusalem Talmud Ta'anit",
-                    "lang": "en"
+                    "text": "ירושלמי תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש' תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו' תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו' תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש' תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירושלמי, תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי, תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי, תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירושלמי תענ'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירושלמי תעני'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו' תעני'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש' תעני'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש' תענ'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירושלמי, תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש', תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש', תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו', תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו', תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי תענית",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Taanit",
@@ -380,7 +679,34 @@
                         "Jerusalem Talmud Taanit 1:8:2-5"
                     ],
                     "startingAddress": "1a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-139"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -423,7 +749,34 @@
                         "Jerusalem Talmud Taanit 2:14:2-3"
                     ],
                     "startingAddress": "7b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-233"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -462,7 +815,34 @@
                         "Jerusalem Talmud Taanit 3:11:4-5"
                     ],
                     "startingAddress": "13b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-331"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -511,7 +891,45 @@
                         "Jerusalem Talmud Taanit 4:7:2-4"
                     ],
                     "startingAddress": "17b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-427"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "fourth"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-427"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "fourth"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "last"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "last"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 4",
@@ -530,11 +948,6 @@
                 }
             ],
             "titles": [
-                {
-                    "text": "תלמוד ירושלמי תענית",
-                    "lang": "he",
-                    "primary": true
-                },
                 {
                     "text": "Talmud Yerushalmi Ta'anit",
                     "lang": "en"
@@ -560,12 +973,93 @@
                     "lang": "en"
                 },
                 {
+                    "text": "Jerusalem Talmud Ta'anit",
+                    "lang": "en"
+                },
+                {
+                    "text": "Yerushalmi Taaniyot",
+                    "lang": "en"
+                },
+                {
                     "text": "ירושלמי תענית",
                     "lang": "he"
                 },
                 {
-                    "text": "Jerusalem Talmud Ta'anit",
-                    "lang": "en"
+                    "text": "ירושלמי תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש' תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו' תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו' תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש' תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירושלמי, תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי, תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי, תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירושלמי תענ'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירושלמי תעני'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו' תעני'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש' תעני'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש' תענ'",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירושלמי, תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש', תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירוש', תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו', תענית",
+                    "lang": "he"
+                },
+                {
+                    "text": "ירו', תעניות",
+                    "lang": "he"
+                },
+                {
+                    "text": "תלמוד ירושלמי תענית",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Taanit",

@@ -48,12 +48,18 @@
                 ]
             }
         ],
-        "ref_resolver_context_swaps": {
-            "halakha": [
-                "yerushalmi",
-                "makkot"
-            ]
-        },
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "halakha"
+                ],
+                "output_terms": [
+                    "yerushalmi",
+                    "makkot"
+                ]
+            }
+        ],
         "lengths": [
             3,
             28,
@@ -65,11 +71,6 @@
             false
         ],
         "titles": [
-            {
-                "text": "תלמוד ירושלמי מכות",
-                "lang": "he",
-                "primary": true
-            },
             {
                 "text": "Yerushalmi Makkos",
                 "lang": "en"
@@ -93,6 +94,11 @@
             {
                 "text": "Y. Macc.",
                 "lang": "en"
+            },
+            {
+                "text": "תלמוד ירושלמי מכות",
+                "lang": "he",
+                "primary": true
             },
             {
                 "text": "Jerusalem Talmud Makkot",
@@ -126,6 +132,7 @@
     "compPlace": "Talmudic Israel",
     "pubPlace": "Venice",
     "era": "A",
+    "is_cited": true,
     "corpora": [
         "Yerushalmi"
     ],
@@ -139,8 +146,8 @@
         "Jerusalem Talmud Makkot"
     ],
     "heTitleVariants": [
-        "תלמוד ירושלמי מכות",
-        "ירושלמי מכות"
+        "ירושלמי מכות",
+        "תלמוד ירושלמי מכות"
     ],
     "alts": {
         "Venice": {
@@ -160,7 +167,34 @@
                         "Jerusalem Talmud Makkot 1:4:2-8:3"
                     ],
                     "startingAddress": "31a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-118"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -194,7 +228,34 @@
                         "Jerusalem Talmud Makkot 2:6:12-2:7:4"
                     ],
                     "startingAddress": "31b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-216"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-216"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -226,7 +287,45 @@
                         "Jerusalem Talmud Makkot 3:5:1-13:5"
                     ],
                     "startingAddress": "32a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-316"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "last"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "last"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -245,11 +344,6 @@
                 }
             ],
             "titles": [
-                {
-                    "text": "תלמוד ירושלמי מכות",
-                    "lang": "he",
-                    "primary": true
-                },
                 {
                     "text": "Yerushalmi Makkos",
                     "lang": "en"
@@ -273,6 +367,11 @@
                 {
                     "text": "Y. Macc.",
                     "lang": "en"
+                },
+                {
+                    "text": "תלמוד ירושלמי מכות",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Makkot",
@@ -306,7 +405,34 @@
                         "Jerusalem Talmud Makkot 1:7:3-8:3"
                     ],
                     "startingAddress": "1a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-118"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -343,7 +469,34 @@
                         "Jerusalem Talmud Makkot 2:7:2-4"
                     ],
                     "startingAddress": "5a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-216"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-216"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -377,7 +530,45 @@
                         "Jerusalem Talmud Makkot 3:11:1-13:5"
                     ],
                     "startingAddress": "8a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "chapter-316"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "last"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "last"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -396,11 +587,6 @@
                 }
             ],
             "titles": [
-                {
-                    "text": "תלמוד ירושלמי מכות",
-                    "lang": "he",
-                    "primary": true
-                },
                 {
                     "text": "Yerushalmi Makkos",
                     "lang": "en"
@@ -424,6 +610,11 @@
                 {
                     "text": "Y. Macc.",
                     "lang": "en"
+                },
+                {
+                    "text": "תלמוד ירושלמי מכות",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Makkot",

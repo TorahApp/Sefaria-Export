@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Introduction",
@@ -55,6 +62,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "eight-chapters"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "Eight Chapters of the Rambam",
@@ -89,7 +104,7 @@
     },
     "authors": [
         {
-            "en": "Rambam",
+            "en": "Moses ben Maimon (Rambam)",
             "he": "רמב\"ם",
             "slug": "rambam"
         }

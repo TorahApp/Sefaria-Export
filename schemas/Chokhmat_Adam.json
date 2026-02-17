@@ -14,6 +14,13 @@
                 "sectionNames": [
                     "Comment"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "authors-introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -76,6 +83,14 @@
                         "key": "default"
                     }
                 ],
+                "nodeType": "SchemaNode",
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "kuntres-matzevet-moshe"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -93,6 +108,14 @@
                 "key": "Kuntres Matzevet Moshe"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chokhmat-adam"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "Chochmat Adam",
@@ -107,9 +130,9 @@
                 "lang": "en"
             },
             {
-                "primary": true,
                 "text": "חכמת אדם",
-                "lang": "he"
+                "lang": "he",
+                "primary": true
             },
             {
                 "text": "Chokhmat Adam",
@@ -123,7 +146,7 @@
     },
     "default_struct": "Topic",
     "order": [
-        30
+        35
     ],
     "authors": [
         {
@@ -132,7 +155,7 @@
             "slug": "abraham-danzig"
         }
     ],
-    "enDesc": "Chokhmat Adam‎ (\"The Wisdom of Man\"), a sequel to Chayei Adam, is a code tha discusses the laws in the Yoreh De'ah section of the Shulchan Aruch and some laws from the Even Ha'ezer and Choshen Mishpat sections. The work collects and sifts the material written in the two and a half centuries since the Shulchan Arukh’s publication, summarizing laws and adding conceptual explanations in language designed to be accessible for those not fully versed in rabbinic literature. An addendum called Binat Adam, often printed together with the work, includes further elaborations.",
+    "enDesc": "Chokhmat Adam‎ (\"The Wisdom of Man\"), a sequel to Chayei Adam, is a code that discusses the laws in the Yoreh De'ah section of the Shulchan Aruch and some laws from the Even Ha'ezer and Choshen Mishpat sections. The work collects and sifts the material written in the two and a half centuries since the Shulchan Arukh’s publication, summarizing laws and adding conceptual explanations in language designed to be accessible for those not fully versed in rabbinic literature. An addendum called Binat Adam, often printed together with the work, includes further elaborations.",
     "heDesc": "קיצור הלכות מחלק יורה דעה בשו\"ע, וקצת מחשן משפט ואבן העזר הנוגעים בחיי היום-יום.",
     "enShortDesc": "Sequel to Chayei Adam covering dietary regulations and other assorted laws, published in 1812.",
     "heShortDesc": "ספר המשך ל'חיי אדם' שפורסם בשנת 1812. עוסק בדיני כשרות ותחומים הלכתיים נוספים.",
@@ -832,9 +855,9 @@
                     "lang": "en"
                 },
                 {
-                    "primary": true,
                     "text": "חכמת אדם",
-                    "lang": "he"
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Chokhmat Adam",
@@ -1198,9 +1221,9 @@
                     "lang": "en"
                 },
                 {
-                    "primary": true,
                     "text": "חכמת אדם",
-                    "lang": "he"
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Chokhmat Adam",

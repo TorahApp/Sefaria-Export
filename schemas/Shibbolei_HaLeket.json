@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -49,6 +56,13 @@
                 "sectionNames": [
                     "Siman",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "index"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -101,6 +115,14 @@
                     "Siman",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "hilchot",
+                            "semachot1"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Hilkhot Semachot",
@@ -132,6 +154,14 @@
                     "Siman",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "hilchot",
+                            "circumcision"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Hilkhot Milah",
@@ -161,6 +191,14 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "hilchot",
+                            "tzitzit"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Hilkhot Tzizit",
@@ -188,6 +226,14 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "hilchot",
+                            "tefillin"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -218,6 +264,14 @@
                 "sectionNames": [
                     "Siman",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "hilchot",
+                            "shechita"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -250,6 +304,14 @@
                     "Siman",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "hilchot",
+                            "treifot"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Hilkhot Treifot",
@@ -269,6 +331,14 @@
                     "פסקה"
                 ],
                 "key": "Hilkhot Treifot"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "shibbolei-haleket"
+                ]
             }
         ],
         "titles": [
@@ -295,9 +365,9 @@
             "slug": "zedekiah-ben-abraham-harofei"
         }
     ],
-    "enDesc": "",
+    "enDesc": "Shibbolei HaLeket is a 13th-century work of Jewish law by Italian scholar Tzedakia ben Avraham Anaw. It primarily covers topics discussed in the [Orach Chaim](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim?tab=contents) section of the Shulchan Arukh and consists of legal rulings and analyses based in large part on three types of sources: geonic responsa, works from the beit midrash of Rashi, and works of [Isaiah di Trani](https://www.sefaria.org/topics/isaiah-dtrani). The book is a main source of law relied upon in the Orach Chaim section of the Tur, and is quoted in almost every chapter (siman) of the Beit Yosef there. \n",
     "heDesc": "",
-    "enShortDesc": "",
+    "enShortDesc": "13th-century work by Italian scholar Tzedakia ben Avraham Anaw",
     "heShortDesc": "",
     "heTitle": "שבלי הלקט",
     "titleVariants": [

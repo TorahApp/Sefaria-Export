@@ -38,6 +38,13 @@
                     "Klal",
                     "Siman"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "shabbat-and-festivals"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -57,6 +64,14 @@
                     "סימן"
                 ],
                 "key": "Shabbat and Festivals"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "nishmat-adam"
+                ]
             }
         ],
         "titles": [
@@ -99,7 +114,7 @@
     "dependence": "Commentary",
     "base_text_titles": [
         {
-            "en": "Chayei Adam",
+            "en": "Chayyei Adam",
             "he": "חיי אדם"
         }
     ],

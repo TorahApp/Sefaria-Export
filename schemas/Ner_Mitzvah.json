@@ -16,6 +16,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "volume-i"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Volume I",
@@ -44,6 +51,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "volume-ii"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Volume II",
@@ -64,6 +78,14 @@
                 "key": "Volume II"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ner-mitzvah"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "נר מצוה",
@@ -82,7 +104,7 @@
     },
     "authors": [
         {
-            "en": "Maharal",
+            "en": "Judah Loew of Prague (Maharal)",
             "he": "מהר\"ל",
             "slug": "maharal"
         }

@@ -17,6 +17,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -65,6 +72,23 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "rambam",
+                    "mishnah",
+                    "horayot"
+                ]
+            },
+            {
+                "term_slugs": [
+                    "rambam",
+                    "commentary-on-the-mishnah",
+                    "horayot"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "en",
@@ -111,7 +135,7 @@
     },
     "authors": [
         {
-            "en": "Rambam",
+            "en": "Moses ben Maimon (Rambam)",
             "he": "רמב\"ם",
             "slug": "rambam"
         }

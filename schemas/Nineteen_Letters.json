@@ -2,7 +2,7 @@
     "title": "Nineteen Letters",
     "categories": [
         "Jewish Thought",
-        "Modern"
+        "Acharonim"
     ],
     "schema": {
         "nodeType": "JaggedArrayNode",
@@ -15,19 +15,30 @@
             "Letter",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "nineteen-letters"
+                ]
+            }
+        ],
+        "lengths": [
+            19,
+            641
+        ],
         "titles": [
             {
-                "lang": "en",
-                "text": "Letters of Ben Uziel"
+                "text": "Letters of Ben Uziel",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Iggerot Tzfon"
+                "text": "Iggerot Tzfon",
+                "lang": "en"
             },
             {
-                "primary": true,
+                "text": "אגרות צפון",
                 "lang": "he",
-                "text": "אגרות צפון"
+                "primary": true
             },
             {
                 "text": "Nineteen Letters",
@@ -46,12 +57,13 @@
     "authors": [
         {
             "en": "Samson Raphael Hirsch",
-            "he": "רב שמשון רפאל הירש",
+            "he": "שמשון רפאל הירש",
             "slug": "samson-raphael-hirsch"
         }
     ],
-    "enDesc": "Written by Samson Raphael Hirsch in 1836 under the pseudonym “Ben Uziel”, Nineteen Letters is a defense of Orthodox Judaism. Rabbi Hirsch wrote Nineteen Letters in German while he was Rabbi of Oldenburg. In this work, written in the form of a fictional correspondence between a young rabbi / philosopher and a youthful intellectual, he confronts the challenges that emancipation created for modern Jews.",
-    "enShortDesc": "19th-century defense of Orthodoxy by Rav Shimshon Rephael Hirsch, in the form of a fictional correspondence between a rabbi and a youthful intellectual.",
+    "enDesc": "Written by Samson Raphael Hirsch in 1836 under the pseudonym “Ben Uziel,” Nineteen Letters is a defense of Orthodox Judaism. Rabbi Hirsch wrote Nineteen Letters in German while he was rabbi of Oldenburg. In this work, written in the form of a fictional correspondence between a young rabbi-philosopher and a young intellectual, he confronts the challenges that emancipation created for modern Jews.",
+    "heDesc": "",
+    "enShortDesc": "19th-century defense of Orthodoxy by R. Samson Raphael Hirsch, in the form of a fictional correspondence between a rabbi-philosopher and a young intellectual",
     "heShortDesc": "חיבור שכתב הרב שמשון רפאל הירש במאה ה-19, המבקש להגן על האורתודוקסייה ומנוסח כ-19 מכתבים בין רב לצעיר משכיל.",
     "pubDate": [
         1836
@@ -78,7 +90,7 @@
     "depth": 2,
     "heCategories": [
         "מחשבת ישראל",
-        "ספרות מודרנית"
+        "אחרונים"
     ],
     "compDateString": {
         "en": " (1836 CE)",

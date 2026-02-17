@@ -17,6 +17,19 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "pischa"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "pischa"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Tractate Pischa",
@@ -47,6 +60,19 @@
                 "sectionNames": [
                     "Chapter",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "vayehi-beshalach"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "vayehi-beshalach"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -79,6 +105,19 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "shirah"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "shirah"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Tractate Shirah",
@@ -109,6 +148,19 @@
                 "sectionNames": [
                     "Chapter",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "vayassa"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "vayassa"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -141,6 +193,19 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "amalek"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "amalek"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Tractate Amalek",
@@ -171,6 +236,19 @@
                 "sectionNames": [
                     "Chapter",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "bachodesh"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "bachodesh"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -203,6 +281,19 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "nezikin"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "nezikin"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Tractate Nezikin",
@@ -233,6 +324,19 @@
                 "sectionNames": [
                     "Chapter",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "kaspa"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "kaspa"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -265,6 +369,19 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "tractate",
+                            "shabbata"
+                        ]
+                    },
+                    {
+                        "term_slugs": [
+                            "shabbata"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Tractate Shabbata",
@@ -284,6 +401,14 @@
                     "פסקה"
                 ],
                 "key": "Tractate Shabbata"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "mekhilta-derabbi-yishmael"
+                ]
             }
         ],
         "titles": [
@@ -318,8 +443,11 @@
         "heTitle": "מכילתא דרבי ישמעאל",
         "key": "Mekhilta DeRabbi Yishmael"
     },
+    "order": [
+        15
+    ],
     "authors": [],
-    "enDesc": "",
+    "enDesc": "Mekhilta DeRabbi Yishmael is a halakhic (legal) midrash on the book of Exodus that incorporates aggadic material as well, compiled around the third century in Israel. It interprets only about a quarter of the chapters in Exodus, beginning from the first commandment in the book. The work is quoted often in later rabbinic literature and is also referred to as Mekhilta.",
     "heDesc": "",
     "enShortDesc": "An early third-century midrashic collection from the land of Israel from the school of Rabbi Yishmael. ",
     "heShortDesc": "",
@@ -327,9 +455,9 @@
         1515
     ],
     "compDate": [
-        135
+        200
     ],
-    "compPlace": "Talmudic Israel/Babylon",
+    "compPlace": "Israel",
     "pubPlace": "Istanbul",
     "heTitle": "מכילתא דרבי ישמעאל",
     "titleVariants": [
@@ -1128,16 +1256,16 @@
         "הלכה"
     ],
     "compDateString": {
-        "en": " (135 CE)",
-        "he": " (135 לספירה)"
+        "en": " (200 CE)",
+        "he": " (200 לספירה)"
     },
     "pubDateString": {
         "en": " (1515 CE)",
         "he": " (1515 לספירה)"
     },
     "compPlaceString": {
-        "en": "Talmudic Israel/Babylon",
-        "he": "ישראל / בבל התלמודית"
+        "en": "Israel",
+        "he": "יִשְׂרָאֵל"
     },
     "pubPlaceString": {
         "en": "Istanbul",

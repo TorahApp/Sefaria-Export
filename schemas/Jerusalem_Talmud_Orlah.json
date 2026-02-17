@@ -48,12 +48,18 @@
                 ]
             }
         ],
-        "ref_resolver_context_swaps": {
-            "halakha": [
-                "yerushalmi",
-                "orlah"
-            ]
-        },
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "halakha"
+                ],
+                "output_terms": [
+                    "yerushalmi",
+                    "orlah"
+                ]
+            }
+        ],
         "lengths": [
             3,
             21,
@@ -65,11 +71,6 @@
             false
         ],
         "titles": [
-            {
-                "text": "תלמוד ירושלמי ערלה",
-                "lang": "he",
-                "primary": true
-            },
             {
                 "text": "JT Orlah",
                 "lang": "en"
@@ -89,6 +90,11 @@
             {
                 "text": "Y. Orl.",
                 "lang": "en"
+            },
+            {
+                "text": "תלמוד ירושלמי ערלה",
+                "lang": "he",
+                "primary": true
             },
             {
                 "text": "Jerusalem Talmud Orlah",
@@ -122,6 +128,7 @@
     "compPlace": "Talmudic Israel",
     "pubPlace": "Venice",
     "era": "A",
+    "is_cited": true,
     "corpora": [
         "Yerushalmi"
     ],
@@ -134,8 +141,8 @@
         "Jerusalem Talmud Orlah"
     ],
     "heTitleVariants": [
-        "תלמוד ירושלמי ערלה",
-        "ירושלמי ערלה"
+        "ירושלמי ערלה",
+        "תלמוד ירושלמי ערלה"
     ],
     "alts": {
         "Venice": {
@@ -158,7 +165,34 @@
                         "Jerusalem Talmud Orlah 1:5:5-9"
                     ],
                     "startingAddress": "60c",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "הנוטע-לסייג"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "הנוטע-לסייג"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -193,7 +227,34 @@
                         "Jerusalem Talmud Orlah 2:6:4-9:4"
                     ],
                     "startingAddress": "61c",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "התרומה-ותרומת"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "התרומה-ותרומת"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -227,7 +288,45 @@
                         "Jerusalem Talmud Orlah 3:4:3-7:9"
                     ],
                     "startingAddress": "62c",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "בגד-שצבעו"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "בגד-שצבעו"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "last"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "last"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -247,11 +346,6 @@
             ],
             "titles": [
                 {
-                    "text": "תלמוד ירושלמי ערלה",
-                    "lang": "he",
-                    "primary": true
-                },
-                {
                     "text": "JT Orlah",
                     "lang": "en"
                 },
@@ -270,6 +364,11 @@
                 {
                     "text": "Y. Orl.",
                     "lang": "en"
+                },
+                {
+                    "text": "תלמוד ירושלמי ערלה",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Orlah",
@@ -310,7 +409,34 @@
                         "Jerusalem Talmud Orlah 1:5:2-9"
                     ],
                     "startingAddress": "1a",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "הנוטע-לסייג"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "first"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "הנוטע-לסייג"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "first"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 1",
@@ -357,7 +483,34 @@
                         "Jerusalem Talmud Orlah 2:9:4"
                     ],
                     "startingAddress": "8b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "התרומה-ותרומת"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "second"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "התרומה-ותרומת"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "second"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 2",
@@ -396,7 +549,45 @@
                         "Jerusalem Talmud Orlah 3:7:7-9"
                     ],
                     "startingAddress": "16b",
-                    "match_templates": [],
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "בגד-שצבעו"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "בגד-שצבעו"
+                            ],
+                            "scope": "any"
+                        },
+                        {
+                            "term_slugs": [
+                                "third"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "perek",
+                                "last"
+                            ]
+                        },
+                        {
+                            "term_slugs": [
+                                "last"
+                            ]
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "referenceable": "optional",
                     "titles": [
                         {
                             "text": "Chapter 3",
@@ -416,11 +607,6 @@
             ],
             "titles": [
                 {
-                    "text": "תלמוד ירושלמי ערלה",
-                    "lang": "he",
-                    "primary": true
-                },
-                {
                     "text": "JT Orlah",
                     "lang": "en"
                 },
@@ -439,6 +625,11 @@
                 {
                     "text": "Y. Orl.",
                     "lang": "en"
+                },
+                {
+                    "text": "תלמוד ירושלמי ערלה",
+                    "lang": "he",
+                    "primary": true
                 },
                 {
                     "text": "Jerusalem Talmud Orlah",

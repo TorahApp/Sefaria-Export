@@ -8,12 +8,23 @@
         "nodeType": "JaggedArrayNode",
         "depth": 2,
         "addressTypes": [
-            "Integer",
+            "Perek",
             "Integer"
         ],
         "sectionNames": [
             "Chapter",
             "Paragraph"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tomer-devorah"
+                ]
+            }
+        ],
+        "lengths": [
+            10,
+            133
         ],
         "titles": [
             {
@@ -45,14 +56,14 @@
     },
     "authors": [
         {
-            "en": "Moses Cordovero",
+            "en": "Moses Cordovero (Ramak)",
             "he": "משה קורדובירו",
             "slug": "moses-cordovero"
         }
     ],
-    "enDesc": "Written by Rabbi Moses ben Jacob Cordovero, among the major kabbalists from Safed in the 16th century, Tomer Devorah is an ethical treatise that promotes *imitatio Dei,* imitating the Divine. Tomer Devorah presents the attributes of God and explains how to improve oneself by incorporating these attributes into one’s own life. Tomer Devorah was written in Hebrew and was first published in Venice in 1588.",
+    "enDesc": "Written by Rabbi Moses ben Jacob Cordovero, among the major kabbalists of 16th-century Safed, *Tomer Devorah* is an ethical treatise that promotes *imitatio Dei,* imitating the Divine. *Tomer Devorah* presents the attributes of God and explains how to improve oneself by incorporating these attributes into one’s own life. *Tomer Devorah* was written in Hebrew and was first published in Venice in 1588.",
     "heDesc": "",
-    "enShortDesc": "16th-century kabbalistic and ethical treatise by the Ramak focusing on the concept of imitating God.",
+    "enShortDesc": "16th-century kabbalistic and ethical treatise by R. Moses Cordovero with a focus on the concept of imitating God",
     "heShortDesc": "מאמר מוסר וקבלה המתמקד במושג של הידמות לדרכי האל, שכתב הרמ\"ק במאה ה-16.",
     "pubDate": [
         1588

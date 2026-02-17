@@ -10,7 +10,7 @@
         "nodeType": "JaggedArrayNode",
         "depth": 3,
         "addressTypes": [
-            "Integer",
+            "Perek",
             "Mishnah",
             "Integer"
         ],
@@ -18,6 +18,26 @@
             "Chapter",
             "Mishnah",
             "Comment"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tosafot-rabbi-akiva-eiger1",
+                    "beitzah"
+                ]
+            },
+            {
+                "term_slugs": [
+                    "tosafot-rabbi-akiva-eiger1",
+                    "mishnah",
+                    "beitzah"
+                ]
+            }
+        ],
+        "lengths": [
+            5,
+            21,
+            35
         ],
         "titles": [
             {
@@ -85,6 +105,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 1:1:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-1"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -104,6 +131,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 1:1:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-2"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -123,6 +157,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 1:3:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-3"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -142,6 +183,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 1:5:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-4"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -161,6 +209,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 1:8:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-5"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -180,6 +235,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 1:10:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-6"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -199,6 +261,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 1:10:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-7"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -218,6 +287,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 1:10:3",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-8"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -237,6 +313,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:1:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-9"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -256,6 +339,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:1:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-10"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -275,6 +365,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:1:3",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-11"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -294,6 +391,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:2:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-12"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -313,6 +417,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:4:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-13"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -332,6 +443,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:4:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-14"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -351,6 +469,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:5:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-15"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -370,6 +495,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:5:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-16"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -389,6 +521,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 2:6:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-17"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -408,6 +547,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:1:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-18"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -427,6 +573,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:2:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-19"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -446,6 +599,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:2:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-20"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -465,6 +625,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:2:3",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-21"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -484,6 +651,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:2:4",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-22"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -503,6 +677,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:2:5",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-23"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -522,6 +703,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:3:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-24"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -541,6 +729,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:4:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-25"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -560,6 +755,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:5:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-26"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -579,6 +781,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 3:5:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-27"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -598,6 +807,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 4:1:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-28"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -617,6 +833,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 4:6:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-29"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -636,6 +859,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 4:7:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-31"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -655,6 +885,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 5:1:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-32"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -674,6 +911,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 5:2:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-33"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -693,6 +937,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 5:2:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-34"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -712,6 +963,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 5:5:1",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-35"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,
@@ -731,6 +989,13 @@
                     "nodeType": "ArrayMapNode",
                     "depth": 0,
                     "wholeRef": "Tosafot Rabbi Akiva Eiger on Mishnah Beitzah 5:5:2",
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "letter-36"
+                            ]
+                        }
+                    ],
                     "titles": [
                         {
                             "primary": true,

@@ -17,6 +17,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -66,9 +73,30 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "rambam",
+                    "mishnah",
+                    "makhshirin"
+                ]
+            },
+            {
+                "term_slugs": [
+                    "rambam",
+                    "commentary-on-the-mishnah",
+                    "makhshirin"
+                ]
+            }
+        ],
         "titles": [
             {
-                "primary": true,
+                "text": "רמב\"ם על משנה מכשירין",
+                "lang": "he",
+                "primary": true
+            },
+            {
                 "text": "רמב\"ם משנה מכשירין",
                 "lang": "he"
             },
@@ -79,18 +107,20 @@
             }
         ],
         "title": "Rambam on Mishnah Makhshirin",
-        "heTitle": "רמב\"ם משנה מכשירין",
+        "heTitle": "רמב\"ם על משנה מכשירין",
         "key": "Rambam on Mishnah Makhshirin"
     },
     "authors": [
         {
-            "en": "Rambam",
+            "en": "Moses ben Maimon (Rambam)",
             "he": "רמב\"ם",
             "slug": "rambam"
         }
     ],
     "enDesc": "Rabbi Moshe ben Maimon’s (Rambam) commentary was the first to be written on the entire Mishnah. The commentary was written by Rambam in Judeo-Arabic, and has been translated into Hebrew. He started working on it at age 23 while living in Spain, and completed it seven years later after settling in Egypt. It offers a running commentary on the Mishnah, and often includes a Halachic ruling based on the Talmud's conclusion.",
     "heDesc": "פירושו של הרמב\"ם הוא הראשון שנכתב על כל המשנה, והוא אחד הפירושים החשובים שעל המשנה. הרמב\"ם כתבו בצעירותו בשפה הערבית-יהודית, ותורגם פעמים רבות לעברית. הפירוש מכיל ביאור קצר לכל משנה ודיון מעמיק בעניינים המרכזיים שבה. בסוף כל עניין הוא פוסק הלכה על-פי מסקנת התלמוד.",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1492
     ],
@@ -114,11 +144,12 @@
         "en": "Rambam",
         "he": "רמב\"ם"
     },
-    "heTitle": "רמב\"ם משנה מכשירין",
+    "heTitle": "רמב\"ם על משנה מכשירין",
     "titleVariants": [
         "Rambam on Mishnah Makhshirin"
     ],
     "heTitleVariants": [
+        "רמב\"ם על משנה מכשירין",
         "רמב\"ם משנה מכשירין"
     ],
     "heCategories": [

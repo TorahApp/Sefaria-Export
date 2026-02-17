@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "index"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -43,6 +50,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "authors-introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -70,6 +84,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "mavo-shearim"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -123,6 +144,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "neilat-shearim"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -143,19 +171,33 @@
                 "key": "Neilat Shearim"
             }
         ],
-        "titles": [
+        "nodeType": "SchemaNode",
+        "match_templates": [
             {
-                "lang": "en",
-                "text": "Akeida"
+                "term_slugs": [
+                    "akeidat-yitzchak"
+                ]
             },
             {
-                "lang": "he",
+                "term_slugs": [
+                    "sefer",
+                    "akeidat-yitzchak"
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "text": "Akeida",
+                "lang": "en"
+            },
+            {
                 "text": "עקידת יצחק",
+                "lang": "he",
                 "primary": true
             },
             {
-                "lang": "he",
-                "text": "עקדת יצחק"
+                "text": "עקדת יצחק",
+                "lang": "he"
             },
             {
                 "text": "Akeidat Yitzchak",
@@ -169,12 +211,12 @@
     },
     "authors": [
         {
-            "en": "Isaac ben Moses Arama",
+            "en": "Isaac Arama",
             "he": "יצחק בן משה עראמה",
             "slug": "isaac-ben-moses-arama"
         }
     ],
-    "enDesc": "Akeidat Yitzchak, written by the Spanish rabbi Isaac ben Moses Arama (c. 1420 – 1494) , is a collection of philosophical sermons on the Torah. The book is composed of 105 “gates” with each gate containing a sermon. Each sermon discusses a philosophical idea that comes from the chosen texts and a commentary that tries to solve the problems in the text. Akeidat Yitzchak was first published in 1522 in Salonika.",
+    "enDesc": "\"Akeidat Yitzchak,\" written by the Spanish rabbi Isaac ben Moses Arama (c. 1420–1494), is a collection of philosophical sermons on the Torah. The book is composed of 105 “gates” each containing a sermon. Each sermon discusses a philosophical idea that comes from the chosen texts and a commentary that tries to solve the problems in the text. The work was first published in 1522 in Salonica.",
     "heDesc": "פירושים ודרושים על התורה והמועדים.",
     "enShortDesc": "15th-century philosophical commentary on the Torah based on sermons the author delivered to his congregation.",
     "heShortDesc": "פרשנות פילוסופית על התורה המבוססת על דרשות שנשא המחבר לפני קהילתו במאה ה-15.",
@@ -2814,17 +2856,17 @@
             ],
             "titles": [
                 {
-                    "lang": "en",
-                    "text": "Akeida"
+                    "text": "Akeida",
+                    "lang": "en"
                 },
                 {
-                    "lang": "he",
                     "text": "עקידת יצחק",
+                    "lang": "he",
                     "primary": true
                 },
                 {
-                    "lang": "he",
-                    "text": "עקדת יצחק"
+                    "text": "עקדת יצחק",
+                    "lang": "he"
                 },
                 {
                     "text": "Akeidat Yitzchak",

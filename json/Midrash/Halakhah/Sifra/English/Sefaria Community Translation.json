@@ -5,17 +5,18 @@
     "versionTitle": "Sefaria Community Translation",
     "actualLanguage": "en",
     "languageFamilyName": "english",
-    "isBaseText": false,
     "isSource": false,
+    "isPrimary": false,
     "direction": "ltr",
+    "license": "CC0",
     "heTitle": "ספרא",
     "categories": [
         "Midrash",
         "Halakhah"
     ],
     "text": {
-        "Braita d'Rabbi Yishmael": [],
-        "Vayikra Dibbura d'Nedavah": {
+        "Baraita DeRabbi Yishmael": [],
+        "Vayikra Dibbura DeNedavah": {
             "Chapter 1": [],
             "Chapter 2": [],
             "Section 2": [],
@@ -50,7 +51,7 @@
             "Chapter 19": [],
             "Chapter 20": []
         },
-        "Vayikra Dibbura d'Chovah": {
+        "Vayikra Dibbura DeChovah": {
             "Section 1": [],
             "Chapter 1": [],
             "Section 2": [],
@@ -117,10 +118,10 @@
             "Chapter 16": [],
             "Chapter 17": [],
             "Chapter 18": [],
-            "Mechilta d'Miluim 1": []
+            "Mekhilta DeMiluim I": []
         },
         "Shemini": {
-            "Mechilta d'Miluim 2": [],
+            "Mekhilta DeMiluim II": [],
             "Section 1": [],
             "Chapter 1": [],
             "Chapter 2": [],
@@ -151,7 +152,7 @@
             "Chapter 3": [],
             "Chapter 4": []
         },
-        "Tazria Parashat Nega'im": {
+        "Tazria Parashat Negaim": {
             "Section 1": [],
             "Chapter 2": [],
             "Section 2": [],
@@ -263,7 +264,11 @@
             "Section 7": [],
             "Chapter 7": [],
             "Section 8": [],
-            "Chapter 8": [],
+            "Chapter 8": [
+                "",
+                "\"It and its young\" (Lev. 22:28) -- I only have [an animal] and its young. It and its mother, from where is it derived? The verse comes to teach, \"Do not slaughter <i>them</i>,\" behold, there are two here.",
+                "How so? If one came and slaughtered a cow, and another came and slaughtered its mother, and a third came and slaughtered its daughter -- the last two are liable. \"It and its young\" -- and not \"it and its siblings.\" How so? [If] five siblings [were slaughtered], and afterwards their mother was slaughtered, he is only liable once. But if he slaughtered the mother and afterwards the five siblings, he is liable on account of each and every one. \"It and its young\" -- and not it and its mother's mother. How so? [If] he slaughtered its mother's mother, which he is permitted to do, and afterwards slaughtered the middle [generation] -- he is administered forty lashes. Summachos says in the name of Rabbi Meir, he is administered eighty lashes. [If] he slaughtered its mother and its mother's mother, he is administered eighty lashes."
+            ],
             "Chapter 9": [],
             "Section 9": [],
             "Chapter 10": [],
@@ -336,11 +341,11 @@
         "nodes": [
             {
                 "heTitle": "ברייתא דרבי ישמעאל",
-                "enTitle": "Braita d'Rabbi Yishmael"
+                "enTitle": "Baraita DeRabbi Yishmael"
             },
             {
                 "heTitle": "ויקרא דבורא דנדבה",
-                "enTitle": "Vayikra Dibbura d'Nedavah",
+                "enTitle": "Vayikra Dibbura DeNedavah",
                 "nodes": [
                     {
                         "heTitle": "פרק א",
@@ -478,7 +483,7 @@
             },
             {
                 "heTitle": "ויקרא דבורא דחובה",
-                "enTitle": "Vayikra Dibbura d'Chovah",
+                "enTitle": "Vayikra Dibbura DeChovah",
                 "nodes": [
                     {
                         "heTitle": "פרשה א",
@@ -744,7 +749,7 @@
                     },
                     {
                         "heTitle": "מכילתא דמילואים א",
-                        "enTitle": "Mechilta d'Miluim 1"
+                        "enTitle": "Mekhilta DeMiluim I"
                     }
                 ]
             },
@@ -754,7 +759,7 @@
                 "nodes": [
                     {
                         "heTitle": "מכילתא דמילואים ב",
-                        "enTitle": "Mechilta d'Miluim 2"
+                        "enTitle": "Mekhilta DeMiluim II"
                     },
                     {
                         "heTitle": "פרשה א",
@@ -874,7 +879,7 @@
             },
             {
                 "heTitle": "תזריע פרשת נגעים",
-                "enTitle": "Tazria Parashat Nega'im",
+                "enTitle": "Tazria Parashat Negaim",
                 "nodes": [
                     {
                         "heTitle": "פרק א",

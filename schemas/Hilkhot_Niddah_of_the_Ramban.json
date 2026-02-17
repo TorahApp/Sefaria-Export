@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -60,6 +67,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "hilkhot-niddah-of-the-ramban"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "הלכות נדה לרמב\"ן",
@@ -78,7 +93,7 @@
     },
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }

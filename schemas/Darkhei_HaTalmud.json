@@ -16,23 +16,34 @@
             "Siman",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "darkhei-hatalmud"
+                ]
+            }
+        ],
+        "lengths": [
+            6,
+            62
+        ],
         "titles": [
             {
                 "text": "The Ways of Talmud",
                 "lang": "en"
             },
             {
-                "primary": true,
+                "text": "Darchei HaTalmud",
+                "lang": "en"
+            },
+            {
                 "text": "דרכי התלמוד",
-                "lang": "he"
+                "lang": "he",
+                "primary": true
             },
             {
                 "text": "דרכי הגמרא",
                 "lang": "he"
-            },
-            {
-                "text": "Darchei HaTalmud",
-                "lang": "en"
             },
             {
                 "text": "Darkhei HaTalmud",
@@ -55,9 +66,10 @@
             "slug": "isaac-canpanton"
         }
     ],
-    "enDesc": "A practical guide describing the rules and methodology of the Talmud and it's commentaries.",
+    "enDesc": "A practical guide describing the rules and methodology of the Talmud and its commentaries.",
     "heDesc": "מדריך מעשי המתאר את הכללים והמתודולוגיה של התלמוד ואת פירושיו.",
-    "enShortDesc": "Short 15th-century guide with practical instructions for studying the Talmud and its commentaries.",
+    "enShortDesc": "Short 15th-century guide with practical instructions for studying the Talmud and its commentaries",
+    "heShortDesc": "",
     "pubDate": [
         1520
     ],
