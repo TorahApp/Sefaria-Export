@@ -67,9 +67,12 @@
         ],
         "key": "Chidushei Agadot on Megillah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Maharsha",
+            "en": "Shmuel Eidels (Maharsha)",
             "he": "מהרש\"א",
             "slug": "maharsha"
         }
@@ -110,6 +113,220 @@
         "חידושי אגדות על מסכת מגילה",
         " חידושי אגדות על מסכת מגילה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Megillah 2b:1-32a:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Megillah Nikreit",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "מגילה נקראת",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Megillah Nikreit",
+                    "heTitle": "מגילה נקראת",
+                    "refs": [
+                        "Chidushei Agadot on Megillah 2b:1",
+                        "Chidushei Agadot on Megillah 3a",
+                        "Chidushei Agadot on Megillah 3b",
+                        "Chidushei Agadot on Megillah 4a",
+                        "Chidushei Agadot on Megillah 4b",
+                        "Chidushei Agadot on Megillah 5a",
+                        "Chidushei Agadot on Megillah 5b",
+                        "Chidushei Agadot on Megillah 6a",
+                        "Chidushei Agadot on Megillah 6b",
+                        "Chidushei Agadot on Megillah 7a",
+                        "Chidushei Agadot on Megillah 7b",
+                        "Chidushei Agadot on Megillah 8a",
+                        "Chidushei Agadot on Megillah 8b",
+                        "Chidushei Agadot on Megillah 9a",
+                        "Chidushei Agadot on Megillah 9b",
+                        "Chidushei Agadot on Megillah 10a",
+                        "Chidushei Agadot on Megillah 10b",
+                        "Chidushei Agadot on Megillah 11a",
+                        "Chidushei Agadot on Megillah 11b",
+                        "Chidushei Agadot on Megillah 12a",
+                        "Chidushei Agadot on Megillah 12b",
+                        "Chidushei Agadot on Megillah 13a",
+                        "Chidushei Agadot on Megillah 13b",
+                        "Chidushei Agadot on Megillah 14a",
+                        "Chidushei Agadot on Megillah 14b",
+                        "Chidushei Agadot on Megillah 15a",
+                        "Chidushei Agadot on Megillah 15b",
+                        "Chidushei Agadot on Megillah 16a",
+                        "Chidushei Agadot on Megillah 16b",
+                        "Chidushei Agadot on Megillah 17a",
+                        "Chidushei Agadot on Megillah 17b",
+                        "Chidushei Agadot on Megillah 18a",
+                        "Chidushei Agadot on Megillah 18b",
+                        "Chidushei Agadot on Megillah 19a",
+                        "Chidushei Agadot on Megillah 19b",
+                        "Chidushei Agadot on Megillah 20a",
+                        "Chidushei Agadot on Megillah 20b",
+                        "Chidushei Agadot on Megillah 21a",
+                        "Chidushei Agadot on Megillah 21b",
+                        "Chidushei Agadot on Megillah 22a",
+                        "Chidushei Agadot on Megillah 22b",
+                        "Chidushei Agadot on Megillah 23a",
+                        "Chidushei Agadot on Megillah 23b",
+                        "Chidushei Agadot on Megillah 24a",
+                        "Chidushei Agadot on Megillah 24b",
+                        "Chidushei Agadot on Megillah 25a",
+                        "Chidushei Agadot on Megillah 25b",
+                        "Chidushei Agadot on Megillah 26a",
+                        "Chidushei Agadot on Megillah 26b",
+                        "Chidushei Agadot on Megillah 27a",
+                        "Chidushei Agadot on Megillah 27b",
+                        "Chidushei Agadot on Megillah 28a",
+                        "Chidushei Agadot on Megillah 28b",
+                        "Chidushei Agadot on Megillah 29a",
+                        "Chidushei Agadot on Megillah 29b",
+                        "Chidushei Agadot on Megillah 30a",
+                        "Chidushei Agadot on Megillah 30b",
+                        "Chidushei Agadot on Megillah 31a",
+                        "Chidushei Agadot on Megillah 31b",
+                        "Chidushei Agadot on Megillah 32a:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 3
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי אגדות על מגילה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "חידושי אגדות על מסכת מגילה",
+                    "lang": "he"
+                },
+                {
+                    "text": " חידושי אגדות על מסכת מגילה",
+                    "lang": "he"
+                },
+                {
+                    "text": "Chidushei Agadot on Megillah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Agadot on Megillah",
+            "heTitle": "חידושי אגדות על מגילה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

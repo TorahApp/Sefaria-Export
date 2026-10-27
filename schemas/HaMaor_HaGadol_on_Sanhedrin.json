@@ -60,9 +60,12 @@
         ],
         "key": "HaMaor HaGadol on Sanhedrin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Zerachiah ha-Levi of Girona",
+            "en": "Zerachiah HaLevi of Gerona",
             "he": "זרחיה הלוי",
             "slug": "zerachiah-ha-levi-of-girona"
         }
@@ -99,6 +102,311 @@
     "heTitleVariants": [
         "המאור הגדול על סנהדרין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "HaMaor HaGadol on Sanhedrin 3a:1-17b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Dinei Mamonot"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "דיני ממונות"
+                        }
+                    ],
+                    "title": "Chapter 1; Dinei Mamonot",
+                    "heTitle": "דיני ממונות",
+                    "refs": [
+                        "HaMaor HaGadol on Sanhedrin 3a:1-2",
+                        "HaMaor HaGadol on Sanhedrin 3b",
+                        "HaMaor HaGadol on Sanhedrin 4a",
+                        "HaMaor HaGadol on Sanhedrin 4b",
+                        "HaMaor HaGadol on Sanhedrin 5a",
+                        "HaMaor HaGadol on Sanhedrin 5b",
+                        "HaMaor HaGadol on Sanhedrin 6a",
+                        "HaMaor HaGadol on Sanhedrin 6b",
+                        "HaMaor HaGadol on Sanhedrin 7a",
+                        "HaMaor HaGadol on Sanhedrin 7b",
+                        "HaMaor HaGadol on Sanhedrin 8a",
+                        "HaMaor HaGadol on Sanhedrin 8b",
+                        "HaMaor HaGadol on Sanhedrin 9a",
+                        "HaMaor HaGadol on Sanhedrin 9b",
+                        "HaMaor HaGadol on Sanhedrin 10a",
+                        "HaMaor HaGadol on Sanhedrin 10b",
+                        "HaMaor HaGadol on Sanhedrin 11a",
+                        "HaMaor HaGadol on Sanhedrin 11b",
+                        "HaMaor HaGadol on Sanhedrin 12a",
+                        "HaMaor HaGadol on Sanhedrin 12b",
+                        "HaMaor HaGadol on Sanhedrin 13a",
+                        "HaMaor HaGadol on Sanhedrin 13b",
+                        "HaMaor HaGadol on Sanhedrin 14a",
+                        "HaMaor HaGadol on Sanhedrin 14b",
+                        "HaMaor HaGadol on Sanhedrin 15a",
+                        "HaMaor HaGadol on Sanhedrin 15b",
+                        "HaMaor HaGadol on Sanhedrin 16a",
+                        "HaMaor HaGadol on Sanhedrin 16b",
+                        "HaMaor HaGadol on Sanhedrin 17a",
+                        "HaMaor HaGadol on Sanhedrin 17b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 4
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "HaMaor HaGadol on Sanhedrin 19a:1-20a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "perek",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "perek",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "perek",
+                                "chapter-226"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; Kohen Gadol"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "כהן גדול"
+                        }
+                    ],
+                    "title": "Chapter 2; Kohen Gadol",
+                    "heTitle": "כהן גדול",
+                    "refs": [
+                        "HaMaor HaGadol on Sanhedrin 19a:1-4",
+                        "HaMaor HaGadol on Sanhedrin 19b",
+                        "HaMaor HaGadol on Sanhedrin 20a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 36
+                }
+            ],
+            "titles": [
+                {
+                    "text": "המאור הגדול על סנהדרין",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "HaMaor HaGadol on Sanhedrin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "HaMaor HaGadol on Sanhedrin",
+            "heTitle": "המאור הגדול על סנהדרין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

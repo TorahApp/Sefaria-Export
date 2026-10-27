@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -47,6 +54,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "preface"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -91,6 +105,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ohr-chadash"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "New Light",
@@ -113,14 +135,14 @@
     },
     "authors": [
         {
-            "en": "Maharal",
+            "en": "Judah Loew of Prague (Maharal)",
             "he": "מהר\"ל",
             "slug": "maharal"
         }
     ],
-    "enDesc": "Ohr Chadash is a commentary on the book of Esther written by the Maharal of Prague (Rabbi Judah Loew ben Bezalel, 1512–1609).",
+    "enDesc": "Ohr Chadash is a commentary on the book of Esther written by 16th-century Rabbi Judah ben Betzalel Loew of Prague, better known by the acronym Maharal. ",
     "heDesc": "ספרו של המהר\"ל מפראג העוסק בעניני מגילת אסתר ונס פורים.",
-    "enShortDesc": "Sixteenth-century commentary on the book of Esther by the Maharal.",
+    "enShortDesc": "16th-century commentary on the book of Esther by Maharal",
     "heShortDesc": "פירוש למגילת אסתר שכתב המהר\"ל, מן המאה ה-16.",
     "pubDate": [
         1600

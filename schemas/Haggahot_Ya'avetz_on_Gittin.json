@@ -18,6 +18,22 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "haggahot-yaavetz",
+                    "gittin"
+                ]
+            }
+        ],
+        "lengths": [
+            180,
+            179
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "הגהות יעב\"ץ על גיטין",
@@ -38,6 +54,9 @@
         ],
         "key": "Haggahot Ya'avetz on Gittin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yaakov Emden",
@@ -75,6 +94,1317 @@
     "heTitleVariants": [
         "הגהות יעב\"ץ על גיטין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Gittin 2a:1-89a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; HaMevi Kamma",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "המביא קמא",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; HaMevi Kamma",
+                    "heTitle": "המביא קמא",
+                    "refs": [
+                        "Haggahot Ya'avetz on Gittin 2a:1-3",
+                        "Haggahot Ya'avetz on Gittin 2b",
+                        "Haggahot Ya'avetz on Gittin 3a",
+                        "Haggahot Ya'avetz on Gittin 3b",
+                        "Haggahot Ya'avetz on Gittin 4a",
+                        "Haggahot Ya'avetz on Gittin 4b",
+                        "Haggahot Ya'avetz on Gittin 5a",
+                        "Haggahot Ya'avetz on Gittin 5b",
+                        "Haggahot Ya'avetz on Gittin 6a",
+                        "Haggahot Ya'avetz on Gittin 6b",
+                        "Haggahot Ya'avetz on Gittin 7a",
+                        "Haggahot Ya'avetz on Gittin 7b",
+                        "Haggahot Ya'avetz on Gittin 8a",
+                        "Haggahot Ya'avetz on Gittin 8b",
+                        "Haggahot Ya'avetz on Gittin 9a",
+                        "Haggahot Ya'avetz on Gittin 9b",
+                        "Haggahot Ya'avetz on Gittin 10a",
+                        "Haggahot Ya'avetz on Gittin 10b",
+                        "Haggahot Ya'avetz on Gittin 11a",
+                        "Haggahot Ya'avetz on Gittin 11b",
+                        "Haggahot Ya'avetz on Gittin 12a",
+                        "Haggahot Ya'avetz on Gittin 12b",
+                        "Haggahot Ya'avetz on Gittin 13a",
+                        "Haggahot Ya'avetz on Gittin 13b",
+                        "Haggahot Ya'avetz on Gittin 14a",
+                        "Haggahot Ya'avetz on Gittin 14b",
+                        "Haggahot Ya'avetz on Gittin 15a",
+                        "Haggahot Ya'avetz on Gittin 15b",
+                        "Haggahot Ya'avetz on Gittin 16a",
+                        "Haggahot Ya'avetz on Gittin 16b",
+                        "Haggahot Ya'avetz on Gittin 17a",
+                        "Haggahot Ya'avetz on Gittin 17b",
+                        "Haggahot Ya'avetz on Gittin 18a",
+                        "Haggahot Ya'avetz on Gittin 18b",
+                        "Haggahot Ya'avetz on Gittin 19a",
+                        "Haggahot Ya'avetz on Gittin 19b",
+                        "Haggahot Ya'avetz on Gittin 20a",
+                        "Haggahot Ya'avetz on Gittin 20b",
+                        "Haggahot Ya'avetz on Gittin 21a",
+                        "Haggahot Ya'avetz on Gittin 21b",
+                        "Haggahot Ya'avetz on Gittin 22a",
+                        "Haggahot Ya'avetz on Gittin 22b",
+                        "Haggahot Ya'avetz on Gittin 23a",
+                        "Haggahot Ya'avetz on Gittin 23b",
+                        "Haggahot Ya'avetz on Gittin 24a",
+                        "Haggahot Ya'avetz on Gittin 24b",
+                        "Haggahot Ya'avetz on Gittin 25a",
+                        "Haggahot Ya'avetz on Gittin 25b",
+                        "Haggahot Ya'avetz on Gittin 26a",
+                        "Haggahot Ya'avetz on Gittin 26b",
+                        "Haggahot Ya'avetz on Gittin 27a",
+                        "Haggahot Ya'avetz on Gittin 27b",
+                        "Haggahot Ya'avetz on Gittin 28a",
+                        "Haggahot Ya'avetz on Gittin 28b",
+                        "Haggahot Ya'avetz on Gittin 29a",
+                        "Haggahot Ya'avetz on Gittin 29b",
+                        "Haggahot Ya'avetz on Gittin 30a",
+                        "Haggahot Ya'avetz on Gittin 30b",
+                        "Haggahot Ya'avetz on Gittin 31a",
+                        "Haggahot Ya'avetz on Gittin 31b",
+                        "Haggahot Ya'avetz on Gittin 32a",
+                        "Haggahot Ya'avetz on Gittin 32b",
+                        "Haggahot Ya'avetz on Gittin 33a",
+                        "Haggahot Ya'avetz on Gittin 33b",
+                        "Haggahot Ya'avetz on Gittin 34a",
+                        "Haggahot Ya'avetz on Gittin 34b",
+                        "Haggahot Ya'avetz on Gittin 35a",
+                        "Haggahot Ya'avetz on Gittin 35b",
+                        "Haggahot Ya'avetz on Gittin 36a",
+                        "Haggahot Ya'avetz on Gittin 36b",
+                        "Haggahot Ya'avetz on Gittin 37a",
+                        "Haggahot Ya'avetz on Gittin 37b",
+                        "Haggahot Ya'avetz on Gittin 38a",
+                        "Haggahot Ya'avetz on Gittin 38b",
+                        "Haggahot Ya'avetz on Gittin 39a",
+                        "Haggahot Ya'avetz on Gittin 39b",
+                        "Haggahot Ya'avetz on Gittin 40a",
+                        "Haggahot Ya'avetz on Gittin 40b",
+                        "Haggahot Ya'avetz on Gittin 41a",
+                        "Haggahot Ya'avetz on Gittin 41b",
+                        "Haggahot Ya'avetz on Gittin 42a",
+                        "Haggahot Ya'avetz on Gittin 42b",
+                        "Haggahot Ya'avetz on Gittin 43a",
+                        "Haggahot Ya'avetz on Gittin 43b",
+                        "Haggahot Ya'avetz on Gittin 44a",
+                        "Haggahot Ya'avetz on Gittin 44b",
+                        "Haggahot Ya'avetz on Gittin 45a",
+                        "Haggahot Ya'avetz on Gittin 45b",
+                        "Haggahot Ya'avetz on Gittin 46a",
+                        "Haggahot Ya'avetz on Gittin 46b",
+                        "Haggahot Ya'avetz on Gittin 47a",
+                        "Haggahot Ya'avetz on Gittin 47b",
+                        "Haggahot Ya'avetz on Gittin 48a",
+                        "Haggahot Ya'avetz on Gittin 48b",
+                        "Haggahot Ya'avetz on Gittin 49a",
+                        "Haggahot Ya'avetz on Gittin 49b",
+                        "Haggahot Ya'avetz on Gittin 50a",
+                        "Haggahot Ya'avetz on Gittin 50b",
+                        "Haggahot Ya'avetz on Gittin 51a",
+                        "Haggahot Ya'avetz on Gittin 51b",
+                        "Haggahot Ya'avetz on Gittin 52a",
+                        "Haggahot Ya'avetz on Gittin 52b",
+                        "Haggahot Ya'avetz on Gittin 53a",
+                        "Haggahot Ya'avetz on Gittin 53b",
+                        "Haggahot Ya'avetz on Gittin 54a",
+                        "Haggahot Ya'avetz on Gittin 54b",
+                        "Haggahot Ya'avetz on Gittin 55a",
+                        "Haggahot Ya'avetz on Gittin 55b",
+                        "Haggahot Ya'avetz on Gittin 56a",
+                        "Haggahot Ya'avetz on Gittin 56b",
+                        "Haggahot Ya'avetz on Gittin 57a",
+                        "Haggahot Ya'avetz on Gittin 57b",
+                        "Haggahot Ya'avetz on Gittin 58a",
+                        "Haggahot Ya'avetz on Gittin 58b",
+                        "Haggahot Ya'avetz on Gittin 59a",
+                        "Haggahot Ya'avetz on Gittin 59b",
+                        "Haggahot Ya'avetz on Gittin 60a",
+                        "Haggahot Ya'avetz on Gittin 60b",
+                        "Haggahot Ya'avetz on Gittin 61a",
+                        "Haggahot Ya'avetz on Gittin 61b",
+                        "Haggahot Ya'avetz on Gittin 62a",
+                        "Haggahot Ya'avetz on Gittin 62b",
+                        "Haggahot Ya'avetz on Gittin 63a",
+                        "Haggahot Ya'avetz on Gittin 63b",
+                        "Haggahot Ya'avetz on Gittin 64a",
+                        "Haggahot Ya'avetz on Gittin 64b",
+                        "Haggahot Ya'avetz on Gittin 65a",
+                        "Haggahot Ya'avetz on Gittin 65b",
+                        "Haggahot Ya'avetz on Gittin 66a",
+                        "Haggahot Ya'avetz on Gittin 66b",
+                        "Haggahot Ya'avetz on Gittin 67a",
+                        "Haggahot Ya'avetz on Gittin 67b",
+                        "Haggahot Ya'avetz on Gittin 68a",
+                        "Haggahot Ya'avetz on Gittin 68b",
+                        "Haggahot Ya'avetz on Gittin 69a",
+                        "Haggahot Ya'avetz on Gittin 69b",
+                        "Haggahot Ya'avetz on Gittin 70a",
+                        "Haggahot Ya'avetz on Gittin 70b",
+                        "Haggahot Ya'avetz on Gittin 71a",
+                        "Haggahot Ya'avetz on Gittin 71b",
+                        "Haggahot Ya'avetz on Gittin 72a",
+                        "Haggahot Ya'avetz on Gittin 72b",
+                        "Haggahot Ya'avetz on Gittin 73a",
+                        "Haggahot Ya'avetz on Gittin 73b",
+                        "Haggahot Ya'avetz on Gittin 74a",
+                        "Haggahot Ya'avetz on Gittin 74b",
+                        "Haggahot Ya'avetz on Gittin 75a",
+                        "Haggahot Ya'avetz on Gittin 75b",
+                        "Haggahot Ya'avetz on Gittin 76a",
+                        "Haggahot Ya'avetz on Gittin 76b",
+                        "Haggahot Ya'avetz on Gittin 77a",
+                        "Haggahot Ya'avetz on Gittin 77b",
+                        "Haggahot Ya'avetz on Gittin 78a",
+                        "Haggahot Ya'avetz on Gittin 78b",
+                        "Haggahot Ya'avetz on Gittin 79a",
+                        "Haggahot Ya'avetz on Gittin 79b",
+                        "Haggahot Ya'avetz on Gittin 80a",
+                        "Haggahot Ya'avetz on Gittin 80b",
+                        "Haggahot Ya'avetz on Gittin 81a",
+                        "Haggahot Ya'avetz on Gittin 81b",
+                        "Haggahot Ya'avetz on Gittin 82a",
+                        "Haggahot Ya'avetz on Gittin 82b",
+                        "Haggahot Ya'avetz on Gittin 83a",
+                        "Haggahot Ya'avetz on Gittin 83b",
+                        "Haggahot Ya'avetz on Gittin 84a",
+                        "Haggahot Ya'avetz on Gittin 84b",
+                        "Haggahot Ya'avetz on Gittin 85a",
+                        "Haggahot Ya'avetz on Gittin 85b",
+                        "Haggahot Ya'avetz on Gittin 86a",
+                        "Haggahot Ya'avetz on Gittin 86b",
+                        "Haggahot Ya'avetz on Gittin 87a",
+                        "Haggahot Ya'avetz on Gittin 87b",
+                        "Haggahot Ya'avetz on Gittin 88a",
+                        "Haggahot Ya'avetz on Gittin 88b",
+                        "Haggahot Ya'avetz on Gittin 89a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Gittin 25a:1-30a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; Kol HaGet",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "כל הגט",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; Kol HaGet",
+                    "heTitle": "כל הגט",
+                    "refs": [
+                        "Haggahot Ya'avetz on Gittin 25a:1",
+                        "Haggahot Ya'avetz on Gittin 25b",
+                        "Haggahot Ya'avetz on Gittin 26a",
+                        "Haggahot Ya'avetz on Gittin 26b",
+                        "Haggahot Ya'avetz on Gittin 27a",
+                        "Haggahot Ya'avetz on Gittin 27b",
+                        "Haggahot Ya'avetz on Gittin 28a",
+                        "Haggahot Ya'avetz on Gittin 28b",
+                        "Haggahot Ya'avetz on Gittin 29a",
+                        "Haggahot Ya'avetz on Gittin 29b",
+                        "Haggahot Ya'avetz on Gittin 30a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 48
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Gittin 34a:1-47a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 4; HaSholeach",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "השולח",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; HaSholeach",
+                    "heTitle": "השולח",
+                    "refs": [
+                        "Haggahot Ya'avetz on Gittin 34a:1-2",
+                        "Haggahot Ya'avetz on Gittin 34b",
+                        "Haggahot Ya'avetz on Gittin 35a",
+                        "Haggahot Ya'avetz on Gittin 35b",
+                        "Haggahot Ya'avetz on Gittin 36a",
+                        "Haggahot Ya'avetz on Gittin 36b",
+                        "Haggahot Ya'avetz on Gittin 37a",
+                        "Haggahot Ya'avetz on Gittin 37b",
+                        "Haggahot Ya'avetz on Gittin 38a",
+                        "Haggahot Ya'avetz on Gittin 38b",
+                        "Haggahot Ya'avetz on Gittin 39a",
+                        "Haggahot Ya'avetz on Gittin 39b",
+                        "Haggahot Ya'avetz on Gittin 40a",
+                        "Haggahot Ya'avetz on Gittin 40b",
+                        "Haggahot Ya'avetz on Gittin 41a",
+                        "Haggahot Ya'avetz on Gittin 41b",
+                        "Haggahot Ya'avetz on Gittin 42a",
+                        "Haggahot Ya'avetz on Gittin 42b",
+                        "Haggahot Ya'avetz on Gittin 43a",
+                        "Haggahot Ya'avetz on Gittin 43b",
+                        "Haggahot Ya'avetz on Gittin 44a",
+                        "Haggahot Ya'avetz on Gittin 44b",
+                        "Haggahot Ya'avetz on Gittin 45a",
+                        "Haggahot Ya'avetz on Gittin 45b",
+                        "Haggahot Ya'avetz on Gittin 46a",
+                        "Haggahot Ya'avetz on Gittin 46b",
+                        "Haggahot Ya'avetz on Gittin 47a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 66
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Gittin 52a:1-60a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5; HaNizzakin",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "הניזקין",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; HaNizzakin",
+                    "heTitle": "הניזקין",
+                    "refs": [
+                        "Haggahot Ya'avetz on Gittin 52a:1-4",
+                        "Haggahot Ya'avetz on Gittin 52b",
+                        "Haggahot Ya'avetz on Gittin 53a",
+                        "Haggahot Ya'avetz on Gittin 53b",
+                        "Haggahot Ya'avetz on Gittin 54a",
+                        "Haggahot Ya'avetz on Gittin 54b",
+                        "Haggahot Ya'avetz on Gittin 55a",
+                        "Haggahot Ya'avetz on Gittin 55b",
+                        "Haggahot Ya'avetz on Gittin 56a",
+                        "Haggahot Ya'avetz on Gittin 56b",
+                        "Haggahot Ya'avetz on Gittin 57a",
+                        "Haggahot Ya'avetz on Gittin 57b",
+                        "Haggahot Ya'avetz on Gittin 58a",
+                        "Haggahot Ya'avetz on Gittin 58b",
+                        "Haggahot Ya'avetz on Gittin 59a",
+                        "Haggahot Ya'avetz on Gittin 59b",
+                        "Haggahot Ya'avetz on Gittin 60a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 102
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Gittin 65b:1-67a:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 6; HaOmer Hitkabbel",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "האומר התקבל",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; HaOmer Hitkabbel",
+                    "heTitle": "האומר התקבל",
+                    "refs": [
+                        "Haggahot Ya'avetz on Gittin 65b:1",
+                        "Haggahot Ya'avetz on Gittin 66a",
+                        "Haggahot Ya'avetz on Gittin 66b",
+                        "Haggahot Ya'avetz on Gittin 67a:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 129
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Gittin 67b:1-76b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 7; Mi SheAchazo",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "מי שאחזו",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 7; Mi SheAchazo",
+                    "heTitle": "מי שאחזו",
+                    "refs": [
+                        "Haggahot Ya'avetz on Gittin 67b:1-6",
+                        "Haggahot Ya'avetz on Gittin 68a",
+                        "Haggahot Ya'avetz on Gittin 68b",
+                        "Haggahot Ya'avetz on Gittin 69a",
+                        "Haggahot Ya'avetz on Gittin 69b",
+                        "Haggahot Ya'avetz on Gittin 70a",
+                        "Haggahot Ya'avetz on Gittin 70b",
+                        "Haggahot Ya'avetz on Gittin 71a",
+                        "Haggahot Ya'avetz on Gittin 71b",
+                        "Haggahot Ya'avetz on Gittin 72a",
+                        "Haggahot Ya'avetz on Gittin 72b",
+                        "Haggahot Ya'avetz on Gittin 73a",
+                        "Haggahot Ya'avetz on Gittin 73b",
+                        "Haggahot Ya'avetz on Gittin 74a",
+                        "Haggahot Ya'avetz on Gittin 74b",
+                        "Haggahot Ya'avetz on Gittin 75a",
+                        "Haggahot Ya'avetz on Gittin 75b",
+                        "Haggahot Ya'avetz on Gittin 76a",
+                        "Haggahot Ya'avetz on Gittin 76b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 133
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Gittin 78a:1-81a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 8; HaZorek Get",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "הזורק גט",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 8; HaZorek Get",
+                    "heTitle": "הזורק גט",
+                    "refs": [
+                        "Haggahot Ya'avetz on Gittin 78a:1",
+                        "Haggahot Ya'avetz on Gittin 78b",
+                        "Haggahot Ya'avetz on Gittin 79a",
+                        "Haggahot Ya'avetz on Gittin 79b",
+                        "Haggahot Ya'avetz on Gittin 80a",
+                        "Haggahot Ya'avetz on Gittin 80b",
+                        "Haggahot Ya'avetz on Gittin 81a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 154
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Gittin 85b:1-89a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 9; HaMegaresh",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "המגרש",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 9; HaMegaresh",
+                    "heTitle": "המגרש",
+                    "refs": [
+                        "Haggahot Ya'avetz on Gittin 85b:1-3",
+                        "Haggahot Ya'avetz on Gittin 86a",
+                        "Haggahot Ya'avetz on Gittin 86b",
+                        "Haggahot Ya'avetz on Gittin 87a",
+                        "Haggahot Ya'avetz on Gittin 87b",
+                        "Haggahot Ya'avetz on Gittin 88a",
+                        "Haggahot Ya'avetz on Gittin 88b",
+                        "Haggahot Ya'avetz on Gittin 89a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 169
+                }
+            ],
+            "titles": [
+                {
+                    "text": "הגהות יעב\"ץ על גיטין",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Haggahot Ya'avetz on Gittin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Haggahot Ya'avetz on Gittin",
+            "heTitle": "הגהות יעב\"ץ על גיטין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

@@ -18,10 +18,25 @@
         "sectionNames": [
             "Siman"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tiferet-shmuel",
+                    "gittin"
+                ]
+            }
+        ],
+        "lengths": [
+            76
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
+                "text": "תפארת שמואל על גיטין",
                 "lang": "he",
-                "text": " תפארת שמואל על גיטין",
                 "primary": true
             },
             {
@@ -31,7 +46,7 @@
             }
         ],
         "title": "Tiferet Shmuel on Gittin",
-        "heTitle": " תפארת שמואל על גיטין",
+        "heTitle": "תפארת שמואל על גיטין",
         "heSectionNames": [
             "סימן"
         ],
@@ -39,7 +54,7 @@
     },
     "authors": [
         {
-            "en": "Aaron Samuel Kaidanover",
+            "en": "Aharon Shmuel Kaidanover",
             "he": "אהרן שמואל קאידנוור",
             "slug": "aaron-samuel-kaidanover"
         }
@@ -69,12 +84,12 @@
         "en": "Tiferet Shmuel",
         "he": "תפארת שמואל"
     },
-    "heTitle": " תפארת שמואל על גיטין",
+    "heTitle": "תפארת שמואל על גיטין",
     "titleVariants": [
         "Tiferet Shmuel on Gittin"
     ],
     "heTitleVariants": [
-        " תפארת שמואל על גיטין"
+        "תפארת שמואל על גיטין"
     ],
     "sectionNames": [
         "Siman"

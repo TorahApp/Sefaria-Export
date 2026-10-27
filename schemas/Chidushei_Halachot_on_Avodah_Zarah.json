@@ -59,9 +59,12 @@
         ],
         "key": "Chidushei Halachot on Avodah Zarah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Maharsha",
+            "en": "Shmuel Eidels (Maharsha)",
             "he": "מהרש\"א",
             "slug": "maharsha"
         }
@@ -97,6 +100,600 @@
     "heTitleVariants": [
         "חדושי הלכות על עבודה זרה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Avodah Zarah 2a:1-22a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; Lifnei Eideihen",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "לפני אידיהן",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Lifnei Eideihen",
+                    "heTitle": "לפני אידיהן",
+                    "refs": [
+                        "Chidushei Halachot on Avodah Zarah 2a:1-4",
+                        "Chidushei Halachot on Avodah Zarah 2b",
+                        "Chidushei Halachot on Avodah Zarah 3a",
+                        "Chidushei Halachot on Avodah Zarah 3b",
+                        "Chidushei Halachot on Avodah Zarah 4a",
+                        "Chidushei Halachot on Avodah Zarah 4b",
+                        "Chidushei Halachot on Avodah Zarah 5a",
+                        "Chidushei Halachot on Avodah Zarah 5b",
+                        "Chidushei Halachot on Avodah Zarah 6a",
+                        "Chidushei Halachot on Avodah Zarah 6b",
+                        "Chidushei Halachot on Avodah Zarah 7a",
+                        "Chidushei Halachot on Avodah Zarah 7b",
+                        "Chidushei Halachot on Avodah Zarah 8a",
+                        "Chidushei Halachot on Avodah Zarah 8b",
+                        "Chidushei Halachot on Avodah Zarah 9a",
+                        "Chidushei Halachot on Avodah Zarah 9b",
+                        "Chidushei Halachot on Avodah Zarah 10a",
+                        "Chidushei Halachot on Avodah Zarah 10b",
+                        "Chidushei Halachot on Avodah Zarah 11a",
+                        "Chidushei Halachot on Avodah Zarah 11b",
+                        "Chidushei Halachot on Avodah Zarah 12a",
+                        "Chidushei Halachot on Avodah Zarah 12b",
+                        "Chidushei Halachot on Avodah Zarah 13a",
+                        "Chidushei Halachot on Avodah Zarah 13b",
+                        "Chidushei Halachot on Avodah Zarah 14a",
+                        "Chidushei Halachot on Avodah Zarah 14b",
+                        "Chidushei Halachot on Avodah Zarah 15a",
+                        "Chidushei Halachot on Avodah Zarah 15b",
+                        "Chidushei Halachot on Avodah Zarah 16a",
+                        "Chidushei Halachot on Avodah Zarah 16b",
+                        "Chidushei Halachot on Avodah Zarah 17a",
+                        "Chidushei Halachot on Avodah Zarah 17b",
+                        "Chidushei Halachot on Avodah Zarah 18a",
+                        "Chidushei Halachot on Avodah Zarah 18b",
+                        "Chidushei Halachot on Avodah Zarah 19a",
+                        "Chidushei Halachot on Avodah Zarah 19b",
+                        "Chidushei Halachot on Avodah Zarah 20a",
+                        "Chidushei Halachot on Avodah Zarah 20b",
+                        "Chidushei Halachot on Avodah Zarah 21a",
+                        "Chidushei Halachot on Avodah Zarah 21b",
+                        "Chidushei Halachot on Avodah Zarah 22a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Avodah Zarah 22a:3-76b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Ein Ma'amidin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "אין מעמידין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Ein Ma'amidin",
+                    "heTitle": "אין מעמידין",
+                    "refs": [
+                        "Chidushei Halachot on Avodah Zarah 22a:3",
+                        "Chidushei Halachot on Avodah Zarah 22b",
+                        "Chidushei Halachot on Avodah Zarah 23a",
+                        "Chidushei Halachot on Avodah Zarah 23b",
+                        "Chidushei Halachot on Avodah Zarah 24a",
+                        "Chidushei Halachot on Avodah Zarah 24b",
+                        "Chidushei Halachot on Avodah Zarah 25a",
+                        "Chidushei Halachot on Avodah Zarah 25b",
+                        "Chidushei Halachot on Avodah Zarah 26a",
+                        "Chidushei Halachot on Avodah Zarah 26b",
+                        "Chidushei Halachot on Avodah Zarah 27a",
+                        "Chidushei Halachot on Avodah Zarah 27b",
+                        "Chidushei Halachot on Avodah Zarah 28a",
+                        "Chidushei Halachot on Avodah Zarah 28b",
+                        "Chidushei Halachot on Avodah Zarah 29a",
+                        "Chidushei Halachot on Avodah Zarah 29b",
+                        "Chidushei Halachot on Avodah Zarah 30a",
+                        "Chidushei Halachot on Avodah Zarah 30b",
+                        "Chidushei Halachot on Avodah Zarah 31a",
+                        "Chidushei Halachot on Avodah Zarah 31b",
+                        "Chidushei Halachot on Avodah Zarah 32a",
+                        "Chidushei Halachot on Avodah Zarah 32b",
+                        "Chidushei Halachot on Avodah Zarah 33a",
+                        "Chidushei Halachot on Avodah Zarah 33b",
+                        "Chidushei Halachot on Avodah Zarah 34a",
+                        "Chidushei Halachot on Avodah Zarah 34b",
+                        "Chidushei Halachot on Avodah Zarah 35a",
+                        "Chidushei Halachot on Avodah Zarah 35b",
+                        "Chidushei Halachot on Avodah Zarah 36a",
+                        "Chidushei Halachot on Avodah Zarah 36b",
+                        "Chidushei Halachot on Avodah Zarah 37a",
+                        "Chidushei Halachot on Avodah Zarah 37b",
+                        "Chidushei Halachot on Avodah Zarah 38a",
+                        "Chidushei Halachot on Avodah Zarah 38b",
+                        "Chidushei Halachot on Avodah Zarah 39a",
+                        "Chidushei Halachot on Avodah Zarah 39b",
+                        "Chidushei Halachot on Avodah Zarah 40a",
+                        "Chidushei Halachot on Avodah Zarah 40b",
+                        "Chidushei Halachot on Avodah Zarah 41a",
+                        "Chidushei Halachot on Avodah Zarah 41b",
+                        "Chidushei Halachot on Avodah Zarah 42a",
+                        "Chidushei Halachot on Avodah Zarah 42b",
+                        "Chidushei Halachot on Avodah Zarah 43a",
+                        "Chidushei Halachot on Avodah Zarah 43b",
+                        "Chidushei Halachot on Avodah Zarah 44a",
+                        "Chidushei Halachot on Avodah Zarah 44b",
+                        "Chidushei Halachot on Avodah Zarah 45a",
+                        "Chidushei Halachot on Avodah Zarah 45b",
+                        "Chidushei Halachot on Avodah Zarah 46a",
+                        "Chidushei Halachot on Avodah Zarah 46b",
+                        "Chidushei Halachot on Avodah Zarah 47a",
+                        "Chidushei Halachot on Avodah Zarah 47b",
+                        "Chidushei Halachot on Avodah Zarah 48a",
+                        "Chidushei Halachot on Avodah Zarah 48b",
+                        "Chidushei Halachot on Avodah Zarah 49a",
+                        "Chidushei Halachot on Avodah Zarah 49b",
+                        "Chidushei Halachot on Avodah Zarah 50a",
+                        "Chidushei Halachot on Avodah Zarah 50b",
+                        "Chidushei Halachot on Avodah Zarah 51a",
+                        "Chidushei Halachot on Avodah Zarah 51b",
+                        "Chidushei Halachot on Avodah Zarah 52a",
+                        "Chidushei Halachot on Avodah Zarah 52b",
+                        "Chidushei Halachot on Avodah Zarah 53a",
+                        "Chidushei Halachot on Avodah Zarah 53b",
+                        "Chidushei Halachot on Avodah Zarah 54a",
+                        "Chidushei Halachot on Avodah Zarah 54b",
+                        "Chidushei Halachot on Avodah Zarah 55a",
+                        "Chidushei Halachot on Avodah Zarah 55b",
+                        "Chidushei Halachot on Avodah Zarah 56a",
+                        "Chidushei Halachot on Avodah Zarah 56b",
+                        "Chidushei Halachot on Avodah Zarah 57a",
+                        "Chidushei Halachot on Avodah Zarah 57b",
+                        "Chidushei Halachot on Avodah Zarah 58a",
+                        "Chidushei Halachot on Avodah Zarah 58b",
+                        "Chidushei Halachot on Avodah Zarah 59a",
+                        "Chidushei Halachot on Avodah Zarah 59b",
+                        "Chidushei Halachot on Avodah Zarah 60a",
+                        "Chidushei Halachot on Avodah Zarah 60b",
+                        "Chidushei Halachot on Avodah Zarah 61a",
+                        "Chidushei Halachot on Avodah Zarah 61b",
+                        "Chidushei Halachot on Avodah Zarah 62a",
+                        "Chidushei Halachot on Avodah Zarah 62b",
+                        "Chidushei Halachot on Avodah Zarah 63a",
+                        "Chidushei Halachot on Avodah Zarah 63b",
+                        "Chidushei Halachot on Avodah Zarah 64a",
+                        "Chidushei Halachot on Avodah Zarah 64b",
+                        "Chidushei Halachot on Avodah Zarah 65a",
+                        "Chidushei Halachot on Avodah Zarah 65b",
+                        "Chidushei Halachot on Avodah Zarah 66a",
+                        "Chidushei Halachot on Avodah Zarah 66b",
+                        "Chidushei Halachot on Avodah Zarah 67a",
+                        "Chidushei Halachot on Avodah Zarah 67b",
+                        "Chidushei Halachot on Avodah Zarah 68a",
+                        "Chidushei Halachot on Avodah Zarah 68b",
+                        "Chidushei Halachot on Avodah Zarah 69a",
+                        "Chidushei Halachot on Avodah Zarah 69b",
+                        "Chidushei Halachot on Avodah Zarah 70a",
+                        "Chidushei Halachot on Avodah Zarah 70b",
+                        "Chidushei Halachot on Avodah Zarah 71a",
+                        "Chidushei Halachot on Avodah Zarah 71b",
+                        "Chidushei Halachot on Avodah Zarah 72a",
+                        "Chidushei Halachot on Avodah Zarah 72b",
+                        "Chidushei Halachot on Avodah Zarah 73a",
+                        "Chidushei Halachot on Avodah Zarah 73b",
+                        "Chidushei Halachot on Avodah Zarah 74a",
+                        "Chidushei Halachot on Avodah Zarah 74b",
+                        "Chidushei Halachot on Avodah Zarah 75a",
+                        "Chidushei Halachot on Avodah Zarah 75b",
+                        "Chidushei Halachot on Avodah Zarah 76a",
+                        "Chidushei Halachot on Avodah Zarah 76b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 42
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Avodah Zarah 62a:1-76b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5; HaSokher et HaPoel",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "השוכר את הפועל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5; HaSokher et HaPoel",
+                    "heTitle": "השוכר את הפועל",
+                    "refs": [
+                        "Chidushei Halachot on Avodah Zarah 62a:1-2",
+                        "Chidushei Halachot on Avodah Zarah 62b",
+                        "Chidushei Halachot on Avodah Zarah 63a",
+                        "Chidushei Halachot on Avodah Zarah 63b",
+                        "Chidushei Halachot on Avodah Zarah 64a",
+                        "Chidushei Halachot on Avodah Zarah 64b",
+                        "Chidushei Halachot on Avodah Zarah 65a",
+                        "Chidushei Halachot on Avodah Zarah 65b",
+                        "Chidushei Halachot on Avodah Zarah 66a",
+                        "Chidushei Halachot on Avodah Zarah 66b",
+                        "Chidushei Halachot on Avodah Zarah 67a",
+                        "Chidushei Halachot on Avodah Zarah 67b",
+                        "Chidushei Halachot on Avodah Zarah 68a",
+                        "Chidushei Halachot on Avodah Zarah 68b",
+                        "Chidushei Halachot on Avodah Zarah 69a",
+                        "Chidushei Halachot on Avodah Zarah 69b",
+                        "Chidushei Halachot on Avodah Zarah 70a",
+                        "Chidushei Halachot on Avodah Zarah 70b",
+                        "Chidushei Halachot on Avodah Zarah 71a",
+                        "Chidushei Halachot on Avodah Zarah 71b",
+                        "Chidushei Halachot on Avodah Zarah 72a",
+                        "Chidushei Halachot on Avodah Zarah 72b",
+                        "Chidushei Halachot on Avodah Zarah 73a",
+                        "Chidushei Halachot on Avodah Zarah 73b",
+                        "Chidushei Halachot on Avodah Zarah 74a",
+                        "Chidushei Halachot on Avodah Zarah 74b",
+                        "Chidushei Halachot on Avodah Zarah 75a",
+                        "Chidushei Halachot on Avodah Zarah 75b",
+                        "Chidushei Halachot on Avodah Zarah 76a",
+                        "Chidushei Halachot on Avodah Zarah 76b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 122
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "text": "חדושי הלכות על עבודה זרה",
+                    "lang": "he"
+                },
+                {
+                    "text": "Chidushei Halachot on Avodah Zarah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Halachot on Avodah Zarah",
+            "heTitle": "חדושי הלכות על עבודה זרה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

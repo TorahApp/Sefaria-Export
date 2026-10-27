@@ -18,6 +18,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "maharam-schiff",
+                    "zevachim"
+                ]
+            }
+        ],
         "lengths": [
             240,
             191
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -55,6 +62,9 @@
         ],
         "key": "Maharam Schiff on Zevachim"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Meir ben Jacob Ha-Kohen Schiff",
@@ -94,6 +104,172 @@
     "heTitleVariants": [
         "מהר\"ם שיף על זבחים"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Zevachim 17a:1-24b:13",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-238"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Kol HaZevachim SheKibblu Daman",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "כל הזבחים שקבלו דמן",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; Kol HaZevachim SheKibblu Daman",
+                    "heTitle": "כל הזבחים שקבלו דמן",
+                    "refs": [
+                        "Maharam Schiff on Zevachim 17a:1-4",
+                        "Maharam Schiff on Zevachim 17b",
+                        "Maharam Schiff on Zevachim 18a",
+                        "Maharam Schiff on Zevachim 18b",
+                        "Maharam Schiff on Zevachim 19a",
+                        "Maharam Schiff on Zevachim 19b",
+                        "Maharam Schiff on Zevachim 20a",
+                        "Maharam Schiff on Zevachim 20b",
+                        "Maharam Schiff on Zevachim 21a",
+                        "Maharam Schiff on Zevachim 21b",
+                        "Maharam Schiff on Zevachim 22a",
+                        "Maharam Schiff on Zevachim 22b",
+                        "Maharam Schiff on Zevachim 23a",
+                        "Maharam Schiff on Zevachim 23b",
+                        "Maharam Schiff on Zevachim 24a",
+                        "Maharam Schiff on Zevachim 24b:1-13"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 32
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "מהר\"ם שיף על זבחים",
+                    "primary": true
+                },
+                {
+                    "text": "Maharam Shif on Zevachim",
+                    "lang": "en"
+                },
+                {
+                    "text": "Maharam Schiff on Zevachim",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Maharam Schiff on Zevachim",
+            "heTitle": "מהר\"ם שיף על זבחים"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

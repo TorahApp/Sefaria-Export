@@ -59,6 +59,9 @@
         ],
         "key": "Chiddushei Rabbi Akiva Eiger on Shevuot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Akiva Eiger",
@@ -93,6 +96,156 @@
     "heTitleVariants": [
         "חידושי רבי עקיבא איגר על מסכת שבועות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Rabbi Akiva Eiger on Shevuot 39b:1-41a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "bavli",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "bavli",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "gemara",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "bavli",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "gemara",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 6; Shevuat HaDayyanin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שבועת הדיינין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 6; Shevuat HaDayyanin",
+                    "heTitle": "שבועת הדיינין",
+                    "refs": [
+                        "Chiddushei Rabbi Akiva Eiger on Shevuot 39b:1",
+                        "Chiddushei Rabbi Akiva Eiger on Shevuot 40a",
+                        "Chiddushei Rabbi Akiva Eiger on Shevuot 40b",
+                        "Chiddushei Rabbi Akiva Eiger on Shevuot 41a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 77
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "text": "חידושי רבי עקיבא איגר על מסכת שבועות",
+                    "lang": "he"
+                },
+                {
+                    "text": "Chiddushei Rabbi Akiva Eiger on Shevuot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Rabbi Akiva Eiger on Shevuot",
+            "heTitle": "חידושי רבי עקיבא איגר על מסכת שבועות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

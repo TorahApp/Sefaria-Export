@@ -60,9 +60,12 @@
         ],
         "key": "Milchemet Hashem on Pesachim"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -101,6 +104,324 @@
     "heTitleVariants": [
         "מלחמת השם על פסחים"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Pesachim 3a:1-20a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; Or LeArba'ah Asar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אור לארבעה עשר",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Or LeArba'ah Asar",
+                    "heTitle": "אור לארבעה עשר",
+                    "refs": [
+                        "Milchemet Hashem on Pesachim 3a:1",
+                        "Milchemet Hashem on Pesachim 3b",
+                        "Milchemet Hashem on Pesachim 4a",
+                        "Milchemet Hashem on Pesachim 4b",
+                        "Milchemet Hashem on Pesachim 5a",
+                        "Milchemet Hashem on Pesachim 5b",
+                        "Milchemet Hashem on Pesachim 6a",
+                        "Milchemet Hashem on Pesachim 6b",
+                        "Milchemet Hashem on Pesachim 7a",
+                        "Milchemet Hashem on Pesachim 7b",
+                        "Milchemet Hashem on Pesachim 8a",
+                        "Milchemet Hashem on Pesachim 8b",
+                        "Milchemet Hashem on Pesachim 9a",
+                        "Milchemet Hashem on Pesachim 9b",
+                        "Milchemet Hashem on Pesachim 10a",
+                        "Milchemet Hashem on Pesachim 10b",
+                        "Milchemet Hashem on Pesachim 11a",
+                        "Milchemet Hashem on Pesachim 11b",
+                        "Milchemet Hashem on Pesachim 12a",
+                        "Milchemet Hashem on Pesachim 12b",
+                        "Milchemet Hashem on Pesachim 13a",
+                        "Milchemet Hashem on Pesachim 13b",
+                        "Milchemet Hashem on Pesachim 14a",
+                        "Milchemet Hashem on Pesachim 14b",
+                        "Milchemet Hashem on Pesachim 15a",
+                        "Milchemet Hashem on Pesachim 15b",
+                        "Milchemet Hashem on Pesachim 16a",
+                        "Milchemet Hashem on Pesachim 16b",
+                        "Milchemet Hashem on Pesachim 17a",
+                        "Milchemet Hashem on Pesachim 17b",
+                        "Milchemet Hashem on Pesachim 18a",
+                        "Milchemet Hashem on Pesachim 18b",
+                        "Milchemet Hashem on Pesachim 19a",
+                        "Milchemet Hashem on Pesachim 19b",
+                        "Milchemet Hashem on Pesachim 20a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 4
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Pesachim 21b:1-26b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 2; Kol Sha'ah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כל שעה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Kol Sha'ah",
+                    "heTitle": "כל שעה",
+                    "refs": [
+                        "Milchemet Hashem on Pesachim 21b:1",
+                        "Milchemet Hashem on Pesachim 22a",
+                        "Milchemet Hashem on Pesachim 22b",
+                        "Milchemet Hashem on Pesachim 23a",
+                        "Milchemet Hashem on Pesachim 23b",
+                        "Milchemet Hashem on Pesachim 24a",
+                        "Milchemet Hashem on Pesachim 24b",
+                        "Milchemet Hashem on Pesachim 25a",
+                        "Milchemet Hashem on Pesachim 25b",
+                        "Milchemet Hashem on Pesachim 26a",
+                        "Milchemet Hashem on Pesachim 26b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 41
+                }
+            ],
+            "titles": [
+                {
+                    "text": "מלחמת השם על פסחים",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Milchemet Hashem on Pesachim",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Milchemet Hashem on Pesachim",
+            "heTitle": "מלחמת השם על פסחים"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

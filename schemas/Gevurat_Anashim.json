@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -68,6 +75,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "summary"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -88,6 +102,14 @@
                 "key": "Summary"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "gevurat-anashim"
+                ]
+            }
+        ],
         "titles": [
             {
                 "primary": true,
@@ -106,7 +128,7 @@
     },
     "authors": [
         {
-            "en": "Shabbatai ben Meir Hakohen",
+            "en": "Shabbetai ben Meir Hakohen",
             "he": "שבתי בן מאיר הכהן",
             "slug": "shabbatai-ben-meir-hakohen"
         }

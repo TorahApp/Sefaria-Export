@@ -1,0 +1,558 @@
+{
+    "title": "Sha'arei Torat Bavel on Chagigah",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Sha'arei Torat Bavel",
+        "Seder Moed"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Comment"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "shaarei-torat-bavel",
+                    "chagigah"
+                ]
+            }
+        ],
+        "lengths": [
+            53,
+            31
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
+        "titles": [
+            {
+                "text": "שערי תורת בבל על חגיגה",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "Sha'arei Torat Bavel on Chagigah",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sha'arei Torat Bavel on Chagigah",
+        "heTitle": "שערי תורת בבל על חגיגה",
+        "heSectionNames": [
+            "דף",
+            "פירוש"
+        ],
+        "key": "Sha'arei Torat Bavel on Chagigah"
+    },
+    "exclude_structs": [
+        "Chapters"
+    ],
+    "authors": [
+        {
+            "en": "Zev Wolf Rabinowitz",
+            "he": "זאב וואלף רבינוביץ",
+            "slug": "zeev-wolf-rabinowitz"
+        }
+    ],
+    "enDesc": "Sha’arei Torat Bavel is an early 20th-century commentary on the Babylonian Talmud by Lithuanian scholar Rabbi Zev Wolf Rabinowitz. The work includes traditional rabbinic commentary, incorporating and discussing the positions of earlier commentators and insights from contemporary works on science and medicine when relevant topics are addressed in the Talmud. In the work’s commentary on aggadic sections of the Talmud, Rabinowitz incorporates philosophical and ethical discussions and expresses love for the people and land of Israel. Sha’arei Torat Bavel was published by the author’s son, Yitzchak Rabinowitz, and edited by Professor Rabbi Professor Ezra Tzion Melamed",
+    "heDesc": "״שערי תורת בבל״ הוא פירוש לתלמוד הבבלי, שנכתב בתחילת המאה ה-20 על ידי הרב זאב וולף רבינוביץ, המכיל גם חיבור ארוך על חכמי התלמוד ומאמר קצר יותר על התלמוד עצמו. בחיבור זה משולבות תובנות מיצירות עכשוויות על מדע ורפואה כאשר נושאים אלה עולים בדיון התלמודי. הפירוש הוא גם על חלקי האגדה שבתלמוד, וכולל בתוכו היבטים פילוסופיים, אתיים ורגשיים של המחבר. \"שערי תורת בבל\" יצא לאור על ידי בנו של המחבר, יצחק רבינוביץ, בעריכת הרב פרופסור עזרא ציון מלמד.\n\n",
+    "pubDate": [
+        1961
+    ],
+    "pubPlace": "Jerusalem, Israel",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Chagigah",
+            "he": "חגיגה"
+        }
+    ],
+    "collective_title": {
+        "en": "Sha'arei Torat Bavel",
+        "he": "שערי תורת בבל"
+    },
+    "heTitle": "שערי תורת בבל על חגיגה",
+    "titleVariants": [
+        "Sha'arei Torat Bavel on Chagigah"
+    ],
+    "heTitleVariants": [
+        "שערי תורת בבל על חגיגה"
+    ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Sha'arei Torat Bavel on Chagigah 4b:1-10a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "perek",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "perek",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "perek",
+                                "chapter-18"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; HaKol Chayyavin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "הכל חייבין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; HaKol Chayyavin",
+                    "heTitle": "הכל חייבין",
+                    "refs": [
+                        "Sha'arei Torat Bavel on Chagigah 4b:1",
+                        "Sha'arei Torat Bavel on Chagigah 5a",
+                        "Sha'arei Torat Bavel on Chagigah 5b",
+                        "Sha'arei Torat Bavel on Chagigah 6a",
+                        "Sha'arei Torat Bavel on Chagigah 6b",
+                        "Sha'arei Torat Bavel on Chagigah 7a",
+                        "Sha'arei Torat Bavel on Chagigah 7b",
+                        "Sha'arei Torat Bavel on Chagigah 8a",
+                        "Sha'arei Torat Bavel on Chagigah 8b",
+                        "Sha'arei Torat Bavel on Chagigah 9a",
+                        "Sha'arei Torat Bavel on Chagigah 9b",
+                        "Sha'arei Torat Bavel on Chagigah 10a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 7
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Sha'arei Torat Bavel on Chagigah 12b:1-18a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "perek",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "perek",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "perek",
+                                "chapter-28"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Ein Dorshin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "אין דורשין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Ein Dorshin",
+                    "heTitle": "אין דורשין",
+                    "refs": [
+                        "Sha'arei Torat Bavel on Chagigah 12b:1",
+                        "Sha'arei Torat Bavel on Chagigah 13a",
+                        "Sha'arei Torat Bavel on Chagigah 13b",
+                        "Sha'arei Torat Bavel on Chagigah 14a",
+                        "Sha'arei Torat Bavel on Chagigah 14b",
+                        "Sha'arei Torat Bavel on Chagigah 15a",
+                        "Sha'arei Torat Bavel on Chagigah 15b",
+                        "Sha'arei Torat Bavel on Chagigah 16a",
+                        "Sha'arei Torat Bavel on Chagigah 16b",
+                        "Sha'arei Torat Bavel on Chagigah 17a",
+                        "Sha'arei Torat Bavel on Chagigah 17b",
+                        "Sha'arei Torat Bavel on Chagigah 18a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 23
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Sha'arei Torat Bavel on Chagigah 22a:1-26b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "perek",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "perek",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "perek",
+                                "chapter-38"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; Chomer BaKodesh",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "חומר בקודש",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Chomer BaKodesh",
+                    "heTitle": "חומר בקודש",
+                    "refs": [
+                        "Sha'arei Torat Bavel on Chagigah 22a:1",
+                        "Sha'arei Torat Bavel on Chagigah 22b",
+                        "Sha'arei Torat Bavel on Chagigah 23a",
+                        "Sha'arei Torat Bavel on Chagigah 23b",
+                        "Sha'arei Torat Bavel on Chagigah 24a",
+                        "Sha'arei Torat Bavel on Chagigah 24b",
+                        "Sha'arei Torat Bavel on Chagigah 25a",
+                        "Sha'arei Torat Bavel on Chagigah 25b",
+                        "Sha'arei Torat Bavel on Chagigah 26a",
+                        "Sha'arei Torat Bavel on Chagigah 26b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 42
+                }
+            ],
+            "titles": [
+                {
+                    "text": "שערי תורת בבל על חגיגה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Sha'arei Torat Bavel on Chagigah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Sha'arei Torat Bavel on Chagigah",
+            "heTitle": "שערי תורת בבל על חגיגה"
+        }
+    },
+    "sectionNames": [
+        "Daf",
+        "Comment"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "אחרונים על התלמוד",
+        "שערי תורת בבל",
+        "סדר מועד"
+    ],
+    "pubDateString": {
+        "en": " (1961 CE)",
+        "he": " (1961 לספירה)"
+    },
+    "pubPlaceString": {
+        "en": "Jerusalem, Israel",
+        "he": "ירושלים, ישראל"
+    }
+}

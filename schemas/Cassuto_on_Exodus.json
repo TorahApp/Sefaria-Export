@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -63,6 +70,15 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "cassuto",
+                    "exodus"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "קאסוטו על שמות",
@@ -94,7 +110,7 @@
         1952
     ],
     "compPlace": "Jerusalem",
-    "dependence": "commentary",
+    "dependence": "Commentary",
     "base_text_titles": [
         {
             "en": "Exodus",
@@ -112,6 +128,620 @@
     "heTitleVariants": [
         "קאסוטו על שמות"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 1:1-6:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "shemot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "shemot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shemot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שמות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שמות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parsha Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Names",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shmot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Exodos",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Sh'mot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shemot",
+                    "heTitle": "שמות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 6:2-9:35",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "vaera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "vaera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וארא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וארא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'era",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Va'era",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ve'Erah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vaera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaera",
+                    "heTitle": "וארא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 10:1-13:16",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "bo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "bo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Bo",
+                    "heTitle": "בא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 13:17-17:16",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "beshalach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "beshalach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beshalach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beshalach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בשלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beshalach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בשלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Beshalach",
+                    "heTitle": "בשלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 18:1-20:23",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Yitro",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Jethro",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Yitro",
+                    "heTitle": "יתרו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 21:1-24:18",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "mishpatim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "mishpatim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Mishpatim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Mishpatim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "משפטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Mishpatim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת משפטים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Mishpatim",
+                    "heTitle": "משפטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 25:1-27:19",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "terumah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "terumah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Terumah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Terumah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תרומה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Terumah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תרומה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Truma",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Trumah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "T'rumah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Terumah",
+                    "heTitle": "תרומה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 27:20-30:10",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "tetzaveh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "tetzaveh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tetzaveh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tetzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תצוה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tetzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תצוה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "T'tzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תצווה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tezaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Teztaveh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Tetzaveh",
+                    "heTitle": "תצוה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 30:11-34:35",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "ki-tisa"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "ki-tisa"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tisa",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tisa",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tisa",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tissa",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Tissa",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Tisa",
+                    "heTitle": "כי תשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 35:1-38:20",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "vayakhel"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "vayakhel"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayakhel",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayakhel",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויקהל",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayakhel",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויקהל",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Vayakel",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayakhel",
+                    "heTitle": "ויקהל"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Cassuto on Exodus 38:21-40:38",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "parasha",
+                                "pekudei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "cassuto",
+                                "pekudei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pekudei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pekudei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פקודי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pekudei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פקודי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pikudei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Pekudei",
+                    "heTitle": "פקודי"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "קאסוטו על שמות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Cassuto on Exodus",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Cassuto on Exodus",
+            "heTitle": "קאסוטו על שמות"
+        }
+    },
     "heCategories": [
         "תנ\"ך",
         "פירושים מודרניים על התנ״ך"

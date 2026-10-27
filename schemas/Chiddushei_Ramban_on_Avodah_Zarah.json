@@ -4,7 +4,7 @@
         "Talmud",
         "Bavli",
         "Rishonim on Talmud",
-        "Ramban",
+        "Chiddushei Ramban",
         "Seder Nezikin"
     ],
     "schema": {
@@ -59,9 +59,12 @@
         ],
         "key": "Chiddushei Ramban on Avodah Zarah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -83,8 +86,8 @@
     ],
     "base_text_mapping": null,
     "collective_title": {
-        "en": "Ramban",
-        "he": "רמב\"ן"
+        "en": "Chiddushei Ramban",
+        "he": "חידושי רמב״ן"
     },
     "heTitle": "חידושי רמב\"ן על עבודה זרה",
     "titleVariants": [
@@ -93,6 +96,796 @@
     "heTitleVariants": [
         "חידושי רמב\"ן על עבודה זרה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Avodah Zarah 9b:1-22a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; Lifnei Eideihen",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "לפני אידיהן",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Lifnei Eideihen",
+                    "heTitle": "לפני אידיהן",
+                    "refs": [
+                        "Chiddushei Ramban on Avodah Zarah 9b:1",
+                        "Chiddushei Ramban on Avodah Zarah 10a",
+                        "Chiddushei Ramban on Avodah Zarah 10b",
+                        "Chiddushei Ramban on Avodah Zarah 11a",
+                        "Chiddushei Ramban on Avodah Zarah 11b",
+                        "Chiddushei Ramban on Avodah Zarah 12a",
+                        "Chiddushei Ramban on Avodah Zarah 12b",
+                        "Chiddushei Ramban on Avodah Zarah 13a",
+                        "Chiddushei Ramban on Avodah Zarah 13b",
+                        "Chiddushei Ramban on Avodah Zarah 14a",
+                        "Chiddushei Ramban on Avodah Zarah 14b",
+                        "Chiddushei Ramban on Avodah Zarah 15a",
+                        "Chiddushei Ramban on Avodah Zarah 15b",
+                        "Chiddushei Ramban on Avodah Zarah 16a",
+                        "Chiddushei Ramban on Avodah Zarah 16b",
+                        "Chiddushei Ramban on Avodah Zarah 17a",
+                        "Chiddushei Ramban on Avodah Zarah 17b",
+                        "Chiddushei Ramban on Avodah Zarah 18a",
+                        "Chiddushei Ramban on Avodah Zarah 18b",
+                        "Chiddushei Ramban on Avodah Zarah 19a",
+                        "Chiddushei Ramban on Avodah Zarah 19b",
+                        "Chiddushei Ramban on Avodah Zarah 20a",
+                        "Chiddushei Ramban on Avodah Zarah 20b",
+                        "Chiddushei Ramban on Avodah Zarah 21a",
+                        "Chiddushei Ramban on Avodah Zarah 21b",
+                        "Chiddushei Ramban on Avodah Zarah 22a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 17
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Avodah Zarah 25b:1-40a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Ein Ma'amidin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "אין מעמידין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Ein Ma'amidin",
+                    "heTitle": "אין מעמידין",
+                    "refs": [
+                        "Chiddushei Ramban on Avodah Zarah 25b:1",
+                        "Chiddushei Ramban on Avodah Zarah 26a",
+                        "Chiddushei Ramban on Avodah Zarah 26b",
+                        "Chiddushei Ramban on Avodah Zarah 27a",
+                        "Chiddushei Ramban on Avodah Zarah 27b",
+                        "Chiddushei Ramban on Avodah Zarah 28a",
+                        "Chiddushei Ramban on Avodah Zarah 28b",
+                        "Chiddushei Ramban on Avodah Zarah 29a",
+                        "Chiddushei Ramban on Avodah Zarah 29b",
+                        "Chiddushei Ramban on Avodah Zarah 30a",
+                        "Chiddushei Ramban on Avodah Zarah 30b",
+                        "Chiddushei Ramban on Avodah Zarah 31a",
+                        "Chiddushei Ramban on Avodah Zarah 31b",
+                        "Chiddushei Ramban on Avodah Zarah 32a",
+                        "Chiddushei Ramban on Avodah Zarah 32b",
+                        "Chiddushei Ramban on Avodah Zarah 33a",
+                        "Chiddushei Ramban on Avodah Zarah 33b",
+                        "Chiddushei Ramban on Avodah Zarah 34a",
+                        "Chiddushei Ramban on Avodah Zarah 34b",
+                        "Chiddushei Ramban on Avodah Zarah 35a",
+                        "Chiddushei Ramban on Avodah Zarah 35b",
+                        "Chiddushei Ramban on Avodah Zarah 36a",
+                        "Chiddushei Ramban on Avodah Zarah 36b",
+                        "Chiddushei Ramban on Avodah Zarah 37a",
+                        "Chiddushei Ramban on Avodah Zarah 37b",
+                        "Chiddushei Ramban on Avodah Zarah 38a",
+                        "Chiddushei Ramban on Avodah Zarah 38b",
+                        "Chiddushei Ramban on Avodah Zarah 39a",
+                        "Chiddushei Ramban on Avodah Zarah 39b",
+                        "Chiddushei Ramban on Avodah Zarah 40a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 49
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Avodah Zarah 40b:1-49b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; Kol HaTzelamim",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "כל הצלמים",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Kol HaTzelamim",
+                    "heTitle": "כל הצלמים",
+                    "refs": [
+                        "Chiddushei Ramban on Avodah Zarah 40b:1",
+                        "Chiddushei Ramban on Avodah Zarah 41a",
+                        "Chiddushei Ramban on Avodah Zarah 41b",
+                        "Chiddushei Ramban on Avodah Zarah 42a",
+                        "Chiddushei Ramban on Avodah Zarah 42b",
+                        "Chiddushei Ramban on Avodah Zarah 43a",
+                        "Chiddushei Ramban on Avodah Zarah 43b",
+                        "Chiddushei Ramban on Avodah Zarah 44a",
+                        "Chiddushei Ramban on Avodah Zarah 44b",
+                        "Chiddushei Ramban on Avodah Zarah 45a",
+                        "Chiddushei Ramban on Avodah Zarah 45b",
+                        "Chiddushei Ramban on Avodah Zarah 46a",
+                        "Chiddushei Ramban on Avodah Zarah 46b",
+                        "Chiddushei Ramban on Avodah Zarah 47a",
+                        "Chiddushei Ramban on Avodah Zarah 47b",
+                        "Chiddushei Ramban on Avodah Zarah 48a",
+                        "Chiddushei Ramban on Avodah Zarah 48b",
+                        "Chiddushei Ramban on Avodah Zarah 49a",
+                        "Chiddushei Ramban on Avodah Zarah 49b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 79
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Avodah Zarah 50a:1-61b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 4; Rabbi Yishmael",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "רבי ישמעאל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Rabbi Yishmael",
+                    "heTitle": "רבי ישמעאל",
+                    "refs": [
+                        "Chiddushei Ramban on Avodah Zarah 50a:1",
+                        "Chiddushei Ramban on Avodah Zarah 50b",
+                        "Chiddushei Ramban on Avodah Zarah 51a",
+                        "Chiddushei Ramban on Avodah Zarah 51b",
+                        "Chiddushei Ramban on Avodah Zarah 52a",
+                        "Chiddushei Ramban on Avodah Zarah 52b",
+                        "Chiddushei Ramban on Avodah Zarah 53a",
+                        "Chiddushei Ramban on Avodah Zarah 53b",
+                        "Chiddushei Ramban on Avodah Zarah 54a",
+                        "Chiddushei Ramban on Avodah Zarah 54b",
+                        "Chiddushei Ramban on Avodah Zarah 55a",
+                        "Chiddushei Ramban on Avodah Zarah 55b",
+                        "Chiddushei Ramban on Avodah Zarah 56a",
+                        "Chiddushei Ramban on Avodah Zarah 56b",
+                        "Chiddushei Ramban on Avodah Zarah 57a",
+                        "Chiddushei Ramban on Avodah Zarah 57b",
+                        "Chiddushei Ramban on Avodah Zarah 58a",
+                        "Chiddushei Ramban on Avodah Zarah 58b",
+                        "Chiddushei Ramban on Avodah Zarah 59a",
+                        "Chiddushei Ramban on Avodah Zarah 59b",
+                        "Chiddushei Ramban on Avodah Zarah 60a",
+                        "Chiddushei Ramban on Avodah Zarah 60b",
+                        "Chiddushei Ramban on Avodah Zarah 61a",
+                        "Chiddushei Ramban on Avodah Zarah 61b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 98
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Avodah Zarah 62a:1-74b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5; HaSokher et HaPoel",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "השוכר את הפועל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5; HaSokher et HaPoel",
+                    "heTitle": "השוכר את הפועל",
+                    "refs": [
+                        "Chiddushei Ramban on Avodah Zarah 62a:1-2",
+                        "Chiddushei Ramban on Avodah Zarah 62b",
+                        "Chiddushei Ramban on Avodah Zarah 63a",
+                        "Chiddushei Ramban on Avodah Zarah 63b",
+                        "Chiddushei Ramban on Avodah Zarah 64a",
+                        "Chiddushei Ramban on Avodah Zarah 64b",
+                        "Chiddushei Ramban on Avodah Zarah 65a",
+                        "Chiddushei Ramban on Avodah Zarah 65b",
+                        "Chiddushei Ramban on Avodah Zarah 66a",
+                        "Chiddushei Ramban on Avodah Zarah 66b",
+                        "Chiddushei Ramban on Avodah Zarah 67a",
+                        "Chiddushei Ramban on Avodah Zarah 67b",
+                        "Chiddushei Ramban on Avodah Zarah 68a",
+                        "Chiddushei Ramban on Avodah Zarah 68b",
+                        "Chiddushei Ramban on Avodah Zarah 69a",
+                        "Chiddushei Ramban on Avodah Zarah 69b",
+                        "Chiddushei Ramban on Avodah Zarah 70a",
+                        "Chiddushei Ramban on Avodah Zarah 70b",
+                        "Chiddushei Ramban on Avodah Zarah 71a",
+                        "Chiddushei Ramban on Avodah Zarah 71b",
+                        "Chiddushei Ramban on Avodah Zarah 72a",
+                        "Chiddushei Ramban on Avodah Zarah 72b",
+                        "Chiddushei Ramban on Avodah Zarah 73a",
+                        "Chiddushei Ramban on Avodah Zarah 73b",
+                        "Chiddushei Ramban on Avodah Zarah 74a",
+                        "Chiddushei Ramban on Avodah Zarah 74b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 122
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "חידושי רמב\"ן על עבודה זרה",
+                    "primary": true
+                },
+                {
+                    "text": "Chiddushei Ramban on Avodah Zarah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Ramban on Avodah Zarah",
+            "heTitle": "חידושי רמב\"ן על עבודה זרה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
@@ -102,7 +895,7 @@
         "תלמוד",
         "בבלי",
         "ראשונים על התלמוד",
-        "רמב\"ן",
+        "חידושי רמב״ן",
         "סדר נזיקין"
     ],
     "compDateString": {

@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ben-yehoyada",
+                    "taanit1"
+                ]
+            }
+        ],
         "lengths": [
             61,
             268
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Ben Yehoyada on Taanit"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yosef Hayyim",
@@ -88,6 +98,604 @@
     "heTitleVariants": [
         "בן יהוידע על תענית"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Taanit 2a:1-15a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; MeEimatai Mazkirin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מאימתי מזכירין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; MeEimatai Mazkirin",
+                    "heTitle": "מאימתי מזכירין",
+                    "refs": [
+                        "Ben Yehoyada on Taanit 2a:1-4",
+                        "Ben Yehoyada on Taanit 2b",
+                        "Ben Yehoyada on Taanit 3a",
+                        "Ben Yehoyada on Taanit 3b",
+                        "Ben Yehoyada on Taanit 4a",
+                        "Ben Yehoyada on Taanit 4b",
+                        "Ben Yehoyada on Taanit 5a",
+                        "Ben Yehoyada on Taanit 5b",
+                        "Ben Yehoyada on Taanit 6a",
+                        "Ben Yehoyada on Taanit 6b",
+                        "Ben Yehoyada on Taanit 7a",
+                        "Ben Yehoyada on Taanit 7b",
+                        "Ben Yehoyada on Taanit 8a",
+                        "Ben Yehoyada on Taanit 8b",
+                        "Ben Yehoyada on Taanit 9a",
+                        "Ben Yehoyada on Taanit 9b",
+                        "Ben Yehoyada on Taanit 10a",
+                        "Ben Yehoyada on Taanit 10b",
+                        "Ben Yehoyada on Taanit 11a",
+                        "Ben Yehoyada on Taanit 11b",
+                        "Ben Yehoyada on Taanit 12a",
+                        "Ben Yehoyada on Taanit 12b",
+                        "Ben Yehoyada on Taanit 13a",
+                        "Ben Yehoyada on Taanit 13b",
+                        "Ben Yehoyada on Taanit 14a",
+                        "Ben Yehoyada on Taanit 14b",
+                        "Ben Yehoyada on Taanit 15a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Taanit 15b:1-18b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 2; Seder Ta'anit",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "סדר תעניות כיצד",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Seder Ta'anit",
+                    "heTitle": "סדר תעניות כיצד",
+                    "refs": [
+                        "Ben Yehoyada on Taanit 15b:1",
+                        "Ben Yehoyada on Taanit 16a",
+                        "Ben Yehoyada on Taanit 16b",
+                        "Ben Yehoyada on Taanit 17a",
+                        "Ben Yehoyada on Taanit 17b",
+                        "Ben Yehoyada on Taanit 18a",
+                        "Ben Yehoyada on Taanit 18b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 29
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Taanit 19b:1-26a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 3; Seder Ta'aniyot Elu",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "סדר תעניות אלו",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Seder Ta'aniyot Elu",
+                    "heTitle": "סדר תעניות אלו",
+                    "refs": [
+                        "Ben Yehoyada on Taanit 19b:1-2",
+                        "Ben Yehoyada on Taanit 20a",
+                        "Ben Yehoyada on Taanit 20b",
+                        "Ben Yehoyada on Taanit 21a",
+                        "Ben Yehoyada on Taanit 21b",
+                        "Ben Yehoyada on Taanit 22a",
+                        "Ben Yehoyada on Taanit 22b",
+                        "Ben Yehoyada on Taanit 23a",
+                        "Ben Yehoyada on Taanit 23b",
+                        "Ben Yehoyada on Taanit 24a",
+                        "Ben Yehoyada on Taanit 24b",
+                        "Ben Yehoyada on Taanit 25a",
+                        "Ben Yehoyada on Taanit 25b",
+                        "Ben Yehoyada on Taanit 26a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 37
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Taanit 26a:2-31a:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-427"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 4; BiShloshah Perakim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בשלשה פרקים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; BiShloshah Perakim",
+                    "heTitle": "בשלשה פרקים",
+                    "refs": [
+                        "Ben Yehoyada on Taanit 26a:2-3",
+                        "Ben Yehoyada on Taanit 26b",
+                        "Ben Yehoyada on Taanit 27a",
+                        "Ben Yehoyada on Taanit 27b",
+                        "Ben Yehoyada on Taanit 28a",
+                        "Ben Yehoyada on Taanit 28b",
+                        "Ben Yehoyada on Taanit 29a",
+                        "Ben Yehoyada on Taanit 29b",
+                        "Ben Yehoyada on Taanit 30a",
+                        "Ben Yehoyada on Taanit 30b",
+                        "Ben Yehoyada on Taanit 31a:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 50
+                }
+            ],
+            "titles": [
+                {
+                    "text": "בן יהוידע על תענית",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Ben Yehoyada on Taanit",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Ben Yehoyada on Taanit",
+            "heTitle": "בן יהוידע על תענית"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

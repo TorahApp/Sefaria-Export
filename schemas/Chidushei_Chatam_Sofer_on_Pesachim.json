@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chatam-sofer",
+                    "pesachim"
+                ]
+            }
+        ],
         "lengths": [
             242,
             398
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,9 +57,12 @@
         ],
         "key": "Chidushei Chatam Sofer on Pesachim"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Moses Sofer",
+            "en": "Moses Sofer (Chatam Sofer)",
             "he": "משה סופר",
             "slug": "moses-sofer"
         }
@@ -86,6 +96,1313 @@
     "heTitleVariants": [
         "חידושי חתם סופר על פסחים"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 2a:1-13a:10",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-129"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; Or LeArba'ah Asar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אור לארבעה עשר",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Or LeArba'ah Asar",
+                    "heTitle": "אור לארבעה עשר",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 2a:1-4",
+                        "Chidushei Chatam Sofer on Pesachim 2b",
+                        "Chidushei Chatam Sofer on Pesachim 3a",
+                        "Chidushei Chatam Sofer on Pesachim 3b",
+                        "Chidushei Chatam Sofer on Pesachim 4a",
+                        "Chidushei Chatam Sofer on Pesachim 4b",
+                        "Chidushei Chatam Sofer on Pesachim 5a",
+                        "Chidushei Chatam Sofer on Pesachim 5b",
+                        "Chidushei Chatam Sofer on Pesachim 6a",
+                        "Chidushei Chatam Sofer on Pesachim 6b",
+                        "Chidushei Chatam Sofer on Pesachim 7a",
+                        "Chidushei Chatam Sofer on Pesachim 7b",
+                        "Chidushei Chatam Sofer on Pesachim 8a",
+                        "Chidushei Chatam Sofer on Pesachim 8b",
+                        "Chidushei Chatam Sofer on Pesachim 9a",
+                        "Chidushei Chatam Sofer on Pesachim 9b",
+                        "Chidushei Chatam Sofer on Pesachim 10a",
+                        "Chidushei Chatam Sofer on Pesachim 10b",
+                        "Chidushei Chatam Sofer on Pesachim 11a",
+                        "Chidushei Chatam Sofer on Pesachim 11b",
+                        "Chidushei Chatam Sofer on Pesachim 12a",
+                        "Chidushei Chatam Sofer on Pesachim 12b",
+                        "Chidushei Chatam Sofer on Pesachim 13a:1-10"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 21a:1-40b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-224"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 2; Kol Sha'ah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כל שעה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Kol Sha'ah",
+                    "heTitle": "כל שעה",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 21a:1-2",
+                        "Chidushei Chatam Sofer on Pesachim 21b",
+                        "Chidushei Chatam Sofer on Pesachim 22a",
+                        "Chidushei Chatam Sofer on Pesachim 22b",
+                        "Chidushei Chatam Sofer on Pesachim 23a",
+                        "Chidushei Chatam Sofer on Pesachim 23b",
+                        "Chidushei Chatam Sofer on Pesachim 24a",
+                        "Chidushei Chatam Sofer on Pesachim 24b",
+                        "Chidushei Chatam Sofer on Pesachim 25a",
+                        "Chidushei Chatam Sofer on Pesachim 25b",
+                        "Chidushei Chatam Sofer on Pesachim 26a",
+                        "Chidushei Chatam Sofer on Pesachim 26b",
+                        "Chidushei Chatam Sofer on Pesachim 27a",
+                        "Chidushei Chatam Sofer on Pesachim 27b",
+                        "Chidushei Chatam Sofer on Pesachim 28a",
+                        "Chidushei Chatam Sofer on Pesachim 28b",
+                        "Chidushei Chatam Sofer on Pesachim 29a",
+                        "Chidushei Chatam Sofer on Pesachim 29b",
+                        "Chidushei Chatam Sofer on Pesachim 30a",
+                        "Chidushei Chatam Sofer on Pesachim 30b",
+                        "Chidushei Chatam Sofer on Pesachim 31a",
+                        "Chidushei Chatam Sofer on Pesachim 31b",
+                        "Chidushei Chatam Sofer on Pesachim 32a",
+                        "Chidushei Chatam Sofer on Pesachim 32b",
+                        "Chidushei Chatam Sofer on Pesachim 33a",
+                        "Chidushei Chatam Sofer on Pesachim 33b",
+                        "Chidushei Chatam Sofer on Pesachim 34a",
+                        "Chidushei Chatam Sofer on Pesachim 34b",
+                        "Chidushei Chatam Sofer on Pesachim 35a",
+                        "Chidushei Chatam Sofer on Pesachim 35b",
+                        "Chidushei Chatam Sofer on Pesachim 36a",
+                        "Chidushei Chatam Sofer on Pesachim 36b",
+                        "Chidushei Chatam Sofer on Pesachim 37a",
+                        "Chidushei Chatam Sofer on Pesachim 37b",
+                        "Chidushei Chatam Sofer on Pesachim 38a",
+                        "Chidushei Chatam Sofer on Pesachim 38b",
+                        "Chidushei Chatam Sofer on Pesachim 39a",
+                        "Chidushei Chatam Sofer on Pesachim 39b",
+                        "Chidushei Chatam Sofer on Pesachim 40a",
+                        "Chidushei Chatam Sofer on Pesachim 40b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 40
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 45a:1-50a:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-324"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 3; Ellu Ovrim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אלו עוברין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Ellu Ovrim",
+                    "heTitle": "אלו עוברין",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 45a:1-2",
+                        "Chidushei Chatam Sofer on Pesachim 45b",
+                        "Chidushei Chatam Sofer on Pesachim 46a",
+                        "Chidushei Chatam Sofer on Pesachim 46b",
+                        "Chidushei Chatam Sofer on Pesachim 47a",
+                        "Chidushei Chatam Sofer on Pesachim 47b",
+                        "Chidushei Chatam Sofer on Pesachim 48a",
+                        "Chidushei Chatam Sofer on Pesachim 48b",
+                        "Chidushei Chatam Sofer on Pesachim 49a",
+                        "Chidushei Chatam Sofer on Pesachim 49b",
+                        "Chidushei Chatam Sofer on Pesachim 50a:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 88
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 50a:7-57b:13",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-420"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 4; Makom SheNahagu",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מקום שנהגו",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Makom SheNahagu",
+                    "heTitle": "מקום שנהגו",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 50a:7-14",
+                        "Chidushei Chatam Sofer on Pesachim 50b",
+                        "Chidushei Chatam Sofer on Pesachim 51a",
+                        "Chidushei Chatam Sofer on Pesachim 51b",
+                        "Chidushei Chatam Sofer on Pesachim 52a",
+                        "Chidushei Chatam Sofer on Pesachim 52b",
+                        "Chidushei Chatam Sofer on Pesachim 53a",
+                        "Chidushei Chatam Sofer on Pesachim 53b",
+                        "Chidushei Chatam Sofer on Pesachim 54a",
+                        "Chidushei Chatam Sofer on Pesachim 54b",
+                        "Chidushei Chatam Sofer on Pesachim 55a",
+                        "Chidushei Chatam Sofer on Pesachim 55b",
+                        "Chidushei Chatam Sofer on Pesachim 56a",
+                        "Chidushei Chatam Sofer on Pesachim 56b",
+                        "Chidushei Chatam Sofer on Pesachim 57a",
+                        "Chidushei Chatam Sofer on Pesachim 57b:1-13"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 98
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 61b:1-7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-518"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 5; Tamid Nishchat",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תמיד נשחט",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5; Tamid Nishchat",
+                    "heTitle": "תמיד נשחט",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 61b:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 121
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 74a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-616"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 6; Ellu Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אלו דברים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 6; Ellu Devarim",
+                    "heTitle": "אלו דברים",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 74a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 146
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 74a:2-74b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-714"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 7; Keitzad Tzolin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כיצד צולין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 7; Keitzad Tzolin",
+                    "heTitle": "כיצד צולין",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 74a:2-14",
+                        "Chidushei Chatam Sofer on Pesachim 74b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 146
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 88b:1-6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-814"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 8; HaIshah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "האשה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 8; HaIshah",
+                    "heTitle": "האשה",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 88b:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 175
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Pesachim 99b:1-120b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "tenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 10,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 10; Arvei Pesachim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ערבי פסחים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 10; Arvei Pesachim",
+                    "heTitle": "ערבי פסחים",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Pesachim 99b:1-6",
+                        "Chidushei Chatam Sofer on Pesachim 100a",
+                        "Chidushei Chatam Sofer on Pesachim 100b",
+                        "Chidushei Chatam Sofer on Pesachim 101a",
+                        "Chidushei Chatam Sofer on Pesachim 101b",
+                        "Chidushei Chatam Sofer on Pesachim 102a",
+                        "Chidushei Chatam Sofer on Pesachim 102b",
+                        "Chidushei Chatam Sofer on Pesachim 103a",
+                        "Chidushei Chatam Sofer on Pesachim 103b",
+                        "Chidushei Chatam Sofer on Pesachim 104a",
+                        "Chidushei Chatam Sofer on Pesachim 104b",
+                        "Chidushei Chatam Sofer on Pesachim 105a",
+                        "Chidushei Chatam Sofer on Pesachim 105b",
+                        "Chidushei Chatam Sofer on Pesachim 106a",
+                        "Chidushei Chatam Sofer on Pesachim 106b",
+                        "Chidushei Chatam Sofer on Pesachim 107a",
+                        "Chidushei Chatam Sofer on Pesachim 107b",
+                        "Chidushei Chatam Sofer on Pesachim 108a",
+                        "Chidushei Chatam Sofer on Pesachim 108b",
+                        "Chidushei Chatam Sofer on Pesachim 109a",
+                        "Chidushei Chatam Sofer on Pesachim 109b",
+                        "Chidushei Chatam Sofer on Pesachim 110a",
+                        "Chidushei Chatam Sofer on Pesachim 110b",
+                        "Chidushei Chatam Sofer on Pesachim 111a",
+                        "Chidushei Chatam Sofer on Pesachim 111b",
+                        "Chidushei Chatam Sofer on Pesachim 112a",
+                        "Chidushei Chatam Sofer on Pesachim 112b",
+                        "Chidushei Chatam Sofer on Pesachim 113a",
+                        "Chidushei Chatam Sofer on Pesachim 113b",
+                        "Chidushei Chatam Sofer on Pesachim 114a",
+                        "Chidushei Chatam Sofer on Pesachim 114b",
+                        "Chidushei Chatam Sofer on Pesachim 115a",
+                        "Chidushei Chatam Sofer on Pesachim 115b",
+                        "Chidushei Chatam Sofer on Pesachim 116a",
+                        "Chidushei Chatam Sofer on Pesachim 116b",
+                        "Chidushei Chatam Sofer on Pesachim 117a",
+                        "Chidushei Chatam Sofer on Pesachim 117b",
+                        "Chidushei Chatam Sofer on Pesachim 118a",
+                        "Chidushei Chatam Sofer on Pesachim 118b",
+                        "Chidushei Chatam Sofer on Pesachim 119a",
+                        "Chidushei Chatam Sofer on Pesachim 119b",
+                        "Chidushei Chatam Sofer on Pesachim 120a",
+                        "Chidushei Chatam Sofer on Pesachim 120b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 197
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי חתם סופר על פסחים",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Chidushei Chatam Sofer on Pesachim",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Chatam Sofer on Pesachim",
+            "heTitle": "חידושי חתם סופר על פסחים"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

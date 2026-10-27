@@ -120,6 +120,9 @@
         ],
         "key": "Rashbam on Pesachim"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Rashbam",
@@ -172,6 +175,214 @@
     "heTitleVariants": [
         "רשב\"ם על פסחים"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Pesachim 99b:1:1-121b:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "perek",
+                                "tenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "talmud",
+                                "bavli",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "bavli",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "talmud",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "gemara",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "bavli",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "talmud",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "gemara",
+                                "perek",
+                                "chapter-109"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 10,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 10; Arvei Pesachim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ערבי פסחים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 10; Arvei Pesachim",
+                    "heTitle": "ערבי פסחים"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Masekhet Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Talmud Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Tractate Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Pesahim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Masekhet Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Talmud Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Tractate Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Pesahim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Masekhet Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Talmud Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Tractate Pesachim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Pesahim"
+                },
+                {
+                    "lang": "he",
+                    "text": "רשב\"ם על פסחים",
+                    "primary": true
+                },
+                {
+                    "text": "Rashbam on Pesachim",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Rashbam on Pesachim",
+            "heTitle": "רשב\"ם על פסחים"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line",

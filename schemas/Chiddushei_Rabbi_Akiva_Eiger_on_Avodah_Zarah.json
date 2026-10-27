@@ -59,6 +59,9 @@
         ],
         "key": "Chiddushei Rabbi Akiva Eiger on Avodah Zarah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Akiva Eiger",
@@ -93,6 +96,168 @@
     "heTitleVariants": [
         "חידושי רבי עקיבא איגר על מסכת עבודה זרה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Rabbi Akiva Eiger on Avodah Zarah 63a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "gemara",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "gemara",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5; HaSokher et HaPoel",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "השוכר את הפועל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5; HaSokher et HaPoel",
+                    "heTitle": "השוכר את הפועל",
+                    "refs": [
+                        "Chiddushei Rabbi Akiva Eiger on Avodah Zarah 63a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 124
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "חידושי רבי עקיבא איגר על מסכת עבודה זרה"
+                },
+                {
+                    "text": "Chiddushei Rabbi Akiva Eiger on Avodah Zarah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Rabbi Akiva Eiger on Avodah Zarah",
+            "heTitle": "חידושי רבי עקיבא איגר על מסכת עבודה זרה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

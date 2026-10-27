@@ -4,7 +4,7 @@
         "Talmud",
         "Bavli",
         "Rishonim on Talmud",
-        "Ramban",
+        "Chiddushei Ramban",
         "Seder Kodashim"
     ],
     "schema": {
@@ -59,9 +59,12 @@
         ],
         "key": "Chiddushei Ramban on Chullin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -82,8 +85,8 @@
         }
     ],
     "collective_title": {
-        "en": "Ramban",
-        "he": "רמב\"ן"
+        "en": "Chiddushei Ramban",
+        "he": "חידושי רמב״ן"
     },
     "heTitle": "חידושי רמב\"ן על חולין",
     "titleVariants": [
@@ -92,6 +95,1099 @@
     "heTitleVariants": [
         "חידושי רמב\"ן על חולין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Chullin 2a:1-26b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; HaKol Shochatin",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הכל שוחטין",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; HaKol Shochatin",
+                    "heTitle": "הכל שוחטין",
+                    "refs": [
+                        "Chiddushei Ramban on Chullin 2a:1-5",
+                        "Chiddushei Ramban on Chullin 2b",
+                        "Chiddushei Ramban on Chullin 3a",
+                        "Chiddushei Ramban on Chullin 3b",
+                        "Chiddushei Ramban on Chullin 4a",
+                        "Chiddushei Ramban on Chullin 4b",
+                        "Chiddushei Ramban on Chullin 5a",
+                        "Chiddushei Ramban on Chullin 5b",
+                        "Chiddushei Ramban on Chullin 6a",
+                        "Chiddushei Ramban on Chullin 6b",
+                        "Chiddushei Ramban on Chullin 7a",
+                        "Chiddushei Ramban on Chullin 7b",
+                        "Chiddushei Ramban on Chullin 8a",
+                        "Chiddushei Ramban on Chullin 8b",
+                        "Chiddushei Ramban on Chullin 9a",
+                        "Chiddushei Ramban on Chullin 9b",
+                        "Chiddushei Ramban on Chullin 10a",
+                        "Chiddushei Ramban on Chullin 10b",
+                        "Chiddushei Ramban on Chullin 11a",
+                        "Chiddushei Ramban on Chullin 11b",
+                        "Chiddushei Ramban on Chullin 12a",
+                        "Chiddushei Ramban on Chullin 12b",
+                        "Chiddushei Ramban on Chullin 13a",
+                        "Chiddushei Ramban on Chullin 13b",
+                        "Chiddushei Ramban on Chullin 14a",
+                        "Chiddushei Ramban on Chullin 14b",
+                        "Chiddushei Ramban on Chullin 15a",
+                        "Chiddushei Ramban on Chullin 15b",
+                        "Chiddushei Ramban on Chullin 16a",
+                        "Chiddushei Ramban on Chullin 16b",
+                        "Chiddushei Ramban on Chullin 17a",
+                        "Chiddushei Ramban on Chullin 17b",
+                        "Chiddushei Ramban on Chullin 18a",
+                        "Chiddushei Ramban on Chullin 18b",
+                        "Chiddushei Ramban on Chullin 19a",
+                        "Chiddushei Ramban on Chullin 19b",
+                        "Chiddushei Ramban on Chullin 20a",
+                        "Chiddushei Ramban on Chullin 20b",
+                        "Chiddushei Ramban on Chullin 21a",
+                        "Chiddushei Ramban on Chullin 21b",
+                        "Chiddushei Ramban on Chullin 22a",
+                        "Chiddushei Ramban on Chullin 22b",
+                        "Chiddushei Ramban on Chullin 23a",
+                        "Chiddushei Ramban on Chullin 23b",
+                        "Chiddushei Ramban on Chullin 24a",
+                        "Chiddushei Ramban on Chullin 24b",
+                        "Chiddushei Ramban on Chullin 25a",
+                        "Chiddushei Ramban on Chullin 25b",
+                        "Chiddushei Ramban on Chullin 26a",
+                        "Chiddushei Ramban on Chullin 26b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Chullin 27a:1-40b:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-29"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; HaShochet",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "השוחט",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; HaShochet",
+                    "heTitle": "השוחט",
+                    "refs": [
+                        "Chiddushei Ramban on Chullin 27a:1-4",
+                        "Chiddushei Ramban on Chullin 27b",
+                        "Chiddushei Ramban on Chullin 28a",
+                        "Chiddushei Ramban on Chullin 28b",
+                        "Chiddushei Ramban on Chullin 29a",
+                        "Chiddushei Ramban on Chullin 29b",
+                        "Chiddushei Ramban on Chullin 30a",
+                        "Chiddushei Ramban on Chullin 30b",
+                        "Chiddushei Ramban on Chullin 31a",
+                        "Chiddushei Ramban on Chullin 31b",
+                        "Chiddushei Ramban on Chullin 32a",
+                        "Chiddushei Ramban on Chullin 32b",
+                        "Chiddushei Ramban on Chullin 33a",
+                        "Chiddushei Ramban on Chullin 33b",
+                        "Chiddushei Ramban on Chullin 34a",
+                        "Chiddushei Ramban on Chullin 34b",
+                        "Chiddushei Ramban on Chullin 35a",
+                        "Chiddushei Ramban on Chullin 35b",
+                        "Chiddushei Ramban on Chullin 36a",
+                        "Chiddushei Ramban on Chullin 36b",
+                        "Chiddushei Ramban on Chullin 37a",
+                        "Chiddushei Ramban on Chullin 37b",
+                        "Chiddushei Ramban on Chullin 38a",
+                        "Chiddushei Ramban on Chullin 38b",
+                        "Chiddushei Ramban on Chullin 39a",
+                        "Chiddushei Ramban on Chullin 39b",
+                        "Chiddushei Ramban on Chullin 40a",
+                        "Chiddushei Ramban on Chullin 40b:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 52
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Chullin 42a:1-67b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-39"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; Ellu Terefot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "אלו טרפות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; Ellu Terefot",
+                    "heTitle": "אלו טרפות",
+                    "refs": [
+                        "Chiddushei Ramban on Chullin 42a:1",
+                        "Chiddushei Ramban on Chullin 42b",
+                        "Chiddushei Ramban on Chullin 43a",
+                        "Chiddushei Ramban on Chullin 43b",
+                        "Chiddushei Ramban on Chullin 44a",
+                        "Chiddushei Ramban on Chullin 44b",
+                        "Chiddushei Ramban on Chullin 45a",
+                        "Chiddushei Ramban on Chullin 45b",
+                        "Chiddushei Ramban on Chullin 46a",
+                        "Chiddushei Ramban on Chullin 46b",
+                        "Chiddushei Ramban on Chullin 47a",
+                        "Chiddushei Ramban on Chullin 47b",
+                        "Chiddushei Ramban on Chullin 48a",
+                        "Chiddushei Ramban on Chullin 48b",
+                        "Chiddushei Ramban on Chullin 49a",
+                        "Chiddushei Ramban on Chullin 49b",
+                        "Chiddushei Ramban on Chullin 50a",
+                        "Chiddushei Ramban on Chullin 50b",
+                        "Chiddushei Ramban on Chullin 51a",
+                        "Chiddushei Ramban on Chullin 51b",
+                        "Chiddushei Ramban on Chullin 52a",
+                        "Chiddushei Ramban on Chullin 52b",
+                        "Chiddushei Ramban on Chullin 53a",
+                        "Chiddushei Ramban on Chullin 53b",
+                        "Chiddushei Ramban on Chullin 54a",
+                        "Chiddushei Ramban on Chullin 54b",
+                        "Chiddushei Ramban on Chullin 55a",
+                        "Chiddushei Ramban on Chullin 55b",
+                        "Chiddushei Ramban on Chullin 56a",
+                        "Chiddushei Ramban on Chullin 56b",
+                        "Chiddushei Ramban on Chullin 57a",
+                        "Chiddushei Ramban on Chullin 57b",
+                        "Chiddushei Ramban on Chullin 58a",
+                        "Chiddushei Ramban on Chullin 58b",
+                        "Chiddushei Ramban on Chullin 59a",
+                        "Chiddushei Ramban on Chullin 59b",
+                        "Chiddushei Ramban on Chullin 60a",
+                        "Chiddushei Ramban on Chullin 60b",
+                        "Chiddushei Ramban on Chullin 61a",
+                        "Chiddushei Ramban on Chullin 61b",
+                        "Chiddushei Ramban on Chullin 62a",
+                        "Chiddushei Ramban on Chullin 62b",
+                        "Chiddushei Ramban on Chullin 63a",
+                        "Chiddushei Ramban on Chullin 63b",
+                        "Chiddushei Ramban on Chullin 64a",
+                        "Chiddushei Ramban on Chullin 64b",
+                        "Chiddushei Ramban on Chullin 65a",
+                        "Chiddushei Ramban on Chullin 65b",
+                        "Chiddushei Ramban on Chullin 66a",
+                        "Chiddushei Ramban on Chullin 66b",
+                        "Chiddushei Ramban on Chullin 67a",
+                        "Chiddushei Ramban on Chullin 67b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 82
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Chullin 68a:1-77a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-48"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Behemah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "בהמה המקשה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Behemah",
+                    "heTitle": "בהמה המקשה",
+                    "refs": [
+                        "Chiddushei Ramban on Chullin 68a:1-2",
+                        "Chiddushei Ramban on Chullin 68b",
+                        "Chiddushei Ramban on Chullin 69a",
+                        "Chiddushei Ramban on Chullin 69b",
+                        "Chiddushei Ramban on Chullin 70a",
+                        "Chiddushei Ramban on Chullin 70b",
+                        "Chiddushei Ramban on Chullin 71a",
+                        "Chiddushei Ramban on Chullin 71b",
+                        "Chiddushei Ramban on Chullin 72a",
+                        "Chiddushei Ramban on Chullin 72b",
+                        "Chiddushei Ramban on Chullin 73a",
+                        "Chiddushei Ramban on Chullin 73b",
+                        "Chiddushei Ramban on Chullin 74a",
+                        "Chiddushei Ramban on Chullin 74b",
+                        "Chiddushei Ramban on Chullin 75a",
+                        "Chiddushei Ramban on Chullin 75b",
+                        "Chiddushei Ramban on Chullin 76a",
+                        "Chiddushei Ramban on Chullin 76b",
+                        "Chiddushei Ramban on Chullin 77a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 134
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Chullin 78a:1-83a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-58"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 5; Oto VeEt Beno",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "אותו ואת בנו",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; Oto VeEt Beno",
+                    "heTitle": "אותו ואת בנו",
+                    "refs": [
+                        "Chiddushei Ramban on Chullin 78a:1-3",
+                        "Chiddushei Ramban on Chullin 78b",
+                        "Chiddushei Ramban on Chullin 79a",
+                        "Chiddushei Ramban on Chullin 79b",
+                        "Chiddushei Ramban on Chullin 80a",
+                        "Chiddushei Ramban on Chullin 80b",
+                        "Chiddushei Ramban on Chullin 81a",
+                        "Chiddushei Ramban on Chullin 81b",
+                        "Chiddushei Ramban on Chullin 82a",
+                        "Chiddushei Ramban on Chullin 82b",
+                        "Chiddushei Ramban on Chullin 83a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 154
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Chullin 84a:1-88b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-66"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 6; Kissui HaDam",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כסוי הדם",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; Kissui HaDam",
+                    "heTitle": "כסוי הדם",
+                    "refs": [
+                        "Chiddushei Ramban on Chullin 84a:1-2",
+                        "Chiddushei Ramban on Chullin 84b",
+                        "Chiddushei Ramban on Chullin 85a",
+                        "Chiddushei Ramban on Chullin 85b",
+                        "Chiddushei Ramban on Chullin 86a",
+                        "Chiddushei Ramban on Chullin 86b",
+                        "Chiddushei Ramban on Chullin 87a",
+                        "Chiddushei Ramban on Chullin 87b",
+                        "Chiddushei Ramban on Chullin 88a",
+                        "Chiddushei Ramban on Chullin 88b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 166
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Chullin 89b:1-99b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-76"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 7; Gid HaNasheh",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "גיד הנשה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 7; Gid HaNasheh",
+                    "heTitle": "גיד הנשה",
+                    "refs": [
+                        "Chiddushei Ramban on Chullin 89b:1-2",
+                        "Chiddushei Ramban on Chullin 90a",
+                        "Chiddushei Ramban on Chullin 90b",
+                        "Chiddushei Ramban on Chullin 91a",
+                        "Chiddushei Ramban on Chullin 91b",
+                        "Chiddushei Ramban on Chullin 92a",
+                        "Chiddushei Ramban on Chullin 92b",
+                        "Chiddushei Ramban on Chullin 93a",
+                        "Chiddushei Ramban on Chullin 93b",
+                        "Chiddushei Ramban on Chullin 94a",
+                        "Chiddushei Ramban on Chullin 94b",
+                        "Chiddushei Ramban on Chullin 95a",
+                        "Chiddushei Ramban on Chullin 95b",
+                        "Chiddushei Ramban on Chullin 96a",
+                        "Chiddushei Ramban on Chullin 96b",
+                        "Chiddushei Ramban on Chullin 97a",
+                        "Chiddushei Ramban on Chullin 97b",
+                        "Chiddushei Ramban on Chullin 98a",
+                        "Chiddushei Ramban on Chullin 98b",
+                        "Chiddushei Ramban on Chullin 99a",
+                        "Chiddushei Ramban on Chullin 99b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 177
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "חידושי רמב\"ן על חולין"
+                },
+                {
+                    "text": "Chiddushei Ramban on Chullin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Ramban on Chullin",
+            "heTitle": "חידושי רמב\"ן על חולין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
@@ -101,7 +1197,7 @@
         "תלמוד",
         "בבלי",
         "ראשונים על התלמוד",
-        "רמב\"ן",
+        "חידושי רמב״ן",
         "סדר קדשים"
     ],
     "compDateString": {

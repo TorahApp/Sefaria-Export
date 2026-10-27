@@ -59,6 +59,9 @@
         ],
         "key": "Chiddushei Rabbi Akiva Eiger on Zevachim"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Akiva Eiger",
@@ -93,6 +96,153 @@
     "heTitleVariants": [
         "חידושי רבי עקיבא איגר על מסכת זבחים"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Rabbi Akiva Eiger on Zevachim 95b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "eleventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "bavli",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "bavli",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "gemara",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "bavli",
+                                "perek",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "perek",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "gemara",
+                                "perek",
+                                "chapter-1115"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 11,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 11; Dam Chatat",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "דם חטאת",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 11; Dam Chatat",
+                    "heTitle": "דם חטאת",
+                    "refs": [
+                        "Chiddushei Rabbi Akiva Eiger on Zevachim 95b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 189
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי רבי עקיבא איגר על מסכת זבחים",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Chiddushei Rabbi Akiva Eiger on Zevachim",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Rabbi Akiva Eiger on Zevachim",
+            "heTitle": "חידושי רבי עקיבא איגר על מסכת זבחים"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

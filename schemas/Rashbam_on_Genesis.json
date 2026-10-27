@@ -242,6 +242,9 @@
         ],
         "key": "Rashbam on Genesis"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Rashbam",
@@ -327,6 +330,870 @@
         "רשב”ם על בְּרֵאשִׁית",
         "רשב\"ם על בראשית"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 1:1:1-6:3:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bereshit",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Breishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereshis",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bereshit",
+                    "heTitle": "בראשית"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 6:9:1-11:4:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Noach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Noah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Noah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Noach",
+                    "heTitle": "נח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 12:3:1-15:16:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Lech Lecha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lekh Lekha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Lech Lecha",
+                    "heTitle": "לך לך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 18:1:1-22:14:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeira",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayera",
+                    "heTitle": "וירא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 23:1:1-25:18:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chayei Sara",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Chaye Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayye Sarah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chayei Sara",
+                    "heTitle": "חיי שרה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 25:19:1-28:9:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Toldot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Toldos",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Toldot",
+                    "heTitle": "תולדות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 28:10:1-32:2:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayetzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeitzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetzey",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayetzei",
+                    "heTitle": "ויצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 32:5:1-36:40:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayishlach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayishlach",
+                    "heTitle": "וישלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 37:1:1-40:23:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeshev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Veyeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayeshev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeshev",
+                    "heTitle": "וישב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 41:1:1-44:15:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Miketz",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מקץ",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מקץ",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Miketz",
+                    "heTitle": "מקץ"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 44:18:1-47:21:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayigash",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויגש",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויגש",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayigash",
+                    "heTitle": "ויגש"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Genesis 47:29:1-50:26:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "parasha",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayechi",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayehi",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayechi",
+                    "heTitle": "ויחי"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Bereshit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Gen"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Gen."
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Breishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Ber"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Bereishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Ber."
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Beresheet"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Bereshith"
+                },
+                {
+                    "lang": "en",
+                    "text": "Shumel ben Meir on Genesis"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Bereshit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Gen"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Gen."
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Breishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Ber"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Bereishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Ber."
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Beresheet"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Bereshith"
+                },
+                {
+                    "lang": "en",
+                    "text": "Samuel ben Meir on Genesis"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Bereshit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Gen"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Gen."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Breishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Ber"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Bereishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Ber."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Beresheet"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashbam on Bereshith"
+                },
+                {
+                    "lang": "he",
+                    "text": "רשב\"ם על ברא'"
+                },
+                {
+                    "lang": "he",
+                    "text": "רשב\"ם על בר'"
+                },
+                {
+                    "lang": "he",
+                    "text": "רשב\"ם על בר׳"
+                },
+                {
+                    "lang": "he",
+                    "text": "רשב\"ם על ברא׳"
+                },
+                {
+                    "lang": "he",
+                    "text": "רשב\"ם על בְּרֵאשִׁית"
+                },
+                {
+                    "text": "רשב״ם על בראשית",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב”ם על בראשית",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב״ם על ברא'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב”ם על ברא'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב״ם על בר'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב”ם על בר'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב״ם על בר׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב”ם על בר׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב״ם על ברא׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב”ם על ברא׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב״ם על בְּרֵאשִׁית",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב”ם על בְּרֵאשִׁית",
+                    "lang": "he"
+                },
+                {
+                    "text": "רשב\"ם על בראשית",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Rashbam on Genesis",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Rashbam on Genesis",
+            "heTitle": "רשב\"ם על בראשית"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

@@ -19,6 +19,24 @@
             "Mishnah",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "marit-haayin",
+                    "mishnah",
+                    "eduyot"
+                ]
+            }
+        ],
+        "lengths": [
+            8,
+            7,
+            8
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "primary": true,
@@ -42,7 +60,7 @@
     },
     "authors": [
         {
-            "en": "Hayyim Joseph David Azulai",
+            "en": "Hayyim Joseph David Azulai (Chida)",
             "he": "חיים דוד אזולאי",
             "slug": "hayyim-joseph-david-azulai"
         }

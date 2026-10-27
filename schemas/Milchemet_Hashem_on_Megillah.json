@@ -60,9 +60,12 @@
         ],
         "key": "Milchemet Hashem on Megillah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -101,6 +104,162 @@
     "heTitleVariants": [
         "מלחמת השם על מגילה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Megillah 1b:1-6a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Megillah Nikreit",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "מגילה נקראת",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Megillah Nikreit",
+                    "heTitle": "מגילה נקראת",
+                    "refs": [
+                        "Milchemet Hashem on Megillah 1b:1",
+                        "Milchemet Hashem on Megillah 2a",
+                        "Milchemet Hashem on Megillah 2b",
+                        "Milchemet Hashem on Megillah 3a",
+                        "Milchemet Hashem on Megillah 3b",
+                        "Milchemet Hashem on Megillah 4a",
+                        "Milchemet Hashem on Megillah 4b",
+                        "Milchemet Hashem on Megillah 5a",
+                        "Milchemet Hashem on Megillah 5b",
+                        "Milchemet Hashem on Megillah 6a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 1
+                }
+            ],
+            "titles": [
+                {
+                    "text": "מלחמת השם על מגילה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Milchemet Hashem on Megillah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Milchemet Hashem on Megillah",
+            "heTitle": "מלחמת השם על מגילה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

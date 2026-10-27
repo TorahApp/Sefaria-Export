@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ben-yehoyada",
+                    "avodah-zarah"
+                ]
+            }
+        ],
         "lengths": [
             152,
             158
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Ben Yehoyada on Avodah Zarah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yosef Hayyim",
@@ -88,6 +98,750 @@
     "heTitleVariants": [
         "בן יהוידע על עבודה זרה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Avodah Zarah 2a:1-20b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; Lifnei Eideihen",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "לפני אידיהן",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Lifnei Eideihen",
+                    "heTitle": "לפני אידיהן",
+                    "refs": [
+                        "Ben Yehoyada on Avodah Zarah 2a:1-3",
+                        "Ben Yehoyada on Avodah Zarah 2b",
+                        "Ben Yehoyada on Avodah Zarah 3a",
+                        "Ben Yehoyada on Avodah Zarah 3b",
+                        "Ben Yehoyada on Avodah Zarah 4a",
+                        "Ben Yehoyada on Avodah Zarah 4b",
+                        "Ben Yehoyada on Avodah Zarah 5a",
+                        "Ben Yehoyada on Avodah Zarah 5b",
+                        "Ben Yehoyada on Avodah Zarah 6a",
+                        "Ben Yehoyada on Avodah Zarah 6b",
+                        "Ben Yehoyada on Avodah Zarah 7a",
+                        "Ben Yehoyada on Avodah Zarah 7b",
+                        "Ben Yehoyada on Avodah Zarah 8a",
+                        "Ben Yehoyada on Avodah Zarah 8b",
+                        "Ben Yehoyada on Avodah Zarah 9a",
+                        "Ben Yehoyada on Avodah Zarah 9b",
+                        "Ben Yehoyada on Avodah Zarah 10a",
+                        "Ben Yehoyada on Avodah Zarah 10b",
+                        "Ben Yehoyada on Avodah Zarah 11a",
+                        "Ben Yehoyada on Avodah Zarah 11b",
+                        "Ben Yehoyada on Avodah Zarah 12a",
+                        "Ben Yehoyada on Avodah Zarah 12b",
+                        "Ben Yehoyada on Avodah Zarah 13a",
+                        "Ben Yehoyada on Avodah Zarah 13b",
+                        "Ben Yehoyada on Avodah Zarah 14a",
+                        "Ben Yehoyada on Avodah Zarah 14b",
+                        "Ben Yehoyada on Avodah Zarah 15a",
+                        "Ben Yehoyada on Avodah Zarah 15b",
+                        "Ben Yehoyada on Avodah Zarah 16a",
+                        "Ben Yehoyada on Avodah Zarah 16b",
+                        "Ben Yehoyada on Avodah Zarah 17a",
+                        "Ben Yehoyada on Avodah Zarah 17b",
+                        "Ben Yehoyada on Avodah Zarah 18a",
+                        "Ben Yehoyada on Avodah Zarah 18b",
+                        "Ben Yehoyada on Avodah Zarah 19a",
+                        "Ben Yehoyada on Avodah Zarah 19b",
+                        "Ben Yehoyada on Avodah Zarah 20a",
+                        "Ben Yehoyada on Avodah Zarah 20b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Avodah Zarah 24b:1-40b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Ein Ma'amidin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "אין מעמידין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Ein Ma'amidin",
+                    "heTitle": "אין מעמידין",
+                    "refs": [
+                        "Ben Yehoyada on Avodah Zarah 24b:1-3",
+                        "Ben Yehoyada on Avodah Zarah 25a",
+                        "Ben Yehoyada on Avodah Zarah 25b",
+                        "Ben Yehoyada on Avodah Zarah 26a",
+                        "Ben Yehoyada on Avodah Zarah 26b",
+                        "Ben Yehoyada on Avodah Zarah 27a",
+                        "Ben Yehoyada on Avodah Zarah 27b",
+                        "Ben Yehoyada on Avodah Zarah 28a",
+                        "Ben Yehoyada on Avodah Zarah 28b",
+                        "Ben Yehoyada on Avodah Zarah 29a",
+                        "Ben Yehoyada on Avodah Zarah 29b",
+                        "Ben Yehoyada on Avodah Zarah 30a",
+                        "Ben Yehoyada on Avodah Zarah 30b",
+                        "Ben Yehoyada on Avodah Zarah 31a",
+                        "Ben Yehoyada on Avodah Zarah 31b",
+                        "Ben Yehoyada on Avodah Zarah 32a",
+                        "Ben Yehoyada on Avodah Zarah 32b",
+                        "Ben Yehoyada on Avodah Zarah 33a",
+                        "Ben Yehoyada on Avodah Zarah 33b",
+                        "Ben Yehoyada on Avodah Zarah 34a",
+                        "Ben Yehoyada on Avodah Zarah 34b",
+                        "Ben Yehoyada on Avodah Zarah 35a",
+                        "Ben Yehoyada on Avodah Zarah 35b",
+                        "Ben Yehoyada on Avodah Zarah 36a",
+                        "Ben Yehoyada on Avodah Zarah 36b",
+                        "Ben Yehoyada on Avodah Zarah 37a",
+                        "Ben Yehoyada on Avodah Zarah 37b",
+                        "Ben Yehoyada on Avodah Zarah 38a",
+                        "Ben Yehoyada on Avodah Zarah 38b",
+                        "Ben Yehoyada on Avodah Zarah 39a",
+                        "Ben Yehoyada on Avodah Zarah 39b",
+                        "Ben Yehoyada on Avodah Zarah 40a",
+                        "Ben Yehoyada on Avodah Zarah 40b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 47
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Avodah Zarah 44a:1-46a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; Kol HaTzelamim",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "כל הצלמים",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Kol HaTzelamim",
+                    "heTitle": "כל הצלמים",
+                    "refs": [
+                        "Ben Yehoyada on Avodah Zarah 44a:1-2",
+                        "Ben Yehoyada on Avodah Zarah 44b",
+                        "Ben Yehoyada on Avodah Zarah 45a",
+                        "Ben Yehoyada on Avodah Zarah 45b",
+                        "Ben Yehoyada on Avodah Zarah 46a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 86
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Avodah Zarah 54b:1-55a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 4; Rabbi Yishmael",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "רבי ישמעאל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Rabbi Yishmael",
+                    "heTitle": "רבי ישמעאל",
+                    "refs": [
+                        "Ben Yehoyada on Avodah Zarah 54b:1",
+                        "Ben Yehoyada on Avodah Zarah 55a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 107
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Avodah Zarah 65a:1-4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5; HaSokher et HaPoel",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "השוכר את הפועל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5; HaSokher et HaPoel",
+                    "heTitle": "השוכר את הפועל",
+                    "refs": [
+                        "Ben Yehoyada on Avodah Zarah 65a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 128
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "בן יהוידע על עבודה זרה"
+                },
+                {
+                    "text": "Ben Yehoyada on Avodah Zarah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Ben Yehoyada on Avodah Zarah",
+            "heTitle": "בן יהוידע על עבודה זרה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

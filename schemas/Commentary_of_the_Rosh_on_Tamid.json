@@ -18,6 +18,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "rosh",
+                    "tamid"
+                ]
+            }
+        ],
         "lengths": [
             66,
             319
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -51,9 +58,12 @@
         ],
         "key": "Commentary of the Rosh on Tamid"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Rosh",
+            "en": "Rabbenu Asher ben Yechiel (Rosh)",
             "he": "רא\"ש",
             "slug": "rosh"
         }
@@ -83,6 +93,945 @@
     "heTitleVariants": [
         "פירוש הרא\"ש על תמיד"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Commentary of the Rosh on Tamid 25b:1-28b:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "perek",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "perek",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "perek",
+                                "chapter-140"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; BiShloshah Mekomot ",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "בשלשה מקומות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; BiShloshah Mekomot ",
+                    "heTitle": "בשלשה מקומות",
+                    "refs": [
+                        "Commentary of the Rosh on Tamid 25b:1-10",
+                        "Commentary of the Rosh on Tamid 26a",
+                        "Commentary of the Rosh on Tamid 26b",
+                        "Commentary of the Rosh on Tamid 27a",
+                        "Commentary of the Rosh on Tamid 27b",
+                        "Commentary of the Rosh on Tamid 28a",
+                        "Commentary of the Rosh on Tamid 28b:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 49
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Commentary of the Rosh on Tamid 28b:8-30a:9",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "perek",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "perek",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "perek",
+                                "chapter-234"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; Rauhu Echav",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "ראוהו אחיו",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; Rauhu Echav",
+                    "heTitle": "ראוהו אחיו",
+                    "refs": [
+                        "Commentary of the Rosh on Tamid 28b:8-16",
+                        "Commentary of the Rosh on Tamid 29a",
+                        "Commentary of the Rosh on Tamid 29b",
+                        "Commentary of the Rosh on Tamid 30a:1-9"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 55
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Commentary of the Rosh on Tamid 30a:10",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "perek",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "perek",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "perek",
+                                "chapter-332"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; Amar Lahem HaMemunneh Bou",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "אמר להם הממונה בואו",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; Amar Lahem HaMemunneh Bou",
+                    "heTitle": "אמר להם הממונה בואו",
+                    "refs": [
+                        "Commentary of the Rosh on Tamid 30a:10"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 58
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Commentary of the Rosh on Tamid 30b:1-32b:14",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "perek",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "perek",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "perek",
+                                "chapter-428"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Lo Hayu Koftin",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "לא היו כופתין",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Lo Hayu Koftin",
+                    "heTitle": "לא היו כופתין",
+                    "refs": [
+                        "Commentary of the Rosh on Tamid 30b:1-6",
+                        "Commentary of the Rosh on Tamid 31a",
+                        "Commentary of the Rosh on Tamid 31b",
+                        "Commentary of the Rosh on Tamid 32a",
+                        "Commentary of the Rosh on Tamid 32b:1-14"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 59
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Commentary of the Rosh on Tamid 32b:15-33a:16",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "perek",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "perek",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "perek",
+                                "chapter-524"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 5; Amar Lahem HaMemunneh Barkhu",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "אמר להם הממונה ברכו",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; Amar Lahem HaMemunneh Barkhu",
+                    "heTitle": "אמר להם הממונה ברכו",
+                    "refs": [
+                        "Commentary of the Rosh on Tamid 32b:15-29",
+                        "Commentary of the Rosh on Tamid 33a:1-16"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 63
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Commentary of the Rosh on Tamid 33a:17-33b:14",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "perek",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "perek",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "perek",
+                                "chapter-621"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 6; Hechellu Olim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "החלו עולים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; Hechellu Olim",
+                    "heTitle": "החלו עולים",
+                    "refs": [
+                        "Commentary of the Rosh on Tamid 33a:17-19",
+                        "Commentary of the Rosh on Tamid 33b:1-14"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 64
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Commentary of the Rosh on Tamid 33b:15-47",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "bavli",
+                                "perek",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "talmud",
+                                "perek",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rosh",
+                                "gemara",
+                                "perek",
+                                "chapter-719"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 7; BiZman SheKohen Gadol",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "בזמן שכהן גדול",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 7; BiZman SheKohen Gadol",
+                    "heTitle": "בזמן שכהן גדול",
+                    "refs": [
+                        "Commentary of the Rosh on Tamid 33b:15-47"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 65
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "פירוש הרא\"ש על תמיד"
+                },
+                {
+                    "text": "Commentary of the Rosh on Tamid",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Commentary of the Rosh on Tamid",
+            "heTitle": "פירוש הרא\"ש על תמיד"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

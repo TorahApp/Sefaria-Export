@@ -17,9 +17,17 @@
             "Daf",
             "Line"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "benayahu",
+                    "sukkah"
+                ]
+            }
+        ],
         "lengths": [
             112,
-            24
+            40
         ],
         "referenceableSections": [
             true,
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Benayahu on Sukkah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yosef Hayyim",
@@ -88,6 +98,753 @@
     "heTitleVariants": [
         "בניהו על סוכה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Sukkah 3a:1-14a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-138"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Sukkah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "סוכה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Sukkah",
+                    "heTitle": "סוכה",
+                    "refs": [
+                        "Benayahu on Sukkah 3a:1",
+                        "Benayahu on Sukkah 3b",
+                        "Benayahu on Sukkah 4a",
+                        "Benayahu on Sukkah 4b",
+                        "Benayahu on Sukkah 5a",
+                        "Benayahu on Sukkah 5b",
+                        "Benayahu on Sukkah 6a",
+                        "Benayahu on Sukkah 6b",
+                        "Benayahu on Sukkah 7a",
+                        "Benayahu on Sukkah 7b",
+                        "Benayahu on Sukkah 8a",
+                        "Benayahu on Sukkah 8b",
+                        "Benayahu on Sukkah 9a",
+                        "Benayahu on Sukkah 9b",
+                        "Benayahu on Sukkah 10a",
+                        "Benayahu on Sukkah 10b",
+                        "Benayahu on Sukkah 11a",
+                        "Benayahu on Sukkah 11b",
+                        "Benayahu on Sukkah 12a",
+                        "Benayahu on Sukkah 12b",
+                        "Benayahu on Sukkah 13a",
+                        "Benayahu on Sukkah 13b",
+                        "Benayahu on Sukkah 14a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 4
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Sukkah 25a:1-29b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-232"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; HaYashen",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הישן",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; HaYashen",
+                    "heTitle": "הישן",
+                    "refs": [
+                        "Benayahu on Sukkah 25a:1",
+                        "Benayahu on Sukkah 25b",
+                        "Benayahu on Sukkah 26a",
+                        "Benayahu on Sukkah 26b",
+                        "Benayahu on Sukkah 27a",
+                        "Benayahu on Sukkah 27b",
+                        "Benayahu on Sukkah 28a",
+                        "Benayahu on Sukkah 28b",
+                        "Benayahu on Sukkah 29a",
+                        "Benayahu on Sukkah 29b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 48
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Sukkah 30a:1-42a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-330"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; Lulav HaGazul",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "לולב הגזול",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; Lulav HaGazul",
+                    "heTitle": "לולב הגזול",
+                    "refs": [
+                        "Benayahu on Sukkah 30a:1",
+                        "Benayahu on Sukkah 30b",
+                        "Benayahu on Sukkah 31a",
+                        "Benayahu on Sukkah 31b",
+                        "Benayahu on Sukkah 32a",
+                        "Benayahu on Sukkah 32b",
+                        "Benayahu on Sukkah 33a",
+                        "Benayahu on Sukkah 33b",
+                        "Benayahu on Sukkah 34a",
+                        "Benayahu on Sukkah 34b",
+                        "Benayahu on Sukkah 35a",
+                        "Benayahu on Sukkah 35b",
+                        "Benayahu on Sukkah 36a",
+                        "Benayahu on Sukkah 36b",
+                        "Benayahu on Sukkah 37a",
+                        "Benayahu on Sukkah 37b",
+                        "Benayahu on Sukkah 38a",
+                        "Benayahu on Sukkah 38b",
+                        "Benayahu on Sukkah 39a",
+                        "Benayahu on Sukkah 39b",
+                        "Benayahu on Sukkah 40a",
+                        "Benayahu on Sukkah 40b",
+                        "Benayahu on Sukkah 41a",
+                        "Benayahu on Sukkah 41b",
+                        "Benayahu on Sukkah 42a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 58
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Sukkah 43b:1-49b:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-426"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Lulav VeAravah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "לולב וערבה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Lulav VeAravah",
+                    "heTitle": "לולב וערבה",
+                    "refs": [
+                        "Benayahu on Sukkah 43b:1",
+                        "Benayahu on Sukkah 44a",
+                        "Benayahu on Sukkah 44b",
+                        "Benayahu on Sukkah 45a",
+                        "Benayahu on Sukkah 45b",
+                        "Benayahu on Sukkah 46a",
+                        "Benayahu on Sukkah 46b",
+                        "Benayahu on Sukkah 47a",
+                        "Benayahu on Sukkah 47b",
+                        "Benayahu on Sukkah 48a",
+                        "Benayahu on Sukkah 48b",
+                        "Benayahu on Sukkah 49a",
+                        "Benayahu on Sukkah 49b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 85
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Sukkah 51b:1-56b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-523"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 5; HeChalil",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "החליל",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; HeChalil",
+                    "heTitle": "החליל",
+                    "refs": [
+                        "Benayahu on Sukkah 51b:1",
+                        "Benayahu on Sukkah 52a",
+                        "Benayahu on Sukkah 52b",
+                        "Benayahu on Sukkah 53a",
+                        "Benayahu on Sukkah 53b",
+                        "Benayahu on Sukkah 54a",
+                        "Benayahu on Sukkah 54b",
+                        "Benayahu on Sukkah 55a",
+                        "Benayahu on Sukkah 55b",
+                        "Benayahu on Sukkah 56a",
+                        "Benayahu on Sukkah 56b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 101
+                }
+            ],
+            "titles": [
+                {
+                    "text": "בניהו על סוכה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Benayahu on Sukkah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Benayahu on Sukkah",
+            "heTitle": "בניהו על סוכה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line"

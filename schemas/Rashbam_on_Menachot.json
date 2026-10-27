@@ -88,6 +88,9 @@
         ],
         "key": "Rashbam on Menachot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Rashbam",
@@ -128,6 +131,167 @@
         "רשב\"ם על מנחות",
         "דקדוק על מנחות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashbam on Menachot 12a:8:1-12b:11:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "talmud",
+                                "bavli",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "bavli",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "talmud",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "gemara",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "bavli",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "talmud",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashbam",
+                                "gemara",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Kol HaMenachot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל המנחות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Kol HaMenachot",
+                    "heTitle": "כל המנחות"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Dikduk on Masekhet Menachot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Dikduk on Talmud Menachot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Dikduk on Tractate Menachot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Dikduk on Menahot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Dikduk on Menachot"
+                },
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "רשב\"ם על מנחות"
+                },
+                {
+                    "lang": "he",
+                    "text": "דקדוק על מנחות"
+                },
+                {
+                    "text": "Rashbam on Menachot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Rashbam on Menachot",
+            "heTitle": "רשב\"ם על מנחות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line",

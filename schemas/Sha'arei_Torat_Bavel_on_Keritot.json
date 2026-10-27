@@ -1,0 +1,785 @@
+{
+    "title": "Sha'arei Torat Bavel on Keritot",
+    "categories": [
+        "Talmud",
+        "Bavli",
+        "Acharonim on Talmud",
+        "Sha'arei Torat Bavel",
+        "Seder Kodashim"
+    ],
+    "schema": {
+        "nodeType": "JaggedArrayNode",
+        "depth": 2,
+        "addressTypes": [
+            "Talmud",
+            "Integer"
+        ],
+        "sectionNames": [
+            "Daf",
+            "Comment"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "shaarei-torat-bavel",
+                    "keritot"
+                ]
+            }
+        ],
+        "lengths": [
+            56,
+            23
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
+        "titles": [
+            {
+                "text": "שערי תורת בבל על כריתות",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "Sha'arei Torat Bavel on Keritot",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sha'arei Torat Bavel on Keritot",
+        "heTitle": "שערי תורת בבל על כריתות",
+        "heSectionNames": [
+            "דף",
+            "פירוש"
+        ],
+        "key": "Sha'arei Torat Bavel on Keritot"
+    },
+    "exclude_structs": [
+        "Chapters"
+    ],
+    "authors": [
+        {
+            "en": "Zev Wolf Rabinowitz",
+            "he": "זאב וואלף רבינוביץ",
+            "slug": "zeev-wolf-rabinowitz"
+        }
+    ],
+    "enDesc": "Sha’arei Torat Bavel is an early 20th-century commentary on the Babylonian Talmud by Lithuanian scholar Rabbi Zev Wolf Rabinowitz. The work includes traditional rabbinic commentary, incorporating and discussing the positions of earlier commentators and insights from contemporary works on science and medicine when relevant topics are addressed in the Talmud. In the work’s commentary on aggadic sections of the Talmud, Rabinowitz incorporates philosophical and ethical discussions and expresses love for the people and land of Israel. Sha’arei Torat Bavel was published by the author’s son, Yitzchak Rabinowitz, and edited by Professor Rabbi Professor Ezra Tzion Melamed",
+    "heDesc": "״שערי תורת בבל״ הוא פירוש לתלמוד הבבלי, שנכתב בתחילת המאה ה-20 על ידי הרב זאב וולף רבינוביץ, המכיל גם חיבור ארוך על חכמי התלמוד ומאמר קצר יותר על התלמוד עצמו. בחיבור זה משולבות תובנות מיצירות עכשוויות על מדע ורפואה כאשר נושאים אלה עולים בדיון התלמודי. הפירוש הוא גם על חלקי האגדה שבתלמוד, וכולל בתוכו היבטים פילוסופיים, אתיים ורגשיים של המחבר. \"שערי תורת בבל\" יצא לאור על ידי בנו של המחבר, יצחק רבינוביץ, בעריכת הרב פרופסור עזרא ציון מלמד.\n\n",
+    "pubDate": [
+        1961
+    ],
+    "pubPlace": "Jerusalem, Israel",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Keritot",
+            "he": "כריתות"
+        }
+    ],
+    "collective_title": {
+        "en": "Sha'arei Torat Bavel",
+        "he": "שערי תורת בבל"
+    },
+    "heTitle": "שערי תורת בבל על כריתות",
+    "titleVariants": [
+        "Sha'arei Torat Bavel on Keritot"
+    ],
+    "heTitleVariants": [
+        "שערי תורת בבל על כריתות"
+    ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Sha'arei Torat Bavel on Keritot 4b:1-7b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "perek",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "perek",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "perek",
+                                "chapter-114"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; Sheloshim VeShesh",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "שלשים ושש",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Sheloshim VeShesh",
+                    "heTitle": "שלשים ושש",
+                    "refs": [
+                        "Sha'arei Torat Bavel on Keritot 4b:1",
+                        "Sha'arei Torat Bavel on Keritot 5a",
+                        "Sha'arei Torat Bavel on Keritot 5b",
+                        "Sha'arei Torat Bavel on Keritot 6a",
+                        "Sha'arei Torat Bavel on Keritot 6b",
+                        "Sha'arei Torat Bavel on Keritot 7a",
+                        "Sha'arei Torat Bavel on Keritot 7b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 7
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Sha'arei Torat Bavel on Keritot 9b:1-11a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "perek",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "perek",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "perek",
+                                "chapter-213"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Arba'ah Mechusrei Kapparah",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "ארבעה מחוסרי כפרה",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Arba'ah Mechusrei Kapparah",
+                    "heTitle": "ארבעה מחוסרי כפרה",
+                    "refs": [
+                        "Sha'arei Torat Bavel on Keritot 9b:1-2",
+                        "Sha'arei Torat Bavel on Keritot 10a",
+                        "Sha'arei Torat Bavel on Keritot 10b",
+                        "Sha'arei Torat Bavel on Keritot 11a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 17
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Sha'arei Torat Bavel on Keritot 12b:1-17a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "perek",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "perek",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "perek",
+                                "chapter-313"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; Amru Lo",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "אמרו לו",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Amru Lo",
+                    "heTitle": "אמרו לו",
+                    "refs": [
+                        "Sha'arei Torat Bavel on Keritot 12b:1",
+                        "Sha'arei Torat Bavel on Keritot 13a",
+                        "Sha'arei Torat Bavel on Keritot 13b",
+                        "Sha'arei Torat Bavel on Keritot 14a",
+                        "Sha'arei Torat Bavel on Keritot 14b",
+                        "Sha'arei Torat Bavel on Keritot 15a",
+                        "Sha'arei Torat Bavel on Keritot 15b",
+                        "Sha'arei Torat Bavel on Keritot 16a",
+                        "Sha'arei Torat Bavel on Keritot 16b",
+                        "Sha'arei Torat Bavel on Keritot 17a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 23
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Sha'arei Torat Bavel on Keritot 19b:1-20a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "perek",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "perek",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "perek",
+                                "chapter-411"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 4; Safek Akhal Chelev",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "ספק אכל חלב",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Safek Akhal Chelev",
+                    "heTitle": "ספק אכל חלב",
+                    "refs": [
+                        "Sha'arei Torat Bavel on Keritot 19b:1",
+                        "Sha'arei Torat Bavel on Keritot 20a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 37
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Sha'arei Torat Bavel on Keritot 21b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "bavli",
+                                "perek",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "talmud",
+                                "perek",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "shaarei-torat-bavel",
+                                "gemara",
+                                "perek",
+                                "chapter-511"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5; Dam Shechitah",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "דם שחיטה",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5; Dam Shechitah",
+                    "heTitle": "דם שחיטה",
+                    "refs": [
+                        "Sha'arei Torat Bavel on Keritot 21b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 41
+                }
+            ],
+            "titles": [
+                {
+                    "text": "שערי תורת בבל על כריתות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Sha'arei Torat Bavel on Keritot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Sha'arei Torat Bavel on Keritot",
+            "heTitle": "שערי תורת בבל על כריתות"
+        }
+    },
+    "sectionNames": [
+        "Daf",
+        "Comment"
+    ],
+    "depth": 2,
+    "heCategories": [
+        "תלמוד",
+        "בבלי",
+        "אחרונים על התלמוד",
+        "שערי תורת בבל",
+        "סדר קדשים"
+    ],
+    "pubDateString": {
+        "en": " (1961 CE)",
+        "he": " (1961 לספירה)"
+    },
+    "pubPlaceString": {
+        "en": "Jerusalem, Israel",
+        "he": "ירושלים, ישראל"
+    }
+}

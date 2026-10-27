@@ -19,6 +19,23 @@
             "Mishna",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ikar-tosafot-yom-tov",
+                    "pirkei-avot"
+                ]
+            }
+        ],
+        "lengths": [
+            6,
+            89,
+            290
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "lang": "en",
@@ -103,7 +120,7 @@
             "slug": "meshulam-katz"
         },
         {
-            "en": "Yom-Tov Lipmann Heller",
+            "en": "Yom Tov Lipmann Heller (Tosefot Yom Tov)",
             "he": "יום-טוב ליפמן הלר",
             "slug": "yom-tov-lipmann-heller"
         }

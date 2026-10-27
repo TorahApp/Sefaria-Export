@@ -60,9 +60,12 @@
         ],
         "key": "Milchemet Hashem on Berakhot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -101,6 +104,508 @@
     "heTitleVariants": [
         "מלחמת השם על ברכות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Berakhot 2a:1-44a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-17"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; MeEimatai"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "מאימתי"
+                        }
+                    ],
+                    "title": "Chapter 1; MeEimatai",
+                    "heTitle": "מאימתי",
+                    "refs": [
+                        "Milchemet Hashem on Berakhot 2a:1",
+                        "Milchemet Hashem on Berakhot 2b",
+                        "Milchemet Hashem on Berakhot 3a",
+                        "Milchemet Hashem on Berakhot 3b",
+                        "Milchemet Hashem on Berakhot 4a",
+                        "Milchemet Hashem on Berakhot 4b",
+                        "Milchemet Hashem on Berakhot 5a",
+                        "Milchemet Hashem on Berakhot 5b",
+                        "Milchemet Hashem on Berakhot 6a",
+                        "Milchemet Hashem on Berakhot 6b",
+                        "Milchemet Hashem on Berakhot 7a",
+                        "Milchemet Hashem on Berakhot 7b",
+                        "Milchemet Hashem on Berakhot 8a",
+                        "Milchemet Hashem on Berakhot 8b",
+                        "Milchemet Hashem on Berakhot 9a",
+                        "Milchemet Hashem on Berakhot 9b",
+                        "Milchemet Hashem on Berakhot 10a",
+                        "Milchemet Hashem on Berakhot 10b",
+                        "Milchemet Hashem on Berakhot 11a",
+                        "Milchemet Hashem on Berakhot 11b",
+                        "Milchemet Hashem on Berakhot 12a",
+                        "Milchemet Hashem on Berakhot 12b",
+                        "Milchemet Hashem on Berakhot 13a",
+                        "Milchemet Hashem on Berakhot 13b",
+                        "Milchemet Hashem on Berakhot 14a",
+                        "Milchemet Hashem on Berakhot 14b",
+                        "Milchemet Hashem on Berakhot 15a",
+                        "Milchemet Hashem on Berakhot 15b",
+                        "Milchemet Hashem on Berakhot 16a",
+                        "Milchemet Hashem on Berakhot 16b",
+                        "Milchemet Hashem on Berakhot 17a",
+                        "Milchemet Hashem on Berakhot 17b",
+                        "Milchemet Hashem on Berakhot 18a",
+                        "Milchemet Hashem on Berakhot 18b",
+                        "Milchemet Hashem on Berakhot 19a",
+                        "Milchemet Hashem on Berakhot 19b",
+                        "Milchemet Hashem on Berakhot 20a",
+                        "Milchemet Hashem on Berakhot 20b",
+                        "Milchemet Hashem on Berakhot 21a",
+                        "Milchemet Hashem on Berakhot 21b",
+                        "Milchemet Hashem on Berakhot 22a",
+                        "Milchemet Hashem on Berakhot 22b",
+                        "Milchemet Hashem on Berakhot 23a",
+                        "Milchemet Hashem on Berakhot 23b",
+                        "Milchemet Hashem on Berakhot 24a",
+                        "Milchemet Hashem on Berakhot 24b",
+                        "Milchemet Hashem on Berakhot 25a",
+                        "Milchemet Hashem on Berakhot 25b",
+                        "Milchemet Hashem on Berakhot 26a",
+                        "Milchemet Hashem on Berakhot 26b",
+                        "Milchemet Hashem on Berakhot 27a",
+                        "Milchemet Hashem on Berakhot 27b",
+                        "Milchemet Hashem on Berakhot 28a",
+                        "Milchemet Hashem on Berakhot 28b",
+                        "Milchemet Hashem on Berakhot 29a",
+                        "Milchemet Hashem on Berakhot 29b",
+                        "Milchemet Hashem on Berakhot 30a",
+                        "Milchemet Hashem on Berakhot 30b",
+                        "Milchemet Hashem on Berakhot 31a",
+                        "Milchemet Hashem on Berakhot 31b",
+                        "Milchemet Hashem on Berakhot 32a",
+                        "Milchemet Hashem on Berakhot 32b",
+                        "Milchemet Hashem on Berakhot 33a",
+                        "Milchemet Hashem on Berakhot 33b",
+                        "Milchemet Hashem on Berakhot 34a",
+                        "Milchemet Hashem on Berakhot 34b",
+                        "Milchemet Hashem on Berakhot 35a",
+                        "Milchemet Hashem on Berakhot 35b",
+                        "Milchemet Hashem on Berakhot 36a",
+                        "Milchemet Hashem on Berakhot 36b",
+                        "Milchemet Hashem on Berakhot 37a",
+                        "Milchemet Hashem on Berakhot 37b",
+                        "Milchemet Hashem on Berakhot 38a",
+                        "Milchemet Hashem on Berakhot 38b",
+                        "Milchemet Hashem on Berakhot 39a",
+                        "Milchemet Hashem on Berakhot 39b",
+                        "Milchemet Hashem on Berakhot 40a",
+                        "Milchemet Hashem on Berakhot 40b",
+                        "Milchemet Hashem on Berakhot 41a",
+                        "Milchemet Hashem on Berakhot 41b",
+                        "Milchemet Hashem on Berakhot 42a",
+                        "Milchemet Hashem on Berakhot 42b",
+                        "Milchemet Hashem on Berakhot 43a",
+                        "Milchemet Hashem on Berakhot 43b",
+                        "Milchemet Hashem on Berakhot 44a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Berakhot 34a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-57"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 5; Ein Omdin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אין עומדין"
+                        }
+                    ],
+                    "title": "Chapter 5; Ein Omdin",
+                    "heTitle": "אין עומדין",
+                    "refs": [
+                        "Milchemet Hashem on Berakhot 34a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 66
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Berakhot 35b:1-44a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-65"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 6; Keitzad Mevarchin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "כיצד מברכין"
+                        }
+                    ],
+                    "title": "Chapter 6; Keitzad Mevarchin",
+                    "heTitle": "כיצד מברכין",
+                    "refs": [
+                        "Milchemet Hashem on Berakhot 35b:1",
+                        "Milchemet Hashem on Berakhot 36a",
+                        "Milchemet Hashem on Berakhot 36b",
+                        "Milchemet Hashem on Berakhot 37a",
+                        "Milchemet Hashem on Berakhot 37b",
+                        "Milchemet Hashem on Berakhot 38a",
+                        "Milchemet Hashem on Berakhot 38b",
+                        "Milchemet Hashem on Berakhot 39a",
+                        "Milchemet Hashem on Berakhot 39b",
+                        "Milchemet Hashem on Berakhot 40a",
+                        "Milchemet Hashem on Berakhot 40b",
+                        "Milchemet Hashem on Berakhot 41a",
+                        "Milchemet Hashem on Berakhot 41b",
+                        "Milchemet Hashem on Berakhot 42a",
+                        "Milchemet Hashem on Berakhot 42b",
+                        "Milchemet Hashem on Berakhot 43a",
+                        "Milchemet Hashem on Berakhot 43b",
+                        "Milchemet Hashem on Berakhot 44a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 69
+                }
+            ],
+            "titles": [
+                {
+                    "text": "מלחמת השם על ברכות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Milchemet Hashem on Berakhot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Milchemet Hashem on Berakhot",
+            "heTitle": "מלחמת השם על ברכות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

@@ -118,6 +118,9 @@
         ],
         "key": "Ba'al HaTurim on Genesis"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Jacob ben Asher",
@@ -175,6 +178,356 @@
         "בעל הטורים על בְּרֵאשִׁית",
         "בעל הטורים על בראשית"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ba'al HaTurim on Genesis 1:1:1-2:4",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "parasha",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bereshit",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Breishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereshis",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bereshit",
+                    "heTitle": "בראשית"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ba'al HaTurim on Genesis 16:8:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "parasha",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Lech Lecha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lekh Lekha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Lech Lecha",
+                    "heTitle": "לך לך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ba'al HaTurim on Genesis 38:15:1-3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "parasha",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeshev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Veyeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayeshev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeshev",
+                    "heTitle": "וישב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ba'al HaTurim on Genesis 44:18:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "parasha",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayigash",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויגש",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויגש",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayigash",
+                    "heTitle": "ויגש"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ba'al HaTurim on Genesis 49:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "parasha",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "baal-haturim",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayechi",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayehi",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayechi",
+                    "heTitle": "ויחי"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Baal HaTurim on Bereshit",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Gen",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Gen.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Breishit",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Ber",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Bereishit",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Ber.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Beresheet",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Bereshith",
+                    "lang": "en"
+                },
+                {
+                    "text": "Baal HaTurim on Genesis",
+                    "lang": "en"
+                },
+                {
+                    "text": "בעל הטורים על ברא'",
+                    "lang": "he"
+                },
+                {
+                    "text": "בעל הטורים על בר'",
+                    "lang": "he"
+                },
+                {
+                    "text": "בעל הטורים על בר׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "בעל הטורים על ברא׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "בעל הטורים על בְּרֵאשִׁית",
+                    "lang": "he"
+                },
+                {
+                    "text": "בעל הטורים על בראשית",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Ba'al HaTurim on Genesis",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Ba'al HaTurim on Genesis",
+            "heTitle": "בעל הטורים על בראשית"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

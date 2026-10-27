@@ -17,6 +17,14 @@
             "Siman",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "teshuvot",
+                    "rosh"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "en",
@@ -60,7 +68,7 @@
     },
     "authors": [
         {
-            "en": "Rosh",
+            "en": "Rabbenu Asher ben Yechiel (Rosh)",
             "he": "רא\"ש",
             "slug": "rosh"
         }

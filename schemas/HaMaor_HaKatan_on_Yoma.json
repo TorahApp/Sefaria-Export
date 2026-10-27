@@ -60,9 +60,12 @@
         ],
         "key": "HaMaor HaKatan on Yoma"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Zerachiah ha-Levi of Girona",
+            "en": "Zerachiah HaLevi of Gerona",
             "he": "זרחיה הלוי",
             "slug": "zerachiah-ha-levi-of-girona"
         }
@@ -99,6 +102,160 @@
     "heTitleVariants": [
         "המאור הקטן על יומא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "HaMaor HaKatan on Yoma 1a:1-4b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 1; Shivat Yamim"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "שבעת ימים"
+                        }
+                    ],
+                    "title": "Chapter 1; Shivat Yamim",
+                    "heTitle": "שבעת ימים",
+                    "refs": [
+                        "HaMaor HaKatan on Yoma 1a:1-5",
+                        "HaMaor HaKatan on Yoma 1b",
+                        "HaMaor HaKatan on Yoma 2a",
+                        "HaMaor HaKatan on Yoma 2b",
+                        "HaMaor HaKatan on Yoma 3a",
+                        "HaMaor HaKatan on Yoma 3b",
+                        "HaMaor HaKatan on Yoma 4a",
+                        "HaMaor HaKatan on Yoma 4b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 0
+                }
+            ],
+            "titles": [
+                {
+                    "text": "המאור הקטן על יומא",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "HaMaor HaKatan on Yoma",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "HaMaor HaKatan on Yoma",
+            "heTitle": "המאור הקטן על יומא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

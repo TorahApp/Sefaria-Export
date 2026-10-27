@@ -18,6 +18,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tosafot-ri-hazaken",
+                    "kiddushin"
+                ]
+            }
+        ],
         "lengths": [
             164,
             924
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^(.*?)\\."
         ],
         "titles": [
             {
@@ -51,9 +58,12 @@
         ],
         "key": "Tosafot Ri HaZaken on Kiddushin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Isaac ben Samuel of Dampierre",
+            "en": "Isaac ben Samuel of Dampierre (Ri HaZaken)",
             "he": "יצחק בן שמואל הזקן מדַמְפִּיֶיר",
             "slug": "isaac-ben-samuel-of-dampierre"
         }
@@ -84,6 +94,629 @@
     "heTitleVariants": [
         "תוספות ר\"י הזקן על קידושין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Ri HaZaken on Kiddushin 2a:1-82a:21",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "bavli",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "bavli",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "gemara",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "bavli",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "gemara",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; HaIshah Nikneit"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "האשה נקנית"
+                        }
+                    ],
+                    "title": "Chapter 1; HaIshah Nikneit",
+                    "heTitle": "האשה נקנית",
+                    "refs": [
+                        "Tosafot Ri HaZaken on Kiddushin 2a:1-6",
+                        "Tosafot Ri HaZaken on Kiddushin 2b",
+                        "Tosafot Ri HaZaken on Kiddushin 3a",
+                        "Tosafot Ri HaZaken on Kiddushin 3b",
+                        "Tosafot Ri HaZaken on Kiddushin 4a",
+                        "Tosafot Ri HaZaken on Kiddushin 4b",
+                        "Tosafot Ri HaZaken on Kiddushin 5a",
+                        "Tosafot Ri HaZaken on Kiddushin 5b",
+                        "Tosafot Ri HaZaken on Kiddushin 6a",
+                        "Tosafot Ri HaZaken on Kiddushin 6b",
+                        "Tosafot Ri HaZaken on Kiddushin 7a",
+                        "Tosafot Ri HaZaken on Kiddushin 7b",
+                        "Tosafot Ri HaZaken on Kiddushin 8a",
+                        "Tosafot Ri HaZaken on Kiddushin 8b",
+                        "Tosafot Ri HaZaken on Kiddushin 9a",
+                        "Tosafot Ri HaZaken on Kiddushin 9b",
+                        "Tosafot Ri HaZaken on Kiddushin 10a",
+                        "Tosafot Ri HaZaken on Kiddushin 10b",
+                        "Tosafot Ri HaZaken on Kiddushin 11a",
+                        "Tosafot Ri HaZaken on Kiddushin 11b",
+                        "Tosafot Ri HaZaken on Kiddushin 12a",
+                        "Tosafot Ri HaZaken on Kiddushin 12b",
+                        "Tosafot Ri HaZaken on Kiddushin 13a",
+                        "Tosafot Ri HaZaken on Kiddushin 13b",
+                        "Tosafot Ri HaZaken on Kiddushin 14a",
+                        "Tosafot Ri HaZaken on Kiddushin 14b",
+                        "Tosafot Ri HaZaken on Kiddushin 15a",
+                        "Tosafot Ri HaZaken on Kiddushin 15b",
+                        "Tosafot Ri HaZaken on Kiddushin 16a",
+                        "Tosafot Ri HaZaken on Kiddushin 16b",
+                        "Tosafot Ri HaZaken on Kiddushin 17a",
+                        "Tosafot Ri HaZaken on Kiddushin 17b",
+                        "Tosafot Ri HaZaken on Kiddushin 18a",
+                        "Tosafot Ri HaZaken on Kiddushin 18b",
+                        "Tosafot Ri HaZaken on Kiddushin 19a",
+                        "Tosafot Ri HaZaken on Kiddushin 19b",
+                        "Tosafot Ri HaZaken on Kiddushin 20a",
+                        "Tosafot Ri HaZaken on Kiddushin 20b",
+                        "Tosafot Ri HaZaken on Kiddushin 21a",
+                        "Tosafot Ri HaZaken on Kiddushin 21b",
+                        "Tosafot Ri HaZaken on Kiddushin 22a",
+                        "Tosafot Ri HaZaken on Kiddushin 22b",
+                        "Tosafot Ri HaZaken on Kiddushin 23a",
+                        "Tosafot Ri HaZaken on Kiddushin 23b",
+                        "Tosafot Ri HaZaken on Kiddushin 24a",
+                        "Tosafot Ri HaZaken on Kiddushin 24b",
+                        "Tosafot Ri HaZaken on Kiddushin 25a",
+                        "Tosafot Ri HaZaken on Kiddushin 25b",
+                        "Tosafot Ri HaZaken on Kiddushin 26a",
+                        "Tosafot Ri HaZaken on Kiddushin 26b",
+                        "Tosafot Ri HaZaken on Kiddushin 27a",
+                        "Tosafot Ri HaZaken on Kiddushin 27b",
+                        "Tosafot Ri HaZaken on Kiddushin 28a",
+                        "Tosafot Ri HaZaken on Kiddushin 28b",
+                        "Tosafot Ri HaZaken on Kiddushin 29a",
+                        "Tosafot Ri HaZaken on Kiddushin 29b",
+                        "Tosafot Ri HaZaken on Kiddushin 30a",
+                        "Tosafot Ri HaZaken on Kiddushin 30b",
+                        "Tosafot Ri HaZaken on Kiddushin 31a",
+                        "Tosafot Ri HaZaken on Kiddushin 31b",
+                        "Tosafot Ri HaZaken on Kiddushin 32a",
+                        "Tosafot Ri HaZaken on Kiddushin 32b",
+                        "Tosafot Ri HaZaken on Kiddushin 33a",
+                        "Tosafot Ri HaZaken on Kiddushin 33b",
+                        "Tosafot Ri HaZaken on Kiddushin 34a",
+                        "Tosafot Ri HaZaken on Kiddushin 34b",
+                        "Tosafot Ri HaZaken on Kiddushin 35a",
+                        "Tosafot Ri HaZaken on Kiddushin 35b",
+                        "Tosafot Ri HaZaken on Kiddushin 36a",
+                        "Tosafot Ri HaZaken on Kiddushin 36b",
+                        "Tosafot Ri HaZaken on Kiddushin 37a",
+                        "Tosafot Ri HaZaken on Kiddushin 37b",
+                        "Tosafot Ri HaZaken on Kiddushin 38a",
+                        "Tosafot Ri HaZaken on Kiddushin 38b",
+                        "Tosafot Ri HaZaken on Kiddushin 39a",
+                        "Tosafot Ri HaZaken on Kiddushin 39b",
+                        "Tosafot Ri HaZaken on Kiddushin 40a",
+                        "Tosafot Ri HaZaken on Kiddushin 40b",
+                        "Tosafot Ri HaZaken on Kiddushin 41a",
+                        "Tosafot Ri HaZaken on Kiddushin 41b",
+                        "Tosafot Ri HaZaken on Kiddushin 42a",
+                        "Tosafot Ri HaZaken on Kiddushin 42b",
+                        "Tosafot Ri HaZaken on Kiddushin 43a",
+                        "Tosafot Ri HaZaken on Kiddushin 43b",
+                        "Tosafot Ri HaZaken on Kiddushin 44a",
+                        "Tosafot Ri HaZaken on Kiddushin 44b",
+                        "Tosafot Ri HaZaken on Kiddushin 45a",
+                        "Tosafot Ri HaZaken on Kiddushin 45b",
+                        "Tosafot Ri HaZaken on Kiddushin 46a",
+                        "Tosafot Ri HaZaken on Kiddushin 46b",
+                        "Tosafot Ri HaZaken on Kiddushin 47a",
+                        "Tosafot Ri HaZaken on Kiddushin 47b",
+                        "Tosafot Ri HaZaken on Kiddushin 48a",
+                        "Tosafot Ri HaZaken on Kiddushin 48b",
+                        "Tosafot Ri HaZaken on Kiddushin 49a",
+                        "Tosafot Ri HaZaken on Kiddushin 49b",
+                        "Tosafot Ri HaZaken on Kiddushin 50a",
+                        "Tosafot Ri HaZaken on Kiddushin 50b",
+                        "Tosafot Ri HaZaken on Kiddushin 51a",
+                        "Tosafot Ri HaZaken on Kiddushin 51b",
+                        "Tosafot Ri HaZaken on Kiddushin 52a",
+                        "Tosafot Ri HaZaken on Kiddushin 52b",
+                        "Tosafot Ri HaZaken on Kiddushin 53a",
+                        "Tosafot Ri HaZaken on Kiddushin 53b",
+                        "Tosafot Ri HaZaken on Kiddushin 54a",
+                        "Tosafot Ri HaZaken on Kiddushin 54b",
+                        "Tosafot Ri HaZaken on Kiddushin 55a",
+                        "Tosafot Ri HaZaken on Kiddushin 55b",
+                        "Tosafot Ri HaZaken on Kiddushin 56a",
+                        "Tosafot Ri HaZaken on Kiddushin 56b",
+                        "Tosafot Ri HaZaken on Kiddushin 57a",
+                        "Tosafot Ri HaZaken on Kiddushin 57b",
+                        "Tosafot Ri HaZaken on Kiddushin 58a",
+                        "Tosafot Ri HaZaken on Kiddushin 58b",
+                        "Tosafot Ri HaZaken on Kiddushin 59a",
+                        "Tosafot Ri HaZaken on Kiddushin 59b",
+                        "Tosafot Ri HaZaken on Kiddushin 60a",
+                        "Tosafot Ri HaZaken on Kiddushin 60b",
+                        "Tosafot Ri HaZaken on Kiddushin 61a",
+                        "Tosafot Ri HaZaken on Kiddushin 61b",
+                        "Tosafot Ri HaZaken on Kiddushin 62a",
+                        "Tosafot Ri HaZaken on Kiddushin 62b",
+                        "Tosafot Ri HaZaken on Kiddushin 63a",
+                        "Tosafot Ri HaZaken on Kiddushin 63b",
+                        "Tosafot Ri HaZaken on Kiddushin 64a",
+                        "Tosafot Ri HaZaken on Kiddushin 64b",
+                        "Tosafot Ri HaZaken on Kiddushin 65a",
+                        "Tosafot Ri HaZaken on Kiddushin 65b",
+                        "Tosafot Ri HaZaken on Kiddushin 66a",
+                        "Tosafot Ri HaZaken on Kiddushin 66b",
+                        "Tosafot Ri HaZaken on Kiddushin 67a",
+                        "Tosafot Ri HaZaken on Kiddushin 67b",
+                        "Tosafot Ri HaZaken on Kiddushin 68a",
+                        "Tosafot Ri HaZaken on Kiddushin 68b",
+                        "Tosafot Ri HaZaken on Kiddushin 69a",
+                        "Tosafot Ri HaZaken on Kiddushin 69b",
+                        "Tosafot Ri HaZaken on Kiddushin 70a",
+                        "Tosafot Ri HaZaken on Kiddushin 70b",
+                        "Tosafot Ri HaZaken on Kiddushin 71a",
+                        "Tosafot Ri HaZaken on Kiddushin 71b",
+                        "Tosafot Ri HaZaken on Kiddushin 72a",
+                        "Tosafot Ri HaZaken on Kiddushin 72b",
+                        "Tosafot Ri HaZaken on Kiddushin 73a",
+                        "Tosafot Ri HaZaken on Kiddushin 73b",
+                        "Tosafot Ri HaZaken on Kiddushin 74a",
+                        "Tosafot Ri HaZaken on Kiddushin 74b",
+                        "Tosafot Ri HaZaken on Kiddushin 75a",
+                        "Tosafot Ri HaZaken on Kiddushin 75b",
+                        "Tosafot Ri HaZaken on Kiddushin 76a",
+                        "Tosafot Ri HaZaken on Kiddushin 76b",
+                        "Tosafot Ri HaZaken on Kiddushin 77a",
+                        "Tosafot Ri HaZaken on Kiddushin 77b",
+                        "Tosafot Ri HaZaken on Kiddushin 78a",
+                        "Tosafot Ri HaZaken on Kiddushin 78b",
+                        "Tosafot Ri HaZaken on Kiddushin 79a",
+                        "Tosafot Ri HaZaken on Kiddushin 79b",
+                        "Tosafot Ri HaZaken on Kiddushin 80a",
+                        "Tosafot Ri HaZaken on Kiddushin 80b",
+                        "Tosafot Ri HaZaken on Kiddushin 81a",
+                        "Tosafot Ri HaZaken on Kiddushin 81b",
+                        "Tosafot Ri HaZaken on Kiddushin 82a:1-21"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Ri HaZaken on Kiddushin 58b:9-69a:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "bavli",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "bavli",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "gemara",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "bavli",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "gemara",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; HaOmer LeChavero"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "האומר לחברו"
+                        }
+                    ],
+                    "title": "Chapter 3; HaOmer LeChavero",
+                    "heTitle": "האומר לחברו",
+                    "refs": [
+                        "Tosafot Ri HaZaken on Kiddushin 58b:9-10",
+                        "Tosafot Ri HaZaken on Kiddushin 59a",
+                        "Tosafot Ri HaZaken on Kiddushin 59b",
+                        "Tosafot Ri HaZaken on Kiddushin 60a",
+                        "Tosafot Ri HaZaken on Kiddushin 60b",
+                        "Tosafot Ri HaZaken on Kiddushin 61a",
+                        "Tosafot Ri HaZaken on Kiddushin 61b",
+                        "Tosafot Ri HaZaken on Kiddushin 62a",
+                        "Tosafot Ri HaZaken on Kiddushin 62b",
+                        "Tosafot Ri HaZaken on Kiddushin 63a",
+                        "Tosafot Ri HaZaken on Kiddushin 63b",
+                        "Tosafot Ri HaZaken on Kiddushin 64a",
+                        "Tosafot Ri HaZaken on Kiddushin 64b",
+                        "Tosafot Ri HaZaken on Kiddushin 65a",
+                        "Tosafot Ri HaZaken on Kiddushin 65b",
+                        "Tosafot Ri HaZaken on Kiddushin 66a",
+                        "Tosafot Ri HaZaken on Kiddushin 66b",
+                        "Tosafot Ri HaZaken on Kiddushin 67a",
+                        "Tosafot Ri HaZaken on Kiddushin 67b",
+                        "Tosafot Ri HaZaken on Kiddushin 68a",
+                        "Tosafot Ri HaZaken on Kiddushin 68b",
+                        "Tosafot Ri HaZaken on Kiddushin 69a:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 115
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Ri HaZaken on Kiddushin 69a:7-82a:21",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "bavli",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "bavli",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "gemara",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "bavli",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "talmud",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-ri-hazaken",
+                                "gemara",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 4; Asarah Yochasin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "עשרה יוחסין"
+                        }
+                    ],
+                    "title": "Chapter 4; Asarah Yochasin",
+                    "heTitle": "עשרה יוחסין",
+                    "refs": [
+                        "Tosafot Ri HaZaken on Kiddushin 69a:7-12",
+                        "Tosafot Ri HaZaken on Kiddushin 69b",
+                        "Tosafot Ri HaZaken on Kiddushin 70a",
+                        "Tosafot Ri HaZaken on Kiddushin 70b",
+                        "Tosafot Ri HaZaken on Kiddushin 71a",
+                        "Tosafot Ri HaZaken on Kiddushin 71b",
+                        "Tosafot Ri HaZaken on Kiddushin 72a",
+                        "Tosafot Ri HaZaken on Kiddushin 72b",
+                        "Tosafot Ri HaZaken on Kiddushin 73a",
+                        "Tosafot Ri HaZaken on Kiddushin 73b",
+                        "Tosafot Ri HaZaken on Kiddushin 74a",
+                        "Tosafot Ri HaZaken on Kiddushin 74b",
+                        "Tosafot Ri HaZaken on Kiddushin 75a",
+                        "Tosafot Ri HaZaken on Kiddushin 75b",
+                        "Tosafot Ri HaZaken on Kiddushin 76a",
+                        "Tosafot Ri HaZaken on Kiddushin 76b",
+                        "Tosafot Ri HaZaken on Kiddushin 77a",
+                        "Tosafot Ri HaZaken on Kiddushin 77b",
+                        "Tosafot Ri HaZaken on Kiddushin 78a",
+                        "Tosafot Ri HaZaken on Kiddushin 78b",
+                        "Tosafot Ri HaZaken on Kiddushin 79a",
+                        "Tosafot Ri HaZaken on Kiddushin 79b",
+                        "Tosafot Ri HaZaken on Kiddushin 80a",
+                        "Tosafot Ri HaZaken on Kiddushin 80b",
+                        "Tosafot Ri HaZaken on Kiddushin 81a",
+                        "Tosafot Ri HaZaken on Kiddushin 81b",
+                        "Tosafot Ri HaZaken on Kiddushin 82a:1-21"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 136
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "תוספות ר\"י הזקן על קידושין"
+                },
+                {
+                    "text": "Tosafot Ri HaZaken on Kiddushin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Tosafot Ri HaZaken on Kiddushin",
+            "heTitle": "תוספות ר\"י הזקן על קידושין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

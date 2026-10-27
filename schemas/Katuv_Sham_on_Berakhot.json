@@ -19,11 +19,35 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "katuv-sham",
+                    "berakhot"
+                ]
+            }
+        ],
+        "lengths": [
+            87,
+            39
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
+            {
+                "text": "Hasagot HaRa'avad on Ba'al HaMaor, Berakhot",
+                "lang": "en"
+            },
             {
                 "text": "כתוב שם ברכות",
                 "lang": "he",
                 "primary": true
+            },
+            {
+                "text": "השגות הראב״ד על בעל המאור, ברכות",
+                "lang": "he"
             },
             {
                 "text": "Katuv Sham on Berakhot",
@@ -46,7 +70,9 @@
             "slug": "raavad"
         }
     ],
+    "enDesc": "*Katuv Sham* (“It Is Written There”) is a work composed by Rabbi Abraham ben David of Posquières, known as the Ra’avad III, in 12th-century Provence, France. In this book, he defends the Rif (Rabbi Isaac Alfasi) against the critiques of the author of *Sefer HaMaor.*\nRabbi Abraham served as the head of the yeshiva in the city of Posquières in Provence and was both a Talmud commentator and a kabbalist. He is especially famous for his Hasagot (critical glosses) on the Mishneh Torah, in which he challenges many of Maimonides’ legal rulings, at times in particularly sharp language.\nThe Ra’avad himself authored several critiques of the Rif’s rulings, but in those works he expressed his disagreements with exceptional restraint, out of the profound respect he held for the Rif. He tended to criticize the dialectical *pilpul* of the Tosafists and what he viewed as the excessive innovativeness of scholars such as the author of *Sefer HaMaor*, preferring the received interpretive tradition over their approaches.",
     "heDesc": "\"כתוב שם\" הוא חיבור שכתב רבי אברהם בן דוד מפושקירה, המכונה הראב\"ד השלישי, במאה ה-12, בפרובאנס, צרפת. בספר הוא מגן על הרי\"ף מפני התקפותיו של בעל המאור. רבי אברהם היה ראש ישיבה בעיר פוסקייר שבפרובאנס, פרשן תלמוד ומקובל. נודע במיוחד בשל השגותיו המפורסמות על ספר משנה תורה, בהן הוא תוקף רבות מפסיקותיו של הרמב\"ם, לעיתים בסגנון חריף במיוחד. בעצמו כתב מספר השגות על פסקי הרי\"ף, אך ניסח את דבריו שם בעדינות יתירה מחמת הכבוד הרב שרחש לרי\"ף. הוא נטה לבקר את פלפלנותם של בעלי התוספות ואת חדשנותם המופרזת של מחדשים כגון בעל המאור, ולהעריך את המסורת הפרשנית על פניהם.",
+    "enShortDesc": "",
     "heShortDesc": "חיבור שכתב רבי אברהם בן דוד מפושקירה במאה ה-12 שמגן על הרי\"ף מפני התקפותיו של בעל המאור",
     "pubDate": [
         1883
@@ -71,10 +97,12 @@
     },
     "heTitle": "כתוב שם ברכות",
     "titleVariants": [
+        "Hasagot HaRa'avad on Ba'al HaMaor, Berakhot",
         "Katuv Sham on Berakhot"
     ],
     "heTitleVariants": [
-        "כתוב שם ברכות"
+        "כתוב שם ברכות",
+        "השגות הראב״ד על בעל המאור, ברכות"
     ],
     "sectionNames": [
         "Daf",

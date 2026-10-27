@@ -18,6 +18,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "rashba-(attributed)",
+                    "menachot"
+                ]
+            }
+        ],
         "lengths": [
             219,
             394
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -51,9 +58,12 @@
         ],
         "key": "Rashba on Menachot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Rashba",
+            "en": "Shlomo ibn Adret (Rashba)",
             "he": "רשב\"א",
             "slug": "rashba1"
         }
@@ -88,6 +98,1554 @@
     "heTitleVariants": [
         "רשב״א על מנחות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 2a:1-12a:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Kol HaMenachot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל המנחות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Kol HaMenachot",
+                    "heTitle": "כל המנחות",
+                    "refs": [
+                        "Rashba on Menachot 2a:1",
+                        "Rashba on Menachot 2b",
+                        "Rashba on Menachot 3a",
+                        "Rashba on Menachot 3b",
+                        "Rashba on Menachot 4a",
+                        "Rashba on Menachot 4b",
+                        "Rashba on Menachot 5a",
+                        "Rashba on Menachot 5b",
+                        "Rashba on Menachot 6a",
+                        "Rashba on Menachot 6b",
+                        "Rashba on Menachot 7a",
+                        "Rashba on Menachot 7b",
+                        "Rashba on Menachot 8a",
+                        "Rashba on Menachot 8b",
+                        "Rashba on Menachot 9a",
+                        "Rashba on Menachot 9b",
+                        "Rashba on Menachot 10a",
+                        "Rashba on Menachot 10b",
+                        "Rashba on Menachot 11a",
+                        "Rashba on Menachot 11b",
+                        "Rashba on Menachot 12a:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 13a:1-17a:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; HaKometz et HaMinchah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הקומץ את המנחה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; HaKometz et HaMinchah",
+                    "heTitle": "הקומץ את המנחה",
+                    "refs": [
+                        "Rashba on Menachot 13a:1-2",
+                        "Rashba on Menachot 13b",
+                        "Rashba on Menachot 14a",
+                        "Rashba on Menachot 14b",
+                        "Rashba on Menachot 15a",
+                        "Rashba on Menachot 15b",
+                        "Rashba on Menachot 16a",
+                        "Rashba on Menachot 16b",
+                        "Rashba on Menachot 17a:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 24
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 17b:1-102a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; HaKometz Rabbah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הקומץ רבה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; HaKometz Rabbah",
+                    "heTitle": "הקומץ רבה",
+                    "refs": [
+                        "Rashba on Menachot 17b:1-6",
+                        "Rashba on Menachot 18a",
+                        "Rashba on Menachot 18b",
+                        "Rashba on Menachot 19a",
+                        "Rashba on Menachot 19b",
+                        "Rashba on Menachot 20a",
+                        "Rashba on Menachot 20b",
+                        "Rashba on Menachot 21a",
+                        "Rashba on Menachot 21b",
+                        "Rashba on Menachot 22a",
+                        "Rashba on Menachot 22b",
+                        "Rashba on Menachot 23a",
+                        "Rashba on Menachot 23b",
+                        "Rashba on Menachot 24a",
+                        "Rashba on Menachot 24b",
+                        "Rashba on Menachot 25a",
+                        "Rashba on Menachot 25b",
+                        "Rashba on Menachot 26a",
+                        "Rashba on Menachot 26b",
+                        "Rashba on Menachot 27a",
+                        "Rashba on Menachot 27b",
+                        "Rashba on Menachot 28a",
+                        "Rashba on Menachot 28b",
+                        "Rashba on Menachot 29a",
+                        "Rashba on Menachot 29b",
+                        "Rashba on Menachot 30a",
+                        "Rashba on Menachot 30b",
+                        "Rashba on Menachot 31a",
+                        "Rashba on Menachot 31b",
+                        "Rashba on Menachot 32a",
+                        "Rashba on Menachot 32b",
+                        "Rashba on Menachot 33a",
+                        "Rashba on Menachot 33b",
+                        "Rashba on Menachot 34a",
+                        "Rashba on Menachot 34b",
+                        "Rashba on Menachot 35a",
+                        "Rashba on Menachot 35b",
+                        "Rashba on Menachot 36a",
+                        "Rashba on Menachot 36b",
+                        "Rashba on Menachot 37a",
+                        "Rashba on Menachot 37b",
+                        "Rashba on Menachot 38a",
+                        "Rashba on Menachot 38b",
+                        "Rashba on Menachot 39a",
+                        "Rashba on Menachot 39b",
+                        "Rashba on Menachot 40a",
+                        "Rashba on Menachot 40b",
+                        "Rashba on Menachot 41a",
+                        "Rashba on Menachot 41b",
+                        "Rashba on Menachot 42a",
+                        "Rashba on Menachot 42b",
+                        "Rashba on Menachot 43a",
+                        "Rashba on Menachot 43b",
+                        "Rashba on Menachot 44a",
+                        "Rashba on Menachot 44b",
+                        "Rashba on Menachot 45a",
+                        "Rashba on Menachot 45b",
+                        "Rashba on Menachot 46a",
+                        "Rashba on Menachot 46b",
+                        "Rashba on Menachot 47a",
+                        "Rashba on Menachot 47b",
+                        "Rashba on Menachot 48a",
+                        "Rashba on Menachot 48b",
+                        "Rashba on Menachot 49a",
+                        "Rashba on Menachot 49b",
+                        "Rashba on Menachot 50a",
+                        "Rashba on Menachot 50b",
+                        "Rashba on Menachot 51a",
+                        "Rashba on Menachot 51b",
+                        "Rashba on Menachot 52a",
+                        "Rashba on Menachot 52b",
+                        "Rashba on Menachot 53a",
+                        "Rashba on Menachot 53b",
+                        "Rashba on Menachot 54a",
+                        "Rashba on Menachot 54b",
+                        "Rashba on Menachot 55a",
+                        "Rashba on Menachot 55b",
+                        "Rashba on Menachot 56a",
+                        "Rashba on Menachot 56b",
+                        "Rashba on Menachot 57a",
+                        "Rashba on Menachot 57b",
+                        "Rashba on Menachot 58a",
+                        "Rashba on Menachot 58b",
+                        "Rashba on Menachot 59a",
+                        "Rashba on Menachot 59b",
+                        "Rashba on Menachot 60a",
+                        "Rashba on Menachot 60b",
+                        "Rashba on Menachot 61a",
+                        "Rashba on Menachot 61b",
+                        "Rashba on Menachot 62a",
+                        "Rashba on Menachot 62b",
+                        "Rashba on Menachot 63a",
+                        "Rashba on Menachot 63b",
+                        "Rashba on Menachot 64a",
+                        "Rashba on Menachot 64b",
+                        "Rashba on Menachot 65a",
+                        "Rashba on Menachot 65b",
+                        "Rashba on Menachot 66a",
+                        "Rashba on Menachot 66b",
+                        "Rashba on Menachot 67a",
+                        "Rashba on Menachot 67b",
+                        "Rashba on Menachot 68a",
+                        "Rashba on Menachot 68b",
+                        "Rashba on Menachot 69a",
+                        "Rashba on Menachot 69b",
+                        "Rashba on Menachot 70a",
+                        "Rashba on Menachot 70b",
+                        "Rashba on Menachot 71a",
+                        "Rashba on Menachot 71b",
+                        "Rashba on Menachot 72a",
+                        "Rashba on Menachot 72b",
+                        "Rashba on Menachot 73a",
+                        "Rashba on Menachot 73b",
+                        "Rashba on Menachot 74a",
+                        "Rashba on Menachot 74b",
+                        "Rashba on Menachot 75a",
+                        "Rashba on Menachot 75b",
+                        "Rashba on Menachot 76a",
+                        "Rashba on Menachot 76b",
+                        "Rashba on Menachot 77a",
+                        "Rashba on Menachot 77b",
+                        "Rashba on Menachot 78a",
+                        "Rashba on Menachot 78b",
+                        "Rashba on Menachot 79a",
+                        "Rashba on Menachot 79b",
+                        "Rashba on Menachot 80a",
+                        "Rashba on Menachot 80b",
+                        "Rashba on Menachot 81a",
+                        "Rashba on Menachot 81b",
+                        "Rashba on Menachot 82a",
+                        "Rashba on Menachot 82b",
+                        "Rashba on Menachot 83a",
+                        "Rashba on Menachot 83b",
+                        "Rashba on Menachot 84a",
+                        "Rashba on Menachot 84b",
+                        "Rashba on Menachot 85a",
+                        "Rashba on Menachot 85b",
+                        "Rashba on Menachot 86a",
+                        "Rashba on Menachot 86b",
+                        "Rashba on Menachot 87a",
+                        "Rashba on Menachot 87b",
+                        "Rashba on Menachot 88a",
+                        "Rashba on Menachot 88b",
+                        "Rashba on Menachot 89a",
+                        "Rashba on Menachot 89b",
+                        "Rashba on Menachot 90a",
+                        "Rashba on Menachot 90b",
+                        "Rashba on Menachot 91a",
+                        "Rashba on Menachot 91b",
+                        "Rashba on Menachot 92a",
+                        "Rashba on Menachot 92b",
+                        "Rashba on Menachot 93a",
+                        "Rashba on Menachot 93b",
+                        "Rashba on Menachot 94a",
+                        "Rashba on Menachot 94b",
+                        "Rashba on Menachot 95a",
+                        "Rashba on Menachot 95b",
+                        "Rashba on Menachot 96a",
+                        "Rashba on Menachot 96b",
+                        "Rashba on Menachot 97a",
+                        "Rashba on Menachot 97b",
+                        "Rashba on Menachot 98a",
+                        "Rashba on Menachot 98b",
+                        "Rashba on Menachot 99a",
+                        "Rashba on Menachot 99b",
+                        "Rashba on Menachot 100a",
+                        "Rashba on Menachot 100b",
+                        "Rashba on Menachot 101a",
+                        "Rashba on Menachot 101b",
+                        "Rashba on Menachot 102a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 33
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 64a:1-72b:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 6; Rabbi Yishmael",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "רבי ישמעאל",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; Rabbi Yishmael",
+                    "heTitle": "רבי ישמעאל",
+                    "refs": [
+                        "Rashba on Menachot 64a:1",
+                        "Rashba on Menachot 64b",
+                        "Rashba on Menachot 65a",
+                        "Rashba on Menachot 65b",
+                        "Rashba on Menachot 66a",
+                        "Rashba on Menachot 66b",
+                        "Rashba on Menachot 67a",
+                        "Rashba on Menachot 67b",
+                        "Rashba on Menachot 68a",
+                        "Rashba on Menachot 68b",
+                        "Rashba on Menachot 69a",
+                        "Rashba on Menachot 69b",
+                        "Rashba on Menachot 70a",
+                        "Rashba on Menachot 70b",
+                        "Rashba on Menachot 71a",
+                        "Rashba on Menachot 71b",
+                        "Rashba on Menachot 72a",
+                        "Rashba on Menachot 72b:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 126
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 72b:8-76a:9",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-710"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 7; Ellu Menachot Nikmatzot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "אלו מנחות נקמצות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 7; Ellu Menachot Nikmatzot",
+                    "heTitle": "אלו מנחות נקמצות",
+                    "refs": [
+                        "Rashba on Menachot 72b:8",
+                        "Rashba on Menachot 73a",
+                        "Rashba on Menachot 73b",
+                        "Rashba on Menachot 74a",
+                        "Rashba on Menachot 74b",
+                        "Rashba on Menachot 75a",
+                        "Rashba on Menachot 75b",
+                        "Rashba on Menachot 76a:1-9"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 143
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 77a:1-83a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 8; HaTodah Haytah Ba'ah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "התודה היתה באה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 8; HaTodah Haytah Ba'ah",
+                    "heTitle": "התודה היתה באה",
+                    "refs": [
+                        "Rashba on Menachot 77a:1-9",
+                        "Rashba on Menachot 77b",
+                        "Rashba on Menachot 78a",
+                        "Rashba on Menachot 78b",
+                        "Rashba on Menachot 79a",
+                        "Rashba on Menachot 79b",
+                        "Rashba on Menachot 80a",
+                        "Rashba on Menachot 80b",
+                        "Rashba on Menachot 81a",
+                        "Rashba on Menachot 81b",
+                        "Rashba on Menachot 82a",
+                        "Rashba on Menachot 82b",
+                        "Rashba on Menachot 83a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 152
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 84a:1-86b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 9; Kol Korbanot Tzibbur",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל קרבנות ציבור",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 9; Kol Korbanot Tzibbur",
+                    "heTitle": "כל קרבנות ציבור",
+                    "refs": [
+                        "Rashba on Menachot 84a:1-3",
+                        "Rashba on Menachot 84b",
+                        "Rashba on Menachot 85a",
+                        "Rashba on Menachot 85b",
+                        "Rashba on Menachot 86a",
+                        "Rashba on Menachot 86b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 166
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 87a:1-93b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "tenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 10,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 10; Shetei Middot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "שתי מדות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 10; Shetei Middot",
+                    "heTitle": "שתי מדות",
+                    "refs": [
+                        "Rashba on Menachot 87a:1-2",
+                        "Rashba on Menachot 87b",
+                        "Rashba on Menachot 88a",
+                        "Rashba on Menachot 88b",
+                        "Rashba on Menachot 89a",
+                        "Rashba on Menachot 89b",
+                        "Rashba on Menachot 90a",
+                        "Rashba on Menachot 90b",
+                        "Rashba on Menachot 91a",
+                        "Rashba on Menachot 91b",
+                        "Rashba on Menachot 92a",
+                        "Rashba on Menachot 92b",
+                        "Rashba on Menachot 93a",
+                        "Rashba on Menachot 93b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 172
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 95a:1-97b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "eleventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 11,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 11; Shetei HaLechem",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "שתי הלחם",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 11; Shetei HaLechem",
+                    "heTitle": "שתי הלחם",
+                    "refs": [
+                        "Rashba on Menachot 95a:1",
+                        "Rashba on Menachot 95b",
+                        "Rashba on Menachot 96a",
+                        "Rashba on Menachot 96b",
+                        "Rashba on Menachot 97a",
+                        "Rashba on Menachot 97b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 188
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Menachot 101a:1-102a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "perek",
+                                "twelfth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "bavli",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "talmud",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba-(attributed)",
+                                "gemara",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 12,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 12; HaMenachot VeHanesakhim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "המנחות והנסכים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 12; HaMenachot VeHanesakhim",
+                    "heTitle": "המנחות והנסכים",
+                    "refs": [
+                        "Rashba on Menachot 101a:1",
+                        "Rashba on Menachot 101b",
+                        "Rashba on Menachot 102a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 200
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "text": "רשב״א על מנחות",
+                    "lang": "he"
+                },
+                {
+                    "text": "Rashba on Menachot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Rashba on Menachot",
+            "heTitle": "רשב״א על מנחות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

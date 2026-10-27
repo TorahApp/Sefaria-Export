@@ -18,6 +18,22 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "haggahot-yaavetz",
+                    "kiddushin"
+                ]
+            }
+        ],
+        "lengths": [
+            164,
+            157
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "הגהות יעב\"ץ על קידושין",
@@ -38,6 +54,9 @@
         ],
         "key": "Haggahot Ya'avetz on Kiddushin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yaakov Emden",
@@ -75,6 +94,380 @@
     "heTitleVariants": [
         "הגהות יעב\"ץ על קידושין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Kiddushin 2a:1-40b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; HaIshah Nikneit"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "האשה נקנית"
+                        }
+                    ],
+                    "title": "Chapter 1; HaIshah Nikneit",
+                    "heTitle": "האשה נקנית",
+                    "refs": [
+                        "Haggahot Ya'avetz on Kiddushin 2a:1-3",
+                        "Haggahot Ya'avetz on Kiddushin 2b",
+                        "Haggahot Ya'avetz on Kiddushin 3a",
+                        "Haggahot Ya'avetz on Kiddushin 3b",
+                        "Haggahot Ya'avetz on Kiddushin 4a",
+                        "Haggahot Ya'avetz on Kiddushin 4b",
+                        "Haggahot Ya'avetz on Kiddushin 5a",
+                        "Haggahot Ya'avetz on Kiddushin 5b",
+                        "Haggahot Ya'avetz on Kiddushin 6a",
+                        "Haggahot Ya'avetz on Kiddushin 6b",
+                        "Haggahot Ya'avetz on Kiddushin 7a",
+                        "Haggahot Ya'avetz on Kiddushin 7b",
+                        "Haggahot Ya'avetz on Kiddushin 8a",
+                        "Haggahot Ya'avetz on Kiddushin 8b",
+                        "Haggahot Ya'avetz on Kiddushin 9a",
+                        "Haggahot Ya'avetz on Kiddushin 9b",
+                        "Haggahot Ya'avetz on Kiddushin 10a",
+                        "Haggahot Ya'avetz on Kiddushin 10b",
+                        "Haggahot Ya'avetz on Kiddushin 11a",
+                        "Haggahot Ya'avetz on Kiddushin 11b",
+                        "Haggahot Ya'avetz on Kiddushin 12a",
+                        "Haggahot Ya'avetz on Kiddushin 12b",
+                        "Haggahot Ya'avetz on Kiddushin 13a",
+                        "Haggahot Ya'avetz on Kiddushin 13b",
+                        "Haggahot Ya'avetz on Kiddushin 14a",
+                        "Haggahot Ya'avetz on Kiddushin 14b",
+                        "Haggahot Ya'avetz on Kiddushin 15a",
+                        "Haggahot Ya'avetz on Kiddushin 15b",
+                        "Haggahot Ya'avetz on Kiddushin 16a",
+                        "Haggahot Ya'avetz on Kiddushin 16b",
+                        "Haggahot Ya'avetz on Kiddushin 17a",
+                        "Haggahot Ya'avetz on Kiddushin 17b",
+                        "Haggahot Ya'avetz on Kiddushin 18a",
+                        "Haggahot Ya'avetz on Kiddushin 18b",
+                        "Haggahot Ya'avetz on Kiddushin 19a",
+                        "Haggahot Ya'avetz on Kiddushin 19b",
+                        "Haggahot Ya'avetz on Kiddushin 20a",
+                        "Haggahot Ya'avetz on Kiddushin 20b",
+                        "Haggahot Ya'avetz on Kiddushin 21a",
+                        "Haggahot Ya'avetz on Kiddushin 21b",
+                        "Haggahot Ya'avetz on Kiddushin 22a",
+                        "Haggahot Ya'avetz on Kiddushin 22b",
+                        "Haggahot Ya'avetz on Kiddushin 23a",
+                        "Haggahot Ya'avetz on Kiddushin 23b",
+                        "Haggahot Ya'avetz on Kiddushin 24a",
+                        "Haggahot Ya'avetz on Kiddushin 24b",
+                        "Haggahot Ya'avetz on Kiddushin 25a",
+                        "Haggahot Ya'avetz on Kiddushin 25b",
+                        "Haggahot Ya'avetz on Kiddushin 26a",
+                        "Haggahot Ya'avetz on Kiddushin 26b",
+                        "Haggahot Ya'avetz on Kiddushin 27a",
+                        "Haggahot Ya'avetz on Kiddushin 27b",
+                        "Haggahot Ya'avetz on Kiddushin 28a",
+                        "Haggahot Ya'avetz on Kiddushin 28b",
+                        "Haggahot Ya'avetz on Kiddushin 29a",
+                        "Haggahot Ya'avetz on Kiddushin 29b",
+                        "Haggahot Ya'avetz on Kiddushin 30a",
+                        "Haggahot Ya'avetz on Kiddushin 30b",
+                        "Haggahot Ya'avetz on Kiddushin 31a",
+                        "Haggahot Ya'avetz on Kiddushin 31b",
+                        "Haggahot Ya'avetz on Kiddushin 32a",
+                        "Haggahot Ya'avetz on Kiddushin 32b",
+                        "Haggahot Ya'avetz on Kiddushin 33a",
+                        "Haggahot Ya'avetz on Kiddushin 33b",
+                        "Haggahot Ya'avetz on Kiddushin 34a",
+                        "Haggahot Ya'avetz on Kiddushin 34b",
+                        "Haggahot Ya'avetz on Kiddushin 35a",
+                        "Haggahot Ya'avetz on Kiddushin 35b",
+                        "Haggahot Ya'avetz on Kiddushin 36a",
+                        "Haggahot Ya'avetz on Kiddushin 36b",
+                        "Haggahot Ya'avetz on Kiddushin 37a",
+                        "Haggahot Ya'avetz on Kiddushin 37b",
+                        "Haggahot Ya'avetz on Kiddushin 38a",
+                        "Haggahot Ya'avetz on Kiddushin 38b",
+                        "Haggahot Ya'avetz on Kiddushin 39a",
+                        "Haggahot Ya'avetz on Kiddushin 39b",
+                        "Haggahot Ya'avetz on Kiddushin 40a",
+                        "Haggahot Ya'avetz on Kiddushin 40b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Kiddushin 41a:1-52b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; HaIsh Mekaddesh"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "האיש מקדש"
+                        }
+                    ],
+                    "title": "Chapter 2; HaIsh Mekaddesh",
+                    "heTitle": "האיש מקדש",
+                    "refs": [
+                        "Haggahot Ya'avetz on Kiddushin 41a:1-2",
+                        "Haggahot Ya'avetz on Kiddushin 41b",
+                        "Haggahot Ya'avetz on Kiddushin 42a",
+                        "Haggahot Ya'avetz on Kiddushin 42b",
+                        "Haggahot Ya'avetz on Kiddushin 43a",
+                        "Haggahot Ya'avetz on Kiddushin 43b",
+                        "Haggahot Ya'avetz on Kiddushin 44a",
+                        "Haggahot Ya'avetz on Kiddushin 44b",
+                        "Haggahot Ya'avetz on Kiddushin 45a",
+                        "Haggahot Ya'avetz on Kiddushin 45b",
+                        "Haggahot Ya'avetz on Kiddushin 46a",
+                        "Haggahot Ya'avetz on Kiddushin 46b",
+                        "Haggahot Ya'avetz on Kiddushin 47a",
+                        "Haggahot Ya'avetz on Kiddushin 47b",
+                        "Haggahot Ya'avetz on Kiddushin 48a",
+                        "Haggahot Ya'avetz on Kiddushin 48b",
+                        "Haggahot Ya'avetz on Kiddushin 49a",
+                        "Haggahot Ya'avetz on Kiddushin 49b",
+                        "Haggahot Ya'avetz on Kiddushin 50a",
+                        "Haggahot Ya'avetz on Kiddushin 50b",
+                        "Haggahot Ya'avetz on Kiddushin 51a",
+                        "Haggahot Ya'avetz on Kiddushin 51b",
+                        "Haggahot Ya'avetz on Kiddushin 52a",
+                        "Haggahot Ya'avetz on Kiddushin 52b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 80
+                }
+            ],
+            "titles": [
+                {
+                    "text": "הגהות יעב\"ץ על קידושין",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Haggahot Ya'avetz on Kiddushin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Haggahot Ya'avetz on Kiddushin",
+            "heTitle": "הגהות יעב\"ץ על קידושין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

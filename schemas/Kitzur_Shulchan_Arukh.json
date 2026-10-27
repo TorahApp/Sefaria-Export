@@ -14,6 +14,25 @@
             "Siman",
             "Seif"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "kitzur1",
+                    "shulchan-arukh",
+                    "orach-chayim"
+                ]
+            },
+            {
+                "term_slugs": [
+                    "kitzur1",
+                    "shulchan-arukh"
+                ]
+            }
+        ],
+        "lengths": [
+            221,
+            2765
+        ],
         "titles": [
             {
                 "text": "<i>Kiẓur Shulḥan Arukh</i>",
@@ -51,7 +70,7 @@
         "key": "Kitzur Shulchan Arukh"
     },
     "order": [
-        35
+        45
     ],
     "authors": [
         {

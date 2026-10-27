@@ -17,6 +17,23 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "nefesh-david",
+                    "zohar"
+                ]
+            }
+        ],
+        "lengths": [
+            3,
+            424,
+            1168
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "Nefesh David",
@@ -50,8 +67,11 @@
         ],
         "key": "Nefesh David on Zohar"
     },
+    "order": [
+        45
+    ],
     "authors": [],
-    "enDesc": "Nefesh David is a commentary on the Zohar written by 19th-century kabbalist Rabbi David Luria. It was published as an appendix to Yahel Ohr, a Zohar commentary by the Vilna Gaon, with a note from the publisher crediting Rabbi Luria with having discovered, copied, and arranged the Vilna Gaon’s kabbalistic writings, which prevented them from being lost. The publisher, Rabbi Samuel Luria, called the work Nefesh David (Soul of David) alluding to a connection between a sage’s eternal soul and the words he leaves behind. ",
+    "enDesc": "*Nefesh David* is a commentary on the Zohar written by 19th-century kabbalist Rabbi David Luria. It was published as an appendix to *Yahel Ohr*, a Zohar commentary by the Vilna Gaon, with a note from the publisher crediting Rabbi Luria with having discovered, copied, and arranged the Vilna Gaon’s kabbalistic writings, which prevented them from being lost. The publisher, Rabbi Samuel Luria, called the work *Nefesh David, *The Soul of David* in English, an allusion to a connection between a sage’s eternal soul and the words he leaves behind. ",
     "heDesc": "פירוש על הזוהר, נכתב על ידי דוד לוריא.",
     "enShortDesc": " 19th-century commentary on the Zohar by Rabbi David Luria.",
     "heShortDesc": "",

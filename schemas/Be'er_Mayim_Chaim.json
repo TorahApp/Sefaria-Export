@@ -19,6 +19,13 @@
                     "Paragraph",
                     "Comment"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "genesis"
+                        ]
+                    }
+                ],
                 "toc_zoom": 2,
                 "titles": [
                     {
@@ -53,6 +60,13 @@
                     "Chapter",
                     "Paragraph",
                     "Comment"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "exodus"
+                        ]
+                    }
                 ],
                 "toc_zoom": 2,
                 "titles": [
@@ -89,6 +103,13 @@
                     "Paragraph",
                     "Comment"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "leviticus"
+                        ]
+                    }
+                ],
                 "toc_zoom": 2,
                 "titles": [
                     {
@@ -123,6 +144,13 @@
                     "Chapter",
                     "Paragraph",
                     "Comment"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "numbers"
+                        ]
+                    }
                 ],
                 "toc_zoom": 2,
                 "titles": [
@@ -159,6 +187,13 @@
                     "Paragraph",
                     "Comment"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "deuteronomy"
+                        ]
+                    }
+                ],
                 "toc_zoom": 2,
                 "titles": [
                     {
@@ -182,10 +217,18 @@
                 "key": "Deuteronomy"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "beer-mayim-chaim"
+                ]
+            }
+        ],
         "titles": [
             {
-                "lang": "he",
                 "text": "באר מים חיים",
+                "lang": "he",
                 "primary": true
             },
             {
@@ -200,14 +243,14 @@
     },
     "authors": [
         {
-            "en": "Chaim Tyrer of Tchernovitz",
+            "en": "Chaim Tyrer of Czernowitz",
             "he": "חיים בן שלמה טירר מטשטרנוביץ",
             "slug": "chaim-tyrer-of-tchernovitz"
         }
     ],
-    "enDesc": "Torah commentary by R' Chaim of Chernowitz (1760-1816), considered a classic Chassidic work.",
+    "enDesc": "Be'er Mayim Chaim is a Torah commentary by Rabbi Chaim Tyrer of Czernowitz (1760–1816) and is considered a classic Chasidic work.",
     "heDesc": "אחד מספרי החסידות היסודיים על התורה, חיבר ר' חיים מטשרנוביץ, שגם נקרא על שם ספרו.",
-    "enShortDesc": "Classic 19th-century Torah commentary by Rabbi Chaim Tyrer of Tchernovitz, in clear and accessible language.",
+    "enShortDesc": "Classic 19th-century Torah commentary by R. Chaim Tyrer of Czernowitz, in clear and accessible language",
     "heShortDesc": "פירוש על התורה שכתב רבי חיים טירר מצ'רנוביץ, הכתוב בשפה בהירה ונגישה.",
     "pubDate": [
         1820

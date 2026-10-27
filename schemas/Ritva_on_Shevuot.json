@@ -5,7 +5,7 @@
         "Bavli",
         "Rishonim on Talmud",
         "Ritva",
-        "Seder Kodashim"
+        "Seder Nezikin"
     ],
     "schema": {
         "nodeType": "JaggedArrayNode",
@@ -59,6 +59,9 @@
         ],
         "key": "Ritva on Shevuot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Ritva",
@@ -67,6 +70,9 @@
         }
     ],
     "enDesc": "Concise commentary on the Talmud, written by Rabbi Yom Tov ben Avraham Isbilli (Ritva). The author was a Spanish, medieval rabbi and halakhic authority. His commentaries to many tractates of the Talmud are a mainstay of yeshiva study to this day.",
+    "heDesc": "",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1779,
         1780
@@ -97,6 +103,1148 @@
     "heTitleVariants": [
         "ריטב\"א על שבועות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ritva on Shevuot 2a:1-13b:8",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "perek",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "perek",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "perek",
+                                "chapter-136"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; Shevuot Shetayim Kamma",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שבועות שתים קמא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Shevuot Shetayim Kamma",
+                    "heTitle": "שבועות שתים קמא",
+                    "refs": [
+                        "Ritva on Shevuot 2a:1-4",
+                        "Ritva on Shevuot 2b",
+                        "Ritva on Shevuot 3a",
+                        "Ritva on Shevuot 3b",
+                        "Ritva on Shevuot 4a",
+                        "Ritva on Shevuot 4b",
+                        "Ritva on Shevuot 5a",
+                        "Ritva on Shevuot 5b",
+                        "Ritva on Shevuot 6a",
+                        "Ritva on Shevuot 6b",
+                        "Ritva on Shevuot 7a",
+                        "Ritva on Shevuot 7b",
+                        "Ritva on Shevuot 8a",
+                        "Ritva on Shevuot 8b",
+                        "Ritva on Shevuot 9a",
+                        "Ritva on Shevuot 9b",
+                        "Ritva on Shevuot 10a",
+                        "Ritva on Shevuot 10b",
+                        "Ritva on Shevuot 11a",
+                        "Ritva on Shevuot 11b",
+                        "Ritva on Shevuot 12a",
+                        "Ritva on Shevuot 12b",
+                        "Ritva on Shevuot 13a",
+                        "Ritva on Shevuot 13b:1-8"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ritva on Shevuot 14b:1-19b:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "perek",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "perek",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "perek",
+                                "chapter-229"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 2; Yediot HaTumah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ידיעות הטומאה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Yediot HaTumah",
+                    "heTitle": "ידיעות הטומאה",
+                    "refs": [
+                        "Ritva on Shevuot 14b:1-5",
+                        "Ritva on Shevuot 15a",
+                        "Ritva on Shevuot 15b",
+                        "Ritva on Shevuot 16a",
+                        "Ritva on Shevuot 16b",
+                        "Ritva on Shevuot 17a",
+                        "Ritva on Shevuot 17b",
+                        "Ritva on Shevuot 18a",
+                        "Ritva on Shevuot 18b",
+                        "Ritva on Shevuot 19a",
+                        "Ritva on Shevuot 19b:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 27
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ritva on Shevuot 20a:1-29b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "perek",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "perek",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "perek",
+                                "chapter-328"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 3; Shevuot Shetayim Batra",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שבועות שתים בתרא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Shevuot Shetayim Batra",
+                    "heTitle": "שבועות שתים בתרא",
+                    "refs": [
+                        "Ritva on Shevuot 20a:1-4",
+                        "Ritva on Shevuot 20b",
+                        "Ritva on Shevuot 21a",
+                        "Ritva on Shevuot 21b",
+                        "Ritva on Shevuot 22a",
+                        "Ritva on Shevuot 22b",
+                        "Ritva on Shevuot 23a",
+                        "Ritva on Shevuot 23b",
+                        "Ritva on Shevuot 24a",
+                        "Ritva on Shevuot 24b",
+                        "Ritva on Shevuot 25a",
+                        "Ritva on Shevuot 25b",
+                        "Ritva on Shevuot 26a",
+                        "Ritva on Shevuot 26b",
+                        "Ritva on Shevuot 27a",
+                        "Ritva on Shevuot 27b",
+                        "Ritva on Shevuot 28a",
+                        "Ritva on Shevuot 28b",
+                        "Ritva on Shevuot 29a",
+                        "Ritva on Shevuot 29b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 38
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ritva on Shevuot 30a:1-36b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "perek",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "perek",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "perek",
+                                "chapter-424"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 4; Shevuat HaEdut",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שבועת העדות",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Shevuat HaEdut",
+                    "heTitle": "שבועת העדות",
+                    "refs": [
+                        "Ritva on Shevuot 30a:1-4",
+                        "Ritva on Shevuot 30b",
+                        "Ritva on Shevuot 31a",
+                        "Ritva on Shevuot 31b",
+                        "Ritva on Shevuot 32a",
+                        "Ritva on Shevuot 32b",
+                        "Ritva on Shevuot 33a",
+                        "Ritva on Shevuot 33b",
+                        "Ritva on Shevuot 34a",
+                        "Ritva on Shevuot 34b",
+                        "Ritva on Shevuot 35a",
+                        "Ritva on Shevuot 35b",
+                        "Ritva on Shevuot 36a",
+                        "Ritva on Shevuot 36b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 58
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ritva on Shevuot 36b:3-38b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "perek",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "perek",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "perek",
+                                "chapter-521"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 5; Shevuat HaPikkadon",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שבועת הפקדון",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5; Shevuat HaPikkadon",
+                    "heTitle": "שבועת הפקדון",
+                    "refs": [
+                        "Ritva on Shevuot 36b:3",
+                        "Ritva on Shevuot 37a",
+                        "Ritva on Shevuot 37b",
+                        "Ritva on Shevuot 38a",
+                        "Ritva on Shevuot 38b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 71
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ritva on Shevuot 38b:4-44b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "perek",
+                                "chapter-619"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 6; Shevuat HaDayyanin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שבועת הדיינין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 6; Shevuat HaDayyanin",
+                    "heTitle": "שבועת הדיינין",
+                    "refs": [
+                        "Ritva on Shevuot 38b:4-6",
+                        "Ritva on Shevuot 39a",
+                        "Ritva on Shevuot 39b",
+                        "Ritva on Shevuot 40a",
+                        "Ritva on Shevuot 40b",
+                        "Ritva on Shevuot 41a",
+                        "Ritva on Shevuot 41b",
+                        "Ritva on Shevuot 42a",
+                        "Ritva on Shevuot 42b",
+                        "Ritva on Shevuot 43a",
+                        "Ritva on Shevuot 43b",
+                        "Ritva on Shevuot 44a",
+                        "Ritva on Shevuot 44b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 75
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ritva on Shevuot 44b:2-49a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "perek",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "perek",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "perek",
+                                "chapter-717"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 7; Kol HaNishbain",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כל הנשבעין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 7; Kol HaNishbain",
+                    "heTitle": "כל הנשבעין",
+                    "refs": [
+                        "Ritva on Shevuot 44b:2",
+                        "Ritva on Shevuot 45a",
+                        "Ritva on Shevuot 45b",
+                        "Ritva on Shevuot 46a",
+                        "Ritva on Shevuot 46b",
+                        "Ritva on Shevuot 47a",
+                        "Ritva on Shevuot 47b",
+                        "Ritva on Shevuot 48a",
+                        "Ritva on Shevuot 48b",
+                        "Ritva on Shevuot 49a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 87
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ritva on Shevuot 49a:2-49b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "bavli",
+                                "perek",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "talmud",
+                                "perek",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ritva",
+                                "gemara",
+                                "perek",
+                                "chapter-817"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 8; Arba'ah Shomrim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ארבעה שומרין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 8; Arba'ah Shomrim",
+                    "heTitle": "ארבעה שומרין",
+                    "refs": [
+                        "Ritva on Shevuot 49a:2",
+                        "Ritva on Shevuot 49b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 96
+                }
+            ],
+            "titles": [
+                {
+                    "text": "ריטב\"א על שבועות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Ritva on Shevuot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Ritva on Shevuot",
+            "heTitle": "ריטב\"א על שבועות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
@@ -107,7 +1255,7 @@
         "בבלי",
         "ראשונים על התלמוד",
         "ריטב\"א",
-        "סדר קדשים"
+        "סדר נזיקין"
     ],
     "compDateString": {
         "en": " (c.1280  – c.1320 CE)",

@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chatam-sofer",
+                    "avodah-zarah"
+                ]
+            }
+        ],
         "lengths": [
             152,
             371
@@ -50,9 +58,12 @@
         ],
         "key": "Chidushei Chatam Sofer on Avodah Zarah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Moses Sofer",
+            "en": "Moses Sofer (Chatam Sofer)",
             "he": "משה סופר",
             "slug": "moses-sofer"
         }
@@ -82,6 +93,468 @@
     "heTitleVariants": [
         "חידושי חתם סופר על עבודה זרה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Avodah Zarah 29b:1-35a:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Ein Ma'amidin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "אין מעמידין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Ein Ma'amidin",
+                    "heTitle": "אין מעמידין",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Avodah Zarah 29b:1-10",
+                        "Chidushei Chatam Sofer on Avodah Zarah 30a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 30b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 31a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 31b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 32a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 32b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 33a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 33b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 34a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 34b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 35a:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 57
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Avodah Zarah 55a:1-61a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 4; Rabbi Yishmael",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "רבי ישמעאל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Rabbi Yishmael",
+                    "heTitle": "רבי ישמעאל",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Avodah Zarah 55a:1-5",
+                        "Chidushei Chatam Sofer on Avodah Zarah 55b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 56a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 56b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 57a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 57b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 58a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 58b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 59a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 59b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 60a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 60b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 61a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 108
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Avodah Zarah 62a:1-73b:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-51"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5; HaSokher et HaPoel",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "השוכר את הפועל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 5; HaSokher et HaPoel",
+                    "heTitle": "השוכר את הפועל",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Avodah Zarah 62a:1-10",
+                        "Chidushei Chatam Sofer on Avodah Zarah 62b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 63a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 63b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 64a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 64b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 65a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 65b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 66a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 66b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 67a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 67b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 68a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 68b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 69a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 69b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 70a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 70b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 71a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 71b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 72a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 72b",
+                        "Chidushei Chatam Sofer on Avodah Zarah 73a",
+                        "Chidushei Chatam Sofer on Avodah Zarah 73b:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 122
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי חתם סופר על עבודה זרה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Chidushei Chatam Sofer on Avodah Zarah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Chatam Sofer on Avodah Zarah",
+            "heTitle": "חידושי חתם סופר על עבודה זרה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

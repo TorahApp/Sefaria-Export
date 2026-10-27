@@ -9,20 +9,41 @@
         "depth": 2,
         "addressTypes": [
             "Perek",
-            "Integer"
+            "Pasuk"
         ],
         "sectionNames": [
             "Chapter",
             "Verse"
         ],
-        "titles": [
+        "match_templates": [
             {
-                "lang": "en",
-                "text": "Jubilees"
+                "term_slugs": [
+                    "sefer",
+                    "jubilees"
+                ]
             },
             {
-                "lang": "he",
+                "term_slugs": [
+                    "jubilees"
+                ]
+            }
+        ],
+        "lengths": [
+            50,
+            1757
+        ],
+        "titles": [
+            {
+                "text": "Jubilees",
+                "lang": "en"
+            },
+            {
+                "text": "Jub.",
+                "lang": "en"
+            },
+            {
                 "text": "ספר היובלים",
+                "lang": "he",
                 "primary": true
             },
             {
@@ -52,6 +73,7 @@
     "heTitle": "ספר היובלים",
     "titleVariants": [
         "Jubilees",
+        "Jub.",
         "Book of Jubilees"
     ],
     "heTitleVariants": [

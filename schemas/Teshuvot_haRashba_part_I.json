@@ -9,12 +9,25 @@
         "nodeType": "JaggedArrayNode",
         "depth": 2,
         "addressTypes": [
-            "Integer",
-            "Integer"
+            "Siman",
+            "Seif"
         ],
         "sectionNames": [
             "Teshuva",
             "Paragraph"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "teshuvot",
+                    "rashba",
+                    "volume-i"
+                ]
+            }
+        ],
+        "lengths": [
+            413,
+            11
         ],
         "titles": [
             {
@@ -45,7 +58,7 @@
     ],
     "authors": [
         {
-            "en": "Rashba",
+            "en": "Shlomo ibn Adret (Rashba)",
             "he": "רשב\"א",
             "slug": "rashba1"
         }

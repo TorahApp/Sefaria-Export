@@ -236,6 +236,9 @@
         "heTitle": "רד\"ק על בראשית",
         "key": "Radak on Genesis"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Radak",
@@ -307,6 +310,814 @@
         "רד”ק על בְּרֵאשִׁית",
         "רד\"ק על בראשית"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 1:1:1-6:8:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bereshit",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Breishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereshis",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bereshit",
+                    "heTitle": "בראשית"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 6:9:1-11:32:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Noach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Noah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Noah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Noach",
+                    "heTitle": "נח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 12:1:1-17:27:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Lech Lecha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lekh Lekha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Lech Lecha",
+                    "heTitle": "לך לך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 18:1:1-22:24:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeira",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayera",
+                    "heTitle": "וירא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 23:1:1-25:18:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chayei Sara",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Chaye Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayye Sarah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chayei Sara",
+                    "heTitle": "חיי שרה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 25:19:1-28:9:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Toldot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Toldos",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Toldot",
+                    "heTitle": "תולדות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 28:10:1-32:3:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayetzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeitzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetzey",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayetzei",
+                    "heTitle": "ויצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 32:4:1-36:41:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayishlach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayishlach",
+                    "heTitle": "וישלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 37:1:1-40:23:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeshev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Veyeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayeshev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeshev",
+                    "heTitle": "וישב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 41:1:1-44:17:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Miketz",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מקץ",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מקץ",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Miketz",
+                    "heTitle": "מקץ"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 44:18:1-47:27:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayigash",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויגש",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויגש",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayigash",
+                    "heTitle": "ויגש"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Radak on Genesis 47:28:1-50:3:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "parasha",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "radak",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayechi",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayehi",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayechi",
+                    "heTitle": "ויחי"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Radak on Bereshit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Radak on Gen"
+                },
+                {
+                    "lang": "en",
+                    "text": "Radak on Gen."
+                },
+                {
+                    "lang": "en",
+                    "text": "Radak on Breishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Radak on Ber"
+                },
+                {
+                    "lang": "en",
+                    "text": "Radak on Bereishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Radak on Ber."
+                },
+                {
+                    "lang": "en",
+                    "text": "Radak on Beresheet"
+                },
+                {
+                    "lang": "en",
+                    "text": "Radak on Bereshith"
+                },
+                {
+                    "lang": "he",
+                    "text": "רד\"ק על ברא'"
+                },
+                {
+                    "lang": "he",
+                    "text": "רד\"ק על בר'"
+                },
+                {
+                    "lang": "he",
+                    "text": "רד\"ק על בר׳"
+                },
+                {
+                    "lang": "he",
+                    "text": "רד\"ק על ברא׳"
+                },
+                {
+                    "lang": "he",
+                    "text": "רד\"ק על בְּרֵאשִׁית"
+                },
+                {
+                    "lang": "he",
+                    "text": "רדק על בראשית"
+                },
+                {
+                    "lang": "he",
+                    "text": "רדק על ברא'"
+                },
+                {
+                    "lang": "he",
+                    "text": "רדק על בר'"
+                },
+                {
+                    "lang": "he",
+                    "text": "רדק על בר׳"
+                },
+                {
+                    "lang": "he",
+                    "text": "רדק על ברא׳"
+                },
+                {
+                    "lang": "he",
+                    "text": "רדק על בְּרֵאשִׁית"
+                },
+                {
+                    "text": "רד״ק על בראשית",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד”ק על בראשית",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד״ק על ברא'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד”ק על ברא'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד״ק על בר'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד”ק על בר'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד״ק על בר׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד”ק על בר׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד״ק על ברא׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד”ק על ברא׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד״ק על בְּרֵאשִׁית",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד”ק על בְּרֵאשִׁית",
+                    "lang": "he"
+                },
+                {
+                    "text": "רד\"ק על בראשית",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Radak on Genesis",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Radak on Genesis",
+            "heTitle": "רד\"ק על בראשית"
+        }
+    },
     "heCategories": [
         "תנ\"ך",
         "ראשונים על התנ״ך",

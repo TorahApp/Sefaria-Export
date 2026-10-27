@@ -126,6 +126,9 @@
         ],
         "key": "Saadia Gaon on Numbers"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Saadia Gaon",
@@ -177,6 +180,202 @@
         "רס”ג על במדבר",
         "ר' סעדיה גאון על במדבר"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Saadia Gaon on Numbers 16:4:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "saadia-gaon",
+                                "parasha",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "saadia-gaon",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Korach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "קורח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת קורח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Korach",
+                    "heTitle": "קרח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Saadia Gaon on Numbers 21:7:1-8:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "saadia-gaon",
+                                "parasha",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "saadia-gaon",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chukat",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת חוקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Chukkat",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chukat",
+                    "heTitle": "חקת"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Rasag on Num."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Num"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Bamidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Bemidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Numbers"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Num."
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Num"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Bamidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Bemidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Num."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Num"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Bamidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Bemidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Numbers"
+                },
+                {
+                    "lang": "he",
+                    "text": "רס\"ג על במדבר"
+                },
+                {
+                    "text": "רס״ג על במדבר",
+                    "lang": "he"
+                },
+                {
+                    "text": "רס”ג על במדבר",
+                    "lang": "he"
+                },
+                {
+                    "text": "ר' סעדיה גאון על במדבר",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Saadia Gaon on Numbers",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Saadia Gaon on Numbers",
+            "heTitle": "ר' סעדיה גאון על במדבר"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

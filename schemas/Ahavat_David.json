@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "title"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -55,6 +62,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ahavat-david"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "he",
@@ -73,7 +88,7 @@
     },
     "authors": [
         {
-            "en": "Hayyim Joseph David Azulai",
+            "en": "Hayyim Joseph David Azulai (Chida)",
             "he": "חיים דוד אזולאי",
             "slug": "hayyim-joseph-david-azulai"
         }

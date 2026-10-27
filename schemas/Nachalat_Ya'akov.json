@@ -1,0 +1,3328 @@
+{
+    "title": "Nachalat Ya'akov",
+    "categories": [
+        "Tanakh",
+        "Acharonim on Tanakh",
+        "Nachalat Ya'akov"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Integer",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "genesis"
+                        ]
+                    }
+                ],
+                "toc_zoom": 2,
+                "titles": [
+                    {
+                        "text": "Genesis",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "בראשית",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Genesis",
+                "heTitle": "בראשית",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פסקה"
+                ],
+                "key": "Genesis"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Integer",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "exodus"
+                        ]
+                    }
+                ],
+                "toc_zoom": 2,
+                "titles": [
+                    {
+                        "text": "Exodus",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "שמות",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Exodus",
+                "heTitle": "שמות",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פסקה"
+                ],
+                "key": "Exodus"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Integer",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "leviticus"
+                        ]
+                    }
+                ],
+                "toc_zoom": 2,
+                "titles": [
+                    {
+                        "text": "Leviticus",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ויקרא",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Leviticus",
+                "heTitle": "ויקרא",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פסקה"
+                ],
+                "key": "Leviticus"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Integer",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "numbers"
+                        ]
+                    }
+                ],
+                "toc_zoom": 2,
+                "titles": [
+                    {
+                        "text": "Numbers",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "במדבר",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Numbers",
+                "heTitle": "במדבר",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פסקה"
+                ],
+                "key": "Numbers"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 3,
+                "addressTypes": [
+                    "Integer",
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Verse",
+                    "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "deuteronomy"
+                        ]
+                    }
+                ],
+                "toc_zoom": 2,
+                "titles": [
+                    {
+                        "text": "Deuteronomy",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "דברים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Deuteronomy",
+                "heTitle": "דברים",
+                "heSectionNames": [
+                    "פרק",
+                    "פסוק",
+                    "פסקה"
+                ],
+                "key": "Deuteronomy"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "chidushei-agadot"
+                        ]
+                    }
+                ],
+                "titles": [
+                    {
+                        "text": "Chidushei Agadot",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "חידושי אגדות",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Chidushei Agadot",
+                "heTitle": "חידושי אגדות",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Chidushei Agadot"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "nachalat-yaakov"
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "text": "Nachalat Ya'akov on Torah",
+                "lang": "en"
+            },
+            {
+                "text": "נחלת יעקב",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "נחלת יעקב על תורה",
+                "lang": "he"
+            },
+            {
+                "text": "Nachalat Ya'akov",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Nachalat Ya'akov",
+        "heTitle": "נחלת יעקב",
+        "key": "Nachalat Ya'akov"
+    },
+    "authors": [
+        {
+            "en": "Yaakov Lorberbaum",
+            "he": "יעקב בן יעקב משה מליסא",
+            "slug": "yaakov-lorberbaum"
+        }
+    ],
+    "enDesc": "Nachalat Ya’akov is an early 19th-century work by Rabbi Yaakov Lorberbaum, known as the [Netivot HaMishpat](https://www.sefaria.org/Netivot_HaMishpat,_Beurim_on_Shulchan_Arukh,_Choshen_Mishpat?tab=contents) or the Chavot Da’at after his most well-known works. The book consists of two parts: the first, featured here, contains sermons on the Torah and essays explaining talmudic narratives. The second part consists of halakhic discourses and assorted responsa. Nachalat Ya’akov includes a long introduction by the author’s grandson, Rabbi Avraham Teomim. ",
+    "heDesc": "",
+    "enShortDesc": "Early 19th-century compilation of essays on the Torah by R. Yaakov Lorberbaum",
+    "heShortDesc": "חיבור מהמאה ה-19 מאת הרב יעקב לורברבוים",
+    "pubDate": [
+        1849
+    ],
+    "pubPlace": "Breslau",
+    "dependence": "Commentary",
+    "base_text_titles": [
+        {
+            "en": "Genesis",
+            "he": "בראשית"
+        },
+        {
+            "en": "Exodus",
+            "he": "ספר שמות"
+        },
+        {
+            "en": "Leviticus",
+            "he": "ספר ויקרא"
+        },
+        {
+            "en": "Numbers",
+            "he": "במדבר"
+        },
+        {
+            "en": "Deuteronomy",
+            "he": "ספר דברים"
+        }
+    ],
+    "collective_title": {
+        "en": "Nachalat Ya'akov",
+        "he": "נחלת יעקב"
+    },
+    "heTitle": "נחלת יעקב",
+    "titleVariants": [
+        "Nachalat Ya'akov on Torah",
+        "Nachalat Ya'akov"
+    ],
+    "heTitleVariants": [
+        "נחלת יעקב",
+        "נחלת יעקב על תורה"
+    ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 1:1-6:8",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bereshit",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Breishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereshis",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bereshit",
+                    "heTitle": "בראשית"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 6:9-11:32",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Noach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Noah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Noah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Noach",
+                    "heTitle": "נח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 12:1-17:27",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Lech Lecha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lekh Lekha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Lech Lecha",
+                    "heTitle": "לך לך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 18:1-22:24",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeira",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayera",
+                    "heTitle": "וירא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 23:1-25:18",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chayei Sara",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Chaye Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayye Sarah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chayei Sara",
+                    "heTitle": "חיי שרה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 25:19-28:9",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Toldot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Toldos",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Toldot",
+                    "heTitle": "תולדות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 28:10-32:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayetzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeitzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetzey",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayetzei",
+                    "heTitle": "ויצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 32:4-36:43",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayishlach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayishlach",
+                    "heTitle": "וישלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 37:1-40:23",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeshev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Veyeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayeshev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeshev",
+                    "heTitle": "וישב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 41:1-44:17",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Miketz",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מקץ",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מקץ",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Miketz",
+                    "heTitle": "מקץ"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 44:18-47:27",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayigash",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויגש",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויגש",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayigash",
+                    "heTitle": "ויגש"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Genesis 47:28-50:26",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayechi",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayehi",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayechi",
+                    "heTitle": "ויחי"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 1:1-6:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "shemot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "shemot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shemot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שמות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שמות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parsha Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Names",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shmot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Exodos",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Sh'mot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shemot",
+                    "heTitle": "שמות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 6:2-9:35",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vaera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vaera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וארא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וארא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'era",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Va'era",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ve'Erah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vaera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaera",
+                    "heTitle": "וארא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 10:1-13:16",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "bo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "bo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Bo",
+                    "heTitle": "בא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 13:17-17:16",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "beshalach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "beshalach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beshalach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beshalach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בשלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beshalach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בשלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Beshalach",
+                    "heTitle": "בשלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 18:1-20:23",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Yitro",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Jethro",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Yitro",
+                    "heTitle": "יתרו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 21:1-24:18",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "mishpatim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "mishpatim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Mishpatim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Mishpatim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "משפטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Mishpatim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת משפטים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Mishpatim",
+                    "heTitle": "משפטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 25:1-27:19",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "terumah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "terumah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Terumah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Terumah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תרומה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Terumah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תרומה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Truma",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Trumah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "T'rumah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Terumah",
+                    "heTitle": "תרומה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 27:20-30:10",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "tetzaveh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "tetzaveh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tetzaveh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tetzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תצוה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tetzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תצוה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "T'tzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תצווה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tezaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Teztaveh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Tetzaveh",
+                    "heTitle": "תצוה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 30:11-34:35",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "ki-tisa"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "ki-tisa"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tisa",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tisa",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tisa",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tissa",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Tissa",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Tisa",
+                    "heTitle": "כי תשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 35:1-38:20",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayakhel"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayakhel"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayakhel",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayakhel",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויקהל",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayakhel",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויקהל",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Vayakel",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayakhel",
+                    "heTitle": "ויקהל"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Exodus 38:21-40:38",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "pekudei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "pekudei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pekudei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pekudei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פקודי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pekudei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פקודי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pikudei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Pekudei",
+                    "heTitle": "פקודי"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 1:1-5:26",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayikra"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayikra"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayikra",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayikra",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויקרא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayikra",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויקרא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayikra",
+                    "heTitle": "ויקרא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 6:1-8:36",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "tzav"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "tzav"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tzav",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tzav",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "צו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tzav",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת צו",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Tzav",
+                    "heTitle": "צו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 9:1-11:47",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "shmini"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "shmini"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shmini",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shmini",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שמיני",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shmini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שמיני",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shemini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Shemini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shemini",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shmini",
+                    "heTitle": "שמיני"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 12:1-13:59",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "tazria"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "tazria"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tazria",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tazria",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תזריע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tazria",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תזריע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Tazria",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Tazria",
+                    "heTitle": "תזריע"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 14:1-15:33",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "metzora"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "metzora"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Metzora",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Metzora",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מצורע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Metzora",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מצורע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parsha Metzorah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Metzorah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Metzora",
+                    "heTitle": "מצורע"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 16:1-18:30",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "achrei-mot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "achrei-mot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Achrei Mot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Achrei Mot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אחרי מות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Achrei Mot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת אחרי מות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Acharei Mot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Achrei Mot",
+                    "heTitle": "אחרי מות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 19:1-20:27",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "kedoshim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "kedoshim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Kedoshim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Kedoshim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קדושים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Kedoshim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קדושים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Kedoshim",
+                    "heTitle": "קדושים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 21:1-24:23",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "emor"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "emor"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Emor",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Emor",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אמור",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Emor",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת אמור",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Emor",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Emor",
+                    "heTitle": "אמור"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 25:1-26:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "behar"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "behar"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Behar",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Behar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בהר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Behar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בהר",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Behar",
+                    "heTitle": "בהר"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Leviticus 26:3-27:34",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "bechukotai"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "bechukotai"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bechukotai",
+                    "titles": [
+                        {
+                            "text": "Bechukotai",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "בחוקתי",
+                            "primary": true,
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bechukotai",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בחוקתי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת בחוקותי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Bekhukotai",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "בחקתי",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Bechukotai",
+                    "heTitle": "בחוקתי"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 1:1-4:20",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bamidbar",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bemidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Numbers",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bamidbar",
+                    "heTitle": "במדבר"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 4:21-7:89",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nasso",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Naso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Naso",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nasso",
+                    "heTitle": "נשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 8:1-12:16",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beha'alotcha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Behaalotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behaalotchah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Bahalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "B'ha'alotekha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parasha Behaatlocha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Behaloscha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Beha'alotcha",
+                    "heTitle": "בהעלותך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 13:1-15:41",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Sh'lach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shelach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Shlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shlach",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Sh'lach",
+                    "heTitle": "שלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 16:1-18:32",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Korach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "קורח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת קורח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Korach",
+                    "heTitle": "קרח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 19:1-22:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chukat",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת חוקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Chukkat",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chukat",
+                    "heTitle": "חקת"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 22:2-25:9",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Balak",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Balak",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Balak",
+                    "heTitle": "בלק"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 25:10-30:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pinchas",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פנחס",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פנחס",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Pinchas",
+                    "heTitle": "פנחס"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 30:2-32:42",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Matot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Matot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Matot",
+                    "heTitle": "מטות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Numbers 33:1-36:13",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Masei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ma'asei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Masei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Masei",
+                    "heTitle": "מסעי"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 1:1-3:22",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Devarim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "d'Varim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Devarim",
+                    "heTitle": "דברים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 3:23-7:11",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaetchanan",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'ethanan",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaetchanan",
+                    "heTitle": "ואתחנן"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 7:12-11:25",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Eikev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ekev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Eikev",
+                    "heTitle": "עקב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 11:26-16:17",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Re'eh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ראה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ראה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Re'eh",
+                    "heTitle": "ראה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 16:18-21:9",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shoftim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Judges",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shofetim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shoftim",
+                    "heTitle": "שופטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 21:10-25:19",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Teitzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Ki Teitze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Seitzei;",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teytzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teitze",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Teitzei",
+                    "heTitle": "כי תצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 26:1-29:8",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tavo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תבוא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תבוא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Ki Tavo",
+                    "heTitle": "כי תבוא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 29:9-30:20",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nitzavim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Nitzavim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nitzavim",
+                    "heTitle": "נצבים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 31:1-31:30",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeilech",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayelech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayelekh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeilech",
+                    "heTitle": "וילך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 32:1-32:52",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ha'Azinu",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashsat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Haazinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Haazinu",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ha'Azinu",
+                    "heTitle": "האזינו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Nachalat Ya'akov, Deuteronomy 33:1-34:12",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "parasha",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "nachalat-yaakov",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "V'Zot HaBerachah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'zot Habrachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat V'zot Haberachah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "V'Zot HaBerachah",
+                    "heTitle": "וזאת הברכה"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Nachalat Ya'akov on Torah",
+                    "lang": "en"
+                },
+                {
+                    "text": "נחלת יעקב",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "נחלת יעקב על תורה",
+                    "lang": "he"
+                },
+                {
+                    "text": "Nachalat Ya'akov",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Nachalat Ya'akov",
+            "heTitle": "נחלת יעקב"
+        }
+    },
+    "heCategories": [
+        "תנ\"ך",
+        "אחרונים על התנ״ך",
+        "נחלת יעקב"
+    ],
+    "pubDateString": {
+        "en": " (1849 CE)",
+        "he": " (1849 לספירה)"
+    },
+    "pubPlaceString": {
+        "en": "Breslau",
+        "he": "ברעסלוי"
+    }
+}

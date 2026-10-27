@@ -60,9 +60,12 @@
         ],
         "key": "HaMaor HaKatan on Rosh Hashanah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Zerachiah ha-Levi of Girona",
+            "en": "Zerachiah HaLevi of Gerona",
             "he": "זרחיה הלוי",
             "slug": "zerachiah-ha-levi-of-girona"
         }
@@ -99,6 +102,175 @@
     "heTitleVariants": [
         "המאור הקטן על ראש השנה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "HaMaor HaKatan on Rosh Hashanah 1a:1-12a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; Arba'ah Rashei Shanim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ארבעה ראשי שנים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Arba'ah Rashei Shanim",
+                    "heTitle": "ארבעה ראשי שנים",
+                    "refs": [
+                        "HaMaor HaKatan on Rosh Hashanah 1a:1-4",
+                        "HaMaor HaKatan on Rosh Hashanah 1b",
+                        "HaMaor HaKatan on Rosh Hashanah 2a",
+                        "HaMaor HaKatan on Rosh Hashanah 2b",
+                        "HaMaor HaKatan on Rosh Hashanah 3a",
+                        "HaMaor HaKatan on Rosh Hashanah 3b",
+                        "HaMaor HaKatan on Rosh Hashanah 4a",
+                        "HaMaor HaKatan on Rosh Hashanah 4b",
+                        "HaMaor HaKatan on Rosh Hashanah 5a",
+                        "HaMaor HaKatan on Rosh Hashanah 5b",
+                        "HaMaor HaKatan on Rosh Hashanah 6a",
+                        "HaMaor HaKatan on Rosh Hashanah 6b",
+                        "HaMaor HaKatan on Rosh Hashanah 7a",
+                        "HaMaor HaKatan on Rosh Hashanah 7b",
+                        "HaMaor HaKatan on Rosh Hashanah 8a",
+                        "HaMaor HaKatan on Rosh Hashanah 8b",
+                        "HaMaor HaKatan on Rosh Hashanah 9a",
+                        "HaMaor HaKatan on Rosh Hashanah 9b",
+                        "HaMaor HaKatan on Rosh Hashanah 10a",
+                        "HaMaor HaKatan on Rosh Hashanah 10b",
+                        "HaMaor HaKatan on Rosh Hashanah 11a",
+                        "HaMaor HaKatan on Rosh Hashanah 11b",
+                        "HaMaor HaKatan on Rosh Hashanah 12a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 0
+                }
+            ],
+            "titles": [
+                {
+                    "text": "המאור הקטן על ראש השנה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "HaMaor HaKatan on Rosh Hashanah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "HaMaor HaKatan on Rosh Hashanah",
+            "heTitle": "המאור הקטן על ראש השנה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

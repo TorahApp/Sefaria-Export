@@ -4,24 +4,23 @@
         "Kabbalah"
     ],
     "schema": {
-        "nodes": [
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "paragraph"
+        ],
+        "match_templates": [
             {
-                "nodeType": "JaggedArrayNode",
-                "depth": 1,
-                "addressTypes": [
-                    "Integer"
-                ],
-                "sectionNames": [
-                    "paragraph"
-                ],
-                "default": true,
-                "title": "",
-                "heTitle": "",
-                "heSectionNames": [
-                    ""
-                ],
-                "key": "default"
+                "term_slugs": [
+                    "gan-naul-(abulafia)"
+                ]
             }
+        ],
+        "lengths": [
+            171
         ],
         "titles": [
             {
@@ -37,18 +36,24 @@
         ],
         "title": "Gan Naul (Abulafia)",
         "heTitle": "גן נעול (אבולעפיה)",
+        "heSectionNames": [
+            ""
+        ],
         "key": "Gan Naul (Abulafia)"
     },
+    "order": [
+        45
+    ],
     "authors": [
         {
-            "en": "Avraham Abulafia",
+            "en": "Abraham Abulafia",
             "he": "אברהם אבולעפיה",
-            "slug": "avraham-abulafia"
+            "slug": "abraham-ben-samuel-abulafia"
         }
     ],
-    "enDesc": "Gan Naul (The Locked Garden) is one of three commentaries by Avraham Abulafia, a 13th-century Spanish kabbalist, on Sefer Yetzirah, an early mystical work describing how God used the Hebrew alphabet and numbers to create the world. Abulafia emphasized what he called Prophetic Kabbalah, or Kabbalah of Names, over study of the sefirot, and discusses both in Gan Naul. The work contains analyses of words and letters, especially from the Book of Genesis. The title alludes to hiddenness and is taken from Song of Songs 4:12.",
+    "enDesc": "Gan Naul (\"A Locked Garden\") is one of three commentaries by Abraham Abulafia, a 13th-century Spanish kabbalist, on Sefer Yetzirah, an early mystical work that describes how God used the Hebrew alphabet and numbers to create the world. Abulafia emphasized what he called \"Prophetic Kabbalah,\" or \"Kabbalah of Names,\" over the study of the sefirot, and discusses both in Gan Naul. The work contains analyses of words and letters, especially from the book of Genesis. The title alludes to hiddenness and is drawn from Song of Songs 4:12.",
     "heDesc": "״גן נעול״ הוא אחד משלושת הפירושים של אברהם אבולעפיה, מקובל ספרדי מהמאה ה-13, על ספר יצירה, יצירה מיסטית מוקדמת המתארת כיצד אלוהים השתמש באלפבית העברי ובמספרים כדי לברוא את העולם. אבולעפיה העדיף את מה שהוא כינה קבלה נבואית, או קבלה של שמות, על פני לימוד הספירות, ודן בשניהם ב״גן נעול״. העבודה מכילה ניתוחים של מילים ואותיות, בעיקר מתוך ספר בראשית. הכותרת רומזת לנסתר ולקוחה ממגילת שיר השירים פרק ד׳ פסוק יב.",
-    "enShortDesc": "13th-century commentary on Sefer Yetzirah, an early kabbalistic text of unknown authorship, by Rabbi Avraham Abulafia.",
+    "enShortDesc": "13th-century commentary on Sefer Yetzirah, an early kabbalistic text of unknown authorship, by Abraham Abulafia.",
     "heShortDesc": "פירוש מהמאה ה-13 לספר יצירה, טקסט קבלי מוקדם בעל מחבר לא ידוע, מאת רבי אברהם אבולעפיה",
     "pubDate": [
         1999
@@ -66,6 +71,10 @@
     "heTitleVariants": [
         "גן נעול (אבולעפיה)"
     ],
+    "sectionNames": [
+        "paragraph"
+    ],
+    "depth": 1,
     "heCategories": [
         "קבלה"
     ],

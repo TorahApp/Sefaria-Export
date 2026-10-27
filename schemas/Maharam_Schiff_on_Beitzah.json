@@ -18,6 +18,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "maharam-schiff",
+                    "beitzah"
+                ]
+            }
+        ],
         "lengths": [
             80,
             312
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -55,6 +62,9 @@
         ],
         "key": "Maharam Schiff on Beitzah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Meir ben Jacob Ha-Kohen Schiff",
@@ -94,6 +104,639 @@
     "heTitleVariants": [
         "מהר\"ם שיף על ביצה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Beitzah 2a:1-15a:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Beitzah"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "ביצה"
+                        }
+                    ],
+                    "title": "Chapter 1; Beitzah",
+                    "heTitle": "ביצה",
+                    "refs": [
+                        "Maharam Schiff on Beitzah 2a:1-12",
+                        "Maharam Schiff on Beitzah 2b",
+                        "Maharam Schiff on Beitzah 3a",
+                        "Maharam Schiff on Beitzah 3b",
+                        "Maharam Schiff on Beitzah 4a",
+                        "Maharam Schiff on Beitzah 4b",
+                        "Maharam Schiff on Beitzah 5a",
+                        "Maharam Schiff on Beitzah 5b",
+                        "Maharam Schiff on Beitzah 6a",
+                        "Maharam Schiff on Beitzah 6b",
+                        "Maharam Schiff on Beitzah 7a",
+                        "Maharam Schiff on Beitzah 7b",
+                        "Maharam Schiff on Beitzah 8a",
+                        "Maharam Schiff on Beitzah 8b",
+                        "Maharam Schiff on Beitzah 9a",
+                        "Maharam Schiff on Beitzah 9b",
+                        "Maharam Schiff on Beitzah 10a",
+                        "Maharam Schiff on Beitzah 10b",
+                        "Maharam Schiff on Beitzah 11a",
+                        "Maharam Schiff on Beitzah 11b",
+                        "Maharam Schiff on Beitzah 12a",
+                        "Maharam Schiff on Beitzah 12b",
+                        "Maharam Schiff on Beitzah 13a",
+                        "Maharam Schiff on Beitzah 13b",
+                        "Maharam Schiff on Beitzah 14a",
+                        "Maharam Schiff on Beitzah 14b",
+                        "Maharam Schiff on Beitzah 15a:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Beitzah 15b:1-23b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; Yom Tov"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "יום טוב"
+                        }
+                    ],
+                    "title": "Chapter 2; Yom Tov",
+                    "heTitle": "יום טוב",
+                    "refs": [
+                        "Maharam Schiff on Beitzah 15b:1-3",
+                        "Maharam Schiff on Beitzah 16a",
+                        "Maharam Schiff on Beitzah 16b",
+                        "Maharam Schiff on Beitzah 17a",
+                        "Maharam Schiff on Beitzah 17b",
+                        "Maharam Schiff on Beitzah 18a",
+                        "Maharam Schiff on Beitzah 18b",
+                        "Maharam Schiff on Beitzah 19a",
+                        "Maharam Schiff on Beitzah 19b",
+                        "Maharam Schiff on Beitzah 20a",
+                        "Maharam Schiff on Beitzah 20b",
+                        "Maharam Schiff on Beitzah 21a",
+                        "Maharam Schiff on Beitzah 21b",
+                        "Maharam Schiff on Beitzah 22a",
+                        "Maharam Schiff on Beitzah 22b",
+                        "Maharam Schiff on Beitzah 23a",
+                        "Maharam Schiff on Beitzah 23b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 29
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Beitzah 23b:3-40b:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; Ein Tzadin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אין צדין"
+                        }
+                    ],
+                    "title": "Chapter 3; Ein Tzadin",
+                    "heTitle": "אין צדין",
+                    "refs": [
+                        "Maharam Schiff on Beitzah 23b:3",
+                        "Maharam Schiff on Beitzah 24a",
+                        "Maharam Schiff on Beitzah 24b",
+                        "Maharam Schiff on Beitzah 25a",
+                        "Maharam Schiff on Beitzah 25b",
+                        "Maharam Schiff on Beitzah 26a",
+                        "Maharam Schiff on Beitzah 26b",
+                        "Maharam Schiff on Beitzah 27a",
+                        "Maharam Schiff on Beitzah 27b",
+                        "Maharam Schiff on Beitzah 28a",
+                        "Maharam Schiff on Beitzah 28b",
+                        "Maharam Schiff on Beitzah 29a",
+                        "Maharam Schiff on Beitzah 29b",
+                        "Maharam Schiff on Beitzah 30a",
+                        "Maharam Schiff on Beitzah 30b",
+                        "Maharam Schiff on Beitzah 31a",
+                        "Maharam Schiff on Beitzah 31b",
+                        "Maharam Schiff on Beitzah 32a",
+                        "Maharam Schiff on Beitzah 32b",
+                        "Maharam Schiff on Beitzah 33a",
+                        "Maharam Schiff on Beitzah 33b",
+                        "Maharam Schiff on Beitzah 34a",
+                        "Maharam Schiff on Beitzah 34b",
+                        "Maharam Schiff on Beitzah 35a",
+                        "Maharam Schiff on Beitzah 35b",
+                        "Maharam Schiff on Beitzah 36a",
+                        "Maharam Schiff on Beitzah 36b",
+                        "Maharam Schiff on Beitzah 37a",
+                        "Maharam Schiff on Beitzah 37b",
+                        "Maharam Schiff on Beitzah 38a",
+                        "Maharam Schiff on Beitzah 38b",
+                        "Maharam Schiff on Beitzah 39a",
+                        "Maharam Schiff on Beitzah 39b",
+                        "Maharam Schiff on Beitzah 40a",
+                        "Maharam Schiff on Beitzah 40b:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 45
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Beitzah 35b:2-40b:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 5; Mashilin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "משילין"
+                        }
+                    ],
+                    "title": "Chapter 5; Mashilin",
+                    "heTitle": "משילין",
+                    "refs": [
+                        "Maharam Schiff on Beitzah 35b:2-4",
+                        "Maharam Schiff on Beitzah 36a",
+                        "Maharam Schiff on Beitzah 36b",
+                        "Maharam Schiff on Beitzah 37a",
+                        "Maharam Schiff on Beitzah 37b",
+                        "Maharam Schiff on Beitzah 38a",
+                        "Maharam Schiff on Beitzah 38b",
+                        "Maharam Schiff on Beitzah 39a",
+                        "Maharam Schiff on Beitzah 39b",
+                        "Maharam Schiff on Beitzah 40a",
+                        "Maharam Schiff on Beitzah 40b:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 69
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "מהר\"ם שיף על ביצה",
+                    "primary": true
+                },
+                {
+                    "text": "Maharam Shif on Beitzah",
+                    "lang": "en"
+                },
+                {
+                    "text": "Maharam Schiff on Beitzah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Maharam Schiff on Beitzah",
+            "heTitle": "מהר\"ם שיף על ביצה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

@@ -63,9 +63,12 @@
         ],
         "key": "Chidushei Agadot on Temurah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Maharsha",
+            "en": "Shmuel Eidels (Maharsha)",
             "he": "מהרש\"א",
             "slug": "maharsha"
         }
@@ -104,6 +107,160 @@
         "חידושי אגדות על תמורה",
         "חידושי אגדות על מסכת תמורה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Temurah 14b:1-16a:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; Yesh BeKorbenot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "יש בקרבנות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; Yesh BeKorbenot",
+                    "heTitle": "יש בקרבנות",
+                    "refs": [
+                        "Chidushei Agadot on Temurah 14b:1",
+                        "Chidushei Agadot on Temurah 15a",
+                        "Chidushei Agadot on Temurah 15b",
+                        "Chidushei Agadot on Temurah 16a:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 27
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי אגדות על תמורה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "חידושי אגדות על מסכת תמורה",
+                    "lang": "he"
+                },
+                {
+                    "text": "Chidushei Agadot on Temurah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Agadot on Temurah",
+            "heTitle": "חידושי אגדות על תמורה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

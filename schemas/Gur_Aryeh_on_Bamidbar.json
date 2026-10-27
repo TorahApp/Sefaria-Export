@@ -58,9 +58,12 @@
         ],
         "key": "Gur Aryeh on Bamidbar"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
-            "en": "Maharal",
+            "en": "Judah Loew of Prague (Maharal)",
             "he": "מהר\"ל",
             "slug": "maharal"
         }
@@ -98,6 +101,574 @@
     "heTitleVariants": [
         "גור אריה על במדבר"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 1:1:1-4:16:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bamidbar",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bemidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Numbers",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bamidbar",
+                    "heTitle": "במדבר"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 4:22:1-7:86:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nasso",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Naso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Naso",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nasso",
+                    "heTitle": "נשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 8:2:1-12:14:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beha'alotcha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Behaalotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behaalotchah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Bahalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "B'ha'alotekha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parasha Behaatlocha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Behaloscha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Beha'alotcha",
+                    "heTitle": "בהעלותך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 13:2:1-15:41:5",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Sh'lach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shelach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Shlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shlach",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Sh'lach",
+                    "heTitle": "שלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 16:1:1-18:32:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Korach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "קורח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת קורח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Korach",
+                    "heTitle": "קרח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 19:2:1-21:35:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chukat",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת חוקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Chukkat",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chukat",
+                    "heTitle": "חקת"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 22:2:1-25:8:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Balak",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Balak",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Balak",
+                    "heTitle": "בלק"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 25:11:1-30:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pinchas",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פנחס",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פנחס",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Pinchas",
+                    "heTitle": "פנחס"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 30:2:1-32:38:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Matot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Matot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Matot",
+                    "heTitle": "מטות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Gur Aryeh on Bamidbar 33:1:1-36:11:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "parasha",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "gur-aryeh",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Masei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ma'asei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Masei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Masei",
+                    "heTitle": "מסעי"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "גור אריה על במדבר",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Gur Aryeh on Bamidbar",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Gur Aryeh on Bamidbar",
+            "heTitle": "גור אריה על במדבר"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

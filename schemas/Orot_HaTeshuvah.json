@@ -16,6 +16,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -48,6 +55,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "foreword"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -89,6 +103,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "orot-hateshuvah"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "אורות התשובה",
@@ -107,12 +129,14 @@
     },
     "authors": [
         {
-            "en": "Avraham Yitzchak HaCohen Kook",
+            "en": "Abraham Isaac HaCohen Kook",
             "he": "הרב אברהם יצחק הכהן קוק",
-            "slug": "avraham-yitzchak-hacohen-kook"
+            "slug": "abraham-isaac-hacohen-kook"
         }
     ],
-    "enShortDesc": "Popular short work on repentance edited by Rav Kook’s son, Rav Tzvi Yehuda Kook.",
+    "enDesc": "Popular short work on repentance, edited by Rav Kook’s son, Rav Zvi Yehuda Kook",
+    "heDesc": "",
+    "enShortDesc": "Popular short work on repentance, edited by Rav Kook’s son, Rav Zvi Yehuda Kook",
     "heShortDesc": "חיבור העוסק בחזרה בתשובה, בעריכת הרב צבי יהודה קוק, בנו של הרב קוק.",
     "pubDate": [
         1925

@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             10,
             7,
             7
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "primary": true,
                 "text": "השגות הראב\"ד על משנה תורה, הלכות תפילין ומזוזה וספר תורה",
                 "lang": "he"
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll",
@@ -91,6 +119,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות תפילין ומזוזה וספר תורה",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll",
         "Hasagot HaRa'avad on Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll"
     ],
     "heTitleVariants": [

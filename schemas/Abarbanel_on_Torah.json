@@ -394,6 +394,10 @@
         ],
         "titles": [
             {
+                "text": "Abarbanel",
+                "lang": "en"
+            },
+            {
                 "text": "אברבנאל על תורה",
                 "lang": "he",
                 "primary": true
@@ -408,14 +412,23 @@
         "heTitle": "אברבנאל על תורה",
         "key": "Abarbanel on Torah"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
+    "order": [
+        5
+    ],
     "authors": [
         {
-            "en": "Abarbanel",
+            "en": "Isaac Abarbanel",
             "he": "אברבנאל",
-            "slug": "abarbanel"
+            "slug": "isaac-abarbanel"
         }
     ],
     "enDesc": "Abarbanel's commentary always begins with a number of questions about the text at hand, which he answers over the course of his exegesis.",
+    "heDesc": "",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1579
     ],
@@ -458,11 +471,2944 @@
     "is_cited": true,
     "heTitle": "אברבנאל על תורה",
     "titleVariants": [
+        "Abarbanel",
         "Abarbanel on Torah"
     ],
     "heTitleVariants": [
         "אברבנאל על תורה"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 1:1:1-6:5:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bereshit",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Breishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereshis",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bereshit",
+                    "heTitle": "בראשית"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 6:9:1-11:27:9",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Noach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Noah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Noah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Noach",
+                    "heTitle": "נח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 12:1:1-17:19:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Lech Lecha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lekh Lekha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Lech Lecha",
+                    "heTitle": "לך לך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 18:1:1-22:13:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeira",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayera",
+                    "heTitle": "וירא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 23:1:1-25:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chayei Sara",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Chaye Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayye Sarah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chayei Sara",
+                    "heTitle": "חיי שרה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 25:19:1-27:41:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Toldot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Toldos",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Toldot",
+                    "heTitle": "תולדות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 28:10:1-31:31:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayetzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeitzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetzey",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayetzei",
+                    "heTitle": "ויצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 32:4:1-36:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayishlach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayishlach",
+                    "heTitle": "וישלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 37:1:1-40:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeshev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Veyeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayeshev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeshev",
+                    "heTitle": "וישב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 41:1:1-43:15:10",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Miketz",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מקץ",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מקץ",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Miketz",
+                    "heTitle": "מקץ"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 44:18:1-46:28:10",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayigash",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויגש",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויגש",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayigash",
+                    "heTitle": "ויגש"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Genesis 47:28:1-49:29:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayechi",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayehi",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayechi",
+                    "heTitle": "ויחי"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 1:1:1-4:27:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "shemot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "shemot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shemot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שמות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שמות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parsha Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Names",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shmot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Exodos",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Sh'mot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shemot",
+                    "heTitle": "שמות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 6:2:1-9:13:10",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vaera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vaera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וארא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וארא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'era",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Va'era",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ve'Erah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vaera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaera",
+                    "heTitle": "וארא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 10:12:1-13:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "bo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "bo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Bo",
+                    "heTitle": "בא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 13:17:1-17:8:12",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "beshalach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "beshalach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beshalach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beshalach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בשלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beshalach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בשלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Beshalach",
+                    "heTitle": "בשלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 18:1:1-20:16:9",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Yitro",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Jethro",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Yitro",
+                    "heTitle": "יתרו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 21:1:1-24:17:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "mishpatim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "mishpatim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Mishpatim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Mishpatim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "משפטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Mishpatim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת משפטים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Mishpatim",
+                    "heTitle": "משפטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 25:1:1-27:9:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "terumah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "terumah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Terumah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Terumah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תרומה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Terumah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תרומה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Truma",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Trumah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "T'rumah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Terumah",
+                    "heTitle": "תרומה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 27:20:1-29:8:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "tetzaveh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "tetzaveh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tetzaveh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tetzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תצוה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tetzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תצוה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "T'tzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תצווה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tezaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Teztaveh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Tetzaveh",
+                    "heTitle": "תצוה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 30:11:1-34:28:14",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "ki-tisa"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "ki-tisa"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tisa",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tisa",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tisa",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tissa",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Tissa",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Tisa",
+                    "heTitle": "כי תשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 35:1:1-8",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayakhel"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayakhel"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayakhel",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayakhel",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויקהל",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayakhel",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויקהל",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Vayakel",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayakhel",
+                    "heTitle": "ויקהל"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Exodus 38:21:1-40:36:4",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "pekudei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "pekudei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pekudei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pekudei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פקודי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pekudei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פקודי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pikudei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Pekudei",
+                    "heTitle": "פקודי"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 1:1:1-5:15:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayikra"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayikra"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayikra",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayikra",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויקרא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayikra",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויקרא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayikra",
+                    "heTitle": "ויקרא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 6:2:1-8:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "tzav"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "tzav"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tzav",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tzav",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "צו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tzav",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת צו",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Tzav",
+                    "heTitle": "צו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 9:1:1-11:13:4",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "shmini"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "shmini"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shmini",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shmini",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שמיני",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shmini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שמיני",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shemini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Shemini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shemini",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shmini",
+                    "heTitle": "שמיני"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 12:1:1-13:47:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "tazria"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "tazria"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tazria",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tazria",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תזריע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tazria",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תזריע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Tazria",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Tazria",
+                    "heTitle": "תזריע"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 14:1:1-15:1:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "metzora"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "metzora"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Metzora",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Metzora",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מצורע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Metzora",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מצורע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parsha Metzorah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Metzorah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Metzora",
+                    "heTitle": "מצורע"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 16:1:1-18:23:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "achrei-mot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "achrei-mot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Achrei Mot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Achrei Mot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אחרי מות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Achrei Mot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת אחרי מות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Acharei Mot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Achrei Mot",
+                    "heTitle": "אחרי מות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 19:1:1-20:1:13",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "kedoshim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "kedoshim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Kedoshim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Kedoshim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קדושים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Kedoshim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קדושים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Kedoshim",
+                    "heTitle": "קדושים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 21:1:1-24:10:13",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "emor"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "emor"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Emor",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Emor",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אמור",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Emor",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת אמור",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Emor",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Emor",
+                    "heTitle": "אמור"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 25:1:1-35:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "behar"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "behar"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Behar",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Behar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בהר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Behar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בהר",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Behar",
+                    "heTitle": "בהר"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Leviticus 26:3:1-27:26:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "bechukotai"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "bechukotai"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bechukotai",
+                    "titles": [
+                        {
+                            "text": "Bechukotai",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "בחוקתי",
+                            "primary": true,
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bechukotai",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בחוקתי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת בחוקותי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Bekhukotai",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "בחקתי",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Bechukotai",
+                    "heTitle": "בחוקתי"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 1:1:1-3:10:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bamidbar",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bemidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Numbers",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bamidbar",
+                    "heTitle": "במדבר"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 4:21:1-7:89:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nasso",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Naso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Naso",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nasso",
+                    "heTitle": "נשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 8:1:1-12:1:13",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beha'alotcha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Behaalotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behaalotchah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Bahalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "B'ha'alotekha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parasha Behaatlocha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Behaloscha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Beha'alotcha",
+                    "heTitle": "בהעלותך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 13:1:1-15:40:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Sh'lach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shelach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Shlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shlach",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Sh'lach",
+                    "heTitle": "שלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 16:1:1-17:1:9",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Korach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "קורח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת קורח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Korach",
+                    "heTitle": "קרח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 19:1:1-21:21:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chukat",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת חוקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Chukkat",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chukat",
+                    "heTitle": "חקת"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 22:2:1-25:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Balak",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Balak",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Balak",
+                    "heTitle": "בלק"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 25:11:1-29:35:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pinchas",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פנחס",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פנחס",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Pinchas",
+                    "heTitle": "פנחס"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 31:1:1-32:1:12",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Matot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Matot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Matot",
+                    "heTitle": "מטות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Numbers 33:1:1-35:1:33",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Masei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ma'asei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Masei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Masei",
+                    "heTitle": "מסעי"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 1:1:1-3:12:47",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Devarim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "d'Varim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Devarim",
+                    "heTitle": "דברים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 4:1:1-7:7:38",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaetchanan",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'ethanan",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaetchanan",
+                    "heTitle": "ואתחנן"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 7:12:1-11:8:35",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Eikev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ekev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Eikev",
+                    "heTitle": "עקב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 12:1:1-16:13:38",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Re'eh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ראה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ראה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Re'eh",
+                    "heTitle": "ראה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 16:18:1-21:6:8",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shoftim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Judges",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shofetim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shoftim",
+                    "heTitle": "שופטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 21:15:1-25:17:34",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Teitzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Ki Teitze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Seitzei;",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teytzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teitze",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Teitzei",
+                    "heTitle": "כי תצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 26:1:1-29:1:20",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tavo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תבוא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תבוא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Ki Tavo",
+                    "heTitle": "כי תבוא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 29:9:1-30:15:19",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nitzavim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Nitzavim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nitzavim",
+                    "heTitle": "נצבים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 31:1:1-19:27",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeilech",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayelech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayelekh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeilech",
+                    "heTitle": "וילך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 32:1:1-48:25",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ha'Azinu",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashsat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Haazinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Haazinu",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ha'Azinu",
+                    "heTitle": "האזינו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Abarbanel on Torah, Deuteronomy 33:1:1-34:11:8",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "parasha",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "abarbanel",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "V'Zot HaBerachah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'zot Habrachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat V'zot Haberachah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "V'Zot HaBerachah",
+                    "heTitle": "וזאת הברכה"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Abarbanel",
+                    "lang": "en"
+                },
+                {
+                    "text": "אברבנאל על תורה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Abarbanel on Torah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Abarbanel on Torah",
+            "heTitle": "אברבנאל על תורה"
+        }
+    },
     "heCategories": [
         "תנ\"ך",
         "ראשונים על התנ״ך",

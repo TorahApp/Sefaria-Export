@@ -16,6 +16,13 @@
                 "sectionNames": [
                     "Comment"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "referenceableSections": [
                     true,
                     true
@@ -71,6 +78,15 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "haflaah",
+                    "ketubot"
+                ]
+            }
+        ],
         "titles": [
             {
                 "primary": true,
@@ -87,6 +103,9 @@
         "heTitle": "הפלאה על כתובות",
         "key": "Haflaah on Ketubot"
     },
+    "order": [
+        60
+    ],
     "authors": [
         {
             "en": "Pinchas Horowitz",

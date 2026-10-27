@@ -39,32 +39,32 @@
         ],
         "titles": [
             {
-                "lang": "en",
-                "text": "Kli Yakar on Deu."
+                "text": "Kli Yakar on Deu.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Devarim"
+                "text": "Kli Yakar on Devarim",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Deu"
+                "text": "Kli Yakar on Deu",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Deut."
+                "text": "Kli Yakar on Deut.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Deut"
+                "text": "Kli Yakar on Deut",
+                "lang": "en"
             },
             {
-                "lang": "he",
-                "text": "כלי יקר על דברי'"
+                "text": "כלי יקר על דברי'",
+                "lang": "he"
             },
             {
-                "lang": "he",
-                "text": "כלי יקר על דברי׳"
+                "text": "כלי יקר על דברי׳",
+                "lang": "he"
             },
             {
                 "text": "כלי יקר על דברים",
@@ -86,6 +86,9 @@
         ],
         "key": "Kli Yakar on Deuteronomy"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Shlomo Ephraim ben Aaron Luntschitz",
@@ -93,7 +96,10 @@
             "slug": "shlomo-ephraim-ben-aaron-luntschitz"
         }
     ],
-    "enDesc": "Torah commentary written by Rabbi Shlomo Ephraim ben Aaron Luntschitz and originally published in 1602. The name, Kli Yakar, comes from Proverbs 20:15 where it says that wise speech is a “kli yakar”,  a precious object.",
+    "enDesc": "*Kli Yakar* is a Torah commentary by Rabbi Shlomo Ephraim ben Aaron Luntschitz, originally published in 1602. The title, which translates to \"precious jewel,\" is a reference to [Proverbs 20:15](https://www.sefaria.org/Proverbs.20.15?lang=bi&amp;with=all&amp;lang2=en). In the book's introduction, the author writes that he wrote the book as a way of expressing thanks to God after recovering from a harsh illness. *Kli Yakar* focuses on *peshat,* or a straightforward understanding of the biblical text, while also incorporating midrashic texts and engaging with earlier commentaries. Many of the ideas in the commentary are based on weekly sermons that Luntschitz delivered in Lviv and include *musar,* (moral instruction or rebuke), critiquing the pursuit of wealth and other practices that the author saw as problematic. ",
+    "heDesc": "",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1602
     ],
@@ -132,6 +138,656 @@
         "כלי יקר על דברי׳",
         "כלי יקר על דברים"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 1:1:1-2:25:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Devarim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "d'Varim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Devarim",
+                    "heTitle": "דברים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 3:23:1-7:7:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaetchanan",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'ethanan",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaetchanan",
+                    "heTitle": "ואתחנן"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 7:12:1-11:21:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Eikev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ekev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Eikev",
+                    "heTitle": "עקב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 11:26:1-16:17:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Re'eh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ראה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ראה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Re'eh",
+                    "heTitle": "ראה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 16:18:1-21:1:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shoftim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Judges",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shofetim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shoftim",
+                    "heTitle": "שופטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 21:10:1-25:13:5",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Teitzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Ki Teitze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Seitzei;",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teytzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teitze",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Teitzei",
+                    "heTitle": "כי תצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 26:1:1-29:8:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tavo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תבוא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תבוא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Ki Tavo",
+                    "heTitle": "כי תבוא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 29:9:1-30:19:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nitzavim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Nitzavim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nitzavim",
+                    "heTitle": "נצבים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 31:1:1-17:15",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeilech",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayelech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayelekh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeilech",
+                    "heTitle": "וילך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 32:1:1-48:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ha'Azinu",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashsat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Haazinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Haazinu",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ha'Azinu",
+                    "heTitle": "האזינו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Deuteronomy 33:1:1-34:12:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "V'Zot HaBerachah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'zot Habrachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat V'zot Haberachah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "V'Zot HaBerachah",
+                    "heTitle": "וזאת הברכה"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Kli Yakar on Deu.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Devarim",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Deu",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Deut.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Deut",
+                    "lang": "en"
+                },
+                {
+                    "text": "כלי יקר על דברי'",
+                    "lang": "he"
+                },
+                {
+                    "text": "כלי יקר על דברי׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "כלי יקר על דברים",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Kli Yakar on Deuteronomy",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Kli Yakar on Deuteronomy",
+            "heTitle": "כלי יקר על דברים"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

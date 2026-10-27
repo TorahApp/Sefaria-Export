@@ -18,6 +18,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tosafot-shantz",
+                    "sotah"
+                ]
+            }
+        ],
         "lengths": [
             98,
             211
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^(.*?)\\."
         ],
         "titles": [
             {
@@ -51,6 +58,9 @@
         ],
         "key": "Tosafot Shantz on Sotah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Samson ben Abraham of Sens",
@@ -84,6 +94,1259 @@
     "heTitleVariants": [
         "תוספות שאנץ על סוטה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 2a:1-14a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 1; HaMekannei"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "המקנא"
+                        }
+                    ],
+                    "title": "Chapter 1; HaMekannei",
+                    "heTitle": "המקנא",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 2a:1-4",
+                        "Tosafot Shantz on Sotah 2b",
+                        "Tosafot Shantz on Sotah 3a",
+                        "Tosafot Shantz on Sotah 3b",
+                        "Tosafot Shantz on Sotah 4a",
+                        "Tosafot Shantz on Sotah 4b",
+                        "Tosafot Shantz on Sotah 5a",
+                        "Tosafot Shantz on Sotah 5b",
+                        "Tosafot Shantz on Sotah 6a",
+                        "Tosafot Shantz on Sotah 6b",
+                        "Tosafot Shantz on Sotah 7a",
+                        "Tosafot Shantz on Sotah 7b",
+                        "Tosafot Shantz on Sotah 8a",
+                        "Tosafot Shantz on Sotah 8b",
+                        "Tosafot Shantz on Sotah 9a",
+                        "Tosafot Shantz on Sotah 9b",
+                        "Tosafot Shantz on Sotah 10a",
+                        "Tosafot Shantz on Sotah 10b",
+                        "Tosafot Shantz on Sotah 11a",
+                        "Tosafot Shantz on Sotah 11b",
+                        "Tosafot Shantz on Sotah 12a",
+                        "Tosafot Shantz on Sotah 12b",
+                        "Tosafot Shantz on Sotah 13a",
+                        "Tosafot Shantz on Sotah 13b",
+                        "Tosafot Shantz on Sotah 14a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 14a:2-19a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 2; Hayah Mevi "
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "היה מביא"
+                        }
+                    ],
+                    "title": "Chapter 2; Hayah Mevi ",
+                    "heTitle": "היה מביא",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 14a:2-4",
+                        "Tosafot Shantz on Sotah 14b",
+                        "Tosafot Shantz on Sotah 15a",
+                        "Tosafot Shantz on Sotah 15b",
+                        "Tosafot Shantz on Sotah 16a",
+                        "Tosafot Shantz on Sotah 16b",
+                        "Tosafot Shantz on Sotah 17a",
+                        "Tosafot Shantz on Sotah 17b",
+                        "Tosafot Shantz on Sotah 18a",
+                        "Tosafot Shantz on Sotah 18b",
+                        "Tosafot Shantz on Sotah 19a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 26
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 19a:2-23b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 3; Hayah Notel"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "היה נוטל"
+                        }
+                    ],
+                    "title": "Chapter 3; Hayah Notel",
+                    "heTitle": "היה נוטל",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 19a:2-4",
+                        "Tosafot Shantz on Sotah 19b",
+                        "Tosafot Shantz on Sotah 20a",
+                        "Tosafot Shantz on Sotah 20b",
+                        "Tosafot Shantz on Sotah 21a",
+                        "Tosafot Shantz on Sotah 21b",
+                        "Tosafot Shantz on Sotah 22a",
+                        "Tosafot Shantz on Sotah 22b",
+                        "Tosafot Shantz on Sotah 23a",
+                        "Tosafot Shantz on Sotah 23b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 36
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 23b:3-27a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 4; Arusah"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "ארוסה"
+                        }
+                    ],
+                    "title": "Chapter 4; Arusah",
+                    "heTitle": "ארוסה",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 23b:3-4",
+                        "Tosafot Shantz on Sotah 24a",
+                        "Tosafot Shantz on Sotah 24b",
+                        "Tosafot Shantz on Sotah 25a",
+                        "Tosafot Shantz on Sotah 25b",
+                        "Tosafot Shantz on Sotah 26a",
+                        "Tosafot Shantz on Sotah 26b",
+                        "Tosafot Shantz on Sotah 27a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 45
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 27b:1-30b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 5; KeShem SheHamayim"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "כשם שהמים"
+                        }
+                    ],
+                    "title": "Chapter 5; KeShem SheHamayim",
+                    "heTitle": "כשם שהמים",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 27b:1-3",
+                        "Tosafot Shantz on Sotah 28a",
+                        "Tosafot Shantz on Sotah 28b",
+                        "Tosafot Shantz on Sotah 29a",
+                        "Tosafot Shantz on Sotah 29b",
+                        "Tosafot Shantz on Sotah 30a",
+                        "Tosafot Shantz on Sotah 30b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 53
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 31a:1-32a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-620"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 6; Mi SheKinnei"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "מי שקינא"
+                        }
+                    ],
+                    "title": "Chapter 6; Mi SheKinnei",
+                    "heTitle": "מי שקינא",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 31a:1",
+                        "Tosafot Shantz on Sotah 31b",
+                        "Tosafot Shantz on Sotah 32a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 60
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 32a:4-39b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 7; Ellu Ne'emarin"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "אלו נאמרין"
+                        }
+                    ],
+                    "title": "Chapter 7; Ellu Ne'emarin",
+                    "heTitle": "אלו נאמרין",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 32a:4",
+                        "Tosafot Shantz on Sotah 32b",
+                        "Tosafot Shantz on Sotah 33a",
+                        "Tosafot Shantz on Sotah 33b",
+                        "Tosafot Shantz on Sotah 34a",
+                        "Tosafot Shantz on Sotah 34b",
+                        "Tosafot Shantz on Sotah 35a",
+                        "Tosafot Shantz on Sotah 35b",
+                        "Tosafot Shantz on Sotah 36a",
+                        "Tosafot Shantz on Sotah 36b",
+                        "Tosafot Shantz on Sotah 37a",
+                        "Tosafot Shantz on Sotah 37b",
+                        "Tosafot Shantz on Sotah 38a",
+                        "Tosafot Shantz on Sotah 38b",
+                        "Tosafot Shantz on Sotah 39a",
+                        "Tosafot Shantz on Sotah 39b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 62
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 43b:1-44b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 8; Mashuach Milchamah"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "משוח מלחמה"
+                        }
+                    ],
+                    "title": "Chapter 8; Mashuach Milchamah",
+                    "heTitle": "משוח מלחמה",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 43b:1-4",
+                        "Tosafot Shantz on Sotah 44a",
+                        "Tosafot Shantz on Sotah 44b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 85
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Tosafot Shantz on Sotah 44b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "bavli",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "talmud",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "tosafot-shantz",
+                                "gemara",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 9; Eglah Arufah"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "עגלה ערופה"
+                        }
+                    ],
+                    "title": "Chapter 9; Eglah Arufah",
+                    "heTitle": "עגלה ערופה",
+                    "refs": [
+                        "Tosafot Shantz on Sotah 44b:2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 87
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "תוספות שאנץ על סוטה"
+                },
+                {
+                    "text": "Tosafot Shantz on Sotah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Tosafot Shantz on Sotah",
+            "heTitle": "תוספות שאנץ על סוטה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
