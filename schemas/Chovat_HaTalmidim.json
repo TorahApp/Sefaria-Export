@@ -1,8 +1,7 @@
 {
     "title": "Chovat HaTalmidim",
     "categories": [
-        "Chasidut",
-        "Piaseczno Rebbe"
+        "Musar"
     ],
     "schema": {
         "nodes": [
@@ -14,6 +13,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
                 ],
                 "sharedTitle": "Introduction",
                 "titles": [
@@ -68,6 +74,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "instructions-and-admonitions"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -97,6 +110,13 @@
                         ],
                         "sectionNames": [
                             "Paragraph"
+                        ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "introduction"
+                                ]
+                            }
                         ],
                         "sharedTitle": "Introduction",
                         "titles": [
@@ -143,6 +163,14 @@
                         "key": "default"
                     }
                 ],
+                "nodeType": "SchemaNode",
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "three-essays-for-senior-students"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "primary": true,
@@ -158,6 +186,14 @@
                 "title": "Three Essays for Senior Students",
                 "heTitle": "שלשה מאמרים לתלמידים גדולים",
                 "key": "Three Essays for Senior Students"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chovat-hatalmidim"
+                ]
             }
         ],
         "titles": [
@@ -206,8 +242,7 @@
         "חובת התלמידים"
     ],
     "heCategories": [
-        "חסידות",
-        "האדמו\"ר מפיאסצנה"
+        "ספרי מוסר"
     ],
     "compDateString": {
         "en": " (c.1928  – c.1932 CE)",

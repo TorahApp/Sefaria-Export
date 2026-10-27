@@ -19,6 +19,13 @@
                     "Paragraph",
                     "Comment"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -52,6 +59,7 @@
                     "Paragraph",
                     "Comment"
                 ],
+                "toc_zoom": 2,
                 "default": true,
                 "title": "",
                 "heTitle": "",
@@ -61,6 +69,15 @@
                     "פירוש"
                 ],
                 "key": "default"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "yaakov-emden",
+                    "seder-olam-rabbah"
+                ]
             }
         ],
         "titles": [

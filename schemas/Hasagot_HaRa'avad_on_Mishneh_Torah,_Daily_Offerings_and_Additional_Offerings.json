@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             10,
             10,
             11
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "primary": true,
                 "text": "השגות הראב\"ד על משנה תורה, הלכות תמידים ומוספין",
                 "lang": "he"
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, Daily Offerings and Additional Offerings",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, Daily Offerings and Additional Offerings",
@@ -91,6 +119,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות תמידים ומוספין",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, Daily Offerings and Additional Offerings",
         "Hasagot HaRa'avad on Mishneh Torah, Daily Offerings and Additional Offerings"
     ],
     "heTitleVariants": [

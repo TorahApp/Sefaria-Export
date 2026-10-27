@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "authors-introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -55,6 +62,15 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "sefer",
+                    "yereim"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "he",
@@ -71,6 +87,9 @@
         "heTitle": "ספר יראים",
         "key": "Sefer Yereim"
     },
+    "order": [
+        45
+    ],
     "authors": [
         {
             "en": "Eliezer of Metz",

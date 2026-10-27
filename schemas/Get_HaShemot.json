@@ -4,24 +4,23 @@
         "Kabbalah"
     ],
     "schema": {
-        "nodes": [
+        "nodeType": "JaggedArrayNode",
+        "depth": 1,
+        "addressTypes": [
+            "Integer"
+        ],
+        "sectionNames": [
+            "paragraph"
+        ],
+        "match_templates": [
             {
-                "nodeType": "JaggedArrayNode",
-                "depth": 1,
-                "addressTypes": [
-                    "Integer"
-                ],
-                "sectionNames": [
-                    "paragraph"
-                ],
-                "default": true,
-                "title": "",
-                "heTitle": "",
-                "heSectionNames": [
-                    ""
-                ],
-                "key": "default"
+                "term_slugs": [
+                    "get-hashemot"
+                ]
             }
+        ],
+        "lengths": [
+            49
         ],
         "titles": [
             {
@@ -37,18 +36,24 @@
         ],
         "title": "Get HaShemot",
         "heTitle": "גט השמות",
+        "heSectionNames": [
+            ""
+        ],
         "key": "Get HaShemot"
     },
+    "order": [
+        50
+    ],
     "authors": [
         {
-            "en": "Avraham Abulafia",
+            "en": "Abraham Abulafia",
             "he": "אברהם אבולעפיה",
-            "slug": "avraham-abulafia"
+            "slug": "abraham-ben-samuel-abulafia"
         }
     ],
-    "enDesc": "The stated purpose of Get HaShemot (Divorce of the Names), one of Avraham Abulafia’s earliest works, is to convey the general principles of his kabbalistic system, though he expresses reservations about his qualifications and a concern with revealing too many secrets. The work includes extensive description of different “worlds” and their relation to each other, discussion of divine names and the creative powers of names and letters, and more. Abulafia compares the work to a writ of divorce in the sense that it will separate “false names” from those with true wisdom.",
+    "enDesc": "The stated purpose of Get HaShemot (\"Divorce of the Names\"), one of Abraham Abulafia’s earliest works, is to convey the general principles of his kabbalistic system, though he expresses reservations about his qualifications and a concern with revealing too many secrets. The work includes extensive description of different “worlds” and their relation to each other, discussion of divine names and the creative powers of names and letters, and more. Abulafia compares the work to a writ of divorce in the sense that it will separate “false names” from those with true wisdom.",
     "heDesc": "המטרה המוצהרת של ״גט השמות״, אחת מיצירותיו המוקדמות ביותר של רבי אברהם אבולעפיה, היא להעביר את העקרונות הכלליים של שיטתו הקבלית, אם כי הוא מביע הסתייגות מכישוריו ודאגה לחשיפת סודות רבים מדי. העבודה כוללת תיאור נרחב של \"עולמות\" שונים ויחסם זה לזה, דיון בשמות אלוהיים ובכוחות היצירה של שמות ואותיות בשפה העברית ועוד. אבולעפיה משווה את העבודה לכתב גירושין במובן זה שהיא תפריד בין \"שמות בדויים\" לבעלי חוכמה אמיתית.",
-    "enShortDesc": "13th-century work outlining the ideology and cosmology behind Rabbi Avraham Abulafia’s approach to kabbalah.",
+    "enShortDesc": "13th-century work outlining the ideology and cosmology behind Abraham Abulafia’s approach to Kabbalah.",
     "heShortDesc": "ספר מהמאה ה-13 המתווה את האידיאולוגיה והקוסמולוגיה מאחורי גישתו של רבי אברהם אבולעפיה לקבלה",
     "pubDate": [
         2001
@@ -67,6 +72,10 @@
     "heTitleVariants": [
         "גט השמות"
     ],
+    "sectionNames": [
+        "paragraph"
+    ],
+    "depth": 1,
     "heCategories": [
         "קבלה"
     ],

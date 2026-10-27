@@ -67,9 +67,12 @@
         ],
         "key": "Chidushei Agadot on Makkot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Maharsha",
+            "en": "Shmuel Eidels (Maharsha)",
             "he": "מהרש\"א",
             "slug": "maharsha"
         }
@@ -110,6 +113,342 @@
         "חידושי אגדות על מסכת מכות",
         " חידושי אגדות על מסכת מכות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Makkot 7a:1-24b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Keitzad HaEdim"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "כיצד העדים"
+                        }
+                    ],
+                    "title": "Chapter 1; Keitzad HaEdim",
+                    "heTitle": "כיצד העדים",
+                    "refs": [
+                        "Chidushei Agadot on Makkot 7a:1",
+                        "Chidushei Agadot on Makkot 7b",
+                        "Chidushei Agadot on Makkot 8a",
+                        "Chidushei Agadot on Makkot 8b",
+                        "Chidushei Agadot on Makkot 9a",
+                        "Chidushei Agadot on Makkot 9b",
+                        "Chidushei Agadot on Makkot 10a",
+                        "Chidushei Agadot on Makkot 10b",
+                        "Chidushei Agadot on Makkot 11a",
+                        "Chidushei Agadot on Makkot 11b",
+                        "Chidushei Agadot on Makkot 12a",
+                        "Chidushei Agadot on Makkot 12b",
+                        "Chidushei Agadot on Makkot 13a",
+                        "Chidushei Agadot on Makkot 13b",
+                        "Chidushei Agadot on Makkot 14a",
+                        "Chidushei Agadot on Makkot 14b",
+                        "Chidushei Agadot on Makkot 15a",
+                        "Chidushei Agadot on Makkot 15b",
+                        "Chidushei Agadot on Makkot 16a",
+                        "Chidushei Agadot on Makkot 16b",
+                        "Chidushei Agadot on Makkot 17a",
+                        "Chidushei Agadot on Makkot 17b",
+                        "Chidushei Agadot on Makkot 18a",
+                        "Chidushei Agadot on Makkot 18b",
+                        "Chidushei Agadot on Makkot 19a",
+                        "Chidushei Agadot on Makkot 19b",
+                        "Chidushei Agadot on Makkot 20a",
+                        "Chidushei Agadot on Makkot 20b",
+                        "Chidushei Agadot on Makkot 21a",
+                        "Chidushei Agadot on Makkot 21b",
+                        "Chidushei Agadot on Makkot 22a",
+                        "Chidushei Agadot on Makkot 22b",
+                        "Chidushei Agadot on Makkot 23a",
+                        "Chidushei Agadot on Makkot 23b",
+                        "Chidushei Agadot on Makkot 24a",
+                        "Chidushei Agadot on Makkot 24b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 12
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Makkot 22b:1-24b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; Ellu Hen HaLokin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו הן הלוקין"
+                        }
+                    ],
+                    "title": "Chapter 3; Ellu Hen HaLokin",
+                    "heTitle": "אלו הן הלוקין",
+                    "refs": [
+                        "Chidushei Agadot on Makkot 22b:1-2",
+                        "Chidushei Agadot on Makkot 23a",
+                        "Chidushei Agadot on Makkot 23b",
+                        "Chidushei Agadot on Makkot 24a",
+                        "Chidushei Agadot on Makkot 24b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 43
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי אגדות על מכות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "חידושי אגדות על מסכת מכות",
+                    "lang": "he"
+                },
+                {
+                    "text": " חידושי אגדות על מסכת מכות",
+                    "lang": "he"
+                },
+                {
+                    "text": "Chidushei Agadot on Makkot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Agadot on Makkot",
+            "heTitle": "חידושי אגדות על מכות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

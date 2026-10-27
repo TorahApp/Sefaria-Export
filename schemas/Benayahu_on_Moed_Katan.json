@@ -17,9 +17,17 @@
             "Daf",
             "Line"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "benayahu",
+                    "moed-katan"
+                ]
+            }
+        ],
         "lengths": [
             57,
-            7
+            17
         ],
         "referenceableSections": [
             true,
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Benayahu on Moed Katan"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yosef Hayyim",
@@ -88,6 +98,321 @@
     "heTitleVariants": [
         "בניהו על מועד קטן"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Moed Katan 11a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; Mashkin Beit HaShelachin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "משקין בית השלחין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Mashkin Beit HaShelachin",
+                    "heTitle": "משקין בית השלחין",
+                    "refs": [
+                        "Benayahu on Moed Katan 11a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 20
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Moed Katan 16a:1-29a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; VeEllu Megallechin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "ואלו מגלחין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; VeEllu Megallechin",
+                    "heTitle": "ואלו מגלחין",
+                    "refs": [
+                        "Benayahu on Moed Katan 16a:1",
+                        "Benayahu on Moed Katan 16b",
+                        "Benayahu on Moed Katan 17a",
+                        "Benayahu on Moed Katan 17b",
+                        "Benayahu on Moed Katan 18a",
+                        "Benayahu on Moed Katan 18b",
+                        "Benayahu on Moed Katan 19a",
+                        "Benayahu on Moed Katan 19b",
+                        "Benayahu on Moed Katan 20a",
+                        "Benayahu on Moed Katan 20b",
+                        "Benayahu on Moed Katan 21a",
+                        "Benayahu on Moed Katan 21b",
+                        "Benayahu on Moed Katan 22a",
+                        "Benayahu on Moed Katan 22b",
+                        "Benayahu on Moed Katan 23a",
+                        "Benayahu on Moed Katan 23b",
+                        "Benayahu on Moed Katan 24a",
+                        "Benayahu on Moed Katan 24b",
+                        "Benayahu on Moed Katan 25a",
+                        "Benayahu on Moed Katan 25b",
+                        "Benayahu on Moed Katan 26a",
+                        "Benayahu on Moed Katan 26b",
+                        "Benayahu on Moed Katan 27a",
+                        "Benayahu on Moed Katan 27b",
+                        "Benayahu on Moed Katan 28a",
+                        "Benayahu on Moed Katan 28b",
+                        "Benayahu on Moed Katan 29a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 30
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "בניהו על מועד קטן",
+                    "primary": true
+                },
+                {
+                    "text": "Benayahu on Moed Katan",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Benayahu on Moed Katan",
+            "heTitle": "בניהו על מועד קטן"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line"

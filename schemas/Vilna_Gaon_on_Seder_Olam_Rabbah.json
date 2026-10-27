@@ -10,37 +10,6 @@
         "nodes": [
             {
                 "nodeType": "JaggedArrayNode",
-                "depth": 2,
-                "addressTypes": [
-                    "Integer",
-                    "Integer"
-                ],
-                "sectionNames": [
-                    "Paragraph",
-                    "Comment"
-                ],
-                "titles": [
-                    {
-                        "lang": "en",
-                        "text": "Introduction",
-                        "primary": true
-                    },
-                    {
-                        "lang": "he",
-                        "text": "הקדמה",
-                        "primary": true
-                    }
-                ],
-                "title": "Introduction",
-                "heTitle": "הקדמה",
-                "heSectionNames": [
-                    "פסקה",
-                    "פירוש"
-                ],
-                "key": "Introduction"
-            },
-            {
-                "nodeType": "JaggedArrayNode",
                 "depth": 3,
                 "addressTypes": [
                     "Perek",
@@ -52,6 +21,7 @@
                     "Paragraph",
                     "Comment"
                 ],
+                "toc_zoom": 2,
                 "default": true,
                 "title": "",
                 "heTitle": "",
@@ -61,6 +31,15 @@
                     "פירוש"
                 ],
                 "key": "default"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "gra",
+                    "seder-olam-rabbah"
+                ]
             }
         ],
         "titles": [

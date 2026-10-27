@@ -204,9 +204,12 @@
         "heTitle": "אור החיים על בראשית",
         "key": "Or HaChaim on Genesis"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
-            "en": "Chaim ibn Attar",
+            "en": "Chaim Ibn Attar (Ohr HaChaim)",
             "he": "חיים בן עטר",
             "slug": "chaim-ibn-attar"
         }
@@ -267,6 +270,782 @@
         "אור החיים על בְּרֵאשִׁית",
         "אור החיים על בראשית"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 1:1:1-6:7:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "bereshit"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bereshit",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereshit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בראשית",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Genesis",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Breishit",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Bereshis",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bereshit",
+                    "heTitle": "בראשית"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 6:9:1-11:32:5",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "noach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Noach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Noach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Noah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Noah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Noach",
+                    "heTitle": "נח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 12:1:1-17:23:6",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "lech-lecha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Lech Lecha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lech Lecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת לך לך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Lekh Lekha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Lech Lecha",
+                    "heTitle": "לך לך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 18:1:1-22:20:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "vayera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וירא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeira",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayera",
+                    "heTitle": "וירא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 23:1:1-25:7:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "chayei-sara"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chayei Sara",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sara",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חיי שרה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Chaye Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Chayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayei Sarah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Hayye Sarah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chayei Sara",
+                    "heTitle": "חיי שרה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 25:19:1-28:8:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "toldot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Toldot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toldot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תולדות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Toledot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Toldos",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Toldot",
+                    "heTitle": "תולדות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 28:10:1-32:2:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "vayetzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayetzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayetzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeitzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Vayetzey",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayetzei",
+                    "heTitle": "ויצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 32:4:1-36:31:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "vayishlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayishlach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayishlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayishlach",
+                    "heTitle": "וישלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 37:1:1-40:23:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "vayeshev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeshev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וישב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Veyeshev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vayeshev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeshev",
+                    "heTitle": "וישב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 41:1:1-44:17:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "miketz"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Miketz",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מקץ",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Miketz",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מקץ",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Miketz",
+                    "heTitle": "מקץ"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 44:18:1-47:27:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "vayigash"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayigash",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויגש",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayigash",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויגש",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayigash",
+                    "heTitle": "ויגש"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Or HaChaim on Genesis 47:28:1-50:20:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "parasha",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "or-hachaim",
+                                "vayechi"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayechi",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayechi",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויחי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayehi",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayechi",
+                    "heTitle": "ויחי"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Bereshit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Gen"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Gen."
+                },
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Breishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Ber"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Bereishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Ber."
+                },
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Beresheet"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or HaChaim on Bereshith"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Bereshit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Gen"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Gen."
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Breishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Ber"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Bereishit"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Ber."
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Beresheet"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Bereshith"
+                },
+                {
+                    "lang": "en",
+                    "text": "Or Hachaim on Genesis"
+                },
+                {
+                    "lang": "he",
+                    "text": "אור החיים על ברא'"
+                },
+                {
+                    "lang": "he",
+                    "text": "אור החיים על בר'"
+                },
+                {
+                    "lang": "he",
+                    "text": "אור החיים על בר׳"
+                },
+                {
+                    "lang": "he",
+                    "text": "אור החיים על ברא׳"
+                },
+                {
+                    "lang": "he",
+                    "text": "אור החיים על בְּרֵאשִׁית"
+                },
+                {
+                    "text": "אור החיים על בראשית",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Or HaChaim on Genesis",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Or HaChaim on Genesis",
+            "heTitle": "אור החיים על בראשית"
+        }
+    },
     "heCategories": [
         "תנ\"ך",
         "אחרונים על התנ״ך",

@@ -4,7 +4,7 @@
         "Talmud",
         "Bavli",
         "Rishonim on Talmud",
-        "Ramban",
+        "Chiddushei Ramban",
         "Seder Nezikin"
     ],
     "schema": {
@@ -59,9 +59,12 @@
         ],
         "key": "Chiddushei Ramban on Bava Metzia"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -83,8 +86,8 @@
     ],
     "base_text_mapping": null,
     "collective_title": {
-        "en": "Ramban",
-        "he": "רמב\"ן"
+        "en": "Chiddushei Ramban",
+        "he": "חידושי רמב״ן"
     },
     "heTitle": "חידושי רמב\"ן על בבא מציעא",
     "titleVariants": [
@@ -93,6 +96,1524 @@
     "heTitleVariants": [
         "חידושי רמב\"ן על בבא מציעא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 2a:1-20a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Shenayim Ochazin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "שנים אוחזין"
+                        }
+                    ],
+                    "title": "Chapter 1; Shenayim Ochazin",
+                    "heTitle": "שנים אוחזין",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 2a:1-3",
+                        "Chiddushei Ramban on Bava Metzia 2b",
+                        "Chiddushei Ramban on Bava Metzia 3a",
+                        "Chiddushei Ramban on Bava Metzia 3b",
+                        "Chiddushei Ramban on Bava Metzia 4a",
+                        "Chiddushei Ramban on Bava Metzia 4b",
+                        "Chiddushei Ramban on Bava Metzia 5a",
+                        "Chiddushei Ramban on Bava Metzia 5b",
+                        "Chiddushei Ramban on Bava Metzia 6a",
+                        "Chiddushei Ramban on Bava Metzia 6b",
+                        "Chiddushei Ramban on Bava Metzia 7a",
+                        "Chiddushei Ramban on Bava Metzia 7b",
+                        "Chiddushei Ramban on Bava Metzia 8a",
+                        "Chiddushei Ramban on Bava Metzia 8b",
+                        "Chiddushei Ramban on Bava Metzia 9a",
+                        "Chiddushei Ramban on Bava Metzia 9b",
+                        "Chiddushei Ramban on Bava Metzia 10a",
+                        "Chiddushei Ramban on Bava Metzia 10b",
+                        "Chiddushei Ramban on Bava Metzia 11a",
+                        "Chiddushei Ramban on Bava Metzia 11b",
+                        "Chiddushei Ramban on Bava Metzia 12a",
+                        "Chiddushei Ramban on Bava Metzia 12b",
+                        "Chiddushei Ramban on Bava Metzia 13a",
+                        "Chiddushei Ramban on Bava Metzia 13b",
+                        "Chiddushei Ramban on Bava Metzia 14a",
+                        "Chiddushei Ramban on Bava Metzia 14b",
+                        "Chiddushei Ramban on Bava Metzia 15a",
+                        "Chiddushei Ramban on Bava Metzia 15b",
+                        "Chiddushei Ramban on Bava Metzia 16a",
+                        "Chiddushei Ramban on Bava Metzia 16b",
+                        "Chiddushei Ramban on Bava Metzia 17a",
+                        "Chiddushei Ramban on Bava Metzia 17b",
+                        "Chiddushei Ramban on Bava Metzia 18a",
+                        "Chiddushei Ramban on Bava Metzia 18b",
+                        "Chiddushei Ramban on Bava Metzia 19a",
+                        "Chiddushei Ramban on Bava Metzia 19b",
+                        "Chiddushei Ramban on Bava Metzia 20a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 21a:1-33a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; Ellu Metziot"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו מציאות"
+                        }
+                    ],
+                    "title": "Chapter 2; Ellu Metziot",
+                    "heTitle": "אלו מציאות",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 21a:1-5",
+                        "Chiddushei Ramban on Bava Metzia 21b",
+                        "Chiddushei Ramban on Bava Metzia 22a",
+                        "Chiddushei Ramban on Bava Metzia 22b",
+                        "Chiddushei Ramban on Bava Metzia 23a",
+                        "Chiddushei Ramban on Bava Metzia 23b",
+                        "Chiddushei Ramban on Bava Metzia 24a",
+                        "Chiddushei Ramban on Bava Metzia 24b",
+                        "Chiddushei Ramban on Bava Metzia 25a",
+                        "Chiddushei Ramban on Bava Metzia 25b",
+                        "Chiddushei Ramban on Bava Metzia 26a",
+                        "Chiddushei Ramban on Bava Metzia 26b",
+                        "Chiddushei Ramban on Bava Metzia 27a",
+                        "Chiddushei Ramban on Bava Metzia 27b",
+                        "Chiddushei Ramban on Bava Metzia 28a",
+                        "Chiddushei Ramban on Bava Metzia 28b",
+                        "Chiddushei Ramban on Bava Metzia 29a",
+                        "Chiddushei Ramban on Bava Metzia 29b",
+                        "Chiddushei Ramban on Bava Metzia 30a",
+                        "Chiddushei Ramban on Bava Metzia 30b",
+                        "Chiddushei Ramban on Bava Metzia 31a",
+                        "Chiddushei Ramban on Bava Metzia 31b",
+                        "Chiddushei Ramban on Bava Metzia 32a",
+                        "Chiddushei Ramban on Bava Metzia 32b",
+                        "Chiddushei Ramban on Bava Metzia 33a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 40
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 34a:1-43b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; HaMafkid"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "המפקיד"
+                        }
+                    ],
+                    "title": "Chapter 3; HaMafkid",
+                    "heTitle": "המפקיד",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 34a:1",
+                        "Chiddushei Ramban on Bava Metzia 34b",
+                        "Chiddushei Ramban on Bava Metzia 35a",
+                        "Chiddushei Ramban on Bava Metzia 35b",
+                        "Chiddushei Ramban on Bava Metzia 36a",
+                        "Chiddushei Ramban on Bava Metzia 36b",
+                        "Chiddushei Ramban on Bava Metzia 37a",
+                        "Chiddushei Ramban on Bava Metzia 37b",
+                        "Chiddushei Ramban on Bava Metzia 38a",
+                        "Chiddushei Ramban on Bava Metzia 38b",
+                        "Chiddushei Ramban on Bava Metzia 39a",
+                        "Chiddushei Ramban on Bava Metzia 39b",
+                        "Chiddushei Ramban on Bava Metzia 40a",
+                        "Chiddushei Ramban on Bava Metzia 40b",
+                        "Chiddushei Ramban on Bava Metzia 41a",
+                        "Chiddushei Ramban on Bava Metzia 41b",
+                        "Chiddushei Ramban on Bava Metzia 42a",
+                        "Chiddushei Ramban on Bava Metzia 42b",
+                        "Chiddushei Ramban on Bava Metzia 43a",
+                        "Chiddushei Ramban on Bava Metzia 43b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 66
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 44a:1-59a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 4; HaZahav"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "הזהב"
+                        }
+                    ],
+                    "title": "Chapter 4; HaZahav",
+                    "heTitle": "הזהב",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 44a:1",
+                        "Chiddushei Ramban on Bava Metzia 44b",
+                        "Chiddushei Ramban on Bava Metzia 45a",
+                        "Chiddushei Ramban on Bava Metzia 45b",
+                        "Chiddushei Ramban on Bava Metzia 46a",
+                        "Chiddushei Ramban on Bava Metzia 46b",
+                        "Chiddushei Ramban on Bava Metzia 47a",
+                        "Chiddushei Ramban on Bava Metzia 47b",
+                        "Chiddushei Ramban on Bava Metzia 48a",
+                        "Chiddushei Ramban on Bava Metzia 48b",
+                        "Chiddushei Ramban on Bava Metzia 49a",
+                        "Chiddushei Ramban on Bava Metzia 49b",
+                        "Chiddushei Ramban on Bava Metzia 50a",
+                        "Chiddushei Ramban on Bava Metzia 50b",
+                        "Chiddushei Ramban on Bava Metzia 51a",
+                        "Chiddushei Ramban on Bava Metzia 51b",
+                        "Chiddushei Ramban on Bava Metzia 52a",
+                        "Chiddushei Ramban on Bava Metzia 52b",
+                        "Chiddushei Ramban on Bava Metzia 53a",
+                        "Chiddushei Ramban on Bava Metzia 53b",
+                        "Chiddushei Ramban on Bava Metzia 54a",
+                        "Chiddushei Ramban on Bava Metzia 54b",
+                        "Chiddushei Ramban on Bava Metzia 55a",
+                        "Chiddushei Ramban on Bava Metzia 55b",
+                        "Chiddushei Ramban on Bava Metzia 56a",
+                        "Chiddushei Ramban on Bava Metzia 56b",
+                        "Chiddushei Ramban on Bava Metzia 57a",
+                        "Chiddushei Ramban on Bava Metzia 57b",
+                        "Chiddushei Ramban on Bava Metzia 58a",
+                        "Chiddushei Ramban on Bava Metzia 58b",
+                        "Chiddushei Ramban on Bava Metzia 59a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 86
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 60b:1-75a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 5; Eizehu Neshekh"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "איזהו נשך"
+                        }
+                    ],
+                    "title": "Chapter 5; Eizehu Neshekh",
+                    "heTitle": "איזהו נשך",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 60b:1-2",
+                        "Chiddushei Ramban on Bava Metzia 61a",
+                        "Chiddushei Ramban on Bava Metzia 61b",
+                        "Chiddushei Ramban on Bava Metzia 62a",
+                        "Chiddushei Ramban on Bava Metzia 62b",
+                        "Chiddushei Ramban on Bava Metzia 63a",
+                        "Chiddushei Ramban on Bava Metzia 63b",
+                        "Chiddushei Ramban on Bava Metzia 64a",
+                        "Chiddushei Ramban on Bava Metzia 64b",
+                        "Chiddushei Ramban on Bava Metzia 65a",
+                        "Chiddushei Ramban on Bava Metzia 65b",
+                        "Chiddushei Ramban on Bava Metzia 66a",
+                        "Chiddushei Ramban on Bava Metzia 66b",
+                        "Chiddushei Ramban on Bava Metzia 67a",
+                        "Chiddushei Ramban on Bava Metzia 67b",
+                        "Chiddushei Ramban on Bava Metzia 68a",
+                        "Chiddushei Ramban on Bava Metzia 68b",
+                        "Chiddushei Ramban on Bava Metzia 69a",
+                        "Chiddushei Ramban on Bava Metzia 69b",
+                        "Chiddushei Ramban on Bava Metzia 70a",
+                        "Chiddushei Ramban on Bava Metzia 70b",
+                        "Chiddushei Ramban on Bava Metzia 71a",
+                        "Chiddushei Ramban on Bava Metzia 71b",
+                        "Chiddushei Ramban on Bava Metzia 72a",
+                        "Chiddushei Ramban on Bava Metzia 72b",
+                        "Chiddushei Ramban on Bava Metzia 73a",
+                        "Chiddushei Ramban on Bava Metzia 73b",
+                        "Chiddushei Ramban on Bava Metzia 74a",
+                        "Chiddushei Ramban on Bava Metzia 74b",
+                        "Chiddushei Ramban on Bava Metzia 75a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 119
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 76b:1-83a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 6; HaSokher et HaUmmanin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "השוכר את האומנין"
+                        }
+                    ],
+                    "title": "Chapter 6; HaSokher et HaUmmanin",
+                    "heTitle": "השוכר את האומנין",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 76b:1-3",
+                        "Chiddushei Ramban on Bava Metzia 77a",
+                        "Chiddushei Ramban on Bava Metzia 77b",
+                        "Chiddushei Ramban on Bava Metzia 78a",
+                        "Chiddushei Ramban on Bava Metzia 78b",
+                        "Chiddushei Ramban on Bava Metzia 79a",
+                        "Chiddushei Ramban on Bava Metzia 79b",
+                        "Chiddushei Ramban on Bava Metzia 80a",
+                        "Chiddushei Ramban on Bava Metzia 80b",
+                        "Chiddushei Ramban on Bava Metzia 81a",
+                        "Chiddushei Ramban on Bava Metzia 81b",
+                        "Chiddushei Ramban on Bava Metzia 82a",
+                        "Chiddushei Ramban on Bava Metzia 82b",
+                        "Chiddushei Ramban on Bava Metzia 83a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 151
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 85b:1-94a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-73"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 7; HaSokher et HaPoalim"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "השוכר את הפועלים"
+                        }
+                    ],
+                    "title": "Chapter 7; HaSokher et HaPoalim",
+                    "heTitle": "השוכר את הפועלים",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 85b:1-2",
+                        "Chiddushei Ramban on Bava Metzia 86a",
+                        "Chiddushei Ramban on Bava Metzia 86b",
+                        "Chiddushei Ramban on Bava Metzia 87a",
+                        "Chiddushei Ramban on Bava Metzia 87b",
+                        "Chiddushei Ramban on Bava Metzia 88a",
+                        "Chiddushei Ramban on Bava Metzia 88b",
+                        "Chiddushei Ramban on Bava Metzia 89a",
+                        "Chiddushei Ramban on Bava Metzia 89b",
+                        "Chiddushei Ramban on Bava Metzia 90a",
+                        "Chiddushei Ramban on Bava Metzia 90b",
+                        "Chiddushei Ramban on Bava Metzia 91a",
+                        "Chiddushei Ramban on Bava Metzia 91b",
+                        "Chiddushei Ramban on Bava Metzia 92a",
+                        "Chiddushei Ramban on Bava Metzia 92b",
+                        "Chiddushei Ramban on Bava Metzia 93a",
+                        "Chiddushei Ramban on Bava Metzia 93b",
+                        "Chiddushei Ramban on Bava Metzia 94a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 169
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 94b:1-103a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 8; HaShoel et HaParah"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "השואל את הפרה"
+                        }
+                    ],
+                    "title": "Chapter 8; HaShoel et HaParah",
+                    "heTitle": "השואל את הפרה",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 94b:1-2",
+                        "Chiddushei Ramban on Bava Metzia 95a",
+                        "Chiddushei Ramban on Bava Metzia 95b",
+                        "Chiddushei Ramban on Bava Metzia 96a",
+                        "Chiddushei Ramban on Bava Metzia 96b",
+                        "Chiddushei Ramban on Bava Metzia 97a",
+                        "Chiddushei Ramban on Bava Metzia 97b",
+                        "Chiddushei Ramban on Bava Metzia 98a",
+                        "Chiddushei Ramban on Bava Metzia 98b",
+                        "Chiddushei Ramban on Bava Metzia 99a",
+                        "Chiddushei Ramban on Bava Metzia 99b",
+                        "Chiddushei Ramban on Bava Metzia 100a",
+                        "Chiddushei Ramban on Bava Metzia 100b",
+                        "Chiddushei Ramban on Bava Metzia 101a",
+                        "Chiddushei Ramban on Bava Metzia 101b",
+                        "Chiddushei Ramban on Bava Metzia 102a",
+                        "Chiddushei Ramban on Bava Metzia 102b",
+                        "Chiddushei Ramban on Bava Metzia 103a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 187
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 103b:1-115b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 9; HaMekabbel Sadeh MeChavero"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "המקבל שדה מחבירו"
+                        }
+                    ],
+                    "title": "Chapter 9; HaMekabbel Sadeh MeChavero",
+                    "heTitle": "המקבל שדה מחבירו",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 103b:1-2",
+                        "Chiddushei Ramban on Bava Metzia 104a",
+                        "Chiddushei Ramban on Bava Metzia 104b",
+                        "Chiddushei Ramban on Bava Metzia 105a",
+                        "Chiddushei Ramban on Bava Metzia 105b",
+                        "Chiddushei Ramban on Bava Metzia 106a",
+                        "Chiddushei Ramban on Bava Metzia 106b",
+                        "Chiddushei Ramban on Bava Metzia 107a",
+                        "Chiddushei Ramban on Bava Metzia 107b",
+                        "Chiddushei Ramban on Bava Metzia 108a",
+                        "Chiddushei Ramban on Bava Metzia 108b",
+                        "Chiddushei Ramban on Bava Metzia 109a",
+                        "Chiddushei Ramban on Bava Metzia 109b",
+                        "Chiddushei Ramban on Bava Metzia 110a",
+                        "Chiddushei Ramban on Bava Metzia 110b",
+                        "Chiddushei Ramban on Bava Metzia 111a",
+                        "Chiddushei Ramban on Bava Metzia 111b",
+                        "Chiddushei Ramban on Bava Metzia 112a",
+                        "Chiddushei Ramban on Bava Metzia 112b",
+                        "Chiddushei Ramban on Bava Metzia 113a",
+                        "Chiddushei Ramban on Bava Metzia 113b",
+                        "Chiddushei Ramban on Bava Metzia 114a",
+                        "Chiddushei Ramban on Bava Metzia 114b",
+                        "Chiddushei Ramban on Bava Metzia 115a",
+                        "Chiddushei Ramban on Bava Metzia 115b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 205
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Bava Metzia 116b:1-118b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "tenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-102"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 10,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 10; HaBayit VeHa'aliyyah"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "הבית והעלייה"
+                        }
+                    ],
+                    "title": "Chapter 10; HaBayit VeHa'aliyyah",
+                    "heTitle": "הבית והעלייה",
+                    "refs": [
+                        "Chiddushei Ramban on Bava Metzia 116b:1-4",
+                        "Chiddushei Ramban on Bava Metzia 117a",
+                        "Chiddushei Ramban on Bava Metzia 117b",
+                        "Chiddushei Ramban on Bava Metzia 118a",
+                        "Chiddushei Ramban on Bava Metzia 118b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 231
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "חידושי רמב\"ן על בבא מציעא",
+                    "primary": true
+                },
+                {
+                    "text": "Chiddushei Ramban on Bava Metzia",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Ramban on Bava Metzia",
+            "heTitle": "חידושי רמב\"ן על בבא מציעא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
@@ -102,7 +1623,7 @@
         "תלמוד",
         "בבלי",
         "ראשונים על התלמוד",
-        "רמב\"ן",
+        "חידושי רמב״ן",
         "סדר נזיקין"
     ],
     "compDateString": {

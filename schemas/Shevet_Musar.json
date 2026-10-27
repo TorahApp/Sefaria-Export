@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "title"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -43,6 +50,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "authors-preface"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -70,6 +84,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "index"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -111,6 +132,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "shevet-musar"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "Shevet Mussar",
@@ -133,14 +162,14 @@
     },
     "authors": [
         {
-            "en": "Eliyahu HaKohen Ha'Itamri",
+            "en": "Eliyahu HaKohen of Smyrna",
             "he": "אליהו הכהן האיתמרי",
             "slug": "eliyahu-hakohen-haitamri"
         }
     ],
-    "enDesc": "Ethical work divided into fifty-two chapters corresponding to the weeks of the year. The book, which gained much popularity, has been published in many editions and translated into several languages since it first appeared in 1712.",
+    "enDesc": "An ethical work divided into 52 chapters, corresponding to the weeks of the year. The book, which gained much popularity, has been published in many editions and translated into several languages since it first appeared in 1712.",
     "heDesc": "חיבור מוסרי המחולק לחמישים ושניים פרקים המקבילים לשבועי השנה. הוא זכה לפופולאריות רבה, נדפס במהדורות רבות ותורגם לכמה שפות מאז הופיע לראשונה בשנת 1712.",
-    "enShortDesc": "18th-century accessible work divided into 52 chapters corresponding to the weeks of the year.",
+    "enShortDesc": "18th-century ethical work divided into 52 chapters, corresponding to the weeks of the year",
     "heShortDesc": "חיבור מן המאה ה-18 המחולק ל-52 פרקים כנגד מספר השבועות בשנה.",
     "pubDate": [
         1712

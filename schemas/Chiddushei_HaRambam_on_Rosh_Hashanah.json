@@ -61,9 +61,15 @@
         ],
         "key": "Chiddushei HaRambam on Rosh Hashanah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
+    "order": [
+        35
+    ],
     "authors": [
         {
-            "en": "Rambam",
+            "en": "Moses ben Maimon (Rambam)",
             "he": "רמב\"ם",
             "slug": "rambam"
         }
@@ -97,6 +103,597 @@
     "heTitleVariants": [
         "חידושי הרמב\"ם על ראש השנה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei HaRambam on Rosh Hashanah 6a:1-21b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "gemara",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "gemara",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; Arba'ah Rashei Shanim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ארבעה ראשי שנים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Arba'ah Rashei Shanim",
+                    "heTitle": "ארבעה ראשי שנים",
+                    "refs": [
+                        "Chiddushei HaRambam on Rosh Hashanah 6a:1-2",
+                        "Chiddushei HaRambam on Rosh Hashanah 6b",
+                        "Chiddushei HaRambam on Rosh Hashanah 7a",
+                        "Chiddushei HaRambam on Rosh Hashanah 7b",
+                        "Chiddushei HaRambam on Rosh Hashanah 8a",
+                        "Chiddushei HaRambam on Rosh Hashanah 8b",
+                        "Chiddushei HaRambam on Rosh Hashanah 9a",
+                        "Chiddushei HaRambam on Rosh Hashanah 9b",
+                        "Chiddushei HaRambam on Rosh Hashanah 10a",
+                        "Chiddushei HaRambam on Rosh Hashanah 10b",
+                        "Chiddushei HaRambam on Rosh Hashanah 11a",
+                        "Chiddushei HaRambam on Rosh Hashanah 11b",
+                        "Chiddushei HaRambam on Rosh Hashanah 12a",
+                        "Chiddushei HaRambam on Rosh Hashanah 12b",
+                        "Chiddushei HaRambam on Rosh Hashanah 13a",
+                        "Chiddushei HaRambam on Rosh Hashanah 13b",
+                        "Chiddushei HaRambam on Rosh Hashanah 14a",
+                        "Chiddushei HaRambam on Rosh Hashanah 14b",
+                        "Chiddushei HaRambam on Rosh Hashanah 15a",
+                        "Chiddushei HaRambam on Rosh Hashanah 15b",
+                        "Chiddushei HaRambam on Rosh Hashanah 16a",
+                        "Chiddushei HaRambam on Rosh Hashanah 16b",
+                        "Chiddushei HaRambam on Rosh Hashanah 17a",
+                        "Chiddushei HaRambam on Rosh Hashanah 17b",
+                        "Chiddushei HaRambam on Rosh Hashanah 18a",
+                        "Chiddushei HaRambam on Rosh Hashanah 18b",
+                        "Chiddushei HaRambam on Rosh Hashanah 19a",
+                        "Chiddushei HaRambam on Rosh Hashanah 19b",
+                        "Chiddushei HaRambam on Rosh Hashanah 20a",
+                        "Chiddushei HaRambam on Rosh Hashanah 20b",
+                        "Chiddushei HaRambam on Rosh Hashanah 21a",
+                        "Chiddushei HaRambam on Rosh Hashanah 21b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 10
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei HaRambam on Rosh Hashanah 23a:1-25a:8",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "bavli",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "bavli",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "gemara",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "bavli",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "gemara",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 2; Im Einan Makkirin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אם אינן מכירין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Im Einan Makkirin",
+                    "heTitle": "אם אינן מכירין",
+                    "refs": [
+                        "Chiddushei HaRambam on Rosh Hashanah 23a:1",
+                        "Chiddushei HaRambam on Rosh Hashanah 23b",
+                        "Chiddushei HaRambam on Rosh Hashanah 24a",
+                        "Chiddushei HaRambam on Rosh Hashanah 24b",
+                        "Chiddushei HaRambam on Rosh Hashanah 25a:1-8"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 44
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei HaRambam on Rosh Hashanah 25b:1-28b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "bavli",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "bavli",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "gemara",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "bavli",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "gemara",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 3; Rauhu Beit Din",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ראוהו בית דין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Rauhu Beit Din",
+                    "heTitle": "ראוהו בית דין",
+                    "refs": [
+                        "Chiddushei HaRambam on Rosh Hashanah 25b:1",
+                        "Chiddushei HaRambam on Rosh Hashanah 26a",
+                        "Chiddushei HaRambam on Rosh Hashanah 26b",
+                        "Chiddushei HaRambam on Rosh Hashanah 27a",
+                        "Chiddushei HaRambam on Rosh Hashanah 27b",
+                        "Chiddushei HaRambam on Rosh Hashanah 28a",
+                        "Chiddushei HaRambam on Rosh Hashanah 28b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 49
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei HaRambam on Rosh Hashanah 31a:1-32b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "bavli",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "bavli",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "gemara",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "bavli",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "talmud",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-harambam",
+                                "gemara",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 4; Yom Tov",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "יום טוב",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Yom Tov",
+                    "heTitle": "יום טוב",
+                    "refs": [
+                        "Chiddushei HaRambam on Rosh Hashanah 31a:1-3",
+                        "Chiddushei HaRambam on Rosh Hashanah 31b",
+                        "Chiddushei HaRambam on Rosh Hashanah 32a",
+                        "Chiddushei HaRambam on Rosh Hashanah 32b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 60
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Chidushei Rambam on Rosh Hashanah",
+                    "lang": "en"
+                },
+                {
+                    "text": "חידושי הרמב\"ם על ראש השנה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Chiddushei HaRambam on Rosh Hashanah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei HaRambam on Rosh Hashanah",
+            "heTitle": "חידושי הרמב\"ם על ראש השנה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

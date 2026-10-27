@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             18,
             34,
             36
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "primary": true,
                 "text": "השגות הראב\"ד על משנה תורה, הלכות גזילה ואבידה",
                 "lang": "he"
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, Robbery and Lost Property",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, Robbery and Lost Property",
@@ -91,6 +119,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות גזילה ואבידה",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, Robbery and Lost Property",
         "Hasagot HaRa'avad on Mishneh Torah, Robbery and Lost Property"
     ],
     "heTitleVariants": [

@@ -19,6 +19,23 @@
             "Halakhah",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "haggahot-yaavetz",
+                    "avot-drabbi-natan"
+                ]
+            }
+        ],
+        "lengths": [
+            41,
+            42,
+            54
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "הגהות יעב\"ץ על אבות דרבי נתן",
@@ -62,7 +79,7 @@
     "dependence": "Commentary",
     "base_text_titles": [
         {
-            "en": "Avot D'Rabbi Natan",
+            "en": "Avot DeRabbi Natan",
             "he": "אבות דרבי נתן"
         }
     ],

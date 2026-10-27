@@ -80,6 +80,9 @@
         ],
         "key": "Ktav Yad Rashi on Bekhorot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Rashi",
@@ -116,6 +119,174 @@
     "heTitleVariants": [
         "כתב יד רש\"י על בכורות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ktav Yad Rashi on Bekhorot 57b:1:1-61a:12:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "perek",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "talmud",
+                                "bavli",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "bavli",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "talmud",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "gemara",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "bavli",
+                                "perek",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "talmud",
+                                "perek",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ktav-yad-rashi",
+                                "gemara",
+                                "perek",
+                                "chapter-94"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 9; Ma'aser Behemah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "מעשר בהמה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 9; Ma'aser Behemah",
+                    "heTitle": "מעשר בהמה"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Ktav Yad Rashi on Talmud Bekhorot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Ktav Yad Rashi on Tractate Bekhorot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Ktav Yad Rashi on Masekhet Bekhorot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Ktav Yad Rashi on Bechorot"
+                },
+                {
+                    "lang": "he",
+                    "text": "כתב יד רש\"י על בכורות",
+                    "primary": true
+                },
+                {
+                    "text": "Ktav Yad Rashi on Bekhorot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Ktav Yad Rashi on Bekhorot",
+            "heTitle": "כתב יד רש\"י על בכורות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line",

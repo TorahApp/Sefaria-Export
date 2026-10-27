@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chatam-sofer",
+                    "bava-kamma"
+                ]
+            }
+        ],
         "lengths": [
             238,
             29
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,9 +57,12 @@
         ],
         "key": "Chidushei Chatam Sofer on Bava Kamma"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Moses Sofer",
+            "en": "Moses Sofer (Chatam Sofer)",
             "he": "משה סופר",
             "slug": "moses-sofer"
         }
@@ -82,6 +92,161 @@
     "heTitleVariants": [
         "חידושי חתם סופר על בבא קמא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Bava Kamma 2a:1-6a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-13"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Arba'ah Avot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "ארבעה אבות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Arba'ah Avot",
+                    "heTitle": "ארבעה אבות",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Bava Kamma 2a:1-9",
+                        "Chidushei Chatam Sofer on Bava Kamma 2b",
+                        "Chidushei Chatam Sofer on Bava Kamma 3a",
+                        "Chidushei Chatam Sofer on Bava Kamma 3b",
+                        "Chidushei Chatam Sofer on Bava Kamma 4a",
+                        "Chidushei Chatam Sofer on Bava Kamma 4b",
+                        "Chidushei Chatam Sofer on Bava Kamma 5a",
+                        "Chidushei Chatam Sofer on Bava Kamma 5b",
+                        "Chidushei Chatam Sofer on Bava Kamma 6a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי חתם סופר על בבא קמא",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Chidushei Chatam Sofer on Bava Kamma",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Chatam Sofer on Bava Kamma",
+            "heTitle": "חידושי חתם סופר על בבא קמא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

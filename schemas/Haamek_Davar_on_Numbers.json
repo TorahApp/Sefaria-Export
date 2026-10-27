@@ -157,9 +157,12 @@
         "heTitle": "העמק דבר על במדבר",
         "key": "Haamek Davar on Numbers"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
-            "en": "Naphtali Zevi Yehudah Berlin",
+            "en": "Naphtali Tzvi Yehudah Berlin (Netziv)",
             "he": "נפתלי צבי יהודה ברלין",
             "slug": "naphtali-zevi-yehudah-berlin"
         }
@@ -214,6 +217,646 @@
         "הנצ”יב על התורה על במדבר",
         "העמק דבר על במדבר"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 1:1:1-4:20:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bamidbar",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bemidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Numbers",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bamidbar",
+                    "heTitle": "במדבר"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 4:22:1-7:89:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nasso",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Naso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Naso",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nasso",
+                    "heTitle": "נשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 8:2:1-12:14:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beha'alotcha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Behaalotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behaalotchah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Bahalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "B'ha'alotekha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parasha Behaatlocha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Behaloscha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Beha'alotcha",
+                    "heTitle": "בהעלותך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 13:2:1-15:41:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Sh'lach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shelach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Shlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shlach",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Sh'lach",
+                    "heTitle": "שלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 16:1:1-18:32:4",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Korach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "קורח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת קורח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Korach",
+                    "heTitle": "קרח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 19:1:1-22:1:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chukat",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת חוקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Chukkat",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chukat",
+                    "heTitle": "חקת"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 22:2:1-25:7:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Balak",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Balak",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Balak",
+                    "heTitle": "בלק"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 25:11:1-30:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pinchas",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פנחס",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פנחס",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Pinchas",
+                    "heTitle": "פנחס"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 30:2:1-32:42:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Matot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Matot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Matot",
+                    "heTitle": "מטות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Haamek Davar on Numbers 33:1:1-36:13:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "parasha",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haamek-davar",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Masei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ma'asei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Masei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Masei",
+                    "heTitle": "מסעי"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Hanatziv on the tora on Num."
+                },
+                {
+                    "lang": "en",
+                    "text": "Hanatziv on the tora on Num"
+                },
+                {
+                    "lang": "en",
+                    "text": "Hanatziv on the tora on Bamidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Hanatziv on the tora on Bemidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Hanatziv on the tora on Numbers"
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on the tora on Num."
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on the tora on Num"
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on the tora on Bamidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on the tora on Bemidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on the tora on Numbers"
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on Num."
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on Num"
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on Bamidbar"
+                },
+                {
+                    "lang": "en",
+                    "text": "Haamek Davar on Bemidbar"
+                },
+                {
+                    "lang": "he",
+                    "text": "העמק דבר על התורה על במדבר"
+                },
+                {
+                    "lang": "he",
+                    "text": "הנצ\"יב על התורה על במדבר"
+                },
+                {
+                    "text": "הנצ״יב על התורה על במדבר",
+                    "lang": "he"
+                },
+                {
+                    "text": "הנצ”יב על התורה על במדבר",
+                    "lang": "he"
+                },
+                {
+                    "text": "העמק דבר על במדבר",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Haamek Davar on Numbers",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Haamek Davar on Numbers",
+            "heTitle": "העמק דבר על במדבר"
+        }
+    },
     "heCategories": [
         "תנ\"ך",
         "אחרונים על התנ״ך",

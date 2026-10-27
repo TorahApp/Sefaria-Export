@@ -34,6 +34,13 @@
                         "sectionNames": [
                             "Paragraph"
                         ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "table-of-contents"
+                                ]
+                            }
+                        ],
                         "titles": [
                             {
                                 "text": "Table of Contents",
@@ -52,6 +59,14 @@
                             "פסקה"
                         ],
                         "key": "Table of Contents"
+                    }
+                ],
+                "nodeType": "SchemaNode",
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
                     }
                 ],
                 "sharedTitle": "Introduction",
@@ -86,6 +101,13 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "shaar-hatefilah"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Shaar HaTefilah",
@@ -116,6 +138,13 @@
                 "sectionNames": [
                     "Chapter",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "shaar-hateshuvah"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -148,6 +177,13 @@
                     "Chapter",
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "shaar-hayesodot"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Shaar HaYesodot",
@@ -169,11 +205,27 @@
                 "key": "Shaar HaYesodot"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "beit-elohim"
+                ]
+            }
+        ],
         "titles": [
+            {
+                "text": "Beit Elokim",
+                "lang": "en"
+            },
             {
                 "text": "בית אלהים",
                 "lang": "he",
                 "primary": true
+            },
+            {
+                "text": "בית אלקים",
+                "lang": "he"
             },
             {
                 "text": "Beit Elohim",
@@ -185,15 +237,40 @@
         "heTitle": "בית אלהים",
         "key": "Beit Elohim"
     },
+    "authors": [
+        {
+            "en": "Moshe ben Yosef di Trani",
+            "he": "משה מטראני",
+            "slug": "moshe-ben-yosef-di-trani"
+        }
+    ],
+    "enDesc": "Beit Elohim is a 16th-century work by Rabbi Moshe di Trani on prayer, repentance, and fundamental beliefs. ",
+    "heDesc": "",
+    "enShortDesc": "16th-century work by Rabbi Moshe di Trani on prayer, repentance, and fundamental beliefs. ",
+    "heShortDesc": "",
+    "pubDate": [
+        1576
+    ],
+    "pubPlace": "Venice ",
     "heTitle": "בית אלהים",
     "titleVariants": [
+        "Beit Elokim",
         "Beit Elohim"
     ],
     "heTitleVariants": [
-        "בית אלהים"
+        "בית אלהים",
+        "בית אלקים"
     ],
     "heCategories": [
         "מחשבת ישראל",
         "אחרונים"
-    ]
+    ],
+    "pubDateString": {
+        "en": " (1576 CE)",
+        "he": " (1576 לספירה)"
+    },
+    "pubPlaceString": {
+        "en": "Venice ",
+        "he": "ונציה"
+    }
 }

@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             14,
             12,
             12
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "primary": true,
                 "text": "השגות הראב\"ד על משנה תורה, הלכות אבל",
                 "lang": "he"
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, Mourning",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, Mourning",
@@ -91,6 +119,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות אבל",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, Mourning",
         "Hasagot HaRa'avad on Mishneh Torah, Mourning"
     ],
     "heTitleVariants": [

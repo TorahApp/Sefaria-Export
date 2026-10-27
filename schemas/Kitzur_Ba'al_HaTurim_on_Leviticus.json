@@ -90,6 +90,9 @@
         ],
         "key": "Kitzur Ba'al HaTurim on Leviticus"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Jacob ben Asher",
@@ -140,6 +143,562 @@
     "heTitleVariants": [
         "קיצור בעל הטורים על ויקרא"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 1:1:1-5:24:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "vayikra"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "vayikra"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayikra",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayikra",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויקרא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayikra",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויקרא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Vayikra",
+                    "heTitle": "ויקרא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 6:2:1-8:34:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "tzav"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "tzav"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tzav",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tzav",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "צו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tzav",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת צו",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Tzav",
+                    "heTitle": "צו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 9:1:1-11:47:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "shmini"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "shmini"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shmini",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shmini",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שמיני",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shmini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שמיני",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shemini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Shemini",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shemini",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shmini",
+                    "heTitle": "שמיני"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 12:2:1-13:59:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "tazria"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "tazria"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tazria",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tazria",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תזריע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tazria",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תזריע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Tazria",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Tazria",
+                    "heTitle": "תזריע"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 14:2:1-15:33:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "metzora"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "metzora"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Metzora",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Metzora",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מצורע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Metzora",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מצורע",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parsha Metzorah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Metzorah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Metzora",
+                    "heTitle": "מצורע"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 16:1:1-18:29:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "achrei-mot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "achrei-mot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Achrei Mot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Achrei Mot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אחרי מות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Achrei Mot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת אחרי מות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Acharei Mot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Achrei Mot",
+                    "heTitle": "אחרי מות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 19:2:1-20:26:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "kedoshim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "kedoshim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Kedoshim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Kedoshim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קדושים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Kedoshim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קדושים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Kedoshim",
+                    "heTitle": "קדושים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 21:1:1-24:16:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "emor"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "emor"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Emor",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Emor",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אמור",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Emor",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת אמור",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Emor",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Emor",
+                    "heTitle": "אמור"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 25:1:1-26:2:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "behar"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "behar"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Behar",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Behar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בהר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Behar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בהר",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Behar",
+                    "heTitle": "בהר"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kitzur Ba'al HaTurim on Leviticus 26:3:1-27:34:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "parasha",
+                                "bechukotai"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kitzur-baal-haturim",
+                                "bechukotai"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bechukotai",
+                    "titles": [
+                        {
+                            "text": "Bechukotai",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "בחוקתי",
+                            "primary": true,
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bechukotai",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בחוקתי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת בחוקותי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Bekhukotai",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "בחקתי",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Bechukotai",
+                    "heTitle": "בחוקתי"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Kitzur Baal HaTurim on Vayikra",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kitzur Baal HaTurim on Lev.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kitzur Baal HaTurim on Lev",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kitzur Baal Haturim on Vayikra",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kitzur Baal Haturim on Lev.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kitzur Baal Haturim on Lev",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kitzur Baal Haturim on Leviticus",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kitzur Baal HaTurim on Leviticus",
+                    "lang": "en"
+                },
+                {
+                    "text": "קיצור בעל הטורים על ויקרא",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Kitzur Ba'al HaTurim on Leviticus",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Kitzur Ba'al HaTurim on Leviticus",
+            "heTitle": "קיצור בעל הטורים על ויקרא"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

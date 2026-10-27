@@ -17,9 +17,17 @@
             "Daf",
             "Line"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "benayahu",
+                    "megillah"
+                ]
+            }
+        ],
         "lengths": [
             63,
-            29
+            112
         ],
         "referenceableSections": [
             true,
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Benayahu on Megillah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yosef Hayyim",
@@ -88,6 +98,594 @@
     "heTitleVariants": [
         "בניהו על מגילה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Megillah 3a:1-16a:11",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Megillah Nikreit",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "מגילה נקראת",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Megillah Nikreit",
+                    "heTitle": "מגילה נקראת",
+                    "refs": [
+                        "Benayahu on Megillah 3a:1-4",
+                        "Benayahu on Megillah 3b",
+                        "Benayahu on Megillah 4a",
+                        "Benayahu on Megillah 4b",
+                        "Benayahu on Megillah 5a",
+                        "Benayahu on Megillah 5b",
+                        "Benayahu on Megillah 6a",
+                        "Benayahu on Megillah 6b",
+                        "Benayahu on Megillah 7a",
+                        "Benayahu on Megillah 7b",
+                        "Benayahu on Megillah 8a",
+                        "Benayahu on Megillah 8b",
+                        "Benayahu on Megillah 9a",
+                        "Benayahu on Megillah 9b",
+                        "Benayahu on Megillah 10a",
+                        "Benayahu on Megillah 10b",
+                        "Benayahu on Megillah 11a",
+                        "Benayahu on Megillah 11b",
+                        "Benayahu on Megillah 12a",
+                        "Benayahu on Megillah 12b",
+                        "Benayahu on Megillah 13a",
+                        "Benayahu on Megillah 13b",
+                        "Benayahu on Megillah 14a",
+                        "Benayahu on Megillah 14b",
+                        "Benayahu on Megillah 15a",
+                        "Benayahu on Megillah 15b",
+                        "Benayahu on Megillah 16a:1-11"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 4
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Megillah 18a:1-3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-217"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; HaKorei Lemafrea",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הקורא למפרע",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; HaKorei Lemafrea",
+                    "heTitle": "הקורא למפרע",
+                    "refs": [
+                        "Benayahu on Megillah 18a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 34
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Megillah 21a:1-25b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-317"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; HaKorei Omed",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הקורא עומד",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; HaKorei Omed",
+                    "heTitle": "הקורא עומד",
+                    "refs": [
+                        "Benayahu on Megillah 21a:1-3",
+                        "Benayahu on Megillah 21b",
+                        "Benayahu on Megillah 22a",
+                        "Benayahu on Megillah 22b",
+                        "Benayahu on Megillah 23a",
+                        "Benayahu on Megillah 23b",
+                        "Benayahu on Megillah 24a",
+                        "Benayahu on Megillah 24b",
+                        "Benayahu on Megillah 25a",
+                        "Benayahu on Megillah 25b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 40
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Megillah 27a:1-32a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-414"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Benei HaIr",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "בני העיר",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Benei HaIr",
+                    "heTitle": "בני העיר",
+                    "refs": [
+                        "Benayahu on Megillah 27a:1",
+                        "Benayahu on Megillah 27b",
+                        "Benayahu on Megillah 28a",
+                        "Benayahu on Megillah 28b",
+                        "Benayahu on Megillah 29a",
+                        "Benayahu on Megillah 29b",
+                        "Benayahu on Megillah 30a",
+                        "Benayahu on Megillah 30b",
+                        "Benayahu on Megillah 31a",
+                        "Benayahu on Megillah 31b",
+                        "Benayahu on Megillah 32a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 52
+                }
+            ],
+            "titles": [
+                {
+                    "text": "בניהו על מגילה",
+                    "primary": true,
+                    "lang": "he"
+                },
+                {
+                    "text": "Benayahu on Megillah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Benayahu on Megillah",
+            "heTitle": "בניהו על מגילה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line"

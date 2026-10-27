@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             8,
             19,
             19
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "primary": true,
                 "text": "השגות הראב\"ד על משנה תורה, הלכות בית הבחירה",
                 "lang": "he"
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, The Chosen Temple",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, The Chosen Temple",
@@ -91,6 +119,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות בית הבחירה",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, The Chosen Temple",
         "Hasagot HaRa'avad on Mishneh Torah, The Chosen Temple"
     ],
     "heTitleVariants": [

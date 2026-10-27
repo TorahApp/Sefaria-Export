@@ -18,9 +18,17 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "maharam-schiff",
+                    "gittin"
+                ]
+            }
+        ],
         "lengths": [
             180,
-            1181
+            1198
         ],
         "referenceableSections": [
             true,
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -55,6 +62,9 @@
         ],
         "key": "Maharam Schiff on Gittin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Meir ben Jacob Ha-Kohen Schiff",
@@ -94,6 +104,1344 @@
     "heTitleVariants": [
         "מהר\"ם שיף על גיטין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Gittin 2a:1-90a:11",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-112"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; HaMevi Kamma",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "המביא קמא",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; HaMevi Kamma",
+                    "heTitle": "המביא קמא",
+                    "refs": [
+                        "Maharam Schiff on Gittin 2a:1-22",
+                        "Maharam Schiff on Gittin 2b",
+                        "Maharam Schiff on Gittin 3a",
+                        "Maharam Schiff on Gittin 3b",
+                        "Maharam Schiff on Gittin 4a",
+                        "Maharam Schiff on Gittin 4b",
+                        "Maharam Schiff on Gittin 5a",
+                        "Maharam Schiff on Gittin 5b",
+                        "Maharam Schiff on Gittin 6a",
+                        "Maharam Schiff on Gittin 6b",
+                        "Maharam Schiff on Gittin 7a",
+                        "Maharam Schiff on Gittin 7b",
+                        "Maharam Schiff on Gittin 8a",
+                        "Maharam Schiff on Gittin 8b",
+                        "Maharam Schiff on Gittin 9a",
+                        "Maharam Schiff on Gittin 9b",
+                        "Maharam Schiff on Gittin 10a",
+                        "Maharam Schiff on Gittin 10b",
+                        "Maharam Schiff on Gittin 11a",
+                        "Maharam Schiff on Gittin 11b",
+                        "Maharam Schiff on Gittin 12a",
+                        "Maharam Schiff on Gittin 12b",
+                        "Maharam Schiff on Gittin 13a",
+                        "Maharam Schiff on Gittin 13b",
+                        "Maharam Schiff on Gittin 14a",
+                        "Maharam Schiff on Gittin 14b",
+                        "Maharam Schiff on Gittin 15a",
+                        "Maharam Schiff on Gittin 15b",
+                        "Maharam Schiff on Gittin 16a",
+                        "Maharam Schiff on Gittin 16b",
+                        "Maharam Schiff on Gittin 17a",
+                        "Maharam Schiff on Gittin 17b",
+                        "Maharam Schiff on Gittin 18a",
+                        "Maharam Schiff on Gittin 18b",
+                        "Maharam Schiff on Gittin 19a",
+                        "Maharam Schiff on Gittin 19b",
+                        "Maharam Schiff on Gittin 20a",
+                        "Maharam Schiff on Gittin 20b",
+                        "Maharam Schiff on Gittin 21a",
+                        "Maharam Schiff on Gittin 21b",
+                        "Maharam Schiff on Gittin 22a",
+                        "Maharam Schiff on Gittin 22b",
+                        "Maharam Schiff on Gittin 23a",
+                        "Maharam Schiff on Gittin 23b",
+                        "Maharam Schiff on Gittin 24a",
+                        "Maharam Schiff on Gittin 24b",
+                        "Maharam Schiff on Gittin 25a",
+                        "Maharam Schiff on Gittin 25b",
+                        "Maharam Schiff on Gittin 26a",
+                        "Maharam Schiff on Gittin 26b",
+                        "Maharam Schiff on Gittin 27a",
+                        "Maharam Schiff on Gittin 27b",
+                        "Maharam Schiff on Gittin 28a",
+                        "Maharam Schiff on Gittin 28b",
+                        "Maharam Schiff on Gittin 29a",
+                        "Maharam Schiff on Gittin 29b",
+                        "Maharam Schiff on Gittin 30a",
+                        "Maharam Schiff on Gittin 30b",
+                        "Maharam Schiff on Gittin 31a",
+                        "Maharam Schiff on Gittin 31b",
+                        "Maharam Schiff on Gittin 32a",
+                        "Maharam Schiff on Gittin 32b",
+                        "Maharam Schiff on Gittin 33a",
+                        "Maharam Schiff on Gittin 33b",
+                        "Maharam Schiff on Gittin 34a",
+                        "Maharam Schiff on Gittin 34b",
+                        "Maharam Schiff on Gittin 35a",
+                        "Maharam Schiff on Gittin 35b",
+                        "Maharam Schiff on Gittin 36a",
+                        "Maharam Schiff on Gittin 36b",
+                        "Maharam Schiff on Gittin 37a",
+                        "Maharam Schiff on Gittin 37b",
+                        "Maharam Schiff on Gittin 38a",
+                        "Maharam Schiff on Gittin 38b",
+                        "Maharam Schiff on Gittin 39a",
+                        "Maharam Schiff on Gittin 39b",
+                        "Maharam Schiff on Gittin 40a",
+                        "Maharam Schiff on Gittin 40b",
+                        "Maharam Schiff on Gittin 41a",
+                        "Maharam Schiff on Gittin 41b",
+                        "Maharam Schiff on Gittin 42a",
+                        "Maharam Schiff on Gittin 42b",
+                        "Maharam Schiff on Gittin 43a",
+                        "Maharam Schiff on Gittin 43b",
+                        "Maharam Schiff on Gittin 44a",
+                        "Maharam Schiff on Gittin 44b",
+                        "Maharam Schiff on Gittin 45a",
+                        "Maharam Schiff on Gittin 45b",
+                        "Maharam Schiff on Gittin 46a",
+                        "Maharam Schiff on Gittin 46b",
+                        "Maharam Schiff on Gittin 47a",
+                        "Maharam Schiff on Gittin 47b",
+                        "Maharam Schiff on Gittin 48a",
+                        "Maharam Schiff on Gittin 48b",
+                        "Maharam Schiff on Gittin 49a",
+                        "Maharam Schiff on Gittin 49b",
+                        "Maharam Schiff on Gittin 50a",
+                        "Maharam Schiff on Gittin 50b",
+                        "Maharam Schiff on Gittin 51a",
+                        "Maharam Schiff on Gittin 51b",
+                        "Maharam Schiff on Gittin 52a",
+                        "Maharam Schiff on Gittin 52b",
+                        "Maharam Schiff on Gittin 53a",
+                        "Maharam Schiff on Gittin 53b",
+                        "Maharam Schiff on Gittin 54a",
+                        "Maharam Schiff on Gittin 54b",
+                        "Maharam Schiff on Gittin 55a",
+                        "Maharam Schiff on Gittin 55b",
+                        "Maharam Schiff on Gittin 56a",
+                        "Maharam Schiff on Gittin 56b",
+                        "Maharam Schiff on Gittin 57a",
+                        "Maharam Schiff on Gittin 57b",
+                        "Maharam Schiff on Gittin 58a",
+                        "Maharam Schiff on Gittin 58b",
+                        "Maharam Schiff on Gittin 59a",
+                        "Maharam Schiff on Gittin 59b",
+                        "Maharam Schiff on Gittin 60a",
+                        "Maharam Schiff on Gittin 60b",
+                        "Maharam Schiff on Gittin 61a",
+                        "Maharam Schiff on Gittin 61b",
+                        "Maharam Schiff on Gittin 62a",
+                        "Maharam Schiff on Gittin 62b",
+                        "Maharam Schiff on Gittin 63a",
+                        "Maharam Schiff on Gittin 63b",
+                        "Maharam Schiff on Gittin 64a",
+                        "Maharam Schiff on Gittin 64b",
+                        "Maharam Schiff on Gittin 65a",
+                        "Maharam Schiff on Gittin 65b",
+                        "Maharam Schiff on Gittin 66a",
+                        "Maharam Schiff on Gittin 66b",
+                        "Maharam Schiff on Gittin 67a",
+                        "Maharam Schiff on Gittin 67b",
+                        "Maharam Schiff on Gittin 68a",
+                        "Maharam Schiff on Gittin 68b",
+                        "Maharam Schiff on Gittin 69a",
+                        "Maharam Schiff on Gittin 69b",
+                        "Maharam Schiff on Gittin 70a",
+                        "Maharam Schiff on Gittin 70b",
+                        "Maharam Schiff on Gittin 71a",
+                        "Maharam Schiff on Gittin 71b",
+                        "Maharam Schiff on Gittin 72a",
+                        "Maharam Schiff on Gittin 72b",
+                        "Maharam Schiff on Gittin 73a",
+                        "Maharam Schiff on Gittin 73b",
+                        "Maharam Schiff on Gittin 74a",
+                        "Maharam Schiff on Gittin 74b",
+                        "Maharam Schiff on Gittin 75a",
+                        "Maharam Schiff on Gittin 75b",
+                        "Maharam Schiff on Gittin 76a",
+                        "Maharam Schiff on Gittin 76b",
+                        "Maharam Schiff on Gittin 77a",
+                        "Maharam Schiff on Gittin 77b",
+                        "Maharam Schiff on Gittin 78a",
+                        "Maharam Schiff on Gittin 78b",
+                        "Maharam Schiff on Gittin 79a",
+                        "Maharam Schiff on Gittin 79b",
+                        "Maharam Schiff on Gittin 80a",
+                        "Maharam Schiff on Gittin 80b",
+                        "Maharam Schiff on Gittin 81a",
+                        "Maharam Schiff on Gittin 81b",
+                        "Maharam Schiff on Gittin 82a",
+                        "Maharam Schiff on Gittin 82b",
+                        "Maharam Schiff on Gittin 83a",
+                        "Maharam Schiff on Gittin 83b",
+                        "Maharam Schiff on Gittin 84a",
+                        "Maharam Schiff on Gittin 84b",
+                        "Maharam Schiff on Gittin 85a",
+                        "Maharam Schiff on Gittin 85b",
+                        "Maharam Schiff on Gittin 86a",
+                        "Maharam Schiff on Gittin 86b",
+                        "Maharam Schiff on Gittin 87a",
+                        "Maharam Schiff on Gittin 87b",
+                        "Maharam Schiff on Gittin 88a",
+                        "Maharam Schiff on Gittin 88b",
+                        "Maharam Schiff on Gittin 89a",
+                        "Maharam Schiff on Gittin 89b",
+                        "Maharam Schiff on Gittin 90a:1-11"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Gittin 24a:6-32a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-311"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; Kol HaGet",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "כל הגט",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; Kol HaGet",
+                    "heTitle": "כל הגט",
+                    "refs": [
+                        "Maharam Schiff on Gittin 24a:6-9",
+                        "Maharam Schiff on Gittin 24b",
+                        "Maharam Schiff on Gittin 25a",
+                        "Maharam Schiff on Gittin 25b",
+                        "Maharam Schiff on Gittin 26a",
+                        "Maharam Schiff on Gittin 26b",
+                        "Maharam Schiff on Gittin 27a",
+                        "Maharam Schiff on Gittin 27b",
+                        "Maharam Schiff on Gittin 28a",
+                        "Maharam Schiff on Gittin 28b",
+                        "Maharam Schiff on Gittin 29a",
+                        "Maharam Schiff on Gittin 29b",
+                        "Maharam Schiff on Gittin 30a",
+                        "Maharam Schiff on Gittin 30b",
+                        "Maharam Schiff on Gittin 31a",
+                        "Maharam Schiff on Gittin 31b",
+                        "Maharam Schiff on Gittin 32a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 46
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Gittin 32a:2-48a:10",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-410"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 4; HaSholeach",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "השולח",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; HaSholeach",
+                    "heTitle": "השולח",
+                    "refs": [
+                        "Maharam Schiff on Gittin 32a:2-10",
+                        "Maharam Schiff on Gittin 32b",
+                        "Maharam Schiff on Gittin 33a",
+                        "Maharam Schiff on Gittin 33b",
+                        "Maharam Schiff on Gittin 34a",
+                        "Maharam Schiff on Gittin 34b",
+                        "Maharam Schiff on Gittin 35a",
+                        "Maharam Schiff on Gittin 35b",
+                        "Maharam Schiff on Gittin 36a",
+                        "Maharam Schiff on Gittin 36b",
+                        "Maharam Schiff on Gittin 37a",
+                        "Maharam Schiff on Gittin 37b",
+                        "Maharam Schiff on Gittin 38a",
+                        "Maharam Schiff on Gittin 38b",
+                        "Maharam Schiff on Gittin 39a",
+                        "Maharam Schiff on Gittin 39b",
+                        "Maharam Schiff on Gittin 40a",
+                        "Maharam Schiff on Gittin 40b",
+                        "Maharam Schiff on Gittin 41a",
+                        "Maharam Schiff on Gittin 41b",
+                        "Maharam Schiff on Gittin 42a",
+                        "Maharam Schiff on Gittin 42b",
+                        "Maharam Schiff on Gittin 43a",
+                        "Maharam Schiff on Gittin 43b",
+                        "Maharam Schiff on Gittin 44a",
+                        "Maharam Schiff on Gittin 44b",
+                        "Maharam Schiff on Gittin 45a",
+                        "Maharam Schiff on Gittin 45b",
+                        "Maharam Schiff on Gittin 46a",
+                        "Maharam Schiff on Gittin 46b",
+                        "Maharam Schiff on Gittin 47a",
+                        "Maharam Schiff on Gittin 47b",
+                        "Maharam Schiff on Gittin 48a:1-10"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 62
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Gittin 49a:1-62a:10",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-510"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 5; HaNizzakin",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "הניזקין",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; HaNizzakin",
+                    "heTitle": "הניזקין",
+                    "refs": [
+                        "Maharam Schiff on Gittin 49a:1-12",
+                        "Maharam Schiff on Gittin 49b",
+                        "Maharam Schiff on Gittin 50a",
+                        "Maharam Schiff on Gittin 50b",
+                        "Maharam Schiff on Gittin 51a",
+                        "Maharam Schiff on Gittin 51b",
+                        "Maharam Schiff on Gittin 52a",
+                        "Maharam Schiff on Gittin 52b",
+                        "Maharam Schiff on Gittin 53a",
+                        "Maharam Schiff on Gittin 53b",
+                        "Maharam Schiff on Gittin 54a",
+                        "Maharam Schiff on Gittin 54b",
+                        "Maharam Schiff on Gittin 55a",
+                        "Maharam Schiff on Gittin 55b",
+                        "Maharam Schiff on Gittin 56a",
+                        "Maharam Schiff on Gittin 56b",
+                        "Maharam Schiff on Gittin 57a",
+                        "Maharam Schiff on Gittin 57b",
+                        "Maharam Schiff on Gittin 58a",
+                        "Maharam Schiff on Gittin 58b",
+                        "Maharam Schiff on Gittin 59a",
+                        "Maharam Schiff on Gittin 59b",
+                        "Maharam Schiff on Gittin 60a",
+                        "Maharam Schiff on Gittin 60b",
+                        "Maharam Schiff on Gittin 61a",
+                        "Maharam Schiff on Gittin 61b",
+                        "Maharam Schiff on Gittin 62a:1-10"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 96
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Gittin 62b:1-5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-68"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 6; HaOmer Hitkabbel",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "האומר התקבל",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; HaOmer Hitkabbel",
+                    "heTitle": "האומר התקבל",
+                    "refs": [
+                        "Maharam Schiff on Gittin 62b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 123
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Gittin 73b:1-77a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-78"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 7; Mi SheAchazo",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "מי שאחזו",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 7; Mi SheAchazo",
+                    "heTitle": "מי שאחזו",
+                    "refs": [
+                        "Maharam Schiff on Gittin 73b:1-2",
+                        "Maharam Schiff on Gittin 74a",
+                        "Maharam Schiff on Gittin 74b",
+                        "Maharam Schiff on Gittin 75a",
+                        "Maharam Schiff on Gittin 75b",
+                        "Maharam Schiff on Gittin 76a",
+                        "Maharam Schiff on Gittin 76b",
+                        "Maharam Schiff on Gittin 77a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 145
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Gittin 77a:3-82a:10",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-88"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 8; HaZorek Get",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "הזורק גט",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 8; HaZorek Get",
+                    "heTitle": "הזורק גט",
+                    "refs": [
+                        "Maharam Schiff on Gittin 77a:3",
+                        "Maharam Schiff on Gittin 77b",
+                        "Maharam Schiff on Gittin 78a",
+                        "Maharam Schiff on Gittin 78b",
+                        "Maharam Schiff on Gittin 79a",
+                        "Maharam Schiff on Gittin 79b",
+                        "Maharam Schiff on Gittin 80a",
+                        "Maharam Schiff on Gittin 80b",
+                        "Maharam Schiff on Gittin 81a",
+                        "Maharam Schiff on Gittin 81b",
+                        "Maharam Schiff on Gittin 82a:1-10"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 152
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Gittin 82a:11-90a:11",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-98"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 9; HaMegaresh",
+                            "lang": "en",
+                            "primary": true
+                        },
+                        {
+                            "text": "המגרש",
+                            "lang": "he",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 9; HaMegaresh",
+                    "heTitle": "המגרש",
+                    "refs": [
+                        "Maharam Schiff on Gittin 82a:11",
+                        "Maharam Schiff on Gittin 82b",
+                        "Maharam Schiff on Gittin 83a",
+                        "Maharam Schiff on Gittin 83b",
+                        "Maharam Schiff on Gittin 84a",
+                        "Maharam Schiff on Gittin 84b",
+                        "Maharam Schiff on Gittin 85a",
+                        "Maharam Schiff on Gittin 85b",
+                        "Maharam Schiff on Gittin 86a",
+                        "Maharam Schiff on Gittin 86b",
+                        "Maharam Schiff on Gittin 87a",
+                        "Maharam Schiff on Gittin 87b",
+                        "Maharam Schiff on Gittin 88a",
+                        "Maharam Schiff on Gittin 88b",
+                        "Maharam Schiff on Gittin 89a",
+                        "Maharam Schiff on Gittin 89b",
+                        "Maharam Schiff on Gittin 90a:1-11"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 162
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "מהר\"ם שיף על גיטין",
+                    "primary": true
+                },
+                {
+                    "text": "Maharam Shif on Gittin",
+                    "lang": "en"
+                },
+                {
+                    "text": "Maharam Schiff on Gittin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Maharam Schiff on Gittin",
+            "heTitle": "מהר\"ם שיף על גיטין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

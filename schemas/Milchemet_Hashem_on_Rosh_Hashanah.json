@@ -60,9 +60,12 @@
         ],
         "key": "Milchemet Hashem on Rosh Hashanah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -101,6 +104,165 @@
     "heTitleVariants": [
         "מלחמת השם על ראש השנה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Rosh Hashanah 6a:1-12a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; Arba'ah Rashei Shanim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ארבעה ראשי שנים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Arba'ah Rashei Shanim",
+                    "heTitle": "ארבעה ראשי שנים",
+                    "refs": [
+                        "Milchemet Hashem on Rosh Hashanah 6a:1",
+                        "Milchemet Hashem on Rosh Hashanah 6b",
+                        "Milchemet Hashem on Rosh Hashanah 7a",
+                        "Milchemet Hashem on Rosh Hashanah 7b",
+                        "Milchemet Hashem on Rosh Hashanah 8a",
+                        "Milchemet Hashem on Rosh Hashanah 8b",
+                        "Milchemet Hashem on Rosh Hashanah 9a",
+                        "Milchemet Hashem on Rosh Hashanah 9b",
+                        "Milchemet Hashem on Rosh Hashanah 10a",
+                        "Milchemet Hashem on Rosh Hashanah 10b",
+                        "Milchemet Hashem on Rosh Hashanah 11a",
+                        "Milchemet Hashem on Rosh Hashanah 11b",
+                        "Milchemet Hashem on Rosh Hashanah 12a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 10
+                }
+            ],
+            "titles": [
+                {
+                    "text": "מלחמת השם על ראש השנה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Milchemet Hashem on Rosh Hashanah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Milchemet Hashem on Rosh Hashanah",
+            "heTitle": "מלחמת השם על ראש השנה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

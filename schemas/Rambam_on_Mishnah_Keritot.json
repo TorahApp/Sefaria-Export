@@ -19,6 +19,31 @@
             "Mishnah",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "rambam",
+                    "mishnah",
+                    "keritot"
+                ]
+            },
+            {
+                "term_slugs": [
+                    "rambam",
+                    "commentary-on-the-mishnah",
+                    "keritot"
+                ]
+            }
+        ],
+        "lengths": [
+            6,
+            43,
+            45
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "lang": "en",
@@ -102,7 +127,7 @@
     },
     "authors": [
         {
-            "en": "Rambam",
+            "en": "Moses ben Maimon (Rambam)",
             "he": "רמב\"ם",
             "slug": "rambam"
         }

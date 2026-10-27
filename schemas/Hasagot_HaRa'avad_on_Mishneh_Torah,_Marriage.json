@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             25,
             63,
             67
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "primary": true,
                 "text": "השגות הראב\"ד על משנה תורה, הלכות אישות",
                 "lang": "he"
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, Marriage",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, Marriage",
@@ -91,6 +119,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות אישות",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, Marriage",
         "Hasagot HaRa'avad on Mishneh Torah, Marriage"
     ],
     "heTitleVariants": [

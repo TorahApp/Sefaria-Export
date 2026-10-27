@@ -16,6 +16,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "he",
@@ -59,6 +66,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tiferet-yisrael"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "en",
@@ -81,7 +96,7 @@
     },
     "authors": [
         {
-            "en": "Maharal",
+            "en": "Judah Loew of Prague (Maharal)",
             "he": "מהר\"ל",
             "slug": "maharal"
         }

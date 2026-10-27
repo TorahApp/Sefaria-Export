@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ben-yehoyada",
+                    "sotah"
+                ]
+            }
+        ],
         "lengths": [
             98,
             360
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Ben Yehoyada on Sotah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yosef Hayyim",
@@ -88,6 +98,1122 @@
     "heTitleVariants": [
         "בן יהוידע על סוטה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Sotah 2a:1-14a:8",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-137"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 1; HaMekannei"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "המקנא"
+                        }
+                    ],
+                    "title": "Chapter 1; HaMekannei",
+                    "heTitle": "המקנא",
+                    "refs": [
+                        "Ben Yehoyada on Sotah 2a:1-5",
+                        "Ben Yehoyada on Sotah 2b",
+                        "Ben Yehoyada on Sotah 3a",
+                        "Ben Yehoyada on Sotah 3b",
+                        "Ben Yehoyada on Sotah 4a",
+                        "Ben Yehoyada on Sotah 4b",
+                        "Ben Yehoyada on Sotah 5a",
+                        "Ben Yehoyada on Sotah 5b",
+                        "Ben Yehoyada on Sotah 6a",
+                        "Ben Yehoyada on Sotah 6b",
+                        "Ben Yehoyada on Sotah 7a",
+                        "Ben Yehoyada on Sotah 7b",
+                        "Ben Yehoyada on Sotah 8a",
+                        "Ben Yehoyada on Sotah 8b",
+                        "Ben Yehoyada on Sotah 9a",
+                        "Ben Yehoyada on Sotah 9b",
+                        "Ben Yehoyada on Sotah 10a",
+                        "Ben Yehoyada on Sotah 10b",
+                        "Ben Yehoyada on Sotah 11a",
+                        "Ben Yehoyada on Sotah 11b",
+                        "Ben Yehoyada on Sotah 12a",
+                        "Ben Yehoyada on Sotah 12b",
+                        "Ben Yehoyada on Sotah 13a",
+                        "Ben Yehoyada on Sotah 13b",
+                        "Ben Yehoyada on Sotah 14a:1-8"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Sotah 15a:1-17a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-230"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 2; Hayah Mevi "
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "היה מביא"
+                        }
+                    ],
+                    "title": "Chapter 2; Hayah Mevi ",
+                    "heTitle": "היה מביא",
+                    "refs": [
+                        "Ben Yehoyada on Sotah 15a:1",
+                        "Ben Yehoyada on Sotah 15b",
+                        "Ben Yehoyada on Sotah 16a",
+                        "Ben Yehoyada on Sotah 16b",
+                        "Ben Yehoyada on Sotah 17a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 28
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Sotah 20a:1-22b:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-329"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 3; Hayah Notel"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "היה נוטל"
+                        }
+                    ],
+                    "title": "Chapter 3; Hayah Notel",
+                    "heTitle": "היה נוטל",
+                    "refs": [
+                        "Ben Yehoyada on Sotah 20a:1-5",
+                        "Ben Yehoyada on Sotah 20b",
+                        "Ben Yehoyada on Sotah 21a",
+                        "Ben Yehoyada on Sotah 21b",
+                        "Ben Yehoyada on Sotah 22a",
+                        "Ben Yehoyada on Sotah 22b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 38
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Sotah 26a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-425"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 4; Arusah"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "ארוסה"
+                        }
+                    ],
+                    "title": "Chapter 4; Arusah",
+                    "heTitle": "ארוסה",
+                    "refs": [
+                        "Ben Yehoyada on Sotah 26a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 50
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Sotah 30b:1-31a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-522"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 5; KeShem SheHamayim"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "כשם שהמים"
+                        }
+                    ],
+                    "title": "Chapter 5; KeShem SheHamayim",
+                    "heTitle": "כשם שהמים",
+                    "refs": [
+                        "Ben Yehoyada on Sotah 30b:1-3",
+                        "Ben Yehoyada on Sotah 31a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 59
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Sotah 32b:1-42a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-718"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 7; Ellu Ne'emarin"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "אלו נאמרין"
+                        }
+                    ],
+                    "title": "Chapter 7; Ellu Ne'emarin",
+                    "heTitle": "אלו נאמרין",
+                    "refs": [
+                        "Ben Yehoyada on Sotah 32b:1",
+                        "Ben Yehoyada on Sotah 33a",
+                        "Ben Yehoyada on Sotah 33b",
+                        "Ben Yehoyada on Sotah 34a",
+                        "Ben Yehoyada on Sotah 34b",
+                        "Ben Yehoyada on Sotah 35a",
+                        "Ben Yehoyada on Sotah 35b",
+                        "Ben Yehoyada on Sotah 36a",
+                        "Ben Yehoyada on Sotah 36b",
+                        "Ben Yehoyada on Sotah 37a",
+                        "Ben Yehoyada on Sotah 37b",
+                        "Ben Yehoyada on Sotah 38a",
+                        "Ben Yehoyada on Sotah 38b",
+                        "Ben Yehoyada on Sotah 39a",
+                        "Ben Yehoyada on Sotah 39b",
+                        "Ben Yehoyada on Sotah 40a",
+                        "Ben Yehoyada on Sotah 40b",
+                        "Ben Yehoyada on Sotah 41a",
+                        "Ben Yehoyada on Sotah 41b",
+                        "Ben Yehoyada on Sotah 42a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 63
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Sotah 42a:3-44b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-818"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 8; Mashuach Milchamah"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "משוח מלחמה"
+                        }
+                    ],
+                    "title": "Chapter 8; Mashuach Milchamah",
+                    "heTitle": "משוח מלחמה",
+                    "refs": [
+                        "Ben Yehoyada on Sotah 42a:3-5",
+                        "Ben Yehoyada on Sotah 42b",
+                        "Ben Yehoyada on Sotah 43a",
+                        "Ben Yehoyada on Sotah 43b",
+                        "Ben Yehoyada on Sotah 44a",
+                        "Ben Yehoyada on Sotah 44b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 82
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Ben Yehoyada on Sotah 46a:1-49b:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "bavli",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "talmud",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ben-yehoyada",
+                                "gemara",
+                                "perek",
+                                "chapter-917"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 9; Eglah Arufah"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "עגלה ערופה"
+                        }
+                    ],
+                    "title": "Chapter 9; Eglah Arufah",
+                    "heTitle": "עגלה ערופה",
+                    "refs": [
+                        "Ben Yehoyada on Sotah 46a:1",
+                        "Ben Yehoyada on Sotah 46b",
+                        "Ben Yehoyada on Sotah 47a",
+                        "Ben Yehoyada on Sotah 47b",
+                        "Ben Yehoyada on Sotah 48a",
+                        "Ben Yehoyada on Sotah 48b",
+                        "Ben Yehoyada on Sotah 49a",
+                        "Ben Yehoyada on Sotah 49b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 90
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "primary": true,
+                    "text": "בן יהוידע על סוטה"
+                },
+                {
+                    "text": "Ben Yehoyada on Sotah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Ben Yehoyada on Sotah",
+            "heTitle": "בן יהוידע על סוטה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

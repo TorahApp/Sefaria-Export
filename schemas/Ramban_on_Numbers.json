@@ -81,60 +81,60 @@
         ],
         "titles": [
             {
-                "lang": "en",
-                "text": "Nachmanides on Num."
+                "text": "Nachmanides on Num.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Num"
+                "text": "Nachmanides on Num",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Bamidbar"
+                "text": "Nachmanides on Bamidbar",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Bemidbar"
+                "text": "Nachmanides on Bemidbar",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Numbers"
+                "text": "Nachmanides on Numbers",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Num."
+                "text": "Rabbi Moshe Ben Nachman on Num.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Num"
+                "text": "Rabbi Moshe Ben Nachman on Num",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Bamidbar"
+                "text": "Rabbi Moshe Ben Nachman on Bamidbar",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Bemidbar"
+                "text": "Rabbi Moshe Ben Nachman on Bemidbar",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Numbers"
+                "text": "Rabbi Moshe Ben Nachman on Numbers",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Num."
+                "text": "Ramban on Num.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Num"
+                "text": "Ramban on Num",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Bamidbar"
+                "text": "Ramban on Bamidbar",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Bemidbar"
+                "text": "Ramban on Bemidbar",
+                "lang": "en"
             },
             {
                 "text": "רמב״ן על במדבר",
@@ -159,21 +159,27 @@
         "heTitle": "רמב\"ן על במדבר",
         "key": "Ramban on Numbers"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
     ],
     "enDesc": "Commentary by Rabbi Moses ben Nahman (1194–1270), commonly known as the Ramban. The Ramban lived in Spain until his move to Jerusalem toward the end of his life. His commentary reflects his love of Eretz Yisrael. He usually begins his comments with Rashi’s explanation and then expounds further with insights from Kabbalah and Oral Tradition. His comments include respectful criticism of Rashi, Ibn Ezra and Rambam.",
+    "heDesc": "",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1480
     ],
     "hasErrorMargin": true,
     "compDate": [
         1246,
-        1286
+        1270
     ],
     "compPlace": "Middle-Age Spain",
     "pubPlace": "Bologna",
@@ -214,6 +220,638 @@
         "רמב”ן על במדבר",
         "רמב\"ן על במדבר"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 1:1:1-4:20:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bamidbar"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bamidbar",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bamidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת במדבר",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bemidbar",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Numbers",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Bamidbar",
+                    "heTitle": "במדבר"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 4:26:1-7:13:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "nasso"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nasso",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nasso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Naso",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Naso",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nasso",
+                    "heTitle": "נשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 8:2:1-12:16:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "behaalotcha"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beha'alotcha",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beha'alotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בהעלותך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Behaalotcha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behaalotchah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Behalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Bahalotecha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "B'ha'alotekha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parasha Behaatlocha",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Behaloscha",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Beha'alotcha",
+                    "heTitle": "בהעלותך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 13:2:1-15:39:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "shlach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Sh'lach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Sh'lach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shelach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Shlach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shlach",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Sh'lach",
+                    "heTitle": "שלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 16:1:1-18:20:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "korach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Korach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Korach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת קרח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "קורח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת קורח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Korach",
+                    "heTitle": "קרח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 19:2:1-21:34:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chukat"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Chukat",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Chukat",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת חקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "פרשת חוקת",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Chukkat",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Chukat",
+                    "heTitle": "חקת"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 22:3:1-25:5:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "balak"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Balak",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Balak",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בלק",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Balak",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Balak",
+                    "heTitle": "בלק"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 25:11:1-30:1:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "pinchas"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pinchas",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פנחס",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pinchas",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פנחס",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Pinchas",
+                    "heTitle": "פנחס"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 30:2:1-32:42:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "matot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Matot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Matot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מטות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Matot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Matot",
+                    "heTitle": "מטות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Numbers 33:1:1-36:7:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "masei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Masei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Masei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת מסעי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ma'asei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Masei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Masei",
+                    "heTitle": "מסעי"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Nachmanides on Num.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Num",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Bamidbar",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Bemidbar",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Numbers",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Num.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Num",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Bamidbar",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Bemidbar",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Numbers",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Num.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Num",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Bamidbar",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Bemidbar",
+                    "lang": "en"
+                },
+                {
+                    "text": "רמב״ן על במדבר",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב”ן על במדבר",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב\"ן על במדבר",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Ramban on Numbers",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Ramban on Numbers",
+            "heTitle": "רמב\"ן על במדבר"
+        }
+    },
     "heCategories": [
         "תנ\"ך",
         "ראשונים על התנ״ך",
@@ -221,8 +859,8 @@
         "תורה"
     ],
     "compDateString": {
-        "en": " (c.1246  – c.1286 CE)",
-        "he": " (1246 – 1286 לספירה בקירוב)"
+        "en": " (c.1246  – c.1270 CE)",
+        "he": " (1246 – 1270 לספירה בקירוב)"
     },
     "pubDateString": {
         "en": " (1480 CE)",

@@ -60,9 +60,12 @@
         ],
         "key": "HaMaor HaKatan on Taanit"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Zerachiah ha-Levi of Girona",
+            "en": "Zerachiah HaLevi of Gerona",
             "he": "זרחיה הלוי",
             "slug": "zerachiah-ha-levi-of-girona"
         }
@@ -99,6 +102,156 @@
     "heTitleVariants": [
         "המאור הקטן על תענית"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "HaMaor HaKatan on Taanit 1b:1-3a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; MeEimatai Mazkirin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מאימתי מזכירין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; MeEimatai Mazkirin",
+                    "heTitle": "מאימתי מזכירין",
+                    "refs": [
+                        "HaMaor HaKatan on Taanit 1b:1-2",
+                        "HaMaor HaKatan on Taanit 2a",
+                        "HaMaor HaKatan on Taanit 2b",
+                        "HaMaor HaKatan on Taanit 3a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 1
+                }
+            ],
+            "titles": [
+                {
+                    "text": "המאור הקטן על תענית",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "HaMaor HaKatan on Taanit",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "HaMaor HaKatan on Taanit",
+            "heTitle": "המאור הקטן על תענית"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

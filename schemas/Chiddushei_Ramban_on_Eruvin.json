@@ -4,7 +4,7 @@
         "Talmud",
         "Bavli",
         "Rishonim on Talmud",
-        "Ramban",
+        "Chiddushei Ramban",
         "Seder Moed"
     ],
     "schema": {
@@ -59,9 +59,12 @@
         ],
         "key": "Chiddushei Ramban on Eruvin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -83,8 +86,8 @@
     ],
     "base_text_mapping": null,
     "collective_title": {
-        "en": "Ramban",
-        "he": "רמב\"ן"
+        "en": "Chiddushei Ramban",
+        "he": "חידושי רמב״ן"
     },
     "heTitle": "חידושי רמב\"ן על עירובין",
     "titleVariants": [
@@ -93,6 +96,543 @@
     "heTitleVariants": [
         "חידושי רמב\"ן על עירובין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Eruvin 17b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-110"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Mavoi",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "מבוי",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Mavoi",
+                    "heTitle": "מבוי",
+                    "refs": [
+                        "Chiddushei Ramban on Eruvin 17b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 33
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Eruvin 41a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-310"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; BaKol Mearvin",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "בכל מערבין",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; BaKol Mearvin",
+                    "heTitle": "בכל מערבין",
+                    "refs": [
+                        "Chiddushei Ramban on Eruvin 41a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 80
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Eruvin 41b:1-46a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-49"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Mi SheHotziuhu",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "מי שהוציאוהו",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Mi SheHotziuhu",
+                    "heTitle": "מי שהוציאוהו",
+                    "refs": [
+                        "Chiddushei Ramban on Eruvin 41b:1-3",
+                        "Chiddushei Ramban on Eruvin 42a",
+                        "Chiddushei Ramban on Eruvin 42b",
+                        "Chiddushei Ramban on Eruvin 43a",
+                        "Chiddushei Ramban on Eruvin 43b",
+                        "Chiddushei Ramban on Eruvin 44a",
+                        "Chiddushei Ramban on Eruvin 44b",
+                        "Chiddushei Ramban on Eruvin 45a",
+                        "Chiddushei Ramban on Eruvin 45b",
+                        "Chiddushei Ramban on Eruvin 46a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 81
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Eruvin 59a:1-3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-59"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 5; Keitzad",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כיצד מעברין",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; Keitzad",
+                    "heTitle": "כיצד מעברין",
+                    "refs": [
+                        "Chiddushei Ramban on Eruvin 59a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 116
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "חידושי רמב\"ן על עירובין",
+                    "primary": true
+                },
+                {
+                    "text": "Chiddushei Ramban on Eruvin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Ramban on Eruvin",
+            "heTitle": "חידושי רמב\"ן על עירובין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
@@ -102,7 +642,7 @@
         "תלמוד",
         "בבלי",
         "ראשונים על התלמוד",
-        "רמב\"ן",
+        "חידושי רמב״ן",
         "סדר מועד"
     ],
     "compDateString": {

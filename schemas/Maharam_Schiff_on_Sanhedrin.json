@@ -18,6 +18,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "maharam-schiff",
+                    "sanhedrin"
+                ]
+            }
+        ],
         "lengths": [
             226,
             72
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -55,6 +62,9 @@
         ],
         "key": "Maharam Schiff on Sanhedrin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Meir ben Jacob Ha-Kohen Schiff",
@@ -94,6 +104,302 @@
     "heTitleVariants": [
         "מהר\"ם שיף על סנהדרין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Sanhedrin 2a:1-9b:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-133"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Dinei Mamonot"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "דיני ממונות"
+                        }
+                    ],
+                    "title": "Chapter 1; Dinei Mamonot",
+                    "heTitle": "דיני ממונות",
+                    "refs": [
+                        "Maharam Schiff on Sanhedrin 2a:1-6",
+                        "Maharam Schiff on Sanhedrin 2b",
+                        "Maharam Schiff on Sanhedrin 3a",
+                        "Maharam Schiff on Sanhedrin 3b",
+                        "Maharam Schiff on Sanhedrin 4a",
+                        "Maharam Schiff on Sanhedrin 4b",
+                        "Maharam Schiff on Sanhedrin 5a",
+                        "Maharam Schiff on Sanhedrin 5b",
+                        "Maharam Schiff on Sanhedrin 6a",
+                        "Maharam Schiff on Sanhedrin 6b",
+                        "Maharam Schiff on Sanhedrin 7a",
+                        "Maharam Schiff on Sanhedrin 7b",
+                        "Maharam Schiff on Sanhedrin 8a",
+                        "Maharam Schiff on Sanhedrin 8b",
+                        "Maharam Schiff on Sanhedrin 9a",
+                        "Maharam Schiff on Sanhedrin 9b:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Sanhedrin 83a:1-84b:8",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-915"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 9; HaNisrafin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "הנשרפין"
+                        }
+                    ],
+                    "title": "Chapter 9; HaNisrafin",
+                    "heTitle": "הנשרפין",
+                    "refs": [
+                        "Maharam Schiff on Sanhedrin 83a:1",
+                        "Maharam Schiff on Sanhedrin 83b",
+                        "Maharam Schiff on Sanhedrin 84a",
+                        "Maharam Schiff on Sanhedrin 84b:1-8"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 164
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "מהר\"ם שיף על סנהדרין",
+                    "primary": true
+                },
+                {
+                    "text": "Maharam Shif on Sanhedrin",
+                    "lang": "en"
+                },
+                {
+                    "text": "Maharam Schiff on Sanhedrin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Maharam Schiff on Sanhedrin",
+            "heTitle": "מהר\"ם שיף על סנהדרין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

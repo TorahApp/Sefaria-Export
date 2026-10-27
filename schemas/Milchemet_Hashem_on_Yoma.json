@@ -60,9 +60,12 @@
         ],
         "key": "Milchemet Hashem on Yoma"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -101,6 +104,160 @@
     "heTitleVariants": [
         "מלחמת השם על יומא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Yoma 1a:1-4b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 1; Shivat Yamim"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "שבעת ימים"
+                        }
+                    ],
+                    "title": "Chapter 1; Shivat Yamim",
+                    "heTitle": "שבעת ימים",
+                    "refs": [
+                        "Milchemet Hashem on Yoma 1a:1",
+                        "Milchemet Hashem on Yoma 1b",
+                        "Milchemet Hashem on Yoma 2a",
+                        "Milchemet Hashem on Yoma 2b",
+                        "Milchemet Hashem on Yoma 3a",
+                        "Milchemet Hashem on Yoma 3b",
+                        "Milchemet Hashem on Yoma 4a",
+                        "Milchemet Hashem on Yoma 4b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 0
+                }
+            ],
+            "titles": [
+                {
+                    "text": "מלחמת השם על יומא",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Milchemet Hashem on Yoma",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Milchemet Hashem on Yoma",
+            "heTitle": "מלחמת השם על יומא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

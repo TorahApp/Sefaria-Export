@@ -59,9 +59,12 @@
         ],
         "key": "Marit HaAyin on Temurah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Hayyim Joseph David Azulai",
+            "en": "Hayyim Joseph David Azulai (Chida)",
             "he": "חיים דוד אזולאי",
             "slug": "hayyim-joseph-david-azulai"
         }
@@ -96,6 +99,154 @@
     "heTitleVariants": [
         "מראית העין על תמורה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Marit HaAyin on Temurah 15b:1-16a:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "talmud",
+                                "bavli",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "bavli",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "talmud",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "gemara",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "bavli",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "talmud",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "gemara",
+                                "perek",
+                                "chapter-235"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; Yesh BeKorbenot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "יש בקרבנות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; Yesh BeKorbenot",
+                    "heTitle": "יש בקרבנות",
+                    "refs": [
+                        "Marit HaAyin on Temurah 15b:1",
+                        "Marit HaAyin on Temurah 16a:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 29
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "מראית העין על תמורה",
+                    "primary": true
+                },
+                {
+                    "text": "Marit HaAyin on Temurah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Marit HaAyin on Temurah",
+            "heTitle": "מראית העין על תמורה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line"

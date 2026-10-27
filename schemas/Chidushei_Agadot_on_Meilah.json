@@ -59,9 +59,12 @@
         ],
         "key": "Chidushei Agadot on Meilah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Maharsha",
+            "en": "Shmuel Eidels (Maharsha)",
             "he": "מהרש\"א",
             "slug": "maharsha"
         }
@@ -97,6 +100,154 @@
     "heTitleVariants": [
         "חידושי אגדות על מעילה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Meilah 17a:1-17b:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Kodshei Mizbeach",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "קדשי מזבח",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Kodshei Mizbeach",
+                    "heTitle": "קדשי מזבח",
+                    "refs": [
+                        "Chidushei Agadot on Meilah 17a:1",
+                        "Chidushei Agadot on Meilah 17b:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 32
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "חידושי אגדות על מעילה"
+                },
+                {
+                    "text": "Chidushei Agadot on Meilah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Agadot on Meilah",
+            "heTitle": "חידושי אגדות על מעילה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

@@ -59,6 +59,9 @@
         ],
         "key": "Chiddushei Rabbi Akiva Eiger on Makkot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Akiva Eiger",
@@ -93,6 +96,153 @@
     "heTitleVariants": [
         "חידושי רבי עקיבא איגר על מסכת מכות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Rabbi Akiva Eiger on Makkot 6a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "gemara",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "talmud",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chiddushei-rabbi-akiva-eiger",
+                                "gemara",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Keitzad HaEdim"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "כיצד העדים"
+                        }
+                    ],
+                    "title": "Chapter 1; Keitzad HaEdim",
+                    "heTitle": "כיצד העדים",
+                    "refs": [
+                        "Chiddushei Rabbi Akiva Eiger on Makkot 6a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 10
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "primary": true,
+                    "text": "חידושי רבי עקיבא איגר על מסכת מכות"
+                },
+                {
+                    "text": "Chiddushei Rabbi Akiva Eiger on Makkot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Rabbi Akiva Eiger on Makkot",
+            "heTitle": "חידושי רבי עקיבא איגר על מסכת מכות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

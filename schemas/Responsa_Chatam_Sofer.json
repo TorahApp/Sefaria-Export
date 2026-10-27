@@ -10,12 +10,19 @@
                 "nodeType": "JaggedArrayNode",
                 "depth": 2,
                 "addressTypes": [
-                    "Integer",
+                    "Siman",
                     "Integer"
                 ],
                 "sectionNames": [
                     "Teshuva",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "orach-chayim"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -41,12 +48,19 @@
                 "nodeType": "JaggedArrayNode",
                 "depth": 2,
                 "addressTypes": [
-                    "Integer",
+                    "Siman",
                     "Integer"
                 ],
                 "sectionNames": [
                     "Teshuva",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "yoreh-deah"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -73,13 +87,20 @@
                 "depth": 3,
                 "addressTypes": [
                     "Integer",
-                    "Integer",
+                    "Siman",
                     "Integer"
                 ],
                 "sectionNames": [
                     "Section",
                     "Teshuva",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "even-haezer"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -106,12 +127,19 @@
                 "nodeType": "JaggedArrayNode",
                 "depth": 2,
                 "addressTypes": [
-                    "Integer",
+                    "Siman",
                     "Integer"
                 ],
                 "sectionNames": [
                     "Teshuva",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "choshen-mishpat"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -137,12 +165,19 @@
                 "nodeType": "JaggedArrayNode",
                 "depth": 2,
                 "addressTypes": [
-                    "Integer",
+                    "Siman",
                     "Integer"
                 ],
                 "sectionNames": [
                     "Teshuva",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "collected-responsa"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -163,6 +198,15 @@
                     "פסקה"
                 ],
                 "key": "Collected Responsa"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "responsa",
+                    "chatam-sofer"
+                ]
             }
         ],
         "titles": [
@@ -203,7 +247,7 @@
     },
     "authors": [
         {
-            "en": "Moses Sofer",
+            "en": "Moses Sofer (Chatam Sofer)",
             "he": "משה סופר",
             "slug": "moses-sofer"
         }

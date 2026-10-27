@@ -18,6 +18,22 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "haggahot-yaavetz",
+                    "rosh-hashanah"
+                ]
+            }
+        ],
+        "lengths": [
+            69,
+            50
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "הגהות יעב\"ץ על ראש השנה",
@@ -38,6 +54,9 @@
         ],
         "key": "Haggahot Ya'avetz on Rosh Hashanah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yaakov Emden",
@@ -75,6 +94,602 @@
     "heTitleVariants": [
         "הגהות יעב\"ץ על ראש השנה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Rosh Hashanah 6b:1-22a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; Arba'ah Rashei Shanim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ארבעה ראשי שנים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Arba'ah Rashei Shanim",
+                    "heTitle": "ארבעה ראשי שנים",
+                    "refs": [
+                        "Haggahot Ya'avetz on Rosh Hashanah 6b:1",
+                        "Haggahot Ya'avetz on Rosh Hashanah 7a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 7b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 8a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 8b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 9a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 9b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 10a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 10b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 11a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 11b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 12a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 12b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 13a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 13b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 14a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 14b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 15a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 15b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 16a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 16b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 17a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 17b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 18a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 18b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 19a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 19b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 20a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 20b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 21a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 21b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 22a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 11
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Rosh Hashanah 22b:1-25b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 2; Im Einan Makkirin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אם אינן מכירין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Im Einan Makkirin",
+                    "heTitle": "אם אינן מכירין",
+                    "refs": [
+                        "Haggahot Ya'avetz on Rosh Hashanah 22b:1",
+                        "Haggahot Ya'avetz on Rosh Hashanah 23a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 23b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 24a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 24b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 25a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 25b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 43
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Rosh Hashanah 26a:1-29a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 3; Rauhu Beit Din",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ראוהו בית דין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Rauhu Beit Din",
+                    "heTitle": "ראוהו בית דין",
+                    "refs": [
+                        "Haggahot Ya'avetz on Rosh Hashanah 26a:1",
+                        "Haggahot Ya'avetz on Rosh Hashanah 26b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 27a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 27b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 28a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 28b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 29a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 50
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Rosh Hashanah 30a:1-35a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 4; Yom Tov",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "יום טוב",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Yom Tov",
+                    "heTitle": "יום טוב",
+                    "refs": [
+                        "Haggahot Ya'avetz on Rosh Hashanah 30a:1",
+                        "Haggahot Ya'avetz on Rosh Hashanah 30b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 31a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 31b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 32a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 32b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 33a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 33b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 34a",
+                        "Haggahot Ya'avetz on Rosh Hashanah 34b",
+                        "Haggahot Ya'avetz on Rosh Hashanah 35a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 58
+                }
+            ],
+            "titles": [
+                {
+                    "text": "הגהות יעב\"ץ על ראש השנה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Haggahot Ya'avetz on Rosh Hashanah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Haggahot Ya'avetz on Rosh Hashanah",
+            "heTitle": "הגהות יעב\"ץ על ראש השנה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

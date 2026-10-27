@@ -17,6 +17,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "penei-yehoshua",
+                    "chullin"
+                ]
+            }
+        ],
         "lengths": [
             283,
             56
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Penei Yehoshua on Chullin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Jacob Joshua Falk",
@@ -87,6 +97,170 @@
     "heTitleVariants": [
         "פני יהושע על חולין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Chullin 2a:1-10b:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-19"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; HaKol Shochatin",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הכל שוחטין",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; HaKol Shochatin",
+                    "heTitle": "הכל שוחטין",
+                    "refs": [
+                        "Penei Yehoshua on Chullin 2a:1-4",
+                        "Penei Yehoshua on Chullin 2b",
+                        "Penei Yehoshua on Chullin 3a",
+                        "Penei Yehoshua on Chullin 3b",
+                        "Penei Yehoshua on Chullin 4a",
+                        "Penei Yehoshua on Chullin 4b",
+                        "Penei Yehoshua on Chullin 5a",
+                        "Penei Yehoshua on Chullin 5b",
+                        "Penei Yehoshua on Chullin 6a",
+                        "Penei Yehoshua on Chullin 6b",
+                        "Penei Yehoshua on Chullin 7a",
+                        "Penei Yehoshua on Chullin 7b",
+                        "Penei Yehoshua on Chullin 8a",
+                        "Penei Yehoshua on Chullin 8b",
+                        "Penei Yehoshua on Chullin 9a",
+                        "Penei Yehoshua on Chullin 9b",
+                        "Penei Yehoshua on Chullin 10a",
+                        "Penei Yehoshua on Chullin 10b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "פני יהושע על חולין"
+                },
+                {
+                    "text": "Penei Yehoshua on Chullin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Penei Yehoshua on Chullin",
+            "heTitle": "פני יהושע על חולין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

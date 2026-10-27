@@ -8,12 +8,29 @@
         "nodeType": "JaggedArrayNode",
         "depth": 2,
         "addressTypes": [
-            "Integer",
-            "Integer"
+            "Siman",
+            "Seif"
         ],
         "sectionNames": [
             "Teshuva",
             "Paragraph"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "teshuvot",
+                    "maharik"
+                ]
+            },
+            {
+                "term_slugs": [
+                    "maharik"
+                ]
+            }
+        ],
+        "lengths": [
+            197,
+            286
         ],
         "titles": [
             {
@@ -49,7 +66,7 @@
     },
     "authors": [
         {
-            "en": "Joseph Colon",
+            "en": "Joseph Colon (Maharik)",
             "he": "יוסף קולון",
             "slug": "joseph-colon"
         }

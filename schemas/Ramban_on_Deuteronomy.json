@@ -81,80 +81,80 @@
         ],
         "titles": [
             {
-                "lang": "en",
-                "text": "Nachmanides on Deu."
+                "text": "Nachmanides on Deu.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Devarim"
+                "text": "Nachmanides on Devarim",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Deu"
+                "text": "Nachmanides on Deu",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Deut."
+                "text": "Nachmanides on Deut.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Deut"
+                "text": "Nachmanides on Deut",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Nachmanides on Deuteronomy"
+                "text": "Nachmanides on Deuteronomy",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Deu."
+                "text": "Rabbi Moshe Ben Nachman on Deu.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Devarim"
+                "text": "Rabbi Moshe Ben Nachman on Devarim",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Deu"
+                "text": "Rabbi Moshe Ben Nachman on Deu",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Deut."
+                "text": "Rabbi Moshe Ben Nachman on Deut.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Deut"
+                "text": "Rabbi Moshe Ben Nachman on Deut",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Rabbi Moshe Ben Nachman on Deuteronomy"
+                "text": "Rabbi Moshe Ben Nachman on Deuteronomy",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Deu."
+                "text": "Ramban on Deu.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Devarim"
+                "text": "Ramban on Devarim",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Deu"
+                "text": "Ramban on Deu",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Deut."
+                "text": "Ramban on Deut.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Ramban on Deut"
+                "text": "Ramban on Deut",
+                "lang": "en"
             },
             {
-                "lang": "he",
-                "text": "רמב\"ן על דברי'"
+                "text": "רמב\"ן על דברי'",
+                "lang": "he"
             },
             {
-                "lang": "he",
-                "text": "רמב\"ן על דברי׳"
+                "text": "רמב\"ן על דברי׳",
+                "lang": "he"
             },
             {
                 "text": "רמב״ן על דברים",
@@ -195,21 +195,27 @@
         "heTitle": "רמב\"ן על דברים",
         "key": "Ramban on Deuteronomy"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
     ],
     "enDesc": "Commentary by Rabbi Moses ben Nahman (1194–1270), commonly known as the Ramban. The Ramban lived in Spain until his move to Jerusalem toward the end of his life. His commentary reflects his love of Eretz Yisrael. He usually begins his comments with Rashi’s explanation and then expounds further with insights from Kabbalah and Oral Tradition. His comments include respectful criticism of Rashi, Ibn Ezra and Rambam.",
+    "heDesc": "",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1480
     ],
     "hasErrorMargin": true,
     "compDate": [
         1246,
-        1286
+        1270
     ],
     "compPlace": "Middle-Age Spain",
     "pubPlace": "Bologna",
@@ -259,6 +265,728 @@
         "רמב”ן על דברי׳",
         "רמב\"ן על דברים"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 1:1:1-3:13:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Devarim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "d'Varim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Devarim",
+                    "heTitle": "דברים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 3:23:1-7:9:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaetchanan",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'ethanan",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaetchanan",
+                    "heTitle": "ואתחנן"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 7:12:1-11:24:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Eikev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ekev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Eikev",
+                    "heTitle": "עקב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 11:29:1-16:12:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Re'eh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ראה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ראה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Re'eh",
+                    "heTitle": "ראה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 16:18:1-21:4:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shoftim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Judges",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shofetim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shoftim",
+                    "heTitle": "שופטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 21:11:1-25:17:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Teitzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Ki Teitze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Seitzei;",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teytzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teitze",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Teitzei",
+                    "heTitle": "כי תצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 26:2:1-29:5:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tavo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תבוא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תבוא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Ki Tavo",
+                    "heTitle": "כי תבוא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 29:9:1-30:15:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nitzavim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Nitzavim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nitzavim",
+                    "heTitle": "נצבים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 31:1:1-24:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeilech",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayelech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayelekh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeilech",
+                    "heTitle": "וילך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 32:1:1-40:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ha'Azinu",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashsat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Haazinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Haazinu",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ha'Azinu",
+                    "heTitle": "האזינו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Ramban on Deuteronomy 33:1:1-34:12:4",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "parasha",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "V'Zot HaBerachah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'zot Habrachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat V'zot Haberachah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "V'Zot HaBerachah",
+                    "heTitle": "וזאת הברכה"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Nachmanides on Deu.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Devarim",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Deu",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Deut.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Deut",
+                    "lang": "en"
+                },
+                {
+                    "text": "Nachmanides on Deuteronomy",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Deu.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Devarim",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Deu",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Deut.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Deut",
+                    "lang": "en"
+                },
+                {
+                    "text": "Rabbi Moshe Ben Nachman on Deuteronomy",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Deu.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Devarim",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Deu",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Deut.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ramban on Deut",
+                    "lang": "en"
+                },
+                {
+                    "text": "רמב\"ן על דברי'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב\"ן על דברי׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב״ן על דברים",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב”ן על דברים",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב״ן על דברי'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב”ן על דברי'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב״ן על דברי׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב”ן על דברי׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רמב\"ן על דברים",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Ramban on Deuteronomy",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Ramban on Deuteronomy",
+            "heTitle": "רמב\"ן על דברים"
+        }
+    },
     "heCategories": [
         "תנ\"ך",
         "ראשונים על התנ״ך",
@@ -266,8 +994,8 @@
         "תורה"
     ],
     "compDateString": {
-        "en": " (c.1246  – c.1286 CE)",
-        "he": " (1246 – 1286 לספירה בקירוב)"
+        "en": " (c.1246  – c.1270 CE)",
+        "he": " (1246 – 1270 לספירה בקירוב)"
     },
     "pubDateString": {
         "en": " (1480 CE)",

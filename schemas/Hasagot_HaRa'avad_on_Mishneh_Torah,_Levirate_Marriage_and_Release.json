@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             8,
             10,
             10
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "text": "השגות הראב\"ד על משנה תורה, הלכות יבום וחליצה",
                 "lang": "he",
                 "primary": true
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, Levirate Marriage and Release",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, Levirate Marriage and Release",
@@ -61,6 +89,22 @@
         ],
         "key": "Hasagot HaRa'avad on Mishneh Torah, Levirate Marriage and Release"
     },
+    "authors": [
+        {
+            "en": "Ra'avad",
+            "he": "ראב\"ד",
+            "slug": "raavad"
+        }
+    ],
+    "enDesc": "Raavad's glosses on Rambam's Mishneh Torah expressing his dissenting opinion.",
+    "heDesc": "הגהותיו של הראב\"ד על המשנה תורה של הרמב\"ם, המבטאות את דעתו החולקת.",
+    "hasErrorMargin": true,
+    "compDate": [
+        1175,
+        1195
+    ],
+    "compPlace": "Provence, France",
+    "era": "RI",
     "dependence": "Commentary",
     "base_text_titles": [
         {
@@ -75,6 +119,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות יבום וחליצה",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, Levirate Marriage and Release",
         "Hasagot HaRa'avad on Mishneh Torah, Levirate Marriage and Release"
     ],
     "heTitleVariants": [
@@ -92,5 +137,13 @@
         "מפרשים",
         "השגות הראב\"ד",
         "ספר נשים"
-    ]
+    ],
+    "compDateString": {
+        "en": " (c.1175  – c.1195 CE)",
+        "he": " (1175 – 1195 לספירה בקירוב)"
+    },
+    "compPlaceString": {
+        "en": "Provence, France",
+        "he": "פרובנס, צרפת"
+    }
 }

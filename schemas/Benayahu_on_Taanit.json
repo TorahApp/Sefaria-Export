@@ -17,9 +17,17 @@
             "Daf",
             "Line"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "benayahu",
+                    "taanit1"
+                ]
+            }
+        ],
         "lengths": [
             61,
-            32
+            114
         ],
         "referenceableSections": [
             true,
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Benayahu on Taanit"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yosef Hayyim",
@@ -88,6 +98,444 @@
     "heTitleVariants": [
         "בניהו על תענית"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Taanit 2a:1-11b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; MeEimatai Mazkirin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מאימתי מזכירין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; MeEimatai Mazkirin",
+                    "heTitle": "מאימתי מזכירין",
+                    "refs": [
+                        "Benayahu on Taanit 2a:1",
+                        "Benayahu on Taanit 2b",
+                        "Benayahu on Taanit 3a",
+                        "Benayahu on Taanit 3b",
+                        "Benayahu on Taanit 4a",
+                        "Benayahu on Taanit 4b",
+                        "Benayahu on Taanit 5a",
+                        "Benayahu on Taanit 5b",
+                        "Benayahu on Taanit 6a",
+                        "Benayahu on Taanit 6b",
+                        "Benayahu on Taanit 7a",
+                        "Benayahu on Taanit 7b",
+                        "Benayahu on Taanit 8a",
+                        "Benayahu on Taanit 8b",
+                        "Benayahu on Taanit 9a",
+                        "Benayahu on Taanit 9b",
+                        "Benayahu on Taanit 10a",
+                        "Benayahu on Taanit 10b",
+                        "Benayahu on Taanit 11a",
+                        "Benayahu on Taanit 11b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Taanit 16a:1-18b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-233"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 2; Seder Ta'anit",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "סדר תעניות כיצד",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Seder Ta'anit",
+                    "heTitle": "סדר תעניות כיצד",
+                    "refs": [
+                        "Benayahu on Taanit 16a:1-3",
+                        "Benayahu on Taanit 16b",
+                        "Benayahu on Taanit 17a",
+                        "Benayahu on Taanit 17b",
+                        "Benayahu on Taanit 18a",
+                        "Benayahu on Taanit 18b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 30
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Taanit 19a:1-25b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-331"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 3; Seder Ta'aniyot Elu",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "סדר תעניות אלו",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Seder Ta'aniyot Elu",
+                    "heTitle": "סדר תעניות אלו",
+                    "refs": [
+                        "Benayahu on Taanit 19a:1",
+                        "Benayahu on Taanit 19b",
+                        "Benayahu on Taanit 20a",
+                        "Benayahu on Taanit 20b",
+                        "Benayahu on Taanit 21a",
+                        "Benayahu on Taanit 21b",
+                        "Benayahu on Taanit 22a",
+                        "Benayahu on Taanit 22b",
+                        "Benayahu on Taanit 23a",
+                        "Benayahu on Taanit 23b",
+                        "Benayahu on Taanit 24a",
+                        "Benayahu on Taanit 24b",
+                        "Benayahu on Taanit 25a",
+                        "Benayahu on Taanit 25b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 36
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "בניהו על תענית",
+                    "primary": true
+                },
+                {
+                    "text": "Benayahu on Taanit",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Benayahu on Taanit",
+            "heTitle": "בניהו על תענית"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line"

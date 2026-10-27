@@ -2,7 +2,7 @@
     "title": "Lechem Dim'ah on Eikhah",
     "categories": [
         "Tanakh",
-        "Modern Commentary on Tanakh"
+        "Acharonim on Tanakh"
     ],
     "schema": {
         "nodes": [
@@ -14,6 +14,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
                 ],
                 "sharedTitle": "Introduction",
                 "titles": [
@@ -63,6 +70,15 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "lechem-dimah",
+                    "lamentations"
+                ]
+            }
+        ],
         "titles": [
             {
                 "text": "לחם דמעה על איכה",
@@ -86,15 +102,15 @@
             "slug": "samuel-de-ueda"
         }
     ],
-    "enDesc": "Lechem Dim’ah (Bread of Tears) is a 16th-century commentary on the Book of Lamentations, which describes the destruction of the ancient Jewish temple and city of Jerusalem. The author, Samuel de Uçeda, writes in an introduction that he published his commentary on Mishnah Pirkei Avot first because of the importance of its ethical lessons. He prioritized Lamentations next because of his intense grief over the destruction and the centuries of suffering that ensued, as if his tears were the bread he consumes (an allusion to Psalms 42:4 and 80:6).\n",
+    "enDesc": "Lechem Dim’ah (\"Bread of Tears\") is a 16th-century commentary on the book of Lamentations that describes the destruction of the ancient Jewish Temples and city of Jerusalem. The author, Samuel de Uçeda, writes in an introduction that he published his commentary on the mishnaic tractate Pirkei Avot first because of the importance of its ethical lessons. He prioritized Lamentations next because of his intense grief over the destruction of the Temples and the centuries of suffering that ensued, as if his tears were the bread he consumes, an allusion to Psalms 42:4 and 80:6.\n",
     "heDesc": "",
-    "enShortDesc": "16th-century commentary on the Book of Lamentations by Samuel de Uçeda.",
+    "enShortDesc": "16th-century commentary on the book of Lamentations.",
     "heShortDesc": "",
     "pubDate": [
         1600
     ],
     "pubPlace": "Venice",
-    "dependence": "commentary",
+    "dependence": "Commentary",
     "base_text_titles": [
         {
             "en": "Lamentations",
@@ -114,7 +130,7 @@
     ],
     "heCategories": [
         "תנ\"ך",
-        "פירושים מודרניים על התנ״ך"
+        "אחרונים על התנ״ך"
     ],
     "pubDateString": {
         "en": " (1600 CE)",

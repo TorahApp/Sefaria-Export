@@ -8,26 +8,49 @@
         "nodeType": "JaggedArrayNode",
         "depth": 2,
         "addressTypes": [
-            "Integer",
-            "Integer"
+            "Siman",
+            "Seif"
         ],
         "sectionNames": [
             "Teshuva",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "havot-yair"
+                ]
+            }
+        ],
+        "lengths": [
+            238,
+            2599
+        ],
         "titles": [
             {
-                "lang": "en",
-                "text": "Chavot Yair"
+                "text": "Chavot Yair",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Chavos Yair"
+                "text": "Chavos Yair",
+                "lang": "en"
             },
             {
-                "lang": "he",
                 "text": "חוות יאיר",
+                "lang": "he",
                 "primary": true
+            },
+            {
+                "text": "חות יאיר",
+                "lang": "he"
+            },
+            {
+                "text": "שו\"ת חוות יאיר",
+                "lang": "he"
+            },
+            {
+                "text": "תשובות חוות יאיר",
+                "lang": "he"
             },
             {
                 "text": "Havot Yair",
@@ -51,6 +74,7 @@
         }
     ],
     "enDesc": "A series of sophisticated and involved responsa by one of the 17th century's most important rabbis.",
+    "heDesc": "",
     "enShortDesc": "17th-century responsa cited frequently by later authorities.",
     "heShortDesc": "שאלות ותשובות מאת הרב יאיר חיים בכרך, בן המאה ה-17, המצוטטות רבות אצל פוסקי הלכה מאוחרים יותר.",
     "pubDate": [
@@ -70,7 +94,10 @@
         "Havot Yair"
     ],
     "heTitleVariants": [
-        "חוות יאיר"
+        "חוות יאיר",
+        "חות יאיר",
+        "שו\"ת חוות יאיר",
+        "תשובות חוות יאיר"
     ],
     "sectionNames": [
         "Teshuva",

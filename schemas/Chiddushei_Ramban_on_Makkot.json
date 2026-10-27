@@ -4,7 +4,7 @@
         "Talmud",
         "Bavli",
         "Rishonim on Talmud",
-        "Ramban",
+        "Chiddushei Ramban",
         "Seder Nezikin"
     ],
     "schema": {
@@ -59,9 +59,12 @@
         ],
         "key": "Chiddushei Ramban on Makkot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -83,8 +86,8 @@
     ],
     "base_text_mapping": null,
     "collective_title": {
-        "en": "Ramban",
-        "he": "רמב\"ן"
+        "en": "Chiddushei Ramban",
+        "he": "חידושי רמב״ן"
     },
     "heTitle": "חידושי רמב\"ן על מכות",
     "titleVariants": [
@@ -93,6 +96,459 @@
     "heTitleVariants": [
         "חידושי רמב\"ן על מכות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Makkot 2a:1-7a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Keitzad HaEdim"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "כיצד העדים"
+                        }
+                    ],
+                    "title": "Chapter 1; Keitzad HaEdim",
+                    "heTitle": "כיצד העדים",
+                    "refs": [
+                        "Chiddushei Ramban on Makkot 2a:1-2",
+                        "Chiddushei Ramban on Makkot 2b",
+                        "Chiddushei Ramban on Makkot 3a",
+                        "Chiddushei Ramban on Makkot 3b",
+                        "Chiddushei Ramban on Makkot 4a",
+                        "Chiddushei Ramban on Makkot 4b",
+                        "Chiddushei Ramban on Makkot 5a",
+                        "Chiddushei Ramban on Makkot 5b",
+                        "Chiddushei Ramban on Makkot 6a",
+                        "Chiddushei Ramban on Makkot 6b",
+                        "Chiddushei Ramban on Makkot 7a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Makkot 7b:1-12b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-216"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; Ellu Hen HaGolin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו הן הגולין"
+                        }
+                    ],
+                    "title": "Chapter 2; Ellu Hen HaGolin",
+                    "heTitle": "אלו הן הגולין",
+                    "refs": [
+                        "Chiddushei Ramban on Makkot 7b:1-4",
+                        "Chiddushei Ramban on Makkot 8a",
+                        "Chiddushei Ramban on Makkot 8b",
+                        "Chiddushei Ramban on Makkot 9a",
+                        "Chiddushei Ramban on Makkot 9b",
+                        "Chiddushei Ramban on Makkot 10a",
+                        "Chiddushei Ramban on Makkot 10b",
+                        "Chiddushei Ramban on Makkot 11a",
+                        "Chiddushei Ramban on Makkot 11b",
+                        "Chiddushei Ramban on Makkot 12a",
+                        "Chiddushei Ramban on Makkot 12b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 13
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Makkot 13a:1-21b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; Ellu Hen HaLokin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו הן הלוקין"
+                        }
+                    ],
+                    "title": "Chapter 3; Ellu Hen HaLokin",
+                    "heTitle": "אלו הן הלוקין",
+                    "refs": [
+                        "Chiddushei Ramban on Makkot 13a:1-3",
+                        "Chiddushei Ramban on Makkot 13b",
+                        "Chiddushei Ramban on Makkot 14a",
+                        "Chiddushei Ramban on Makkot 14b",
+                        "Chiddushei Ramban on Makkot 15a",
+                        "Chiddushei Ramban on Makkot 15b",
+                        "Chiddushei Ramban on Makkot 16a",
+                        "Chiddushei Ramban on Makkot 16b",
+                        "Chiddushei Ramban on Makkot 17a",
+                        "Chiddushei Ramban on Makkot 17b",
+                        "Chiddushei Ramban on Makkot 18a",
+                        "Chiddushei Ramban on Makkot 18b",
+                        "Chiddushei Ramban on Makkot 19a",
+                        "Chiddushei Ramban on Makkot 19b",
+                        "Chiddushei Ramban on Makkot 20a",
+                        "Chiddushei Ramban on Makkot 20b",
+                        "Chiddushei Ramban on Makkot 21a",
+                        "Chiddushei Ramban on Makkot 21b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 24
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "חידושי רמב\"ן על מכות",
+                    "primary": true
+                },
+                {
+                    "text": "Chiddushei Ramban on Makkot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Ramban on Makkot",
+            "heTitle": "חידושי רמב\"ן על מכות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
@@ -102,7 +558,7 @@
         "תלמוד",
         "בבלי",
         "ראשונים על התלמוד",
-        "רמב\"ן",
+        "חידושי רמב״ן",
         "סדר נזיקין"
     ],
     "compDateString": {

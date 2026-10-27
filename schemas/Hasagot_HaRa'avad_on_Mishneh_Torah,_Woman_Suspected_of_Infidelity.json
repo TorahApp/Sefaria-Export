@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             4,
             4,
             4
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "text": "השגות הראב\"ד על משנה תורה, הלכות סוטה",
                 "lang": "he",
                 "primary": true
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, Woman Suspected of Infidelity",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, Woman Suspected of Infidelity",
@@ -75,6 +103,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות סוטה",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, Woman Suspected of Infidelity",
         "Hasagot HaRa'avad on Mishneh Torah, Woman Suspected of Infidelity"
     ],
     "heTitleVariants": [

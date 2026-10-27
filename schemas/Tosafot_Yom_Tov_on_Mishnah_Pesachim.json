@@ -17,6 +17,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "lang": "en",
@@ -60,6 +67,16 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "tosafot-yom-tov",
+                    "mishnah",
+                    "pesachim"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "he",
@@ -78,7 +95,7 @@
     },
     "authors": [
         {
-            "en": "Yom-Tov Lipmann Heller",
+            "en": "Yom Tov Lipmann Heller (Tosefot Yom Tov)",
             "he": "יום-טוב ליפמן הלר",
             "slug": "yom-tov-lipmann-heller"
         }

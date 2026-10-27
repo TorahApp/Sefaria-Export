@@ -4,7 +4,7 @@
         "Talmud",
         "Bavli",
         "Rishonim on Talmud",
-        "Ramban",
+        "Chiddushei Ramban",
         "Seder Moed"
     ],
     "schema": {
@@ -59,9 +59,12 @@
         ],
         "key": "Chiddushei Ramban on Moed Katan"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -83,8 +86,8 @@
     ],
     "base_text_mapping": null,
     "collective_title": {
-        "en": "Ramban",
-        "he": "רמב\"ן"
+        "en": "Chiddushei Ramban",
+        "he": "חידושי רמב״ן"
     },
     "heTitle": "חידושי רמב\"ן על מועד קטן",
     "titleVariants": [
@@ -93,6 +96,468 @@
     "heTitleVariants": [
         "חידושי רמב\"ן על מועד קטן"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Moed Katan 2a:1-11b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; Mashkin Beit HaShelachin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "משקין בית השלחין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Mashkin Beit HaShelachin",
+                    "heTitle": "משקין בית השלחין",
+                    "refs": [
+                        "Chiddushei Ramban on Moed Katan 2a:1-10",
+                        "Chiddushei Ramban on Moed Katan 2b",
+                        "Chiddushei Ramban on Moed Katan 3a",
+                        "Chiddushei Ramban on Moed Katan 3b",
+                        "Chiddushei Ramban on Moed Katan 4a",
+                        "Chiddushei Ramban on Moed Katan 4b",
+                        "Chiddushei Ramban on Moed Katan 5a",
+                        "Chiddushei Ramban on Moed Katan 5b",
+                        "Chiddushei Ramban on Moed Katan 6a",
+                        "Chiddushei Ramban on Moed Katan 6b",
+                        "Chiddushei Ramban on Moed Katan 7a",
+                        "Chiddushei Ramban on Moed Katan 7b",
+                        "Chiddushei Ramban on Moed Katan 8a",
+                        "Chiddushei Ramban on Moed Katan 8b",
+                        "Chiddushei Ramban on Moed Katan 9a",
+                        "Chiddushei Ramban on Moed Katan 9b",
+                        "Chiddushei Ramban on Moed Katan 10a",
+                        "Chiddushei Ramban on Moed Katan 10b",
+                        "Chiddushei Ramban on Moed Katan 11a",
+                        "Chiddushei Ramban on Moed Katan 11b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Moed Katan 11b:2-12a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Mi SheHafakh",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "מי שהפך",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Mi SheHafakh",
+                    "heTitle": "מי שהפך",
+                    "refs": [
+                        "Chiddushei Ramban on Moed Katan 11b:2-3",
+                        "Chiddushei Ramban on Moed Katan 12a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 21
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chiddushei Ramban on Moed Katan 15b:1-28b:19",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "bavli",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "talmud",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "ramban",
+                                "gemara",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; VeEllu Megallechin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "ואלו מגלחין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; VeEllu Megallechin",
+                    "heTitle": "ואלו מגלחין",
+                    "refs": [
+                        "Chiddushei Ramban on Moed Katan 15b:1-2",
+                        "Chiddushei Ramban on Moed Katan 16a",
+                        "Chiddushei Ramban on Moed Katan 16b",
+                        "Chiddushei Ramban on Moed Katan 17a",
+                        "Chiddushei Ramban on Moed Katan 17b",
+                        "Chiddushei Ramban on Moed Katan 18a",
+                        "Chiddushei Ramban on Moed Katan 18b",
+                        "Chiddushei Ramban on Moed Katan 19a",
+                        "Chiddushei Ramban on Moed Katan 19b",
+                        "Chiddushei Ramban on Moed Katan 20a",
+                        "Chiddushei Ramban on Moed Katan 20b",
+                        "Chiddushei Ramban on Moed Katan 21a",
+                        "Chiddushei Ramban on Moed Katan 21b",
+                        "Chiddushei Ramban on Moed Katan 22a",
+                        "Chiddushei Ramban on Moed Katan 22b",
+                        "Chiddushei Ramban on Moed Katan 23a",
+                        "Chiddushei Ramban on Moed Katan 23b",
+                        "Chiddushei Ramban on Moed Katan 24a",
+                        "Chiddushei Ramban on Moed Katan 24b",
+                        "Chiddushei Ramban on Moed Katan 25a",
+                        "Chiddushei Ramban on Moed Katan 25b",
+                        "Chiddushei Ramban on Moed Katan 26a",
+                        "Chiddushei Ramban on Moed Katan 26b",
+                        "Chiddushei Ramban on Moed Katan 27a",
+                        "Chiddushei Ramban on Moed Katan 27b",
+                        "Chiddushei Ramban on Moed Katan 28a",
+                        "Chiddushei Ramban on Moed Katan 28b:1-19"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 29
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "חידושי רמב\"ן על מועד קטן",
+                    "primary": true
+                },
+                {
+                    "text": "Chiddushei Ramban on Moed Katan",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chiddushei Ramban on Moed Katan",
+            "heTitle": "חידושי רמב\"ן על מועד קטן"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
@@ -102,7 +567,7 @@
         "תלמוד",
         "בבלי",
         "ראשונים על התלמוד",
-        "רמב\"ן",
+        "חידושי רמב״ן",
         "סדר מועד"
     ],
     "compDateString": {

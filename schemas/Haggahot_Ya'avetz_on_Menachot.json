@@ -18,6 +18,22 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "haggahot-yaavetz",
+                    "menachot"
+                ]
+            }
+        ],
+        "lengths": [
+            219,
+            148
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "הגהות יעב\"ץ על מנחות",
@@ -38,6 +54,9 @@
         ],
         "key": "Haggahot Ya'avetz on Menachot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yaakov Emden",
@@ -75,6 +94,1799 @@
     "heTitleVariants": [
         "הגהות יעב\"ץ על מנחות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 5a:1-9b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-123"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Kol HaMenachot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל המנחות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Kol HaMenachot",
+                    "heTitle": "כל המנחות",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 5a:1-2",
+                        "Haggahot Ya'avetz on Menachot 5b",
+                        "Haggahot Ya'avetz on Menachot 6a",
+                        "Haggahot Ya'avetz on Menachot 6b",
+                        "Haggahot Ya'avetz on Menachot 7a",
+                        "Haggahot Ya'avetz on Menachot 7b",
+                        "Haggahot Ya'avetz on Menachot 8a",
+                        "Haggahot Ya'avetz on Menachot 8b",
+                        "Haggahot Ya'avetz on Menachot 9a",
+                        "Haggahot Ya'avetz on Menachot 9b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 8
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 17a:1-2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-219"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; HaKometz et HaMinchah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הקומץ את המנחה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; HaKometz et HaMinchah",
+                    "heTitle": "הקומץ את המנחה",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 17a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 32
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 18a:1-37b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-319"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; HaKometz Rabbah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הקומץ רבה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; HaKometz Rabbah",
+                    "heTitle": "הקומץ רבה",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 18a:1-2",
+                        "Haggahot Ya'avetz on Menachot 18b",
+                        "Haggahot Ya'avetz on Menachot 19a",
+                        "Haggahot Ya'avetz on Menachot 19b",
+                        "Haggahot Ya'avetz on Menachot 20a",
+                        "Haggahot Ya'avetz on Menachot 20b",
+                        "Haggahot Ya'avetz on Menachot 21a",
+                        "Haggahot Ya'avetz on Menachot 21b",
+                        "Haggahot Ya'avetz on Menachot 22a",
+                        "Haggahot Ya'avetz on Menachot 22b",
+                        "Haggahot Ya'avetz on Menachot 23a",
+                        "Haggahot Ya'avetz on Menachot 23b",
+                        "Haggahot Ya'avetz on Menachot 24a",
+                        "Haggahot Ya'avetz on Menachot 24b",
+                        "Haggahot Ya'avetz on Menachot 25a",
+                        "Haggahot Ya'avetz on Menachot 25b",
+                        "Haggahot Ya'avetz on Menachot 26a",
+                        "Haggahot Ya'avetz on Menachot 26b",
+                        "Haggahot Ya'avetz on Menachot 27a",
+                        "Haggahot Ya'avetz on Menachot 27b",
+                        "Haggahot Ya'avetz on Menachot 28a",
+                        "Haggahot Ya'avetz on Menachot 28b",
+                        "Haggahot Ya'avetz on Menachot 29a",
+                        "Haggahot Ya'avetz on Menachot 29b",
+                        "Haggahot Ya'avetz on Menachot 30a",
+                        "Haggahot Ya'avetz on Menachot 30b",
+                        "Haggahot Ya'avetz on Menachot 31a",
+                        "Haggahot Ya'avetz on Menachot 31b",
+                        "Haggahot Ya'avetz on Menachot 32a",
+                        "Haggahot Ya'avetz on Menachot 32b",
+                        "Haggahot Ya'avetz on Menachot 33a",
+                        "Haggahot Ya'avetz on Menachot 33b",
+                        "Haggahot Ya'avetz on Menachot 34a",
+                        "Haggahot Ya'avetz on Menachot 34b",
+                        "Haggahot Ya'avetz on Menachot 35a",
+                        "Haggahot Ya'avetz on Menachot 35b",
+                        "Haggahot Ya'avetz on Menachot 36a",
+                        "Haggahot Ya'avetz on Menachot 36b",
+                        "Haggahot Ya'avetz on Menachot 37a",
+                        "Haggahot Ya'avetz on Menachot 37b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 34
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 38b:1-50b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-416"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; HaTekhelet",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "התכלת",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; HaTekhelet",
+                    "heTitle": "התכלת",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 38b:1-4",
+                        "Haggahot Ya'avetz on Menachot 39a",
+                        "Haggahot Ya'avetz on Menachot 39b",
+                        "Haggahot Ya'avetz on Menachot 40a",
+                        "Haggahot Ya'avetz on Menachot 40b",
+                        "Haggahot Ya'avetz on Menachot 41a",
+                        "Haggahot Ya'avetz on Menachot 41b",
+                        "Haggahot Ya'avetz on Menachot 42a",
+                        "Haggahot Ya'avetz on Menachot 42b",
+                        "Haggahot Ya'avetz on Menachot 43a",
+                        "Haggahot Ya'avetz on Menachot 43b",
+                        "Haggahot Ya'avetz on Menachot 44a",
+                        "Haggahot Ya'avetz on Menachot 44b",
+                        "Haggahot Ya'avetz on Menachot 45a",
+                        "Haggahot Ya'avetz on Menachot 45b",
+                        "Haggahot Ya'avetz on Menachot 46a",
+                        "Haggahot Ya'avetz on Menachot 46b",
+                        "Haggahot Ya'avetz on Menachot 47a",
+                        "Haggahot Ya'avetz on Menachot 47b",
+                        "Haggahot Ya'avetz on Menachot 48a",
+                        "Haggahot Ya'avetz on Menachot 48b",
+                        "Haggahot Ya'avetz on Menachot 49a",
+                        "Haggahot Ya'avetz on Menachot 49b",
+                        "Haggahot Ya'avetz on Menachot 50a",
+                        "Haggahot Ya'avetz on Menachot 50b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 75
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 53b:1-63a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-514"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 5; Kol HaMenachot Baot Matzah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל המנחות באות מצה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; Kol HaMenachot Baot Matzah",
+                    "heTitle": "כל המנחות באות מצה",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 53b:1",
+                        "Haggahot Ya'avetz on Menachot 54a",
+                        "Haggahot Ya'avetz on Menachot 54b",
+                        "Haggahot Ya'avetz on Menachot 55a",
+                        "Haggahot Ya'avetz on Menachot 55b",
+                        "Haggahot Ya'avetz on Menachot 56a",
+                        "Haggahot Ya'avetz on Menachot 56b",
+                        "Haggahot Ya'avetz on Menachot 57a",
+                        "Haggahot Ya'avetz on Menachot 57b",
+                        "Haggahot Ya'avetz on Menachot 58a",
+                        "Haggahot Ya'avetz on Menachot 58b",
+                        "Haggahot Ya'avetz on Menachot 59a",
+                        "Haggahot Ya'avetz on Menachot 59b",
+                        "Haggahot Ya'avetz on Menachot 60a",
+                        "Haggahot Ya'avetz on Menachot 60b",
+                        "Haggahot Ya'avetz on Menachot 61a",
+                        "Haggahot Ya'avetz on Menachot 61b",
+                        "Haggahot Ya'avetz on Menachot 62a",
+                        "Haggahot Ya'avetz on Menachot 62b",
+                        "Haggahot Ya'avetz on Menachot 63a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 105
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 64a:1-109b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-612"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 6; Rabbi Yishmael",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "רבי ישמעאל",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; Rabbi Yishmael",
+                    "heTitle": "רבי ישמעאל",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 64a:1",
+                        "Haggahot Ya'avetz on Menachot 64b",
+                        "Haggahot Ya'avetz on Menachot 65a",
+                        "Haggahot Ya'avetz on Menachot 65b",
+                        "Haggahot Ya'avetz on Menachot 66a",
+                        "Haggahot Ya'avetz on Menachot 66b",
+                        "Haggahot Ya'avetz on Menachot 67a",
+                        "Haggahot Ya'avetz on Menachot 67b",
+                        "Haggahot Ya'avetz on Menachot 68a",
+                        "Haggahot Ya'avetz on Menachot 68b",
+                        "Haggahot Ya'avetz on Menachot 69a",
+                        "Haggahot Ya'avetz on Menachot 69b",
+                        "Haggahot Ya'avetz on Menachot 70a",
+                        "Haggahot Ya'avetz on Menachot 70b",
+                        "Haggahot Ya'avetz on Menachot 71a",
+                        "Haggahot Ya'avetz on Menachot 71b",
+                        "Haggahot Ya'avetz on Menachot 72a",
+                        "Haggahot Ya'avetz on Menachot 72b",
+                        "Haggahot Ya'avetz on Menachot 73a",
+                        "Haggahot Ya'avetz on Menachot 73b",
+                        "Haggahot Ya'avetz on Menachot 74a",
+                        "Haggahot Ya'avetz on Menachot 74b",
+                        "Haggahot Ya'avetz on Menachot 75a",
+                        "Haggahot Ya'avetz on Menachot 75b",
+                        "Haggahot Ya'avetz on Menachot 76a",
+                        "Haggahot Ya'avetz on Menachot 76b",
+                        "Haggahot Ya'avetz on Menachot 77a",
+                        "Haggahot Ya'avetz on Menachot 77b",
+                        "Haggahot Ya'avetz on Menachot 78a",
+                        "Haggahot Ya'avetz on Menachot 78b",
+                        "Haggahot Ya'avetz on Menachot 79a",
+                        "Haggahot Ya'avetz on Menachot 79b",
+                        "Haggahot Ya'avetz on Menachot 80a",
+                        "Haggahot Ya'avetz on Menachot 80b",
+                        "Haggahot Ya'avetz on Menachot 81a",
+                        "Haggahot Ya'avetz on Menachot 81b",
+                        "Haggahot Ya'avetz on Menachot 82a",
+                        "Haggahot Ya'avetz on Menachot 82b",
+                        "Haggahot Ya'avetz on Menachot 83a",
+                        "Haggahot Ya'avetz on Menachot 83b",
+                        "Haggahot Ya'avetz on Menachot 84a",
+                        "Haggahot Ya'avetz on Menachot 84b",
+                        "Haggahot Ya'avetz on Menachot 85a",
+                        "Haggahot Ya'avetz on Menachot 85b",
+                        "Haggahot Ya'avetz on Menachot 86a",
+                        "Haggahot Ya'avetz on Menachot 86b",
+                        "Haggahot Ya'avetz on Menachot 87a",
+                        "Haggahot Ya'avetz on Menachot 87b",
+                        "Haggahot Ya'avetz on Menachot 88a",
+                        "Haggahot Ya'avetz on Menachot 88b",
+                        "Haggahot Ya'avetz on Menachot 89a",
+                        "Haggahot Ya'avetz on Menachot 89b",
+                        "Haggahot Ya'avetz on Menachot 90a",
+                        "Haggahot Ya'avetz on Menachot 90b",
+                        "Haggahot Ya'avetz on Menachot 91a",
+                        "Haggahot Ya'avetz on Menachot 91b",
+                        "Haggahot Ya'avetz on Menachot 92a",
+                        "Haggahot Ya'avetz on Menachot 92b",
+                        "Haggahot Ya'avetz on Menachot 93a",
+                        "Haggahot Ya'avetz on Menachot 93b",
+                        "Haggahot Ya'avetz on Menachot 94a",
+                        "Haggahot Ya'avetz on Menachot 94b",
+                        "Haggahot Ya'avetz on Menachot 95a",
+                        "Haggahot Ya'avetz on Menachot 95b",
+                        "Haggahot Ya'avetz on Menachot 96a",
+                        "Haggahot Ya'avetz on Menachot 96b",
+                        "Haggahot Ya'avetz on Menachot 97a",
+                        "Haggahot Ya'avetz on Menachot 97b",
+                        "Haggahot Ya'avetz on Menachot 98a",
+                        "Haggahot Ya'avetz on Menachot 98b",
+                        "Haggahot Ya'avetz on Menachot 99a",
+                        "Haggahot Ya'avetz on Menachot 99b",
+                        "Haggahot Ya'avetz on Menachot 100a",
+                        "Haggahot Ya'avetz on Menachot 100b",
+                        "Haggahot Ya'avetz on Menachot 101a",
+                        "Haggahot Ya'avetz on Menachot 101b",
+                        "Haggahot Ya'avetz on Menachot 102a",
+                        "Haggahot Ya'avetz on Menachot 102b",
+                        "Haggahot Ya'avetz on Menachot 103a",
+                        "Haggahot Ya'avetz on Menachot 103b",
+                        "Haggahot Ya'avetz on Menachot 104a",
+                        "Haggahot Ya'avetz on Menachot 104b",
+                        "Haggahot Ya'avetz on Menachot 105a",
+                        "Haggahot Ya'avetz on Menachot 105b",
+                        "Haggahot Ya'avetz on Menachot 106a",
+                        "Haggahot Ya'avetz on Menachot 106b",
+                        "Haggahot Ya'avetz on Menachot 107a",
+                        "Haggahot Ya'avetz on Menachot 107b",
+                        "Haggahot Ya'avetz on Menachot 108a",
+                        "Haggahot Ya'avetz on Menachot 108b",
+                        "Haggahot Ya'avetz on Menachot 109a",
+                        "Haggahot Ya'avetz on Menachot 109b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 126
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 77a:1-83a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-810"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 8; HaTodah Haytah Ba'ah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "התודה היתה באה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 8; HaTodah Haytah Ba'ah",
+                    "heTitle": "התודה היתה באה",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 77a:1",
+                        "Haggahot Ya'avetz on Menachot 77b",
+                        "Haggahot Ya'avetz on Menachot 78a",
+                        "Haggahot Ya'avetz on Menachot 78b",
+                        "Haggahot Ya'avetz on Menachot 79a",
+                        "Haggahot Ya'avetz on Menachot 79b",
+                        "Haggahot Ya'avetz on Menachot 80a",
+                        "Haggahot Ya'avetz on Menachot 80b",
+                        "Haggahot Ya'avetz on Menachot 81a",
+                        "Haggahot Ya'avetz on Menachot 81b",
+                        "Haggahot Ya'avetz on Menachot 82a",
+                        "Haggahot Ya'avetz on Menachot 82b",
+                        "Haggahot Ya'avetz on Menachot 83a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 152
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 83b:1-87a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-910"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 9; Kol Korbanot Tzibbur",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל קרבנות ציבור",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 9; Kol Korbanot Tzibbur",
+                    "heTitle": "כל קרבנות ציבור",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 83b:1",
+                        "Haggahot Ya'avetz on Menachot 84a",
+                        "Haggahot Ya'avetz on Menachot 84b",
+                        "Haggahot Ya'avetz on Menachot 85a",
+                        "Haggahot Ya'avetz on Menachot 85b",
+                        "Haggahot Ya'avetz on Menachot 86a",
+                        "Haggahot Ya'avetz on Menachot 86b",
+                        "Haggahot Ya'avetz on Menachot 87a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 165
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 87a:3-93b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "tenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-106"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 10,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 10; Shetei Middot",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "שתי מדות",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 10; Shetei Middot",
+                    "heTitle": "שתי מדות",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 87a:3-4",
+                        "Haggahot Ya'avetz on Menachot 87b",
+                        "Haggahot Ya'avetz on Menachot 88a",
+                        "Haggahot Ya'avetz on Menachot 88b",
+                        "Haggahot Ya'avetz on Menachot 89a",
+                        "Haggahot Ya'avetz on Menachot 89b",
+                        "Haggahot Ya'avetz on Menachot 90a",
+                        "Haggahot Ya'avetz on Menachot 90b",
+                        "Haggahot Ya'avetz on Menachot 91a",
+                        "Haggahot Ya'avetz on Menachot 91b",
+                        "Haggahot Ya'avetz on Menachot 92a",
+                        "Haggahot Ya'avetz on Menachot 92b",
+                        "Haggahot Ya'avetz on Menachot 93a",
+                        "Haggahot Ya'avetz on Menachot 93b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 172
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 94a:1-100b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "eleventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-1110"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 11,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 11; Shetei HaLechem",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "שתי הלחם",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 11; Shetei HaLechem",
+                    "heTitle": "שתי הלחם",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 94a:1",
+                        "Haggahot Ya'avetz on Menachot 94b",
+                        "Haggahot Ya'avetz on Menachot 95a",
+                        "Haggahot Ya'avetz on Menachot 95b",
+                        "Haggahot Ya'avetz on Menachot 96a",
+                        "Haggahot Ya'avetz on Menachot 96b",
+                        "Haggahot Ya'avetz on Menachot 97a",
+                        "Haggahot Ya'avetz on Menachot 97b",
+                        "Haggahot Ya'avetz on Menachot 98a",
+                        "Haggahot Ya'avetz on Menachot 98b",
+                        "Haggahot Ya'avetz on Menachot 99a",
+                        "Haggahot Ya'avetz on Menachot 99b",
+                        "Haggahot Ya'avetz on Menachot 100a",
+                        "Haggahot Ya'avetz on Menachot 100b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 186
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 101a:1-103b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "twelfth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-124"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 12,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 12; HaMenachot VeHanesakhim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "המנחות והנסכים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 12; HaMenachot VeHanesakhim",
+                    "heTitle": "המנחות והנסכים",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 101a:1",
+                        "Haggahot Ya'avetz on Menachot 101b",
+                        "Haggahot Ya'avetz on Menachot 102a",
+                        "Haggahot Ya'avetz on Menachot 102b",
+                        "Haggahot Ya'avetz on Menachot 103a",
+                        "Haggahot Ya'avetz on Menachot 103b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 200
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Menachot 108b:1-109b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "thirteenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-132"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 13,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 13; Harei Alai Issaron",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הרי עלי עשרון",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 13; Harei Alai Issaron",
+                    "heTitle": "הרי עלי עשרון",
+                    "refs": [
+                        "Haggahot Ya'avetz on Menachot 108b:1-2",
+                        "Haggahot Ya'avetz on Menachot 109a",
+                        "Haggahot Ya'avetz on Menachot 109b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 215
+                }
+            ],
+            "titles": [
+                {
+                    "text": "הגהות יעב\"ץ על מנחות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Haggahot Ya'avetz on Menachot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Haggahot Ya'avetz on Menachot",
+            "heTitle": "הגהות יעב\"ץ על מנחות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

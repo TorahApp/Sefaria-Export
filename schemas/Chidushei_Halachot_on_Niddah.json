@@ -41,9 +41,13 @@
         ],
         "titles": [
             {
+                "text": "חידושי הלכות על מסכת נדה",
                 "lang": "he",
-                "text": " חידושי הלכות על מסכת נדה",
                 "primary": true
+            },
+            {
+                "text": " חידושי הלכות על מסכת נדה",
+                "lang": "he"
             },
             {
                 "text": "Chidushei Halachot on Niddah",
@@ -52,22 +56,27 @@
             }
         ],
         "title": "Chidushei Halachot on Niddah",
-        "heTitle": " חידושי הלכות על מסכת נדה",
+        "heTitle": "חידושי הלכות על מסכת נדה",
         "heSectionNames": [
             "דף",
             "פירוש"
         ],
         "key": "Chidushei Halachot on Niddah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Maharsha",
+            "en": "Shmuel Eidels (Maharsha)",
             "he": "מהרש\"א",
             "slug": "maharsha"
         }
     ],
     "enDesc": "Commentary on the Talmud written by Rabbi Shmuel Eliezer Edels (Maharsha). Maharsha was an important halakhic authority in Poland (1555 – 1631). His commentary elucidates comments of Rashi and the Tosefists.",
     "heDesc": "פירוש על חלק ההלכה של גמרא, רש\"י, ותוספות שבתלמוד בבלי.",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1670
     ],
@@ -91,13 +100,1463 @@
         "en": "Chidushei Halachot",
         "he": "חידושי הלכות"
     },
-    "heTitle": " חידושי הלכות על מסכת נדה",
+    "heTitle": "חידושי הלכות על מסכת נדה",
     "titleVariants": [
         "Chidushei Halachot on Niddah"
     ],
     "heTitleVariants": [
+        "חידושי הלכות על מסכת נדה",
         " חידושי הלכות על מסכת נדה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 2a:1-12b:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-128"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Shammai Omer",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "שמאי אומר",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Shammai Omer",
+                    "heTitle": "שמאי אומר",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 2a:1-4",
+                        "Chidushei Halachot on Niddah 2b",
+                        "Chidushei Halachot on Niddah 3a",
+                        "Chidushei Halachot on Niddah 3b",
+                        "Chidushei Halachot on Niddah 4a",
+                        "Chidushei Halachot on Niddah 4b",
+                        "Chidushei Halachot on Niddah 5a",
+                        "Chidushei Halachot on Niddah 5b",
+                        "Chidushei Halachot on Niddah 6a",
+                        "Chidushei Halachot on Niddah 6b",
+                        "Chidushei Halachot on Niddah 7a",
+                        "Chidushei Halachot on Niddah 7b",
+                        "Chidushei Halachot on Niddah 8a",
+                        "Chidushei Halachot on Niddah 8b",
+                        "Chidushei Halachot on Niddah 9a",
+                        "Chidushei Halachot on Niddah 9b",
+                        "Chidushei Halachot on Niddah 10a",
+                        "Chidushei Halachot on Niddah 10b",
+                        "Chidushei Halachot on Niddah 11a",
+                        "Chidushei Halachot on Niddah 11b",
+                        "Chidushei Halachot on Niddah 12a",
+                        "Chidushei Halachot on Niddah 12b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 13a:1-21a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-223"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; Kol HaYad",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל היד",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; Kol HaYad",
+                    "heTitle": "כל היד",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 13a:1-2",
+                        "Chidushei Halachot on Niddah 13b",
+                        "Chidushei Halachot on Niddah 14a",
+                        "Chidushei Halachot on Niddah 14b",
+                        "Chidushei Halachot on Niddah 15a",
+                        "Chidushei Halachot on Niddah 15b",
+                        "Chidushei Halachot on Niddah 16a",
+                        "Chidushei Halachot on Niddah 16b",
+                        "Chidushei Halachot on Niddah 17a",
+                        "Chidushei Halachot on Niddah 17b",
+                        "Chidushei Halachot on Niddah 18a",
+                        "Chidushei Halachot on Niddah 18b",
+                        "Chidushei Halachot on Niddah 19a",
+                        "Chidushei Halachot on Niddah 19b",
+                        "Chidushei Halachot on Niddah 20a",
+                        "Chidushei Halachot on Niddah 20b",
+                        "Chidushei Halachot on Niddah 21a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 24
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 21a:3-31a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-323"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; HaMappelet Chatikhah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "המפלת חתיכה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; HaMappelet Chatikhah",
+                    "heTitle": "המפלת חתיכה",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 21a:3-4",
+                        "Chidushei Halachot on Niddah 21b",
+                        "Chidushei Halachot on Niddah 22a",
+                        "Chidushei Halachot on Niddah 22b",
+                        "Chidushei Halachot on Niddah 23a",
+                        "Chidushei Halachot on Niddah 23b",
+                        "Chidushei Halachot on Niddah 24a",
+                        "Chidushei Halachot on Niddah 24b",
+                        "Chidushei Halachot on Niddah 25a",
+                        "Chidushei Halachot on Niddah 25b",
+                        "Chidushei Halachot on Niddah 26a",
+                        "Chidushei Halachot on Niddah 26b",
+                        "Chidushei Halachot on Niddah 27a",
+                        "Chidushei Halachot on Niddah 27b",
+                        "Chidushei Halachot on Niddah 28a",
+                        "Chidushei Halachot on Niddah 28b",
+                        "Chidushei Halachot on Niddah 29a",
+                        "Chidushei Halachot on Niddah 29b",
+                        "Chidushei Halachot on Niddah 30a",
+                        "Chidushei Halachot on Niddah 30b",
+                        "Chidushei Halachot on Niddah 31a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 40
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 31b:1-40a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-419"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Benot Kutim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "בנות כותים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Benot Kutim",
+                    "heTitle": "בנות כותים",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 31b:1",
+                        "Chidushei Halachot on Niddah 32a",
+                        "Chidushei Halachot on Niddah 32b",
+                        "Chidushei Halachot on Niddah 33a",
+                        "Chidushei Halachot on Niddah 33b",
+                        "Chidushei Halachot on Niddah 34a",
+                        "Chidushei Halachot on Niddah 34b",
+                        "Chidushei Halachot on Niddah 35a",
+                        "Chidushei Halachot on Niddah 35b",
+                        "Chidushei Halachot on Niddah 36a",
+                        "Chidushei Halachot on Niddah 36b",
+                        "Chidushei Halachot on Niddah 37a",
+                        "Chidushei Halachot on Niddah 37b",
+                        "Chidushei Halachot on Niddah 38a",
+                        "Chidushei Halachot on Niddah 38b",
+                        "Chidushei Halachot on Niddah 39a",
+                        "Chidushei Halachot on Niddah 39b",
+                        "Chidushei Halachot on Niddah 40a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 61
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 40a:3-48a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-517"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 5; Yotze Dofen",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "יוצא דופן",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; Yotze Dofen",
+                    "heTitle": "יוצא דופן",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 40a:3",
+                        "Chidushei Halachot on Niddah 40b",
+                        "Chidushei Halachot on Niddah 41a",
+                        "Chidushei Halachot on Niddah 41b",
+                        "Chidushei Halachot on Niddah 42a",
+                        "Chidushei Halachot on Niddah 42b",
+                        "Chidushei Halachot on Niddah 43a",
+                        "Chidushei Halachot on Niddah 43b",
+                        "Chidushei Halachot on Niddah 44a",
+                        "Chidushei Halachot on Niddah 44b",
+                        "Chidushei Halachot on Niddah 45a",
+                        "Chidushei Halachot on Niddah 45b",
+                        "Chidushei Halachot on Niddah 46a",
+                        "Chidushei Halachot on Niddah 46b",
+                        "Chidushei Halachot on Niddah 47a",
+                        "Chidushei Halachot on Niddah 47b",
+                        "Chidushei Halachot on Niddah 48a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 78
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 48a:4-54b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-615"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 6; Ba Siman",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "בא סימן",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; Ba Siman",
+                    "heTitle": "בא סימן",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 48a:4-5",
+                        "Chidushei Halachot on Niddah 48b",
+                        "Chidushei Halachot on Niddah 49a",
+                        "Chidushei Halachot on Niddah 49b",
+                        "Chidushei Halachot on Niddah 50a",
+                        "Chidushei Halachot on Niddah 50b",
+                        "Chidushei Halachot on Niddah 51a",
+                        "Chidushei Halachot on Niddah 51b",
+                        "Chidushei Halachot on Niddah 52a",
+                        "Chidushei Halachot on Niddah 52b",
+                        "Chidushei Halachot on Niddah 53a",
+                        "Chidushei Halachot on Niddah 53b",
+                        "Chidushei Halachot on Niddah 54a",
+                        "Chidushei Halachot on Niddah 54b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 94
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 54b:2-57b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-713"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 7; Dam HaNiddah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "דם הנדה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 7; Dam HaNiddah",
+                    "heTitle": "דם הנדה",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 54b:2",
+                        "Chidushei Halachot on Niddah 55a",
+                        "Chidushei Halachot on Niddah 55b",
+                        "Chidushei Halachot on Niddah 56a",
+                        "Chidushei Halachot on Niddah 56b",
+                        "Chidushei Halachot on Niddah 57a",
+                        "Chidushei Halachot on Niddah 57b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 107
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 57b:2-59b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-813"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 8; HaRoeh Ketem",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הרואה כתם",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 8; HaRoeh Ketem",
+                    "heTitle": "הרואה כתם",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 57b:2-4",
+                        "Chidushei Halachot on Niddah 58a",
+                        "Chidushei Halachot on Niddah 58b",
+                        "Chidushei Halachot on Niddah 59a",
+                        "Chidushei Halachot on Niddah 59b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 113
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 59b:2-64b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-913"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 9; HaIshah SheHi Osah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "האשה שהיא עושה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 9; HaIshah SheHi Osah",
+                    "heTitle": "האשה שהיא עושה",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 59b:2-3",
+                        "Chidushei Halachot on Niddah 60a",
+                        "Chidushei Halachot on Niddah 60b",
+                        "Chidushei Halachot on Niddah 61a",
+                        "Chidushei Halachot on Niddah 61b",
+                        "Chidushei Halachot on Niddah 62a",
+                        "Chidushei Halachot on Niddah 62b",
+                        "Chidushei Halachot on Niddah 63a",
+                        "Chidushei Halachot on Niddah 63b",
+                        "Chidushei Halachot on Niddah 64a",
+                        "Chidushei Halachot on Niddah 64b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 117
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Niddah 64b:2-73a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "tenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-108"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 10,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 10; Tinoket",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "תינוקת",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 10; Tinoket",
+                    "heTitle": "תינוקת",
+                    "refs": [
+                        "Chidushei Halachot on Niddah 64b:2-3",
+                        "Chidushei Halachot on Niddah 65a",
+                        "Chidushei Halachot on Niddah 65b",
+                        "Chidushei Halachot on Niddah 66a",
+                        "Chidushei Halachot on Niddah 66b",
+                        "Chidushei Halachot on Niddah 67a",
+                        "Chidushei Halachot on Niddah 67b",
+                        "Chidushei Halachot on Niddah 68a",
+                        "Chidushei Halachot on Niddah 68b",
+                        "Chidushei Halachot on Niddah 69a",
+                        "Chidushei Halachot on Niddah 69b",
+                        "Chidushei Halachot on Niddah 70a",
+                        "Chidushei Halachot on Niddah 70b",
+                        "Chidushei Halachot on Niddah 71a",
+                        "Chidushei Halachot on Niddah 71b",
+                        "Chidushei Halachot on Niddah 72a",
+                        "Chidushei Halachot on Niddah 72b",
+                        "Chidushei Halachot on Niddah 73a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 127
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי הלכות על מסכת נדה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": " חידושי הלכות על מסכת נדה",
+                    "lang": "he"
+                },
+                {
+                    "text": "Chidushei Halachot on Niddah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Halachot on Niddah",
+            "heTitle": "חידושי הלכות על מסכת נדה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

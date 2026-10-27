@@ -60,9 +60,12 @@
         ],
         "key": "Milchemet Hashem on Taanit"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Ramban",
+            "en": "Moses ben Nachman (Ramban)",
             "he": "רמב״ן",
             "slug": "ramban"
         }
@@ -101,6 +104,153 @@
     "heTitleVariants": [
         "מלחמת השם על תענית"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Milchemet Hashem on Taanit 3a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "bavli",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "talmud",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "milchemet-hashem",
+                                "gemara",
+                                "perek",
+                                "chapter-139"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; MeEimatai Mazkirin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "מאימתי מזכירין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; MeEimatai Mazkirin",
+                    "heTitle": "מאימתי מזכירין",
+                    "refs": [
+                        "Milchemet Hashem on Taanit 3a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 4
+                }
+            ],
+            "titles": [
+                {
+                    "text": "מלחמת השם על תענית",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Milchemet Hashem on Taanit",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Milchemet Hashem on Taanit",
+            "heTitle": "מלחמת השם על תענית"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

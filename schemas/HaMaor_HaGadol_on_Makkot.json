@@ -60,9 +60,12 @@
         ],
         "key": "HaMaor HaGadol on Makkot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Zerachiah ha-Levi of Girona",
+            "en": "Zerachiah HaLevi of Gerona",
             "he": "זרחיה הלוי",
             "slug": "zerachiah-ha-levi-of-girona"
         }
@@ -99,6 +102,160 @@
     "heTitleVariants": [
         "המאור הגדול על מכות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "HaMaor HaGadol on Makkot 1a:1-4b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "talmud",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "hamaor",
+                                "gemara",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Keitzad HaEdim"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "כיצד העדים"
+                        }
+                    ],
+                    "title": "Chapter 1; Keitzad HaEdim",
+                    "heTitle": "כיצד העדים",
+                    "refs": [
+                        "HaMaor HaGadol on Makkot 1a:1-2",
+                        "HaMaor HaGadol on Makkot 1b",
+                        "HaMaor HaGadol on Makkot 2a",
+                        "HaMaor HaGadol on Makkot 2b",
+                        "HaMaor HaGadol on Makkot 3a",
+                        "HaMaor HaGadol on Makkot 3b",
+                        "HaMaor HaGadol on Makkot 4a",
+                        "HaMaor HaGadol on Makkot 4b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 0
+                }
+            ],
+            "titles": [
+                {
+                    "text": "המאור הגדול על מכות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "HaMaor HaGadol on Makkot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "HaMaor HaGadol on Makkot",
+            "heTitle": "המאור הגדול על מכות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

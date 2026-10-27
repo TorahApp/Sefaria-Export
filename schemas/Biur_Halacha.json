@@ -19,7 +19,24 @@
             "Seif",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "biur-halacha",
+                    "orach-chayim"
+                ]
+            },
+            {
+                "term_slugs": [
+                    "biur-halacha"
+                ]
+            }
+        ],
         "toc_zoom": 2,
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "Mishneh Berurah, Bi'ur Halakhah",
@@ -80,7 +97,7 @@
     "default_struct": "Topic",
     "authors": [
         {
-            "en": "Israel Meir Kagan",
+            "en": "Israel Meir Kagan (Chafetz Chaim)",
             "he": "רבי ישראל מאיר הכהן",
             "slug": "israel-meir-kagan"
         }

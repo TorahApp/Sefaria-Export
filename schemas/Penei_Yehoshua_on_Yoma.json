@@ -17,6 +17,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "penei-yehoshua",
+                    "yoma"
+                ]
+            }
+        ],
         "lengths": [
             175,
             33
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Penei Yehoshua on Yoma"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Jacob Joshua Falk",
@@ -87,6 +97,178 @@
     "heTitleVariants": [
         "פני יהושע על יומא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Yoma 2a:1-14b:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 1; Shivat Yamim"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "שבעת ימים"
+                        }
+                    ],
+                    "title": "Chapter 1; Shivat Yamim",
+                    "heTitle": "שבעת ימים",
+                    "refs": [
+                        "Penei Yehoshua on Yoma 2a:1-11",
+                        "Penei Yehoshua on Yoma 2b",
+                        "Penei Yehoshua on Yoma 3a",
+                        "Penei Yehoshua on Yoma 3b",
+                        "Penei Yehoshua on Yoma 4a",
+                        "Penei Yehoshua on Yoma 4b",
+                        "Penei Yehoshua on Yoma 5a",
+                        "Penei Yehoshua on Yoma 5b",
+                        "Penei Yehoshua on Yoma 6a",
+                        "Penei Yehoshua on Yoma 6b",
+                        "Penei Yehoshua on Yoma 7a",
+                        "Penei Yehoshua on Yoma 7b",
+                        "Penei Yehoshua on Yoma 8a",
+                        "Penei Yehoshua on Yoma 8b",
+                        "Penei Yehoshua on Yoma 9a",
+                        "Penei Yehoshua on Yoma 9b",
+                        "Penei Yehoshua on Yoma 10a",
+                        "Penei Yehoshua on Yoma 10b",
+                        "Penei Yehoshua on Yoma 11a",
+                        "Penei Yehoshua on Yoma 11b",
+                        "Penei Yehoshua on Yoma 12a",
+                        "Penei Yehoshua on Yoma 12b",
+                        "Penei Yehoshua on Yoma 13a",
+                        "Penei Yehoshua on Yoma 13b",
+                        "Penei Yehoshua on Yoma 14a",
+                        "Penei Yehoshua on Yoma 14b:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "text": "פני יהושע על יומא",
+                    "lang": "he"
+                },
+                {
+                    "text": "Penei Yehoshua on Yoma",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Penei Yehoshua on Yoma",
+            "heTitle": "פני יהושע על יומא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

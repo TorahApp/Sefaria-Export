@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chatam-sofer",
+                    "bava-batra"
+                ]
+            }
+        ],
         "lengths": [
             352,
             618
@@ -50,9 +58,12 @@
         ],
         "key": "Chidushei Chatam Sofer on Bava Batra"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Moses Sofer",
+            "en": "Moses Sofer (Chatam Sofer)",
             "he": "משה סופר",
             "slug": "moses-sofer"
         }
@@ -82,6 +93,520 @@
     "heTitleVariants": [
         "חידושי חתם סופר על בבא בתרא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Bava Batra 2a:1-17a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-12"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; HaShuttafin",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "השותפין",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; HaShuttafin",
+                    "heTitle": "השותפין",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Bava Batra 2a:1-12",
+                        "Chidushei Chatam Sofer on Bava Batra 2b",
+                        "Chidushei Chatam Sofer on Bava Batra 3a",
+                        "Chidushei Chatam Sofer on Bava Batra 3b",
+                        "Chidushei Chatam Sofer on Bava Batra 4a",
+                        "Chidushei Chatam Sofer on Bava Batra 4b",
+                        "Chidushei Chatam Sofer on Bava Batra 5a",
+                        "Chidushei Chatam Sofer on Bava Batra 5b",
+                        "Chidushei Chatam Sofer on Bava Batra 6a",
+                        "Chidushei Chatam Sofer on Bava Batra 6b",
+                        "Chidushei Chatam Sofer on Bava Batra 7a",
+                        "Chidushei Chatam Sofer on Bava Batra 7b",
+                        "Chidushei Chatam Sofer on Bava Batra 8a",
+                        "Chidushei Chatam Sofer on Bava Batra 8b",
+                        "Chidushei Chatam Sofer on Bava Batra 9a",
+                        "Chidushei Chatam Sofer on Bava Batra 9b",
+                        "Chidushei Chatam Sofer on Bava Batra 10a",
+                        "Chidushei Chatam Sofer on Bava Batra 10b",
+                        "Chidushei Chatam Sofer on Bava Batra 11a",
+                        "Chidushei Chatam Sofer on Bava Batra 11b",
+                        "Chidushei Chatam Sofer on Bava Batra 12a",
+                        "Chidushei Chatam Sofer on Bava Batra 12b",
+                        "Chidushei Chatam Sofer on Bava Batra 13a",
+                        "Chidushei Chatam Sofer on Bava Batra 13b",
+                        "Chidushei Chatam Sofer on Bava Batra 14a",
+                        "Chidushei Chatam Sofer on Bava Batra 14b",
+                        "Chidushei Chatam Sofer on Bava Batra 15a",
+                        "Chidushei Chatam Sofer on Bava Batra 15b",
+                        "Chidushei Chatam Sofer on Bava Batra 16a",
+                        "Chidushei Chatam Sofer on Bava Batra 16b",
+                        "Chidushei Chatam Sofer on Bava Batra 17a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Bava Batra 17a:2-26a:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-22"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 2; Lo Yachpor",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "לא יחפור",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 2; Lo Yachpor",
+                    "heTitle": "לא יחפור",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Bava Batra 17a:2-5",
+                        "Chidushei Chatam Sofer on Bava Batra 17b",
+                        "Chidushei Chatam Sofer on Bava Batra 18a",
+                        "Chidushei Chatam Sofer on Bava Batra 18b",
+                        "Chidushei Chatam Sofer on Bava Batra 19a",
+                        "Chidushei Chatam Sofer on Bava Batra 19b",
+                        "Chidushei Chatam Sofer on Bava Batra 20a",
+                        "Chidushei Chatam Sofer on Bava Batra 20b",
+                        "Chidushei Chatam Sofer on Bava Batra 21a",
+                        "Chidushei Chatam Sofer on Bava Batra 21b",
+                        "Chidushei Chatam Sofer on Bava Batra 22a",
+                        "Chidushei Chatam Sofer on Bava Batra 22b",
+                        "Chidushei Chatam Sofer on Bava Batra 23a",
+                        "Chidushei Chatam Sofer on Bava Batra 23b",
+                        "Chidushei Chatam Sofer on Bava Batra 24a",
+                        "Chidushei Chatam Sofer on Bava Batra 24b",
+                        "Chidushei Chatam Sofer on Bava Batra 25a",
+                        "Chidushei Chatam Sofer on Bava Batra 25b",
+                        "Chidushei Chatam Sofer on Bava Batra 26a:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 32
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Bava Batra 28a:1-60b:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-32"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; Chezkat HaBattim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "חזקת הבתים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; Chezkat HaBattim",
+                    "heTitle": "חזקת הבתים",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Bava Batra 28a:1-5",
+                        "Chidushei Chatam Sofer on Bava Batra 28b",
+                        "Chidushei Chatam Sofer on Bava Batra 29a",
+                        "Chidushei Chatam Sofer on Bava Batra 29b",
+                        "Chidushei Chatam Sofer on Bava Batra 30a",
+                        "Chidushei Chatam Sofer on Bava Batra 30b",
+                        "Chidushei Chatam Sofer on Bava Batra 31a",
+                        "Chidushei Chatam Sofer on Bava Batra 31b",
+                        "Chidushei Chatam Sofer on Bava Batra 32a",
+                        "Chidushei Chatam Sofer on Bava Batra 32b",
+                        "Chidushei Chatam Sofer on Bava Batra 33a",
+                        "Chidushei Chatam Sofer on Bava Batra 33b",
+                        "Chidushei Chatam Sofer on Bava Batra 34a",
+                        "Chidushei Chatam Sofer on Bava Batra 34b",
+                        "Chidushei Chatam Sofer on Bava Batra 35a",
+                        "Chidushei Chatam Sofer on Bava Batra 35b",
+                        "Chidushei Chatam Sofer on Bava Batra 36a",
+                        "Chidushei Chatam Sofer on Bava Batra 36b",
+                        "Chidushei Chatam Sofer on Bava Batra 37a",
+                        "Chidushei Chatam Sofer on Bava Batra 37b",
+                        "Chidushei Chatam Sofer on Bava Batra 38a",
+                        "Chidushei Chatam Sofer on Bava Batra 38b",
+                        "Chidushei Chatam Sofer on Bava Batra 39a",
+                        "Chidushei Chatam Sofer on Bava Batra 39b",
+                        "Chidushei Chatam Sofer on Bava Batra 40a",
+                        "Chidushei Chatam Sofer on Bava Batra 40b",
+                        "Chidushei Chatam Sofer on Bava Batra 41a",
+                        "Chidushei Chatam Sofer on Bava Batra 41b",
+                        "Chidushei Chatam Sofer on Bava Batra 42a",
+                        "Chidushei Chatam Sofer on Bava Batra 42b",
+                        "Chidushei Chatam Sofer on Bava Batra 43a",
+                        "Chidushei Chatam Sofer on Bava Batra 43b",
+                        "Chidushei Chatam Sofer on Bava Batra 44a",
+                        "Chidushei Chatam Sofer on Bava Batra 44b",
+                        "Chidushei Chatam Sofer on Bava Batra 45a",
+                        "Chidushei Chatam Sofer on Bava Batra 45b",
+                        "Chidushei Chatam Sofer on Bava Batra 46a",
+                        "Chidushei Chatam Sofer on Bava Batra 46b",
+                        "Chidushei Chatam Sofer on Bava Batra 47a",
+                        "Chidushei Chatam Sofer on Bava Batra 47b",
+                        "Chidushei Chatam Sofer on Bava Batra 48a",
+                        "Chidushei Chatam Sofer on Bava Batra 48b",
+                        "Chidushei Chatam Sofer on Bava Batra 49a",
+                        "Chidushei Chatam Sofer on Bava Batra 49b",
+                        "Chidushei Chatam Sofer on Bava Batra 50a",
+                        "Chidushei Chatam Sofer on Bava Batra 50b",
+                        "Chidushei Chatam Sofer on Bava Batra 51a",
+                        "Chidushei Chatam Sofer on Bava Batra 51b",
+                        "Chidushei Chatam Sofer on Bava Batra 52a",
+                        "Chidushei Chatam Sofer on Bava Batra 52b",
+                        "Chidushei Chatam Sofer on Bava Batra 53a",
+                        "Chidushei Chatam Sofer on Bava Batra 53b",
+                        "Chidushei Chatam Sofer on Bava Batra 54a",
+                        "Chidushei Chatam Sofer on Bava Batra 54b",
+                        "Chidushei Chatam Sofer on Bava Batra 55a",
+                        "Chidushei Chatam Sofer on Bava Batra 55b",
+                        "Chidushei Chatam Sofer on Bava Batra 56a",
+                        "Chidushei Chatam Sofer on Bava Batra 56b",
+                        "Chidushei Chatam Sofer on Bava Batra 57a",
+                        "Chidushei Chatam Sofer on Bava Batra 57b",
+                        "Chidushei Chatam Sofer on Bava Batra 58a",
+                        "Chidushei Chatam Sofer on Bava Batra 58b",
+                        "Chidushei Chatam Sofer on Bava Batra 59a",
+                        "Chidushei Chatam Sofer on Bava Batra 59b",
+                        "Chidushei Chatam Sofer on Bava Batra 60a",
+                        "Chidushei Chatam Sofer on Bava Batra 60b:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 54
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי חתם סופר על בבא בתרא",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Chidushei Chatam Sofer on Bava Batra",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Chatam Sofer on Bava Batra",
+            "heTitle": "חידושי חתם סופר על בבא בתרא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

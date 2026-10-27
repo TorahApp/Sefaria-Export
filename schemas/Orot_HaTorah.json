@@ -16,6 +16,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -61,11 +68,19 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "orot-hatorah"
+                ]
+            }
+        ],
         "titles": [
             {
-                "primary": true,
+                "text": "אורות התורה",
                 "lang": "he",
-                "text": "אורות התורה"
+                "primary": true
             },
             {
                 "text": "Orot HaTorah",
@@ -79,13 +94,14 @@
     },
     "authors": [
         {
-            "en": "Avraham Yitzchak HaCohen Kook",
+            "en": "Abraham Isaac HaCohen Kook",
             "he": "הרב אברהם יצחק הכהן קוק",
-            "slug": "avraham-yitzchak-hacohen-kook"
+            "slug": "abraham-isaac-hacohen-kook"
         }
     ],
-    "enDesc": "Rav Kook's conceptual essay on the meaning, purpose and advisable structure of Torah study.",
-    "enShortDesc": "Short work on the meaning and purpose of Torah study, edited by Rav Kook’s son, Rav Tzvi Yehuda Kook.",
+    "enDesc": "Rav Kook's conceptual essay on the meaning, purpose, and advisable structure of Torah study, edited by Rav Kook’s son, Rav Zvi Yehuda Kook.",
+    "heDesc": "",
+    "enShortDesc": "Short work on the meaning and purpose of Torah study",
     "heShortDesc": "חיבורים קצרים הדנים במשמעות לימוד התורה ומטרתו, בעריכת בנו של הרב קוק, הרב צבי יהודה קוק.",
     "pubDate": [
         1940

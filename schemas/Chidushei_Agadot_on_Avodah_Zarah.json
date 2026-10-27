@@ -67,9 +67,12 @@
         ],
         "key": "Chidushei Agadot on Avodah Zarah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Maharsha",
+            "en": "Shmuel Eidels (Maharsha)",
             "he": "מהרש\"א",
             "slug": "maharsha"
         }
@@ -110,6 +113,616 @@
         "חידושי אגדות על מסכת עבודה זרה",
         " חידושי אגדות על מסכת עבודה זרה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Avodah Zarah 2a:1-20b:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-11"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; Lifnei Eideihen",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "לפני אידיהן",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Lifnei Eideihen",
+                    "heTitle": "לפני אידיהן",
+                    "refs": [
+                        "Chidushei Agadot on Avodah Zarah 2a:1-6",
+                        "Chidushei Agadot on Avodah Zarah 2b",
+                        "Chidushei Agadot on Avodah Zarah 3a",
+                        "Chidushei Agadot on Avodah Zarah 3b",
+                        "Chidushei Agadot on Avodah Zarah 4a",
+                        "Chidushei Agadot on Avodah Zarah 4b",
+                        "Chidushei Agadot on Avodah Zarah 5a",
+                        "Chidushei Agadot on Avodah Zarah 5b",
+                        "Chidushei Agadot on Avodah Zarah 6a",
+                        "Chidushei Agadot on Avodah Zarah 6b",
+                        "Chidushei Agadot on Avodah Zarah 7a",
+                        "Chidushei Agadot on Avodah Zarah 7b",
+                        "Chidushei Agadot on Avodah Zarah 8a",
+                        "Chidushei Agadot on Avodah Zarah 8b",
+                        "Chidushei Agadot on Avodah Zarah 9a",
+                        "Chidushei Agadot on Avodah Zarah 9b",
+                        "Chidushei Agadot on Avodah Zarah 10a",
+                        "Chidushei Agadot on Avodah Zarah 10b",
+                        "Chidushei Agadot on Avodah Zarah 11a",
+                        "Chidushei Agadot on Avodah Zarah 11b",
+                        "Chidushei Agadot on Avodah Zarah 12a",
+                        "Chidushei Agadot on Avodah Zarah 12b",
+                        "Chidushei Agadot on Avodah Zarah 13a",
+                        "Chidushei Agadot on Avodah Zarah 13b",
+                        "Chidushei Agadot on Avodah Zarah 14a",
+                        "Chidushei Agadot on Avodah Zarah 14b",
+                        "Chidushei Agadot on Avodah Zarah 15a",
+                        "Chidushei Agadot on Avodah Zarah 15b",
+                        "Chidushei Agadot on Avodah Zarah 16a",
+                        "Chidushei Agadot on Avodah Zarah 16b",
+                        "Chidushei Agadot on Avodah Zarah 17a",
+                        "Chidushei Agadot on Avodah Zarah 17b",
+                        "Chidushei Agadot on Avodah Zarah 18a",
+                        "Chidushei Agadot on Avodah Zarah 18b",
+                        "Chidushei Agadot on Avodah Zarah 19a",
+                        "Chidushei Agadot on Avodah Zarah 19b",
+                        "Chidushei Agadot on Avodah Zarah 20a",
+                        "Chidushei Agadot on Avodah Zarah 20b:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Avodah Zarah 22b:1-40b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-21"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Ein Ma'amidin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "אין מעמידין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Ein Ma'amidin",
+                    "heTitle": "אין מעמידין",
+                    "refs": [
+                        "Chidushei Agadot on Avodah Zarah 22b:1",
+                        "Chidushei Agadot on Avodah Zarah 23a",
+                        "Chidushei Agadot on Avodah Zarah 23b",
+                        "Chidushei Agadot on Avodah Zarah 24a",
+                        "Chidushei Agadot on Avodah Zarah 24b",
+                        "Chidushei Agadot on Avodah Zarah 25a",
+                        "Chidushei Agadot on Avodah Zarah 25b",
+                        "Chidushei Agadot on Avodah Zarah 26a",
+                        "Chidushei Agadot on Avodah Zarah 26b",
+                        "Chidushei Agadot on Avodah Zarah 27a",
+                        "Chidushei Agadot on Avodah Zarah 27b",
+                        "Chidushei Agadot on Avodah Zarah 28a",
+                        "Chidushei Agadot on Avodah Zarah 28b",
+                        "Chidushei Agadot on Avodah Zarah 29a",
+                        "Chidushei Agadot on Avodah Zarah 29b",
+                        "Chidushei Agadot on Avodah Zarah 30a",
+                        "Chidushei Agadot on Avodah Zarah 30b",
+                        "Chidushei Agadot on Avodah Zarah 31a",
+                        "Chidushei Agadot on Avodah Zarah 31b",
+                        "Chidushei Agadot on Avodah Zarah 32a",
+                        "Chidushei Agadot on Avodah Zarah 32b",
+                        "Chidushei Agadot on Avodah Zarah 33a",
+                        "Chidushei Agadot on Avodah Zarah 33b",
+                        "Chidushei Agadot on Avodah Zarah 34a",
+                        "Chidushei Agadot on Avodah Zarah 34b",
+                        "Chidushei Agadot on Avodah Zarah 35a",
+                        "Chidushei Agadot on Avodah Zarah 35b",
+                        "Chidushei Agadot on Avodah Zarah 36a",
+                        "Chidushei Agadot on Avodah Zarah 36b",
+                        "Chidushei Agadot on Avodah Zarah 37a",
+                        "Chidushei Agadot on Avodah Zarah 37b",
+                        "Chidushei Agadot on Avodah Zarah 38a",
+                        "Chidushei Agadot on Avodah Zarah 38b",
+                        "Chidushei Agadot on Avodah Zarah 39a",
+                        "Chidushei Agadot on Avodah Zarah 39b",
+                        "Chidushei Agadot on Avodah Zarah 40a",
+                        "Chidushei Agadot on Avodah Zarah 40b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 43
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Avodah Zarah 44a:1-5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-31"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; Kol HaTzelamim",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "כל הצלמים",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Kol HaTzelamim",
+                    "heTitle": "כל הצלמים",
+                    "refs": [
+                        "Chidushei Agadot on Avodah Zarah 44a:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 86
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Agadot on Avodah Zarah 54b:1-55a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "bavli",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "talmud",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-agadot",
+                                "gemara",
+                                "perek",
+                                "chapter-41"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 4; Rabbi Yishmael",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "רבי ישמעאל",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Rabbi Yishmael",
+                    "heTitle": "רבי ישמעאל",
+                    "refs": [
+                        "Chidushei Agadot on Avodah Zarah 54b:1-4",
+                        "Chidushei Agadot on Avodah Zarah 55a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 107
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי אגדות על עבודה זרה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "חידושי אגדות על מסכת עבודה זרה",
+                    "lang": "he"
+                },
+                {
+                    "text": " חידושי אגדות על מסכת עבודה זרה",
+                    "lang": "he"
+                },
+                {
+                    "text": "Chidushei Agadot on Avodah Zarah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Agadot on Avodah Zarah",
+            "heTitle": "חידושי אגדות על עבודה זרה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

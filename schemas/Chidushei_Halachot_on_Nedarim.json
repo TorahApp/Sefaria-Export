@@ -59,9 +59,12 @@
         ],
         "key": "Chidushei Halachot on Nedarim"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Maharsha",
+            "en": "Shmuel Eidels (Maharsha)",
             "he": "מהרש\"א",
             "slug": "maharsha"
         }
@@ -97,6 +100,1523 @@
     "heTitleVariants": [
         "חדושי הלכות על נדרים"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Nedarim 2a:1-91b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Kol Kinnuyei",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל כנויי",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Kol Kinnuyei",
+                    "heTitle": "כל כנויי",
+                    "refs": [
+                        "Chidushei Halachot on Nedarim 2a:1",
+                        "Chidushei Halachot on Nedarim 2b",
+                        "Chidushei Halachot on Nedarim 3a",
+                        "Chidushei Halachot on Nedarim 3b",
+                        "Chidushei Halachot on Nedarim 4a",
+                        "Chidushei Halachot on Nedarim 4b",
+                        "Chidushei Halachot on Nedarim 5a",
+                        "Chidushei Halachot on Nedarim 5b",
+                        "Chidushei Halachot on Nedarim 6a",
+                        "Chidushei Halachot on Nedarim 6b",
+                        "Chidushei Halachot on Nedarim 7a",
+                        "Chidushei Halachot on Nedarim 7b",
+                        "Chidushei Halachot on Nedarim 8a",
+                        "Chidushei Halachot on Nedarim 8b",
+                        "Chidushei Halachot on Nedarim 9a",
+                        "Chidushei Halachot on Nedarim 9b",
+                        "Chidushei Halachot on Nedarim 10a",
+                        "Chidushei Halachot on Nedarim 10b",
+                        "Chidushei Halachot on Nedarim 11a",
+                        "Chidushei Halachot on Nedarim 11b",
+                        "Chidushei Halachot on Nedarim 12a",
+                        "Chidushei Halachot on Nedarim 12b",
+                        "Chidushei Halachot on Nedarim 13a",
+                        "Chidushei Halachot on Nedarim 13b",
+                        "Chidushei Halachot on Nedarim 14a",
+                        "Chidushei Halachot on Nedarim 14b",
+                        "Chidushei Halachot on Nedarim 15a",
+                        "Chidushei Halachot on Nedarim 15b",
+                        "Chidushei Halachot on Nedarim 16a",
+                        "Chidushei Halachot on Nedarim 16b",
+                        "Chidushei Halachot on Nedarim 17a",
+                        "Chidushei Halachot on Nedarim 17b",
+                        "Chidushei Halachot on Nedarim 18a",
+                        "Chidushei Halachot on Nedarim 18b",
+                        "Chidushei Halachot on Nedarim 19a",
+                        "Chidushei Halachot on Nedarim 19b",
+                        "Chidushei Halachot on Nedarim 20a",
+                        "Chidushei Halachot on Nedarim 20b",
+                        "Chidushei Halachot on Nedarim 21a",
+                        "Chidushei Halachot on Nedarim 21b",
+                        "Chidushei Halachot on Nedarim 22a",
+                        "Chidushei Halachot on Nedarim 22b",
+                        "Chidushei Halachot on Nedarim 23a",
+                        "Chidushei Halachot on Nedarim 23b",
+                        "Chidushei Halachot on Nedarim 24a",
+                        "Chidushei Halachot on Nedarim 24b",
+                        "Chidushei Halachot on Nedarim 25a",
+                        "Chidushei Halachot on Nedarim 25b",
+                        "Chidushei Halachot on Nedarim 26a",
+                        "Chidushei Halachot on Nedarim 26b",
+                        "Chidushei Halachot on Nedarim 27a",
+                        "Chidushei Halachot on Nedarim 27b",
+                        "Chidushei Halachot on Nedarim 28a",
+                        "Chidushei Halachot on Nedarim 28b",
+                        "Chidushei Halachot on Nedarim 29a",
+                        "Chidushei Halachot on Nedarim 29b",
+                        "Chidushei Halachot on Nedarim 30a",
+                        "Chidushei Halachot on Nedarim 30b",
+                        "Chidushei Halachot on Nedarim 31a",
+                        "Chidushei Halachot on Nedarim 31b",
+                        "Chidushei Halachot on Nedarim 32a",
+                        "Chidushei Halachot on Nedarim 32b",
+                        "Chidushei Halachot on Nedarim 33a",
+                        "Chidushei Halachot on Nedarim 33b",
+                        "Chidushei Halachot on Nedarim 34a",
+                        "Chidushei Halachot on Nedarim 34b",
+                        "Chidushei Halachot on Nedarim 35a",
+                        "Chidushei Halachot on Nedarim 35b",
+                        "Chidushei Halachot on Nedarim 36a",
+                        "Chidushei Halachot on Nedarim 36b",
+                        "Chidushei Halachot on Nedarim 37a",
+                        "Chidushei Halachot on Nedarim 37b",
+                        "Chidushei Halachot on Nedarim 38a",
+                        "Chidushei Halachot on Nedarim 38b",
+                        "Chidushei Halachot on Nedarim 39a",
+                        "Chidushei Halachot on Nedarim 39b",
+                        "Chidushei Halachot on Nedarim 40a",
+                        "Chidushei Halachot on Nedarim 40b",
+                        "Chidushei Halachot on Nedarim 41a",
+                        "Chidushei Halachot on Nedarim 41b",
+                        "Chidushei Halachot on Nedarim 42a",
+                        "Chidushei Halachot on Nedarim 42b",
+                        "Chidushei Halachot on Nedarim 43a",
+                        "Chidushei Halachot on Nedarim 43b",
+                        "Chidushei Halachot on Nedarim 44a",
+                        "Chidushei Halachot on Nedarim 44b",
+                        "Chidushei Halachot on Nedarim 45a",
+                        "Chidushei Halachot on Nedarim 45b",
+                        "Chidushei Halachot on Nedarim 46a",
+                        "Chidushei Halachot on Nedarim 46b",
+                        "Chidushei Halachot on Nedarim 47a",
+                        "Chidushei Halachot on Nedarim 47b",
+                        "Chidushei Halachot on Nedarim 48a",
+                        "Chidushei Halachot on Nedarim 48b",
+                        "Chidushei Halachot on Nedarim 49a",
+                        "Chidushei Halachot on Nedarim 49b",
+                        "Chidushei Halachot on Nedarim 50a",
+                        "Chidushei Halachot on Nedarim 50b",
+                        "Chidushei Halachot on Nedarim 51a",
+                        "Chidushei Halachot on Nedarim 51b",
+                        "Chidushei Halachot on Nedarim 52a",
+                        "Chidushei Halachot on Nedarim 52b",
+                        "Chidushei Halachot on Nedarim 53a",
+                        "Chidushei Halachot on Nedarim 53b",
+                        "Chidushei Halachot on Nedarim 54a",
+                        "Chidushei Halachot on Nedarim 54b",
+                        "Chidushei Halachot on Nedarim 55a",
+                        "Chidushei Halachot on Nedarim 55b",
+                        "Chidushei Halachot on Nedarim 56a",
+                        "Chidushei Halachot on Nedarim 56b",
+                        "Chidushei Halachot on Nedarim 57a",
+                        "Chidushei Halachot on Nedarim 57b",
+                        "Chidushei Halachot on Nedarim 58a",
+                        "Chidushei Halachot on Nedarim 58b",
+                        "Chidushei Halachot on Nedarim 59a",
+                        "Chidushei Halachot on Nedarim 59b",
+                        "Chidushei Halachot on Nedarim 60a",
+                        "Chidushei Halachot on Nedarim 60b",
+                        "Chidushei Halachot on Nedarim 61a",
+                        "Chidushei Halachot on Nedarim 61b",
+                        "Chidushei Halachot on Nedarim 62a",
+                        "Chidushei Halachot on Nedarim 62b",
+                        "Chidushei Halachot on Nedarim 63a",
+                        "Chidushei Halachot on Nedarim 63b",
+                        "Chidushei Halachot on Nedarim 64a",
+                        "Chidushei Halachot on Nedarim 64b",
+                        "Chidushei Halachot on Nedarim 65a",
+                        "Chidushei Halachot on Nedarim 65b",
+                        "Chidushei Halachot on Nedarim 66a",
+                        "Chidushei Halachot on Nedarim 66b",
+                        "Chidushei Halachot on Nedarim 67a",
+                        "Chidushei Halachot on Nedarim 67b",
+                        "Chidushei Halachot on Nedarim 68a",
+                        "Chidushei Halachot on Nedarim 68b",
+                        "Chidushei Halachot on Nedarim 69a",
+                        "Chidushei Halachot on Nedarim 69b",
+                        "Chidushei Halachot on Nedarim 70a",
+                        "Chidushei Halachot on Nedarim 70b",
+                        "Chidushei Halachot on Nedarim 71a",
+                        "Chidushei Halachot on Nedarim 71b",
+                        "Chidushei Halachot on Nedarim 72a",
+                        "Chidushei Halachot on Nedarim 72b",
+                        "Chidushei Halachot on Nedarim 73a",
+                        "Chidushei Halachot on Nedarim 73b",
+                        "Chidushei Halachot on Nedarim 74a",
+                        "Chidushei Halachot on Nedarim 74b",
+                        "Chidushei Halachot on Nedarim 75a",
+                        "Chidushei Halachot on Nedarim 75b",
+                        "Chidushei Halachot on Nedarim 76a",
+                        "Chidushei Halachot on Nedarim 76b",
+                        "Chidushei Halachot on Nedarim 77a",
+                        "Chidushei Halachot on Nedarim 77b",
+                        "Chidushei Halachot on Nedarim 78a",
+                        "Chidushei Halachot on Nedarim 78b",
+                        "Chidushei Halachot on Nedarim 79a",
+                        "Chidushei Halachot on Nedarim 79b",
+                        "Chidushei Halachot on Nedarim 80a",
+                        "Chidushei Halachot on Nedarim 80b",
+                        "Chidushei Halachot on Nedarim 81a",
+                        "Chidushei Halachot on Nedarim 81b",
+                        "Chidushei Halachot on Nedarim 82a",
+                        "Chidushei Halachot on Nedarim 82b",
+                        "Chidushei Halachot on Nedarim 83a",
+                        "Chidushei Halachot on Nedarim 83b",
+                        "Chidushei Halachot on Nedarim 84a",
+                        "Chidushei Halachot on Nedarim 84b",
+                        "Chidushei Halachot on Nedarim 85a",
+                        "Chidushei Halachot on Nedarim 85b",
+                        "Chidushei Halachot on Nedarim 86a",
+                        "Chidushei Halachot on Nedarim 86b",
+                        "Chidushei Halachot on Nedarim 87a",
+                        "Chidushei Halachot on Nedarim 87b",
+                        "Chidushei Halachot on Nedarim 88a",
+                        "Chidushei Halachot on Nedarim 88b",
+                        "Chidushei Halachot on Nedarim 89a",
+                        "Chidushei Halachot on Nedarim 89b",
+                        "Chidushei Halachot on Nedarim 90a",
+                        "Chidushei Halachot on Nedarim 90b",
+                        "Chidushei Halachot on Nedarim 91a",
+                        "Chidushei Halachot on Nedarim 91b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Nedarim 20b:10-91b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; Arba'ah Nedarim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "ארבעה נדרים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; Arba'ah Nedarim",
+                    "heTitle": "ארבעה נדרים",
+                    "refs": [
+                        "Chidushei Halachot on Nedarim 20b:10",
+                        "Chidushei Halachot on Nedarim 21a",
+                        "Chidushei Halachot on Nedarim 21b",
+                        "Chidushei Halachot on Nedarim 22a",
+                        "Chidushei Halachot on Nedarim 22b",
+                        "Chidushei Halachot on Nedarim 23a",
+                        "Chidushei Halachot on Nedarim 23b",
+                        "Chidushei Halachot on Nedarim 24a",
+                        "Chidushei Halachot on Nedarim 24b",
+                        "Chidushei Halachot on Nedarim 25a",
+                        "Chidushei Halachot on Nedarim 25b",
+                        "Chidushei Halachot on Nedarim 26a",
+                        "Chidushei Halachot on Nedarim 26b",
+                        "Chidushei Halachot on Nedarim 27a",
+                        "Chidushei Halachot on Nedarim 27b",
+                        "Chidushei Halachot on Nedarim 28a",
+                        "Chidushei Halachot on Nedarim 28b",
+                        "Chidushei Halachot on Nedarim 29a",
+                        "Chidushei Halachot on Nedarim 29b",
+                        "Chidushei Halachot on Nedarim 30a",
+                        "Chidushei Halachot on Nedarim 30b",
+                        "Chidushei Halachot on Nedarim 31a",
+                        "Chidushei Halachot on Nedarim 31b",
+                        "Chidushei Halachot on Nedarim 32a",
+                        "Chidushei Halachot on Nedarim 32b",
+                        "Chidushei Halachot on Nedarim 33a",
+                        "Chidushei Halachot on Nedarim 33b",
+                        "Chidushei Halachot on Nedarim 34a",
+                        "Chidushei Halachot on Nedarim 34b",
+                        "Chidushei Halachot on Nedarim 35a",
+                        "Chidushei Halachot on Nedarim 35b",
+                        "Chidushei Halachot on Nedarim 36a",
+                        "Chidushei Halachot on Nedarim 36b",
+                        "Chidushei Halachot on Nedarim 37a",
+                        "Chidushei Halachot on Nedarim 37b",
+                        "Chidushei Halachot on Nedarim 38a",
+                        "Chidushei Halachot on Nedarim 38b",
+                        "Chidushei Halachot on Nedarim 39a",
+                        "Chidushei Halachot on Nedarim 39b",
+                        "Chidushei Halachot on Nedarim 40a",
+                        "Chidushei Halachot on Nedarim 40b",
+                        "Chidushei Halachot on Nedarim 41a",
+                        "Chidushei Halachot on Nedarim 41b",
+                        "Chidushei Halachot on Nedarim 42a",
+                        "Chidushei Halachot on Nedarim 42b",
+                        "Chidushei Halachot on Nedarim 43a",
+                        "Chidushei Halachot on Nedarim 43b",
+                        "Chidushei Halachot on Nedarim 44a",
+                        "Chidushei Halachot on Nedarim 44b",
+                        "Chidushei Halachot on Nedarim 45a",
+                        "Chidushei Halachot on Nedarim 45b",
+                        "Chidushei Halachot on Nedarim 46a",
+                        "Chidushei Halachot on Nedarim 46b",
+                        "Chidushei Halachot on Nedarim 47a",
+                        "Chidushei Halachot on Nedarim 47b",
+                        "Chidushei Halachot on Nedarim 48a",
+                        "Chidushei Halachot on Nedarim 48b",
+                        "Chidushei Halachot on Nedarim 49a",
+                        "Chidushei Halachot on Nedarim 49b",
+                        "Chidushei Halachot on Nedarim 50a",
+                        "Chidushei Halachot on Nedarim 50b",
+                        "Chidushei Halachot on Nedarim 51a",
+                        "Chidushei Halachot on Nedarim 51b",
+                        "Chidushei Halachot on Nedarim 52a",
+                        "Chidushei Halachot on Nedarim 52b",
+                        "Chidushei Halachot on Nedarim 53a",
+                        "Chidushei Halachot on Nedarim 53b",
+                        "Chidushei Halachot on Nedarim 54a",
+                        "Chidushei Halachot on Nedarim 54b",
+                        "Chidushei Halachot on Nedarim 55a",
+                        "Chidushei Halachot on Nedarim 55b",
+                        "Chidushei Halachot on Nedarim 56a",
+                        "Chidushei Halachot on Nedarim 56b",
+                        "Chidushei Halachot on Nedarim 57a",
+                        "Chidushei Halachot on Nedarim 57b",
+                        "Chidushei Halachot on Nedarim 58a",
+                        "Chidushei Halachot on Nedarim 58b",
+                        "Chidushei Halachot on Nedarim 59a",
+                        "Chidushei Halachot on Nedarim 59b",
+                        "Chidushei Halachot on Nedarim 60a",
+                        "Chidushei Halachot on Nedarim 60b",
+                        "Chidushei Halachot on Nedarim 61a",
+                        "Chidushei Halachot on Nedarim 61b",
+                        "Chidushei Halachot on Nedarim 62a",
+                        "Chidushei Halachot on Nedarim 62b",
+                        "Chidushei Halachot on Nedarim 63a",
+                        "Chidushei Halachot on Nedarim 63b",
+                        "Chidushei Halachot on Nedarim 64a",
+                        "Chidushei Halachot on Nedarim 64b",
+                        "Chidushei Halachot on Nedarim 65a",
+                        "Chidushei Halachot on Nedarim 65b",
+                        "Chidushei Halachot on Nedarim 66a",
+                        "Chidushei Halachot on Nedarim 66b",
+                        "Chidushei Halachot on Nedarim 67a",
+                        "Chidushei Halachot on Nedarim 67b",
+                        "Chidushei Halachot on Nedarim 68a",
+                        "Chidushei Halachot on Nedarim 68b",
+                        "Chidushei Halachot on Nedarim 69a",
+                        "Chidushei Halachot on Nedarim 69b",
+                        "Chidushei Halachot on Nedarim 70a",
+                        "Chidushei Halachot on Nedarim 70b",
+                        "Chidushei Halachot on Nedarim 71a",
+                        "Chidushei Halachot on Nedarim 71b",
+                        "Chidushei Halachot on Nedarim 72a",
+                        "Chidushei Halachot on Nedarim 72b",
+                        "Chidushei Halachot on Nedarim 73a",
+                        "Chidushei Halachot on Nedarim 73b",
+                        "Chidushei Halachot on Nedarim 74a",
+                        "Chidushei Halachot on Nedarim 74b",
+                        "Chidushei Halachot on Nedarim 75a",
+                        "Chidushei Halachot on Nedarim 75b",
+                        "Chidushei Halachot on Nedarim 76a",
+                        "Chidushei Halachot on Nedarim 76b",
+                        "Chidushei Halachot on Nedarim 77a",
+                        "Chidushei Halachot on Nedarim 77b",
+                        "Chidushei Halachot on Nedarim 78a",
+                        "Chidushei Halachot on Nedarim 78b",
+                        "Chidushei Halachot on Nedarim 79a",
+                        "Chidushei Halachot on Nedarim 79b",
+                        "Chidushei Halachot on Nedarim 80a",
+                        "Chidushei Halachot on Nedarim 80b",
+                        "Chidushei Halachot on Nedarim 81a",
+                        "Chidushei Halachot on Nedarim 81b",
+                        "Chidushei Halachot on Nedarim 82a",
+                        "Chidushei Halachot on Nedarim 82b",
+                        "Chidushei Halachot on Nedarim 83a",
+                        "Chidushei Halachot on Nedarim 83b",
+                        "Chidushei Halachot on Nedarim 84a",
+                        "Chidushei Halachot on Nedarim 84b",
+                        "Chidushei Halachot on Nedarim 85a",
+                        "Chidushei Halachot on Nedarim 85b",
+                        "Chidushei Halachot on Nedarim 86a",
+                        "Chidushei Halachot on Nedarim 86b",
+                        "Chidushei Halachot on Nedarim 87a",
+                        "Chidushei Halachot on Nedarim 87b",
+                        "Chidushei Halachot on Nedarim 88a",
+                        "Chidushei Halachot on Nedarim 88b",
+                        "Chidushei Halachot on Nedarim 89a",
+                        "Chidushei Halachot on Nedarim 89b",
+                        "Chidushei Halachot on Nedarim 90a",
+                        "Chidushei Halachot on Nedarim 90b",
+                        "Chidushei Halachot on Nedarim 91a",
+                        "Chidushei Halachot on Nedarim 91b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 39
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Nedarim 45b:4-49a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-516"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 5; HaShuttafin SheNadru",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "השותפין שנדרו",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 5; HaShuttafin SheNadru",
+                    "heTitle": "השותפין שנדרו",
+                    "refs": [
+                        "Chidushei Halachot on Nedarim 45b:4",
+                        "Chidushei Halachot on Nedarim 46a",
+                        "Chidushei Halachot on Nedarim 46b",
+                        "Chidushei Halachot on Nedarim 47a",
+                        "Chidushei Halachot on Nedarim 47b",
+                        "Chidushei Halachot on Nedarim 48a",
+                        "Chidushei Halachot on Nedarim 48b",
+                        "Chidushei Halachot on Nedarim 49a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 89
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Nedarim 49a:4-54a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 6; HaNoder Min HaMevushal",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הנודר מן המבושל",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; HaNoder Min HaMevushal",
+                    "heTitle": "הנודר מן המבושל",
+                    "refs": [
+                        "Chidushei Halachot on Nedarim 49a:4-6",
+                        "Chidushei Halachot on Nedarim 49b",
+                        "Chidushei Halachot on Nedarim 50a",
+                        "Chidushei Halachot on Nedarim 50b",
+                        "Chidushei Halachot on Nedarim 51a",
+                        "Chidushei Halachot on Nedarim 51b",
+                        "Chidushei Halachot on Nedarim 52a",
+                        "Chidushei Halachot on Nedarim 52b",
+                        "Chidushei Halachot on Nedarim 53a",
+                        "Chidushei Halachot on Nedarim 53b",
+                        "Chidushei Halachot on Nedarim 54a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 96
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Nedarim 54a:4-91b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 7; HaNoder Min HaYarak",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הנודר מן הירק",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 7; HaNoder Min HaYarak",
+                    "heTitle": "הנודר מן הירק",
+                    "refs": [
+                        "Chidushei Halachot on Nedarim 54a:4",
+                        "Chidushei Halachot on Nedarim 54b",
+                        "Chidushei Halachot on Nedarim 55a",
+                        "Chidushei Halachot on Nedarim 55b",
+                        "Chidushei Halachot on Nedarim 56a",
+                        "Chidushei Halachot on Nedarim 56b",
+                        "Chidushei Halachot on Nedarim 57a",
+                        "Chidushei Halachot on Nedarim 57b",
+                        "Chidushei Halachot on Nedarim 58a",
+                        "Chidushei Halachot on Nedarim 58b",
+                        "Chidushei Halachot on Nedarim 59a",
+                        "Chidushei Halachot on Nedarim 59b",
+                        "Chidushei Halachot on Nedarim 60a",
+                        "Chidushei Halachot on Nedarim 60b",
+                        "Chidushei Halachot on Nedarim 61a",
+                        "Chidushei Halachot on Nedarim 61b",
+                        "Chidushei Halachot on Nedarim 62a",
+                        "Chidushei Halachot on Nedarim 62b",
+                        "Chidushei Halachot on Nedarim 63a",
+                        "Chidushei Halachot on Nedarim 63b",
+                        "Chidushei Halachot on Nedarim 64a",
+                        "Chidushei Halachot on Nedarim 64b",
+                        "Chidushei Halachot on Nedarim 65a",
+                        "Chidushei Halachot on Nedarim 65b",
+                        "Chidushei Halachot on Nedarim 66a",
+                        "Chidushei Halachot on Nedarim 66b",
+                        "Chidushei Halachot on Nedarim 67a",
+                        "Chidushei Halachot on Nedarim 67b",
+                        "Chidushei Halachot on Nedarim 68a",
+                        "Chidushei Halachot on Nedarim 68b",
+                        "Chidushei Halachot on Nedarim 69a",
+                        "Chidushei Halachot on Nedarim 69b",
+                        "Chidushei Halachot on Nedarim 70a",
+                        "Chidushei Halachot on Nedarim 70b",
+                        "Chidushei Halachot on Nedarim 71a",
+                        "Chidushei Halachot on Nedarim 71b",
+                        "Chidushei Halachot on Nedarim 72a",
+                        "Chidushei Halachot on Nedarim 72b",
+                        "Chidushei Halachot on Nedarim 73a",
+                        "Chidushei Halachot on Nedarim 73b",
+                        "Chidushei Halachot on Nedarim 74a",
+                        "Chidushei Halachot on Nedarim 74b",
+                        "Chidushei Halachot on Nedarim 75a",
+                        "Chidushei Halachot on Nedarim 75b",
+                        "Chidushei Halachot on Nedarim 76a",
+                        "Chidushei Halachot on Nedarim 76b",
+                        "Chidushei Halachot on Nedarim 77a",
+                        "Chidushei Halachot on Nedarim 77b",
+                        "Chidushei Halachot on Nedarim 78a",
+                        "Chidushei Halachot on Nedarim 78b",
+                        "Chidushei Halachot on Nedarim 79a",
+                        "Chidushei Halachot on Nedarim 79b",
+                        "Chidushei Halachot on Nedarim 80a",
+                        "Chidushei Halachot on Nedarim 80b",
+                        "Chidushei Halachot on Nedarim 81a",
+                        "Chidushei Halachot on Nedarim 81b",
+                        "Chidushei Halachot on Nedarim 82a",
+                        "Chidushei Halachot on Nedarim 82b",
+                        "Chidushei Halachot on Nedarim 83a",
+                        "Chidushei Halachot on Nedarim 83b",
+                        "Chidushei Halachot on Nedarim 84a",
+                        "Chidushei Halachot on Nedarim 84b",
+                        "Chidushei Halachot on Nedarim 85a",
+                        "Chidushei Halachot on Nedarim 85b",
+                        "Chidushei Halachot on Nedarim 86a",
+                        "Chidushei Halachot on Nedarim 86b",
+                        "Chidushei Halachot on Nedarim 87a",
+                        "Chidushei Halachot on Nedarim 87b",
+                        "Chidushei Halachot on Nedarim 88a",
+                        "Chidushei Halachot on Nedarim 88b",
+                        "Chidushei Halachot on Nedarim 89a",
+                        "Chidushei Halachot on Nedarim 89b",
+                        "Chidushei Halachot on Nedarim 90a",
+                        "Chidushei Halachot on Nedarim 90b",
+                        "Chidushei Halachot on Nedarim 91a",
+                        "Chidushei Halachot on Nedarim 91b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 106
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Nedarim 64a:1-66b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 9; Rabbi Eliezer",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "רבי אליעזר",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 9; Rabbi Eliezer",
+                    "heTitle": "רבי אליעזר",
+                    "refs": [
+                        "Chidushei Halachot on Nedarim 64a:1-7",
+                        "Chidushei Halachot on Nedarim 64b",
+                        "Chidushei Halachot on Nedarim 65a",
+                        "Chidushei Halachot on Nedarim 65b",
+                        "Chidushei Halachot on Nedarim 66a",
+                        "Chidushei Halachot on Nedarim 66b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 126
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Nedarim 67a:1-79a:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "tenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 10,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 10; Na'arah HaMeorasah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "נערה המאורסה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 10; Na'arah HaMeorasah",
+                    "heTitle": "נערה המאורסה",
+                    "refs": [
+                        "Chidushei Halachot on Nedarim 67a:1-11",
+                        "Chidushei Halachot on Nedarim 67b",
+                        "Chidushei Halachot on Nedarim 68a",
+                        "Chidushei Halachot on Nedarim 68b",
+                        "Chidushei Halachot on Nedarim 69a",
+                        "Chidushei Halachot on Nedarim 69b",
+                        "Chidushei Halachot on Nedarim 70a",
+                        "Chidushei Halachot on Nedarim 70b",
+                        "Chidushei Halachot on Nedarim 71a",
+                        "Chidushei Halachot on Nedarim 71b",
+                        "Chidushei Halachot on Nedarim 72a",
+                        "Chidushei Halachot on Nedarim 72b",
+                        "Chidushei Halachot on Nedarim 73a",
+                        "Chidushei Halachot on Nedarim 73b",
+                        "Chidushei Halachot on Nedarim 74a",
+                        "Chidushei Halachot on Nedarim 74b",
+                        "Chidushei Halachot on Nedarim 75a",
+                        "Chidushei Halachot on Nedarim 75b",
+                        "Chidushei Halachot on Nedarim 76a",
+                        "Chidushei Halachot on Nedarim 76b",
+                        "Chidushei Halachot on Nedarim 77a",
+                        "Chidushei Halachot on Nedarim 77b",
+                        "Chidushei Halachot on Nedarim 78a",
+                        "Chidushei Halachot on Nedarim 78b",
+                        "Chidushei Halachot on Nedarim 79a:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 132
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Halachot on Nedarim 79b:1-91b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "eleventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "bavli",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "talmud",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chidushei-halachot",
+                                "gemara",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 11,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 11; VeEllu Nedarim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "ואלו נדרים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 11; VeEllu Nedarim",
+                    "heTitle": "ואלו נדרים",
+                    "refs": [
+                        "Chidushei Halachot on Nedarim 79b:1-7",
+                        "Chidushei Halachot on Nedarim 80a",
+                        "Chidushei Halachot on Nedarim 80b",
+                        "Chidushei Halachot on Nedarim 81a",
+                        "Chidushei Halachot on Nedarim 81b",
+                        "Chidushei Halachot on Nedarim 82a",
+                        "Chidushei Halachot on Nedarim 82b",
+                        "Chidushei Halachot on Nedarim 83a",
+                        "Chidushei Halachot on Nedarim 83b",
+                        "Chidushei Halachot on Nedarim 84a",
+                        "Chidushei Halachot on Nedarim 84b",
+                        "Chidushei Halachot on Nedarim 85a",
+                        "Chidushei Halachot on Nedarim 85b",
+                        "Chidushei Halachot on Nedarim 86a",
+                        "Chidushei Halachot on Nedarim 86b",
+                        "Chidushei Halachot on Nedarim 87a",
+                        "Chidushei Halachot on Nedarim 87b",
+                        "Chidushei Halachot on Nedarim 88a",
+                        "Chidushei Halachot on Nedarim 88b",
+                        "Chidushei Halachot on Nedarim 89a",
+                        "Chidushei Halachot on Nedarim 89b",
+                        "Chidushei Halachot on Nedarim 90a",
+                        "Chidushei Halachot on Nedarim 90b",
+                        "Chidushei Halachot on Nedarim 91a",
+                        "Chidushei Halachot on Nedarim 91b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 157
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "text": "חדושי הלכות על נדרים",
+                    "lang": "he"
+                },
+                {
+                    "text": "Chidushei Halachot on Nedarim",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Halachot on Nedarim",
+            "heTitle": "חדושי הלכות על נדרים"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

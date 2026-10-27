@@ -2,7 +2,8 @@
     "title": "Chafetz Chaim on Sifra",
     "categories": [
         "Midrash",
-        "Halakhah"
+        "Halakhah",
+        "Commentary"
     ],
     "schema": {
         "nodes": [
@@ -52,17 +53,17 @@
                 ],
                 "titles": [
                     {
-                        "text": "Braita d'Rabbi Yishmael",
-                        "lang": "en",
-                        "primary": true
-                    },
-                    {
                         "text": "ברייתא דרבי ישמעאל",
                         "lang": "he",
                         "primary": true
+                    },
+                    {
+                        "text": "Baraita DeRabbi Yishmael",
+                        "lang": "en",
+                        "primary": true
                     }
                 ],
-                "title": "Braita d'Rabbi Yishmael",
+                "title": "Baraita DeRabbi Yishmael",
                 "heTitle": "ברייתא דרבי ישמעאל",
                 "heSectionNames": [
                     "פסקה",
@@ -1098,17 +1099,17 @@
                 ],
                 "titles": [
                     {
-                        "text": "Vayikra Dibbura d'Nedavah",
-                        "lang": "en",
-                        "primary": true
-                    },
-                    {
                         "text": "ויקרא דבורא דנדבה",
                         "lang": "he",
                         "primary": true
+                    },
+                    {
+                        "text": "Vayikra Dibbura DeNedavah",
+                        "lang": "en",
+                        "primary": true
                     }
                 ],
-                "title": "Vayikra Dibbura d'Nedavah",
+                "title": "Vayikra Dibbura DeNedavah",
                 "heTitle": "ויקרא דבורא דנדבה",
                 "key": "Vayikra Dibbura d'Nedavah"
             },
@@ -2233,17 +2234,17 @@
                 ],
                 "titles": [
                     {
-                        "text": "Vayikra Dibbura d'Chovah",
-                        "lang": "en",
-                        "primary": true
-                    },
-                    {
                         "text": "ויקרא דבורא דחובה",
                         "lang": "he",
                         "primary": true
+                    },
+                    {
+                        "text": "Vayikra Dibbura DeChovah",
+                        "lang": "en",
+                        "primary": true
                     }
                 ],
-                "title": "Vayikra Dibbura d'Chovah",
+                "title": "Vayikra Dibbura DeChovah",
                 "heTitle": "ויקרא דבורא דחובה",
                 "key": "Vayikra Dibbura d'Chovah"
             },
@@ -3130,17 +3131,17 @@
                         ],
                         "titles": [
                             {
-                                "text": "Mechilta d'Miluim 1",
-                                "lang": "en",
-                                "primary": true
-                            },
-                            {
                                 "text": "מכילתא דמילואים א",
                                 "lang": "he",
                                 "primary": true
+                            },
+                            {
+                                "text": "Mekhilta DeMiluim I",
+                                "lang": "en",
+                                "primary": true
                             }
                         ],
-                        "title": "Mechilta d'Miluim 1",
+                        "title": "Mekhilta DeMiluim I",
                         "heTitle": "מכילתא דמילואים א",
                         "heSectionNames": [
                             "פסקה",
@@ -3189,17 +3190,17 @@
                         ],
                         "titles": [
                             {
-                                "text": "Mechilta d'Miluim 2",
-                                "lang": "en",
-                                "primary": true
-                            },
-                            {
                                 "text": "מכילתא דמילואים ב",
                                 "lang": "he",
                                 "primary": true
+                            },
+                            {
+                                "text": "Mekhilta DeMiluim II",
+                                "lang": "en",
+                                "primary": true
                             }
                         ],
-                        "title": "Mechilta d'Miluim 2",
+                        "title": "Mekhilta DeMiluim II",
                         "heTitle": "מכילתא דמילואים ב",
                         "heSectionNames": [
                             "פסקה",
@@ -3721,13 +3722,13 @@
                                 "primary": true
                             },
                             {
-                                "text": "פרק ח",
+                                "text": "פרשה ח",
                                 "lang": "he",
                                 "primary": true
                             }
                         ],
                         "title": "Section 8",
-                        "heTitle": "פרק ח",
+                        "heTitle": "פרשה ח",
                         "heSectionNames": [
                             "פסקה",
                             ""
@@ -4736,17 +4737,17 @@
                 ],
                 "titles": [
                     {
-                        "text": "Tazria Parashat Nega'im",
-                        "lang": "en",
-                        "primary": true
-                    },
-                    {
                         "text": "תזריע פרשת נגעים",
                         "lang": "he",
                         "primary": true
+                    },
+                    {
+                        "text": "Tazria Parashat Negaim",
+                        "lang": "en",
+                        "primary": true
                     }
                 ],
-                "title": "Tazria Parashat Nega'im",
+                "title": "Tazria Parashat Negaim",
                 "heTitle": "תזריע פרשת נגעים",
                 "key": "Tazria Parashat Nega'im"
             },
@@ -5018,13 +5019,13 @@
                                 "primary": true
                             },
                             {
-                                "text": "פרק ו",
+                                "text": "פרשה ו",
                                 "lang": "he",
                                 "primary": true
                             }
                         ],
                         "title": "Section 6",
-                        "heTitle": "פרק ו",
+                        "heTitle": "פרשה ו",
                         "heSectionNames": [
                             "פסקה",
                             ""
@@ -9003,22 +9004,25 @@
         "heTitle": "חפץ חיים על ספרא",
         "key": "Chafetz Chaim on Sifra"
     },
+    "order": [
+        5
+    ],
     "authors": [
         {
-            "en": "Israel Meir Kagan",
+            "en": "Israel Meir Kagan (Chafetz Chaim)",
             "he": "רבי ישראל מאיר הכהן",
             "slug": "israel-meir-kagan"
         }
     ],
-    "enDesc": "Best known for his legal and ethical writings, Rabbi Yisrael Meir Kagan (Chafetz Chaim) also wrote a commentary on Sifra, a legal midrash on Leviticus. His introduction emphasizes Torah study, especially of Leviticus, whose laws of sacrifices and ritual purity he sees as crucial but often neglected. The author describes finding a rare copy of the Vilna Gaon’s commentary on Sifra and realizing it was as inaccessible as others. He therefore wrote his own commentary, based on predecessors but in brief, clear language, and published it together with explanations of the Vilna Gaon’s commentary. ",
+    "enDesc": "Best known for his legal and ethical writings, Rabbi Israel Meir Kagan (better known by the title of his famous work, the Chafetz Chaim) also wrote a commentary on Sifra, a tannaitic midrash on Leviticus. His introduction emphasizes Torah study, especially of Leviticus, whose laws of sacrifices and ritual purity he sees as crucial but often neglected. The author describes finding a rare copy of the commentary of the Vilna Gaon on Sifra and realizing it was as inaccessible as others. He therefore wrote his own commentary, based on the work of predecessors but in brief, clear language and published it together with explanations of the Vilna Gaon’s commentary. ",
     "heDesc": "",
-    "enShortDesc": "18th-century commentary on the core halakhic (legal) midrash on the Book of Leviticus.",
+    "enShortDesc": "19th-century commentary on the tannaitic midrash on the book of Leviticus",
     "heShortDesc": "",
     "pubDate": [
         1911
     ],
     "pubPlace": "",
-    "dependence": "commentary",
+    "dependence": "Commentary",
     "base_text_titles": [
         {
             "en": "Sifra",
@@ -9039,7 +9043,8 @@
     ],
     "heCategories": [
         "מדרש",
-        "הלכה"
+        "הלכה",
+        "מפרשים"
     ],
     "pubDateString": {
         "en": " (1911 CE)",

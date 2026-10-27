@@ -17,9 +17,17 @@
             "Daf",
             "Line"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "benayahu",
+                    "beitzah"
+                ]
+            }
+        ],
         "lengths": [
             80,
-            8
+            10
         ],
         "referenceableSections": [
             true,
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Benayahu on Beitzah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yosef Hayyim",
@@ -88,6 +98,690 @@
     "heTitleVariants": [
         "בניהו על ביצה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Beitzah 15a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-15"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Beitzah"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "ביצה"
+                        }
+                    ],
+                    "title": "Chapter 1; Beitzah",
+                    "heTitle": "ביצה",
+                    "refs": [
+                        "Benayahu on Beitzah 15a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 28
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Beitzah 16a:1-21a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-25"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; Yom Tov"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "יום טוב"
+                        }
+                    ],
+                    "title": "Chapter 2; Yom Tov",
+                    "heTitle": "יום טוב",
+                    "refs": [
+                        "Benayahu on Beitzah 16a:1",
+                        "Benayahu on Beitzah 16b",
+                        "Benayahu on Beitzah 17a",
+                        "Benayahu on Beitzah 17b",
+                        "Benayahu on Beitzah 18a",
+                        "Benayahu on Beitzah 18b",
+                        "Benayahu on Beitzah 19a",
+                        "Benayahu on Beitzah 19b",
+                        "Benayahu on Beitzah 20a",
+                        "Benayahu on Beitzah 20b",
+                        "Benayahu on Beitzah 21a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 30
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Beitzah 24b:1-25b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-35"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; Ein Tzadin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אין צדין"
+                        }
+                    ],
+                    "title": "Chapter 3; Ein Tzadin",
+                    "heTitle": "אין צדין",
+                    "refs": [
+                        "Benayahu on Beitzah 24b:1",
+                        "Benayahu on Beitzah 25a",
+                        "Benayahu on Beitzah 25b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 47
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Beitzah 32b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-45"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 4; HaMevi Kaddei Yayin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "המביא כדי יין"
+                        }
+                    ],
+                    "title": "Chapter 4; HaMevi Kaddei Yayin",
+                    "heTitle": "המביא כדי יין",
+                    "refs": [
+                        "Benayahu on Beitzah 32b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 63
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Benayahu on Beitzah 39a:1-40a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "bavli",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "talmud",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "benayahu",
+                                "gemara",
+                                "perek",
+                                "chapter-55"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 5; Mashilin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "משילין"
+                        }
+                    ],
+                    "title": "Chapter 5; Mashilin",
+                    "heTitle": "משילין",
+                    "refs": [
+                        "Benayahu on Beitzah 39a:1",
+                        "Benayahu on Beitzah 39b",
+                        "Benayahu on Beitzah 40a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 76
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "text": "בניהו על ביצה",
+                    "lang": "he"
+                },
+                {
+                    "text": "Benayahu on Beitzah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Benayahu on Beitzah",
+            "heTitle": "בניהו על ביצה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line"

@@ -18,9 +18,17 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "maharam-schiff",
+                    "bava-metzia"
+                ]
+            }
+        ],
         "lengths": [
             237,
-            973
+            981
         ],
         "referenceableSections": [
             true,
@@ -28,8 +36,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -55,6 +62,9 @@
         ],
         "key": "Maharam Schiff on Bava Metzia"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Meir ben Jacob Ha-Kohen Schiff",
@@ -94,6 +104,946 @@
     "heTitleVariants": [
         "מהר\"ם שיף על בבא מציעא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Bava Metzia 2a:1-21a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Shenayim Ochazin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "שנים אוחזין"
+                        }
+                    ],
+                    "title": "Chapter 1; Shenayim Ochazin",
+                    "heTitle": "שנים אוחזין",
+                    "refs": [
+                        "Maharam Schiff on Bava Metzia 2a:1-14",
+                        "Maharam Schiff on Bava Metzia 2b",
+                        "Maharam Schiff on Bava Metzia 3a",
+                        "Maharam Schiff on Bava Metzia 3b",
+                        "Maharam Schiff on Bava Metzia 4a",
+                        "Maharam Schiff on Bava Metzia 4b",
+                        "Maharam Schiff on Bava Metzia 5a",
+                        "Maharam Schiff on Bava Metzia 5b",
+                        "Maharam Schiff on Bava Metzia 6a",
+                        "Maharam Schiff on Bava Metzia 6b",
+                        "Maharam Schiff on Bava Metzia 7a",
+                        "Maharam Schiff on Bava Metzia 7b",
+                        "Maharam Schiff on Bava Metzia 8a",
+                        "Maharam Schiff on Bava Metzia 8b",
+                        "Maharam Schiff on Bava Metzia 9a",
+                        "Maharam Schiff on Bava Metzia 9b",
+                        "Maharam Schiff on Bava Metzia 10a",
+                        "Maharam Schiff on Bava Metzia 10b",
+                        "Maharam Schiff on Bava Metzia 11a",
+                        "Maharam Schiff on Bava Metzia 11b",
+                        "Maharam Schiff on Bava Metzia 12a",
+                        "Maharam Schiff on Bava Metzia 12b",
+                        "Maharam Schiff on Bava Metzia 13a",
+                        "Maharam Schiff on Bava Metzia 13b",
+                        "Maharam Schiff on Bava Metzia 14a",
+                        "Maharam Schiff on Bava Metzia 14b",
+                        "Maharam Schiff on Bava Metzia 15a",
+                        "Maharam Schiff on Bava Metzia 15b",
+                        "Maharam Schiff on Bava Metzia 16a",
+                        "Maharam Schiff on Bava Metzia 16b",
+                        "Maharam Schiff on Bava Metzia 17a",
+                        "Maharam Schiff on Bava Metzia 17b",
+                        "Maharam Schiff on Bava Metzia 18a",
+                        "Maharam Schiff on Bava Metzia 18b",
+                        "Maharam Schiff on Bava Metzia 19a",
+                        "Maharam Schiff on Bava Metzia 19b",
+                        "Maharam Schiff on Bava Metzia 20a",
+                        "Maharam Schiff on Bava Metzia 20b",
+                        "Maharam Schiff on Bava Metzia 21a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Bava Metzia 21a:2-33b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; Ellu Metziot"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו מציאות"
+                        }
+                    ],
+                    "title": "Chapter 2; Ellu Metziot",
+                    "heTitle": "אלו מציאות",
+                    "refs": [
+                        "Maharam Schiff on Bava Metzia 21a:2-4",
+                        "Maharam Schiff on Bava Metzia 21b",
+                        "Maharam Schiff on Bava Metzia 22a",
+                        "Maharam Schiff on Bava Metzia 22b",
+                        "Maharam Schiff on Bava Metzia 23a",
+                        "Maharam Schiff on Bava Metzia 23b",
+                        "Maharam Schiff on Bava Metzia 24a",
+                        "Maharam Schiff on Bava Metzia 24b",
+                        "Maharam Schiff on Bava Metzia 25a",
+                        "Maharam Schiff on Bava Metzia 25b",
+                        "Maharam Schiff on Bava Metzia 26a",
+                        "Maharam Schiff on Bava Metzia 26b",
+                        "Maharam Schiff on Bava Metzia 27a",
+                        "Maharam Schiff on Bava Metzia 27b",
+                        "Maharam Schiff on Bava Metzia 28a",
+                        "Maharam Schiff on Bava Metzia 28b",
+                        "Maharam Schiff on Bava Metzia 29a",
+                        "Maharam Schiff on Bava Metzia 29b",
+                        "Maharam Schiff on Bava Metzia 30a",
+                        "Maharam Schiff on Bava Metzia 30b",
+                        "Maharam Schiff on Bava Metzia 31a",
+                        "Maharam Schiff on Bava Metzia 31b",
+                        "Maharam Schiff on Bava Metzia 32a",
+                        "Maharam Schiff on Bava Metzia 32b",
+                        "Maharam Schiff on Bava Metzia 33a",
+                        "Maharam Schiff on Bava Metzia 33b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 40
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Bava Metzia 33b:2-44a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; HaMafkid"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "המפקיד"
+                        }
+                    ],
+                    "title": "Chapter 3; HaMafkid",
+                    "heTitle": "המפקיד",
+                    "refs": [
+                        "Maharam Schiff on Bava Metzia 33b:2-3",
+                        "Maharam Schiff on Bava Metzia 34a",
+                        "Maharam Schiff on Bava Metzia 34b",
+                        "Maharam Schiff on Bava Metzia 35a",
+                        "Maharam Schiff on Bava Metzia 35b",
+                        "Maharam Schiff on Bava Metzia 36a",
+                        "Maharam Schiff on Bava Metzia 36b",
+                        "Maharam Schiff on Bava Metzia 37a",
+                        "Maharam Schiff on Bava Metzia 37b",
+                        "Maharam Schiff on Bava Metzia 38a",
+                        "Maharam Schiff on Bava Metzia 38b",
+                        "Maharam Schiff on Bava Metzia 39a",
+                        "Maharam Schiff on Bava Metzia 39b",
+                        "Maharam Schiff on Bava Metzia 40a",
+                        "Maharam Schiff on Bava Metzia 40b",
+                        "Maharam Schiff on Bava Metzia 41a",
+                        "Maharam Schiff on Bava Metzia 41b",
+                        "Maharam Schiff on Bava Metzia 42a",
+                        "Maharam Schiff on Bava Metzia 42b",
+                        "Maharam Schiff on Bava Metzia 43a",
+                        "Maharam Schiff on Bava Metzia 43b",
+                        "Maharam Schiff on Bava Metzia 44a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 65
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Bava Metzia 44a:2-60b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 4; HaZahav"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "הזהב"
+                        }
+                    ],
+                    "title": "Chapter 4; HaZahav",
+                    "heTitle": "הזהב",
+                    "refs": [
+                        "Maharam Schiff on Bava Metzia 44a:2-9",
+                        "Maharam Schiff on Bava Metzia 44b",
+                        "Maharam Schiff on Bava Metzia 45a",
+                        "Maharam Schiff on Bava Metzia 45b",
+                        "Maharam Schiff on Bava Metzia 46a",
+                        "Maharam Schiff on Bava Metzia 46b",
+                        "Maharam Schiff on Bava Metzia 47a",
+                        "Maharam Schiff on Bava Metzia 47b",
+                        "Maharam Schiff on Bava Metzia 48a",
+                        "Maharam Schiff on Bava Metzia 48b",
+                        "Maharam Schiff on Bava Metzia 49a",
+                        "Maharam Schiff on Bava Metzia 49b",
+                        "Maharam Schiff on Bava Metzia 50a",
+                        "Maharam Schiff on Bava Metzia 50b",
+                        "Maharam Schiff on Bava Metzia 51a",
+                        "Maharam Schiff on Bava Metzia 51b",
+                        "Maharam Schiff on Bava Metzia 52a",
+                        "Maharam Schiff on Bava Metzia 52b",
+                        "Maharam Schiff on Bava Metzia 53a",
+                        "Maharam Schiff on Bava Metzia 53b",
+                        "Maharam Schiff on Bava Metzia 54a",
+                        "Maharam Schiff on Bava Metzia 54b",
+                        "Maharam Schiff on Bava Metzia 55a",
+                        "Maharam Schiff on Bava Metzia 55b",
+                        "Maharam Schiff on Bava Metzia 56a",
+                        "Maharam Schiff on Bava Metzia 56b",
+                        "Maharam Schiff on Bava Metzia 57a",
+                        "Maharam Schiff on Bava Metzia 57b",
+                        "Maharam Schiff on Bava Metzia 58a",
+                        "Maharam Schiff on Bava Metzia 58b",
+                        "Maharam Schiff on Bava Metzia 59a",
+                        "Maharam Schiff on Bava Metzia 59b",
+                        "Maharam Schiff on Bava Metzia 60a",
+                        "Maharam Schiff on Bava Metzia 60b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 86
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Bava Metzia 60b:2-75b:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 5; Eizehu Neshekh"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "איזהו נשך"
+                        }
+                    ],
+                    "title": "Chapter 5; Eizehu Neshekh",
+                    "heTitle": "איזהו נשך",
+                    "refs": [
+                        "Maharam Schiff on Bava Metzia 60b:2-8",
+                        "Maharam Schiff on Bava Metzia 61a",
+                        "Maharam Schiff on Bava Metzia 61b",
+                        "Maharam Schiff on Bava Metzia 62a",
+                        "Maharam Schiff on Bava Metzia 62b",
+                        "Maharam Schiff on Bava Metzia 63a",
+                        "Maharam Schiff on Bava Metzia 63b",
+                        "Maharam Schiff on Bava Metzia 64a",
+                        "Maharam Schiff on Bava Metzia 64b",
+                        "Maharam Schiff on Bava Metzia 65a",
+                        "Maharam Schiff on Bava Metzia 65b",
+                        "Maharam Schiff on Bava Metzia 66a",
+                        "Maharam Schiff on Bava Metzia 66b",
+                        "Maharam Schiff on Bava Metzia 67a",
+                        "Maharam Schiff on Bava Metzia 67b",
+                        "Maharam Schiff on Bava Metzia 68a",
+                        "Maharam Schiff on Bava Metzia 68b",
+                        "Maharam Schiff on Bava Metzia 69a",
+                        "Maharam Schiff on Bava Metzia 69b",
+                        "Maharam Schiff on Bava Metzia 70a",
+                        "Maharam Schiff on Bava Metzia 70b",
+                        "Maharam Schiff on Bava Metzia 71a",
+                        "Maharam Schiff on Bava Metzia 71b",
+                        "Maharam Schiff on Bava Metzia 72a",
+                        "Maharam Schiff on Bava Metzia 72b",
+                        "Maharam Schiff on Bava Metzia 73a",
+                        "Maharam Schiff on Bava Metzia 73b",
+                        "Maharam Schiff on Bava Metzia 74a",
+                        "Maharam Schiff on Bava Metzia 74b",
+                        "Maharam Schiff on Bava Metzia 75a",
+                        "Maharam Schiff on Bava Metzia 75b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 119
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Maharam Schiff on Bava Metzia 75b:6-79a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "bavli",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "talmud",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "maharam-schiff",
+                                "gemara",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 6; HaSokher et HaUmmanin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "השוכר את האומנין"
+                        }
+                    ],
+                    "title": "Chapter 6; HaSokher et HaUmmanin",
+                    "heTitle": "השוכר את האומנין",
+                    "refs": [
+                        "Maharam Schiff on Bava Metzia 75b:6",
+                        "Maharam Schiff on Bava Metzia 76a",
+                        "Maharam Schiff on Bava Metzia 76b",
+                        "Maharam Schiff on Bava Metzia 77a",
+                        "Maharam Schiff on Bava Metzia 77b",
+                        "Maharam Schiff on Bava Metzia 78a",
+                        "Maharam Schiff on Bava Metzia 78b",
+                        "Maharam Schiff on Bava Metzia 79a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 149
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "מהר\"ם שיף על בבא מציעא",
+                    "primary": true
+                },
+                {
+                    "text": "Maharam Shif on Bava Metzia",
+                    "lang": "en"
+                },
+                {
+                    "text": "Maharam Schiff on Bava Metzia",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Maharam Schiff on Bava Metzia",
+            "heTitle": "מהר\"ם שיף על בבא מציעא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

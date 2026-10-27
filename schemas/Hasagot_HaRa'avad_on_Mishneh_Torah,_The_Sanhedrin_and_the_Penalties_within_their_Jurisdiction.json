@@ -35,16 +35,44 @@
                 ]
             }
         ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "swap",
+                "input_terms": [
+                    "harav"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            },
+            {
+                "op": "swap",
+                "input_terms": [
+                    "rabeinu"
+                ],
+                "output_terms": [
+                    "rambam"
+                ]
+            }
+        ],
         "lengths": [
             26,
             10,
             10
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
                 "primary": true,
                 "text": "השגות הראב\"ד על משנה תורה, הלכות סנהדרין והעונשין המסורין להם",
                 "lang": "he"
+            },
+            {
+                "text": "Hasagot HaRaavad on Mishneh Torah, The Sanhedrin and the Penalties within their Jurisdiction",
+                "lang": "en"
             },
             {
                 "text": "Hasagot HaRa'avad on Mishneh Torah, The Sanhedrin and the Penalties within their Jurisdiction",
@@ -91,6 +119,7 @@
     },
     "heTitle": "השגות הראב\"ד על משנה תורה, הלכות סנהדרין והעונשין המסורין להם",
     "titleVariants": [
+        "Hasagot HaRaavad on Mishneh Torah, The Sanhedrin and the Penalties within their Jurisdiction",
         "Hasagot HaRa'avad on Mishneh Torah, The Sanhedrin and the Penalties within their Jurisdiction"
     ],
     "heTitleVariants": [

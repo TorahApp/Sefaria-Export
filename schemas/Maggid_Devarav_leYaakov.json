@@ -15,6 +15,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "sharedTitle": "Introduction",
                 "titles": [
                     {
@@ -60,6 +67,14 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "maggid-devarav-leyaakov"
+                ]
+            }
+        ],
         "titles": [
             {
                 "lang": "en",
@@ -94,9 +109,9 @@
     },
     "authors": [
         {
-            "en": "Dov Ber of Mezeritch",
+            "en": "Dov Baer of Mezeritch [Maggid of Mezeritch]",
             "he": "דב בער ממזריטש",
-            "slug": "dov-ber-of-mezeritch"
+            "slug": "dov-baer-of-mezeritch-(maggid-of-mezeritch)"
         }
     ],
     "enDesc": "Teachings of the Maggid of Mezeritch, compiled by his students. (The last letters of the three words in the title spell the Maggid's name \"Dov\").",

@@ -110,6 +110,9 @@
         ],
         "key": "Rashi on Deuteronomy"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Rashi",
@@ -162,6 +165,680 @@
         "רש”י על דברי׳",
         "רש\"י על דברים"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 1:1:1-3:18:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "devarim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Devarim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת דברים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Devarim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "d'Varim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Devarim",
+                    "heTitle": "דברים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 3:23:1-7:11:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "vaetchanan"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaetchanan",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaetchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ואתחנן",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Va'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'etchanan",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "V'ethanan",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaetchanan",
+                    "heTitle": "ואתחנן"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 7:12:1-11:25:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "eikev"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Eikev",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Eikev",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת עקב",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ekev",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Eikev",
+                    "heTitle": "עקב"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 11:26:1-16:17:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "reeh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Re'eh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ראה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Re'eh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ראה",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Re'eh",
+                    "heTitle": "ראה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 16:18:1-21:9:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "shoftim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shoftim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shoftim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שופטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Judges",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shofetim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shoftim",
+                    "heTitle": "שופטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 21:10:1-25:19:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "ki-teitzei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Teitzei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Teitzei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תצא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tetze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Ki Teitze",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Seitzei;",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teytzey",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Teitze",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Teitzei",
+                    "heTitle": "כי תצא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 26:1:1-29:6:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "ki-tavo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tavo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תבוא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tavo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תבוא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Ki Tavo",
+                    "heTitle": "כי תבוא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 29:9:1-30:19:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "nitzavim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Nitzavim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Nitzavim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת נצבים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Nitzavim",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Nitzavim",
+                    "heTitle": "נצבים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 31:1:1-29:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "vayeilech"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayeilech",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayeilech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וילך",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayelech",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Vayelekh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayeilech",
+                    "heTitle": "וילך"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 32:1:1-52:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "haazinu"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ha'Azinu",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'Azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת האזינו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashsat Ha'azinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Haazinu",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Haazinu",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ha'Azinu",
+                    "heTitle": "האזינו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rashi on Deuteronomy 33:1:1-34:12:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "parasha",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashi",
+                                "vzot-haberachah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "V'Zot HaBerachah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'Zot HaBerachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וזאת הברכה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat V'zot Habrachah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat V'zot Haberachah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "V'Zot HaBerachah",
+                    "heTitle": "וזאת הברכה"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Rashi on Deu."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashi on Devarim"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashi on Deu"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashi on Deut."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rashi on Deut"
+                },
+                {
+                    "lang": "he",
+                    "text": "רש\"י על דברי'"
+                },
+                {
+                    "lang": "he",
+                    "text": "רש\"י על דברי׳"
+                },
+                {
+                    "text": "רש״י על דברים",
+                    "lang": "he"
+                },
+                {
+                    "text": "רש”י על דברים",
+                    "lang": "he"
+                },
+                {
+                    "text": "רש״י על דברי'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רש”י על דברי'",
+                    "lang": "he"
+                },
+                {
+                    "text": "רש״י על דברי׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רש”י על דברי׳",
+                    "lang": "he"
+                },
+                {
+                    "text": "רש\"י על דברים",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Rashi on Deuteronomy",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Rashi on Deuteronomy",
+            "heTitle": "רש\"י על דברים"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

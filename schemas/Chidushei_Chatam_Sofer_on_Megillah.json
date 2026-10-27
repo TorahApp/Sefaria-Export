@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chatam-sofer",
+                    "megillah"
+                ]
+            }
+        ],
         "lengths": [
             63,
             64
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,9 +57,12 @@
         ],
         "key": "Chidushei Chatam Sofer on Megillah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Moses Sofer",
+            "en": "Moses Sofer (Chatam Sofer)",
             "he": "משה סופר",
             "slug": "moses-sofer"
         }
@@ -82,6 +92,170 @@
     "heTitleVariants": [
         "חידושי חתם סופר על מגילה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Megillah 2a:1-10b:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-119"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Megillah Nikreit",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "מגילה נקראת",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Megillah Nikreit",
+                    "heTitle": "מגילה נקראת",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Megillah 2a:1-3",
+                        "Chidushei Chatam Sofer on Megillah 2b",
+                        "Chidushei Chatam Sofer on Megillah 3a",
+                        "Chidushei Chatam Sofer on Megillah 3b",
+                        "Chidushei Chatam Sofer on Megillah 4a",
+                        "Chidushei Chatam Sofer on Megillah 4b",
+                        "Chidushei Chatam Sofer on Megillah 5a",
+                        "Chidushei Chatam Sofer on Megillah 5b",
+                        "Chidushei Chatam Sofer on Megillah 6a",
+                        "Chidushei Chatam Sofer on Megillah 6b",
+                        "Chidushei Chatam Sofer on Megillah 7a",
+                        "Chidushei Chatam Sofer on Megillah 7b",
+                        "Chidushei Chatam Sofer on Megillah 8a",
+                        "Chidushei Chatam Sofer on Megillah 8b",
+                        "Chidushei Chatam Sofer on Megillah 9a",
+                        "Chidushei Chatam Sofer on Megillah 9b",
+                        "Chidushei Chatam Sofer on Megillah 10a",
+                        "Chidushei Chatam Sofer on Megillah 10b:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי חתם סופר על מגילה",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Chidushei Chatam Sofer on Megillah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Chatam Sofer on Megillah",
+            "heTitle": "חידושי חתם סופר על מגילה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

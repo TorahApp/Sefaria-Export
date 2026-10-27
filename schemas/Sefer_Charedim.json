@@ -1,0 +1,441 @@
+{
+    "title": "Sefer Charedim",
+    "categories": [
+        "Halakhah",
+        "Sifrei Mitzvot"
+    ],
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "sharedTitle": "Introduction",
+                "titles": [
+                    {
+                        "lang": "en",
+                        "text": "Introduction",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "הקדמה",
+                        "primary": true
+                    },
+                    {
+                        "lang": "he",
+                        "text": "מבוא"
+                    }
+                ],
+                "title": "Introduction",
+                "heTitle": "הקדמה",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Introduction"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Knowledge of God",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "ידיעת ה'",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Knowledge of God",
+                "heTitle": "ידיעת ה'",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "Knowledge of God"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Positive Commandments",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מצוות עשה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Positive Commandments",
+                "heTitle": "מצוות עשה",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "Positive Commandments"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "text": "Poem",
+                                "lang": "en",
+                                "primary": true
+                            },
+                            {
+                                "text": "שיר",
+                                "lang": "he",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Poem",
+                        "heTitle": "שיר",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Poem"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "titles": [
+                            {
+                                "text": "Supplication",
+                                "lang": "en",
+                                "primary": true
+                            },
+                            {
+                                "text": "בקשה",
+                                "lang": "he",
+                                "primary": true
+                            }
+                        ],
+                        "title": "Supplication",
+                        "heTitle": "בקשה",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Supplication"
+                    }
+                ],
+                "titles": [
+                    {
+                        "text": "Negative Commandments",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מצוות לא תעשה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Negative Commandments",
+                "heTitle": "מצוות לא תעשה",
+                "key": "Negative Commandments"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Positive Commandments from the Prophets and the Sages",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מצוות עשה מדברי קבלה ומדברי סופרים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Positive Commandments from the Prophets and the Sages",
+                "heTitle": "מצוות עשה מדברי קבלה ומדברי סופרים",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "Positive Commandments from the Prophets and the Sages"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Negative Commandments from the Prophets and the Sages",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מצוות לא תעשה מדברי קבלה ומדברי סופרים",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Negative Commandments from the Prophets and the Sages",
+                "heTitle": "מצוות לא תעשה מדברי קבלה ומדברי סופרים",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "Negative Commandments from the Prophets and the Sages"
+            },
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 1,
+                        "addressTypes": [
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Paragraph"
+                        ],
+                        "sharedTitle": "Introduction",
+                        "titles": [
+                            {
+                                "lang": "en",
+                                "text": "Introduction",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "הקדמה",
+                                "primary": true
+                            },
+                            {
+                                "lang": "he",
+                                "text": "מבוא"
+                            }
+                        ],
+                        "title": "Introduction",
+                        "heTitle": "הקדמה",
+                        "heSectionNames": [
+                            "פסקה"
+                        ],
+                        "key": "Introduction"
+                    },
+                    {
+                        "nodeType": "JaggedArrayNode",
+                        "depth": 2,
+                        "addressTypes": [
+                            "Integer",
+                            "Integer"
+                        ],
+                        "sectionNames": [
+                            "Chapter",
+                            "Paragraph"
+                        ],
+                        "default": true,
+                        "title": "",
+                        "heTitle": "",
+                        "heSectionNames": [
+                            "פרק",
+                            "פסקה"
+                        ],
+                        "key": "default"
+                    }
+                ],
+                "titles": [
+                    {
+                        "text": "Commandments Dependent on the Land of Israel",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מצוות התלויות בארץ ישראל",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Commandments Dependent on the Land of Israel",
+                "heTitle": "מצוות התלויות בארץ ישראל",
+                "key": "Commandments Dependent on the Land of Israel"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 2,
+                "addressTypes": [
+                    "Integer",
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Chapter",
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "The Commandment of Repentance",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "מצות התשובה",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "The Commandment of Repentance",
+                "heTitle": "מצות התשובה",
+                "heSectionNames": [
+                    "פרק",
+                    "פסקה"
+                ],
+                "key": "The Commandment of Repentance"
+            },
+            {
+                "nodeType": "JaggedArrayNode",
+                "depth": 1,
+                "addressTypes": [
+                    "Integer"
+                ],
+                "sectionNames": [
+                    "Paragraph"
+                ],
+                "titles": [
+                    {
+                        "text": "Epilogue",
+                        "lang": "en",
+                        "primary": true
+                    },
+                    {
+                        "text": "חתימת הספר",
+                        "lang": "he",
+                        "primary": true
+                    }
+                ],
+                "title": "Epilogue",
+                "heTitle": "חתימת הספר",
+                "heSectionNames": [
+                    "פסקה"
+                ],
+                "key": "Epilogue"
+            }
+        ],
+        "titles": [
+            {
+                "text": "Charedim",
+                "lang": "en"
+            },
+            {
+                "text": "ספר חרדים",
+                "lang": "he",
+                "primary": true
+            },
+            {
+                "text": "חרדים",
+                "lang": "he"
+            },
+            {
+                "text": "Sefer Charedim",
+                "lang": "en",
+                "primary": true
+            }
+        ],
+        "title": "Sefer Charedim",
+        "heTitle": "ספר חרדים",
+        "key": "Sefer Charedim"
+    },
+    "authors": [
+        {
+            "en": "Elazar ben Moshe Azikri",
+            "he": "אלעזר בן משה אזכרי",
+            "slug": "elazar-ben-moshe-azikri"
+        }
+    ],
+    "enDesc": "*Sefer Charedim* – \"The Book of the Devout\" in English – is a 16th-century work by Rabbi Elazar ben Moshe Azikri of Safed that blends halakhic enumeration of the 613 commandments with kabbalist ethics. Its arrangement differs from other similar works in that it arranges the commandments according to body parts and times of observance and lists the commandments according to the opinions of several Rishonim. The work is one of the central texts of Jewish deontology and reflects the spiritual fervor of the Safed kabbalistic community. First published posthumously in 1600, it also contains the first printing of the liturgical poem Yedid Nefesh, commonly attributed to Rabbi Azikri.\n",
+    "heDesc": "\"ספר חרדים\" הוא חיבור מהמאה ה-16 מאת רבי אלעזר בן משה אזכרי מצפת, המשלב ספירה הלכתית של תרי\"ג מצוות עם מוסר קבלי. סידורו שונה מחיבורים דומים אחרים בכך שהוא מסדר את המצוות לפי איברי גוף וזמני קיום המצוות ומפרט את המצוות לפי דעותיהם של כמה ראשונים. חיבור זה הוא אחד המקורות המרכזיים של ספרי היהדות ומשקף את הלהט הרוחני של הקהילה הקבלית בצפת. הספר פורסם לראשונה לאחר מות המחבר בשנת 1600, והוא מכיל גם את ההדפסה הראשונה של פיוט התפילה 'ידיד נפש', המיוחס לרבי אלעזר  אזכרי.\n",
+    "enShortDesc": "16th-century work by Rabbi Elazar Azikri that organizes the 613 commandments according to the human body and time, blending halakhah with kabbalist ethics\n",
+    "heShortDesc": "חיבור מהמאה ה-16 מאת רבי אלעזר אזכרי, המארגן את תרי\"ג המצוות לפי גוף האדם והזמן, ומשלב הלכה עם מוסר קבלי\n",
+    "heTitle": "ספר חרדים",
+    "titleVariants": [
+        "Charedim",
+        "Sefer Charedim"
+    ],
+    "heTitleVariants": [
+        "ספר חרדים",
+        "חרדים"
+    ],
+    "heCategories": [
+        "הלכה",
+        "ספרי מצוות"
+    ]
+}

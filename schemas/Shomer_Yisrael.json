@@ -9,12 +9,23 @@
         "nodeType": "JaggedArrayNode",
         "depth": 2,
         "addressTypes": [
-            "Integer",
-            "Integer"
+            "Siman",
+            "Seif"
         ],
         "sectionNames": [
             "Siman",
             "Paragraph"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "shomer-yisrael"
+                ]
+            }
+        ],
+        "lengths": [
+            15,
+            181
         ],
         "titles": [
             {
@@ -41,7 +52,7 @@
     ],
     "authors": [
         {
-            "en": "Hayyim Joseph David Azulai",
+            "en": "Hayyim Joseph David Azulai (Chida)",
             "he": "חיים דוד אזולאי",
             "slug": "hayyim-joseph-david-azulai"
         }

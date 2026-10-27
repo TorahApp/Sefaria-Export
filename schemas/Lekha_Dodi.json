@@ -12,8 +12,19 @@
             "Integer"
         ],
         "sectionNames": [
-            "Verse",
-            "Verset"
+            "Section",
+            "Paragraph"
+        ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "lekha-dodi"
+                ]
+            }
+        ],
+        "lengths": [
+            10,
+            38
         ],
         "titles": [
             {
@@ -34,8 +45,8 @@
         "title": "Lekha Dodi",
         "heTitle": "לְכָה דוֹדִי",
         "heSectionNames": [
-            "פסוק",
-            ""
+            "חלק",
+            "פסקה"
         ],
         "key": "Lekha Dodi"
     },
@@ -65,8 +76,8 @@
         "לְכָה דוֹדִי"
     ],
     "sectionNames": [
-        "Verse",
-        "Verset"
+        "Section",
+        "Paragraph"
     ],
     "depth": 2,
     "heCategories": [

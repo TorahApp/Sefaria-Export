@@ -59,9 +59,12 @@
         ],
         "key": "Rabbeinu Chananel on Makkot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Rabeinu Chananel",
+            "en": "Chananel ben Chushiel (Rabbeinu Chananel)",
             "he": "רבנו חננאל",
             "slug": "rabeinu-chananel"
         }
@@ -93,6 +96,181 @@
     "heTitleVariants": [
         "רבינו חננאל על מסכת מכות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rabbeinu Chananel on Makkot 2a:1-16a:8",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "talmud",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "bavli",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "talmud",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "gemara",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "bavli",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "talmud",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-chananel",
+                                "gemara",
+                                "perek",
+                                "chapter-118"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Keitzad HaEdim"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "כיצד העדים"
+                        }
+                    ],
+                    "title": "Chapter 1; Keitzad HaEdim",
+                    "heTitle": "כיצד העדים",
+                    "refs": [
+                        "Rabbeinu Chananel on Makkot 2a:1-6",
+                        "Rabbeinu Chananel on Makkot 2b",
+                        "Rabbeinu Chananel on Makkot 3a",
+                        "Rabbeinu Chananel on Makkot 3b",
+                        "Rabbeinu Chananel on Makkot 4a",
+                        "Rabbeinu Chananel on Makkot 4b",
+                        "Rabbeinu Chananel on Makkot 5a",
+                        "Rabbeinu Chananel on Makkot 5b",
+                        "Rabbeinu Chananel on Makkot 6a",
+                        "Rabbeinu Chananel on Makkot 6b",
+                        "Rabbeinu Chananel on Makkot 7a",
+                        "Rabbeinu Chananel on Makkot 7b",
+                        "Rabbeinu Chananel on Makkot 8a",
+                        "Rabbeinu Chananel on Makkot 8b",
+                        "Rabbeinu Chananel on Makkot 9a",
+                        "Rabbeinu Chananel on Makkot 9b",
+                        "Rabbeinu Chananel on Makkot 10a",
+                        "Rabbeinu Chananel on Makkot 10b",
+                        "Rabbeinu Chananel on Makkot 11a",
+                        "Rabbeinu Chananel on Makkot 11b",
+                        "Rabbeinu Chananel on Makkot 12a",
+                        "Rabbeinu Chananel on Makkot 12b",
+                        "Rabbeinu Chananel on Makkot 13a",
+                        "Rabbeinu Chananel on Makkot 13b",
+                        "Rabbeinu Chananel on Makkot 14a",
+                        "Rabbeinu Chananel on Makkot 14b",
+                        "Rabbeinu Chananel on Makkot 15a",
+                        "Rabbeinu Chananel on Makkot 15b",
+                        "Rabbeinu Chananel on Makkot 16a:1-8"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "text": "רבינו חננאל על מסכת מכות",
+                    "lang": "he"
+                },
+                {
+                    "text": "Rabbeinu Chananel on Makkot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Rabbeinu Chananel on Makkot",
+            "heTitle": "רבינו חננאל על מסכת מכות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

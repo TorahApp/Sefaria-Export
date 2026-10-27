@@ -2,7 +2,7 @@
     "title": "Nachalat Avot on Avot",
     "categories": [
         "Mishnah",
-        "Acharonim on Mishnah"
+        "Rishonim on Mishnah"
     ],
     "schema": {
         "nodes": [
@@ -14,6 +14,13 @@
                 ],
                 "sectionNames": [
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
                 ],
                 "sharedTitle": "Introduction",
                 "titles": [
@@ -63,11 +70,20 @@
                 "key": "default"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "nachalat-avot",
+                    "pirkei-avot"
+                ]
+            }
+        ],
         "titles": [
             {
-                "primary": true,
                 "text": "נחלת אבות על אבות",
-                "lang": "he"
+                "lang": "he",
+                "primary": true
             },
             {
                 "text": "Nachalat Avot on Avot",
@@ -81,13 +97,15 @@
     },
     "authors": [
         {
-            "en": "Abarbanel",
+            "en": "Isaac Abarbanel",
             "he": "אברבנאל",
-            "slug": "abarbanel"
+            "slug": "isaac-abarbanel"
         }
     ],
     "enDesc": "A comprehensive commentary of Pirkei Avot, setting up queries on the text of the Mishnah and subsequently resolving them, keeping with Abarbanel's style in his other commentaries.",
+    "heDesc": "",
     "enShortDesc": "15th-century commentary on Pirkei Avot by the Abarbanel, structured as questions on each Mishnah followed by resolutions.",
+    "heShortDesc": "",
     "pubDate": [
         1505
     ],
@@ -111,7 +129,7 @@
     ],
     "heCategories": [
         "משנה",
-        "אחרונים על המשנה"
+        "ראשונים על המשנה"
     ],
     "compDateString": {
         "en": " (1496 CE)",

@@ -19,6 +19,13 @@
                             "Siman",
                             "Paragraph"
                         ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "alpha-beta"
+                                ]
+                            }
+                        ],
                         "titles": [
                             {
                                 "text": "Alpha Beta",
@@ -49,6 +56,13 @@
                         "sectionNames": [
                             "Siman",
                             "Paragraph"
+                        ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "laws-of-charity"
+                                ]
+                            }
                         ],
                         "titles": [
                             {
@@ -91,6 +105,14 @@
                         "key": "default"
                     }
                 ],
+                "nodeType": "SchemaNode",
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "volume-i"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Volume I",
@@ -117,6 +139,13 @@
                 "sectionNames": [
                     "Siman",
                     "Paragraph"
+                ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "volume-ii"
+                        ]
+                    }
                 ],
                 "titles": [
                     {
@@ -151,6 +180,13 @@
                             "Siman",
                             "Paragraph"
                         ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "piskei-bava-kamma"
+                                ]
+                            }
+                        ],
                         "titles": [
                             {
                                 "text": "Piskei Bava Kamma",
@@ -181,6 +217,13 @@
                         "sectionNames": [
                             "Siman",
                             "Paragraph"
+                        ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "piskei-bava-metzia"
+                                ]
+                            }
                         ],
                         "titles": [
                             {
@@ -213,6 +256,13 @@
                             "Siman",
                             "Paragraph"
                         ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "piskei-bava-batra"
+                                ]
+                            }
+                        ],
                         "titles": [
                             {
                                 "text": "Piskei Bava Batra",
@@ -232,6 +282,14 @@
                             "פסקה"
                         ],
                         "key": "Piskei Bava Batra"
+                    }
+                ],
+                "nodeType": "SchemaNode",
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "volume-iii"
+                        ]
                     }
                 ],
                 "titles": [
@@ -262,6 +320,13 @@
                         "sectionNames": [
                             "Siman",
                             "Paragraph"
+                        ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "piskei-sanhedrin"
+                                ]
+                            }
                         ],
                         "titles": [
                             {
@@ -294,6 +359,13 @@
                             "Siman",
                             "Paragraph"
                         ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "piskei-avodah-zarah"
+                                ]
+                            }
+                        ],
                         "titles": [
                             {
                                 "text": "Piskei Avodah Zarah",
@@ -323,6 +395,13 @@
                         "sectionNames": [
                             "Siman"
                         ],
+                        "match_templates": [
+                            {
+                                "term_slugs": [
+                                    "piskei-shevuot"
+                                ]
+                            }
+                        ],
                         "titles": [
                             {
                                 "text": "Piskei Shevuot",
@@ -343,6 +422,14 @@
                         "key": "Piskei Shevuot"
                     }
                 ],
+                "nodeType": "SchemaNode",
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "volume-iv"
+                        ]
+                    }
+                ],
                 "titles": [
                     {
                         "text": "Volume IV",
@@ -360,7 +447,31 @@
                 "key": "Volume IV"
             }
         ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ohr-zarua"
+                ]
+            }
+        ],
         "titles": [
+            {
+                "text": "or zarua",
+                "lang": "en"
+            },
+            {
+                "text": "Or Zarua",
+                "lang": "en"
+            },
+            {
+                "text": "Ohr Zaruah",
+                "lang": "en"
+            },
+            {
+                "text": "Or Zaruah",
+                "lang": "en"
+            },
             {
                 "text": "אור זרוע",
                 "lang": "he",
@@ -384,6 +495,7 @@
         }
     ],
     "enDesc": "Ohr Zarua (“Light is Sown,” a reference to Psalms 97:11) is a 13th-century compilation tracing the development of laws from talmudic passages. It is an important source preserving early medieval legal opinions, particularly those of the Tosafists. It is also considered a valuable resource for the history of medieval European Jewish communities, since its legal questions often shed light on historical realities. Although it was not widely circulated and only began to be published in the 19th century, several legal authorities had access to the work, and its positions are quoted often in the Beit Yosef and Darkei Moshe.",
+    "heDesc": "",
     "enShortDesc": "13th-century compilation tracing the development of laws from talmudic passages.",
     "heShortDesc": "אוסף הלכתי מן המאה ה-13 העוקב אחר התפתחות ההלכה החל מן המקור התלמודי, ומשמר מסורות הלכתיות חשובות.",
     "pubDate": [
@@ -398,6 +510,10 @@
     "era": "RI",
     "heTitle": "אור זרוע",
     "titleVariants": [
+        "or zarua",
+        "Or Zarua",
+        "Ohr Zaruah",
+        "Or Zaruah",
         "Ohr Zarua"
     ],
     "heTitleVariants": [
@@ -4571,6 +4687,22 @@
                 }
             ],
             "titles": [
+                {
+                    "text": "or zarua",
+                    "lang": "en"
+                },
+                {
+                    "text": "Or Zarua",
+                    "lang": "en"
+                },
+                {
+                    "text": "Ohr Zaruah",
+                    "lang": "en"
+                },
+                {
+                    "text": "Or Zaruah",
+                    "lang": "en"
+                },
                 {
                     "text": "אור זרוע",
                     "lang": "he",

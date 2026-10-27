@@ -59,9 +59,12 @@
         ],
         "key": "Petach Einayim on Yoma"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Hayyim Joseph David Azulai",
+            "en": "Hayyim Joseph David Azulai (Chida)",
             "he": "חיים דוד אזולאי",
             "slug": "hayyim-joseph-david-azulai"
         }
@@ -96,6 +99,1184 @@
     "heTitleVariants": [
         "פתח עינים על יומא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Petach Einayim on Yoma 2a:1-21b:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "perek",
+                                "chapter-145"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 1; Shivat Yamim"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "שבעת ימים"
+                        }
+                    ],
+                    "title": "Chapter 1; Shivat Yamim",
+                    "heTitle": "שבעת ימים",
+                    "refs": [
+                        "Petach Einayim on Yoma 2a:1",
+                        "Petach Einayim on Yoma 2b",
+                        "Petach Einayim on Yoma 3a",
+                        "Petach Einayim on Yoma 3b",
+                        "Petach Einayim on Yoma 4a",
+                        "Petach Einayim on Yoma 4b",
+                        "Petach Einayim on Yoma 5a",
+                        "Petach Einayim on Yoma 5b",
+                        "Petach Einayim on Yoma 6a",
+                        "Petach Einayim on Yoma 6b",
+                        "Petach Einayim on Yoma 7a",
+                        "Petach Einayim on Yoma 7b",
+                        "Petach Einayim on Yoma 8a",
+                        "Petach Einayim on Yoma 8b",
+                        "Petach Einayim on Yoma 9a",
+                        "Petach Einayim on Yoma 9b",
+                        "Petach Einayim on Yoma 10a",
+                        "Petach Einayim on Yoma 10b",
+                        "Petach Einayim on Yoma 11a",
+                        "Petach Einayim on Yoma 11b",
+                        "Petach Einayim on Yoma 12a",
+                        "Petach Einayim on Yoma 12b",
+                        "Petach Einayim on Yoma 13a",
+                        "Petach Einayim on Yoma 13b",
+                        "Petach Einayim on Yoma 14a",
+                        "Petach Einayim on Yoma 14b",
+                        "Petach Einayim on Yoma 15a",
+                        "Petach Einayim on Yoma 15b",
+                        "Petach Einayim on Yoma 16a",
+                        "Petach Einayim on Yoma 16b",
+                        "Petach Einayim on Yoma 17a",
+                        "Petach Einayim on Yoma 17b",
+                        "Petach Einayim on Yoma 18a",
+                        "Petach Einayim on Yoma 18b",
+                        "Petach Einayim on Yoma 19a",
+                        "Petach Einayim on Yoma 19b",
+                        "Petach Einayim on Yoma 20a",
+                        "Petach Einayim on Yoma 20b",
+                        "Petach Einayim on Yoma 21a",
+                        "Petach Einayim on Yoma 21b:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Petach Einayim on Yoma 22a:1-26a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "perek",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "perek",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "perek",
+                                "chapter-237"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 2; BaRishonah"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "בראשונה"
+                        }
+                    ],
+                    "title": "Chapter 2; BaRishonah",
+                    "heTitle": "בראשונה",
+                    "refs": [
+                        "Petach Einayim on Yoma 22a:1",
+                        "Petach Einayim on Yoma 22b",
+                        "Petach Einayim on Yoma 23a",
+                        "Petach Einayim on Yoma 23b",
+                        "Petach Einayim on Yoma 24a",
+                        "Petach Einayim on Yoma 24b",
+                        "Petach Einayim on Yoma 25a",
+                        "Petach Einayim on Yoma 25b",
+                        "Petach Einayim on Yoma 26a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 42
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Petach Einayim on Yoma 28b:1-39a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "perek",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "perek",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "perek",
+                                "chapter-335"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 3; Amar Lahem HaMemunneh"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "אמר להם הממונה"
+                        }
+                    ],
+                    "title": "Chapter 3; Amar Lahem HaMemunneh",
+                    "heTitle": "אמר להם הממונה",
+                    "refs": [
+                        "Petach Einayim on Yoma 28b:1-2",
+                        "Petach Einayim on Yoma 29a",
+                        "Petach Einayim on Yoma 29b",
+                        "Petach Einayim on Yoma 30a",
+                        "Petach Einayim on Yoma 30b",
+                        "Petach Einayim on Yoma 31a",
+                        "Petach Einayim on Yoma 31b",
+                        "Petach Einayim on Yoma 32a",
+                        "Petach Einayim on Yoma 32b",
+                        "Petach Einayim on Yoma 33a",
+                        "Petach Einayim on Yoma 33b",
+                        "Petach Einayim on Yoma 34a",
+                        "Petach Einayim on Yoma 34b",
+                        "Petach Einayim on Yoma 35a",
+                        "Petach Einayim on Yoma 35b",
+                        "Petach Einayim on Yoma 36a",
+                        "Petach Einayim on Yoma 36b",
+                        "Petach Einayim on Yoma 37a",
+                        "Petach Einayim on Yoma 37b",
+                        "Petach Einayim on Yoma 38a",
+                        "Petach Einayim on Yoma 38b",
+                        "Petach Einayim on Yoma 39a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 55
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Petach Einayim on Yoma 39a:3-43a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "perek",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "perek",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "perek",
+                                "chapter-431"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 4; Taraf BaKalpi"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "טרף בקלפי"
+                        }
+                    ],
+                    "title": "Chapter 4; Taraf BaKalpi",
+                    "heTitle": "טרף בקלפי",
+                    "refs": [
+                        "Petach Einayim on Yoma 39a:3-4",
+                        "Petach Einayim on Yoma 39b",
+                        "Petach Einayim on Yoma 40a",
+                        "Petach Einayim on Yoma 40b",
+                        "Petach Einayim on Yoma 41a",
+                        "Petach Einayim on Yoma 41b",
+                        "Petach Einayim on Yoma 42a",
+                        "Petach Einayim on Yoma 42b",
+                        "Petach Einayim on Yoma 43a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 76
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Petach Einayim on Yoma 50a:1-56b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "perek",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "perek",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "perek",
+                                "chapter-527"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 5; Hotziu Lo"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "הוציאו לו"
+                        }
+                    ],
+                    "title": "Chapter 5; Hotziu Lo",
+                    "heTitle": "הוציאו לו",
+                    "refs": [
+                        "Petach Einayim on Yoma 50a:1-2",
+                        "Petach Einayim on Yoma 50b",
+                        "Petach Einayim on Yoma 51a",
+                        "Petach Einayim on Yoma 51b",
+                        "Petach Einayim on Yoma 52a",
+                        "Petach Einayim on Yoma 52b",
+                        "Petach Einayim on Yoma 53a",
+                        "Petach Einayim on Yoma 53b",
+                        "Petach Einayim on Yoma 54a",
+                        "Petach Einayim on Yoma 54b",
+                        "Petach Einayim on Yoma 55a",
+                        "Petach Einayim on Yoma 55b",
+                        "Petach Einayim on Yoma 56a",
+                        "Petach Einayim on Yoma 56b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 98
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Petach Einayim on Yoma 64a:1-66b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "perek",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "perek",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "perek",
+                                "chapter-624"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 6; Shenei Seirei"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "שני שעירי"
+                        }
+                    ],
+                    "title": "Chapter 6; Shenei Seirei",
+                    "heTitle": "שני שעירי",
+                    "refs": [
+                        "Petach Einayim on Yoma 64a:1",
+                        "Petach Einayim on Yoma 64b",
+                        "Petach Einayim on Yoma 65a",
+                        "Petach Einayim on Yoma 65b",
+                        "Petach Einayim on Yoma 66a",
+                        "Petach Einayim on Yoma 66b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 126
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Petach Einayim on Yoma 69b:1-73a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "perek",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "perek",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "perek",
+                                "chapter-722"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 7; Ba Lo"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "בא לו"
+                        }
+                    ],
+                    "title": "Chapter 7; Ba Lo",
+                    "heTitle": "בא לו",
+                    "refs": [
+                        "Petach Einayim on Yoma 69b:1",
+                        "Petach Einayim on Yoma 70a",
+                        "Petach Einayim on Yoma 70b",
+                        "Petach Einayim on Yoma 71a",
+                        "Petach Einayim on Yoma 71b",
+                        "Petach Einayim on Yoma 72a",
+                        "Petach Einayim on Yoma 72b",
+                        "Petach Einayim on Yoma 73a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 137
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Petach Einayim on Yoma 74b:1-87b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "bavli",
+                                "perek",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "talmud",
+                                "perek",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "petach-einayim",
+                                "gemara",
+                                "perek",
+                                "chapter-820"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "primary": true,
+                            "text": "Chapter 8; Yom HaKippurim"
+                        },
+                        {
+                            "lang": "he",
+                            "primary": true,
+                            "text": "יום הכפורים"
+                        }
+                    ],
+                    "title": "Chapter 8; Yom HaKippurim",
+                    "heTitle": "יום הכפורים",
+                    "refs": [
+                        "Petach Einayim on Yoma 74b:1",
+                        "Petach Einayim on Yoma 75a",
+                        "Petach Einayim on Yoma 75b",
+                        "Petach Einayim on Yoma 76a",
+                        "Petach Einayim on Yoma 76b",
+                        "Petach Einayim on Yoma 77a",
+                        "Petach Einayim on Yoma 77b",
+                        "Petach Einayim on Yoma 78a",
+                        "Petach Einayim on Yoma 78b",
+                        "Petach Einayim on Yoma 79a",
+                        "Petach Einayim on Yoma 79b",
+                        "Petach Einayim on Yoma 80a",
+                        "Petach Einayim on Yoma 80b",
+                        "Petach Einayim on Yoma 81a",
+                        "Petach Einayim on Yoma 81b",
+                        "Petach Einayim on Yoma 82a",
+                        "Petach Einayim on Yoma 82b",
+                        "Petach Einayim on Yoma 83a",
+                        "Petach Einayim on Yoma 83b",
+                        "Petach Einayim on Yoma 84a",
+                        "Petach Einayim on Yoma 84b",
+                        "Petach Einayim on Yoma 85a",
+                        "Petach Einayim on Yoma 85b",
+                        "Petach Einayim on Yoma 86a",
+                        "Petach Einayim on Yoma 86b",
+                        "Petach Einayim on Yoma 87a",
+                        "Petach Einayim on Yoma 87b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 147
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "text": "פתח עינים על יומא",
+                    "lang": "he"
+                },
+                {
+                    "text": "Petach Einayim on Yoma",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Petach Einayim on Yoma",
+            "heTitle": "פתח עינים על יומא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

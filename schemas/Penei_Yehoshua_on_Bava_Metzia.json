@@ -17,6 +17,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "penei-yehoshua",
+                    "bava-metzia"
+                ]
+            }
+        ],
         "lengths": [
             237,
             851
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Penei Yehoshua on Bava Metzia"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Jacob Joshua Falk",
@@ -87,6 +97,1192 @@
     "heTitleVariants": [
         "פני יהושע על בבא מציעא"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Bava Metzia 2a:1-21a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-14"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; Shenayim Ochazin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "שנים אוחזין"
+                        }
+                    ],
+                    "title": "Chapter 1; Shenayim Ochazin",
+                    "heTitle": "שנים אוחזין",
+                    "refs": [
+                        "Penei Yehoshua on Bava Metzia 2a:1-13",
+                        "Penei Yehoshua on Bava Metzia 2b",
+                        "Penei Yehoshua on Bava Metzia 3a",
+                        "Penei Yehoshua on Bava Metzia 3b",
+                        "Penei Yehoshua on Bava Metzia 4a",
+                        "Penei Yehoshua on Bava Metzia 4b",
+                        "Penei Yehoshua on Bava Metzia 5a",
+                        "Penei Yehoshua on Bava Metzia 5b",
+                        "Penei Yehoshua on Bava Metzia 6a",
+                        "Penei Yehoshua on Bava Metzia 6b",
+                        "Penei Yehoshua on Bava Metzia 7a",
+                        "Penei Yehoshua on Bava Metzia 7b",
+                        "Penei Yehoshua on Bava Metzia 8a",
+                        "Penei Yehoshua on Bava Metzia 8b",
+                        "Penei Yehoshua on Bava Metzia 9a",
+                        "Penei Yehoshua on Bava Metzia 9b",
+                        "Penei Yehoshua on Bava Metzia 10a",
+                        "Penei Yehoshua on Bava Metzia 10b",
+                        "Penei Yehoshua on Bava Metzia 11a",
+                        "Penei Yehoshua on Bava Metzia 11b",
+                        "Penei Yehoshua on Bava Metzia 12a",
+                        "Penei Yehoshua on Bava Metzia 12b",
+                        "Penei Yehoshua on Bava Metzia 13a",
+                        "Penei Yehoshua on Bava Metzia 13b",
+                        "Penei Yehoshua on Bava Metzia 14a",
+                        "Penei Yehoshua on Bava Metzia 14b",
+                        "Penei Yehoshua on Bava Metzia 15a",
+                        "Penei Yehoshua on Bava Metzia 15b",
+                        "Penei Yehoshua on Bava Metzia 16a",
+                        "Penei Yehoshua on Bava Metzia 16b",
+                        "Penei Yehoshua on Bava Metzia 17a",
+                        "Penei Yehoshua on Bava Metzia 17b",
+                        "Penei Yehoshua on Bava Metzia 18a",
+                        "Penei Yehoshua on Bava Metzia 18b",
+                        "Penei Yehoshua on Bava Metzia 19a",
+                        "Penei Yehoshua on Bava Metzia 19b",
+                        "Penei Yehoshua on Bava Metzia 20a",
+                        "Penei Yehoshua on Bava Metzia 20b",
+                        "Penei Yehoshua on Bava Metzia 21a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Bava Metzia 21a:4-33b:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-24"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; Ellu Metziot"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו מציאות"
+                        }
+                    ],
+                    "title": "Chapter 2; Ellu Metziot",
+                    "heTitle": "אלו מציאות",
+                    "refs": [
+                        "Penei Yehoshua on Bava Metzia 21a:4-5",
+                        "Penei Yehoshua on Bava Metzia 21b",
+                        "Penei Yehoshua on Bava Metzia 22a",
+                        "Penei Yehoshua on Bava Metzia 22b",
+                        "Penei Yehoshua on Bava Metzia 23a",
+                        "Penei Yehoshua on Bava Metzia 23b",
+                        "Penei Yehoshua on Bava Metzia 24a",
+                        "Penei Yehoshua on Bava Metzia 24b",
+                        "Penei Yehoshua on Bava Metzia 25a",
+                        "Penei Yehoshua on Bava Metzia 25b",
+                        "Penei Yehoshua on Bava Metzia 26a",
+                        "Penei Yehoshua on Bava Metzia 26b",
+                        "Penei Yehoshua on Bava Metzia 27a",
+                        "Penei Yehoshua on Bava Metzia 27b",
+                        "Penei Yehoshua on Bava Metzia 28a",
+                        "Penei Yehoshua on Bava Metzia 28b",
+                        "Penei Yehoshua on Bava Metzia 29a",
+                        "Penei Yehoshua on Bava Metzia 29b",
+                        "Penei Yehoshua on Bava Metzia 30a",
+                        "Penei Yehoshua on Bava Metzia 30b",
+                        "Penei Yehoshua on Bava Metzia 31a",
+                        "Penei Yehoshua on Bava Metzia 31b",
+                        "Penei Yehoshua on Bava Metzia 32a",
+                        "Penei Yehoshua on Bava Metzia 32b",
+                        "Penei Yehoshua on Bava Metzia 33a",
+                        "Penei Yehoshua on Bava Metzia 33b:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 40
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Bava Metzia 33b:5-44a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-34"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; HaMafkid"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "המפקיד"
+                        }
+                    ],
+                    "title": "Chapter 3; HaMafkid",
+                    "heTitle": "המפקיד",
+                    "refs": [
+                        "Penei Yehoshua on Bava Metzia 33b:5-8",
+                        "Penei Yehoshua on Bava Metzia 34a",
+                        "Penei Yehoshua on Bava Metzia 34b",
+                        "Penei Yehoshua on Bava Metzia 35a",
+                        "Penei Yehoshua on Bava Metzia 35b",
+                        "Penei Yehoshua on Bava Metzia 36a",
+                        "Penei Yehoshua on Bava Metzia 36b",
+                        "Penei Yehoshua on Bava Metzia 37a",
+                        "Penei Yehoshua on Bava Metzia 37b",
+                        "Penei Yehoshua on Bava Metzia 38a",
+                        "Penei Yehoshua on Bava Metzia 38b",
+                        "Penei Yehoshua on Bava Metzia 39a",
+                        "Penei Yehoshua on Bava Metzia 39b",
+                        "Penei Yehoshua on Bava Metzia 40a",
+                        "Penei Yehoshua on Bava Metzia 40b",
+                        "Penei Yehoshua on Bava Metzia 41a",
+                        "Penei Yehoshua on Bava Metzia 41b",
+                        "Penei Yehoshua on Bava Metzia 42a",
+                        "Penei Yehoshua on Bava Metzia 42b",
+                        "Penei Yehoshua on Bava Metzia 43a",
+                        "Penei Yehoshua on Bava Metzia 43b",
+                        "Penei Yehoshua on Bava Metzia 44a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 65
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Bava Metzia 44a:4-60a:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-44"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 4; HaZahav"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "הזהב"
+                        }
+                    ],
+                    "title": "Chapter 4; HaZahav",
+                    "heTitle": "הזהב",
+                    "refs": [
+                        "Penei Yehoshua on Bava Metzia 44a:4-8",
+                        "Penei Yehoshua on Bava Metzia 44b",
+                        "Penei Yehoshua on Bava Metzia 45a",
+                        "Penei Yehoshua on Bava Metzia 45b",
+                        "Penei Yehoshua on Bava Metzia 46a",
+                        "Penei Yehoshua on Bava Metzia 46b",
+                        "Penei Yehoshua on Bava Metzia 47a",
+                        "Penei Yehoshua on Bava Metzia 47b",
+                        "Penei Yehoshua on Bava Metzia 48a",
+                        "Penei Yehoshua on Bava Metzia 48b",
+                        "Penei Yehoshua on Bava Metzia 49a",
+                        "Penei Yehoshua on Bava Metzia 49b",
+                        "Penei Yehoshua on Bava Metzia 50a",
+                        "Penei Yehoshua on Bava Metzia 50b",
+                        "Penei Yehoshua on Bava Metzia 51a",
+                        "Penei Yehoshua on Bava Metzia 51b",
+                        "Penei Yehoshua on Bava Metzia 52a",
+                        "Penei Yehoshua on Bava Metzia 52b",
+                        "Penei Yehoshua on Bava Metzia 53a",
+                        "Penei Yehoshua on Bava Metzia 53b",
+                        "Penei Yehoshua on Bava Metzia 54a",
+                        "Penei Yehoshua on Bava Metzia 54b",
+                        "Penei Yehoshua on Bava Metzia 55a",
+                        "Penei Yehoshua on Bava Metzia 55b",
+                        "Penei Yehoshua on Bava Metzia 56a",
+                        "Penei Yehoshua on Bava Metzia 56b",
+                        "Penei Yehoshua on Bava Metzia 57a",
+                        "Penei Yehoshua on Bava Metzia 57b",
+                        "Penei Yehoshua on Bava Metzia 58a",
+                        "Penei Yehoshua on Bava Metzia 58b",
+                        "Penei Yehoshua on Bava Metzia 59a",
+                        "Penei Yehoshua on Bava Metzia 59b",
+                        "Penei Yehoshua on Bava Metzia 60a:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 86
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Bava Metzia 61a:1-72b:7",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "fifth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-54"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 5,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 5; Eizehu Neshekh"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "איזהו נשך"
+                        }
+                    ],
+                    "title": "Chapter 5; Eizehu Neshekh",
+                    "heTitle": "איזהו נשך",
+                    "refs": [
+                        "Penei Yehoshua on Bava Metzia 61a:1-13",
+                        "Penei Yehoshua on Bava Metzia 61b",
+                        "Penei Yehoshua on Bava Metzia 62a",
+                        "Penei Yehoshua on Bava Metzia 62b",
+                        "Penei Yehoshua on Bava Metzia 63a",
+                        "Penei Yehoshua on Bava Metzia 63b",
+                        "Penei Yehoshua on Bava Metzia 64a",
+                        "Penei Yehoshua on Bava Metzia 64b",
+                        "Penei Yehoshua on Bava Metzia 65a",
+                        "Penei Yehoshua on Bava Metzia 65b",
+                        "Penei Yehoshua on Bava Metzia 66a",
+                        "Penei Yehoshua on Bava Metzia 66b",
+                        "Penei Yehoshua on Bava Metzia 67a",
+                        "Penei Yehoshua on Bava Metzia 67b",
+                        "Penei Yehoshua on Bava Metzia 68a",
+                        "Penei Yehoshua on Bava Metzia 68b",
+                        "Penei Yehoshua on Bava Metzia 69a",
+                        "Penei Yehoshua on Bava Metzia 69b",
+                        "Penei Yehoshua on Bava Metzia 70a",
+                        "Penei Yehoshua on Bava Metzia 70b",
+                        "Penei Yehoshua on Bava Metzia 71a",
+                        "Penei Yehoshua on Bava Metzia 71b",
+                        "Penei Yehoshua on Bava Metzia 72a",
+                        "Penei Yehoshua on Bava Metzia 72b:1-7"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 120
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Bava Metzia 80b:1-82b:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-63"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 6; HaSokher et HaUmmanin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "השוכר את האומנין"
+                        }
+                    ],
+                    "title": "Chapter 6; HaSokher et HaUmmanin",
+                    "heTitle": "השוכר את האומנין",
+                    "refs": [
+                        "Penei Yehoshua on Bava Metzia 80b:1-5",
+                        "Penei Yehoshua on Bava Metzia 81a",
+                        "Penei Yehoshua on Bava Metzia 81b",
+                        "Penei Yehoshua on Bava Metzia 82a",
+                        "Penei Yehoshua on Bava Metzia 82b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 159
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Bava Metzia 97a:1-98a:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-83"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 8; HaShoel et HaParah"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "השואל את הפרה"
+                        }
+                    ],
+                    "title": "Chapter 8; HaShoel et HaParah",
+                    "heTitle": "השואל את הפרה",
+                    "refs": [
+                        "Penei Yehoshua on Bava Metzia 97a:1-6",
+                        "Penei Yehoshua on Bava Metzia 97b",
+                        "Penei Yehoshua on Bava Metzia 98a:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 192
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Bava Metzia 110a:1-112b:8",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-93"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 9; HaMekabbel Sadeh MeChavero"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "המקבל שדה מחבירו"
+                        }
+                    ],
+                    "title": "Chapter 9; HaMekabbel Sadeh MeChavero",
+                    "heTitle": "המקבל שדה מחבירו",
+                    "refs": [
+                        "Penei Yehoshua on Bava Metzia 110a:1-2",
+                        "Penei Yehoshua on Bava Metzia 110b",
+                        "Penei Yehoshua on Bava Metzia 111a",
+                        "Penei Yehoshua on Bava Metzia 111b",
+                        "Penei Yehoshua on Bava Metzia 112a",
+                        "Penei Yehoshua on Bava Metzia 112b:1-8"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 218
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "פני יהושע על בבא מציעא"
+                },
+                {
+                    "text": "Penei Yehoshua on Bava Metzia",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Penei Yehoshua on Bava Metzia",
+            "heTitle": "פני יהושע על בבא מציעא"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

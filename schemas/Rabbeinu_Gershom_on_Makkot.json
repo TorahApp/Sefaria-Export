@@ -92,6 +92,9 @@
         ],
         "key": "Rabbeinu Gershom on Makkot"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Gershom ben Yehudah",
@@ -138,6 +141,186 @@
     "heTitleVariants": [
         "רבינו גרשום על מכות"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Rabbeinu Gershom on Makkot 24a:29:1-24b:3:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "talmud",
+                                "bavli",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "bavli",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "talmud",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "gemara",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "bavli",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "talmud",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rabbeinu-gershom",
+                                "gemara",
+                                "perek",
+                                "chapter-316"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; Ellu Hen HaLokin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "אלו הן הלוקין"
+                        }
+                    ],
+                    "title": "Chapter 3; Ellu Hen HaLokin",
+                    "heTitle": "אלו הן הלוקין"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Rabbeinu Gershom on Tractate Makkot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rabbeinu Gershom on Talmud Makkot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rabbeinu Gershom on Masekhet Makkot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rabbeinu Gershom on Makkos"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rabbeinu Gershom on Talmud Makkos"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rabbeinu Gershom on Tractate Makkos"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rabbeinu Gershom on Makot"
+                },
+                {
+                    "lang": "he",
+                    "text": "רבינו גרשום על מכות",
+                    "primary": true
+                },
+                {
+                    "text": "Rabbeinu Gershom on Makkot",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Rabbeinu Gershom on Makkot",
+            "heTitle": "רבינו גרשום על מכות"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line",

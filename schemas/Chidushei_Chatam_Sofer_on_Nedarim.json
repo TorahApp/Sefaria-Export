@@ -17,6 +17,14 @@
             "Daf",
             "Paragraph"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chatam-sofer",
+                    "nedarim"
+                ]
+            }
+        ],
         "lengths": [
             182,
             470
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,9 +57,12 @@
         ],
         "key": "Chidushei Chatam Sofer on Nedarim"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Moses Sofer",
+            "en": "Moses Sofer (Chatam Sofer)",
             "he": "משה סופר",
             "slug": "moses-sofer"
         }
@@ -86,6 +96,1580 @@
     "heTitleVariants": [
         "חידושי חתם סופר על נדרים"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 2a:1-91b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-127"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 1; Kol Kinnuyei",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "כל כנויי",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 1; Kol Kinnuyei",
+                    "heTitle": "כל כנויי",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 2a:1-7",
+                        "Chidushei Chatam Sofer on Nedarim 2b",
+                        "Chidushei Chatam Sofer on Nedarim 3a",
+                        "Chidushei Chatam Sofer on Nedarim 3b",
+                        "Chidushei Chatam Sofer on Nedarim 4a",
+                        "Chidushei Chatam Sofer on Nedarim 4b",
+                        "Chidushei Chatam Sofer on Nedarim 5a",
+                        "Chidushei Chatam Sofer on Nedarim 5b",
+                        "Chidushei Chatam Sofer on Nedarim 6a",
+                        "Chidushei Chatam Sofer on Nedarim 6b",
+                        "Chidushei Chatam Sofer on Nedarim 7a",
+                        "Chidushei Chatam Sofer on Nedarim 7b",
+                        "Chidushei Chatam Sofer on Nedarim 8a",
+                        "Chidushei Chatam Sofer on Nedarim 8b",
+                        "Chidushei Chatam Sofer on Nedarim 9a",
+                        "Chidushei Chatam Sofer on Nedarim 9b",
+                        "Chidushei Chatam Sofer on Nedarim 10a",
+                        "Chidushei Chatam Sofer on Nedarim 10b",
+                        "Chidushei Chatam Sofer on Nedarim 11a",
+                        "Chidushei Chatam Sofer on Nedarim 11b",
+                        "Chidushei Chatam Sofer on Nedarim 12a",
+                        "Chidushei Chatam Sofer on Nedarim 12b",
+                        "Chidushei Chatam Sofer on Nedarim 13a",
+                        "Chidushei Chatam Sofer on Nedarim 13b",
+                        "Chidushei Chatam Sofer on Nedarim 14a",
+                        "Chidushei Chatam Sofer on Nedarim 14b",
+                        "Chidushei Chatam Sofer on Nedarim 15a",
+                        "Chidushei Chatam Sofer on Nedarim 15b",
+                        "Chidushei Chatam Sofer on Nedarim 16a",
+                        "Chidushei Chatam Sofer on Nedarim 16b",
+                        "Chidushei Chatam Sofer on Nedarim 17a",
+                        "Chidushei Chatam Sofer on Nedarim 17b",
+                        "Chidushei Chatam Sofer on Nedarim 18a",
+                        "Chidushei Chatam Sofer on Nedarim 18b",
+                        "Chidushei Chatam Sofer on Nedarim 19a",
+                        "Chidushei Chatam Sofer on Nedarim 19b",
+                        "Chidushei Chatam Sofer on Nedarim 20a",
+                        "Chidushei Chatam Sofer on Nedarim 20b",
+                        "Chidushei Chatam Sofer on Nedarim 21a",
+                        "Chidushei Chatam Sofer on Nedarim 21b",
+                        "Chidushei Chatam Sofer on Nedarim 22a",
+                        "Chidushei Chatam Sofer on Nedarim 22b",
+                        "Chidushei Chatam Sofer on Nedarim 23a",
+                        "Chidushei Chatam Sofer on Nedarim 23b",
+                        "Chidushei Chatam Sofer on Nedarim 24a",
+                        "Chidushei Chatam Sofer on Nedarim 24b",
+                        "Chidushei Chatam Sofer on Nedarim 25a",
+                        "Chidushei Chatam Sofer on Nedarim 25b",
+                        "Chidushei Chatam Sofer on Nedarim 26a",
+                        "Chidushei Chatam Sofer on Nedarim 26b",
+                        "Chidushei Chatam Sofer on Nedarim 27a",
+                        "Chidushei Chatam Sofer on Nedarim 27b",
+                        "Chidushei Chatam Sofer on Nedarim 28a",
+                        "Chidushei Chatam Sofer on Nedarim 28b",
+                        "Chidushei Chatam Sofer on Nedarim 29a",
+                        "Chidushei Chatam Sofer on Nedarim 29b",
+                        "Chidushei Chatam Sofer on Nedarim 30a",
+                        "Chidushei Chatam Sofer on Nedarim 30b",
+                        "Chidushei Chatam Sofer on Nedarim 31a",
+                        "Chidushei Chatam Sofer on Nedarim 31b",
+                        "Chidushei Chatam Sofer on Nedarim 32a",
+                        "Chidushei Chatam Sofer on Nedarim 32b",
+                        "Chidushei Chatam Sofer on Nedarim 33a",
+                        "Chidushei Chatam Sofer on Nedarim 33b",
+                        "Chidushei Chatam Sofer on Nedarim 34a",
+                        "Chidushei Chatam Sofer on Nedarim 34b",
+                        "Chidushei Chatam Sofer on Nedarim 35a",
+                        "Chidushei Chatam Sofer on Nedarim 35b",
+                        "Chidushei Chatam Sofer on Nedarim 36a",
+                        "Chidushei Chatam Sofer on Nedarim 36b",
+                        "Chidushei Chatam Sofer on Nedarim 37a",
+                        "Chidushei Chatam Sofer on Nedarim 37b",
+                        "Chidushei Chatam Sofer on Nedarim 38a",
+                        "Chidushei Chatam Sofer on Nedarim 38b",
+                        "Chidushei Chatam Sofer on Nedarim 39a",
+                        "Chidushei Chatam Sofer on Nedarim 39b",
+                        "Chidushei Chatam Sofer on Nedarim 40a",
+                        "Chidushei Chatam Sofer on Nedarim 40b",
+                        "Chidushei Chatam Sofer on Nedarim 41a",
+                        "Chidushei Chatam Sofer on Nedarim 41b",
+                        "Chidushei Chatam Sofer on Nedarim 42a",
+                        "Chidushei Chatam Sofer on Nedarim 42b",
+                        "Chidushei Chatam Sofer on Nedarim 43a",
+                        "Chidushei Chatam Sofer on Nedarim 43b",
+                        "Chidushei Chatam Sofer on Nedarim 44a",
+                        "Chidushei Chatam Sofer on Nedarim 44b",
+                        "Chidushei Chatam Sofer on Nedarim 45a",
+                        "Chidushei Chatam Sofer on Nedarim 45b",
+                        "Chidushei Chatam Sofer on Nedarim 46a",
+                        "Chidushei Chatam Sofer on Nedarim 46b",
+                        "Chidushei Chatam Sofer on Nedarim 47a",
+                        "Chidushei Chatam Sofer on Nedarim 47b",
+                        "Chidushei Chatam Sofer on Nedarim 48a",
+                        "Chidushei Chatam Sofer on Nedarim 48b",
+                        "Chidushei Chatam Sofer on Nedarim 49a",
+                        "Chidushei Chatam Sofer on Nedarim 49b",
+                        "Chidushei Chatam Sofer on Nedarim 50a",
+                        "Chidushei Chatam Sofer on Nedarim 50b",
+                        "Chidushei Chatam Sofer on Nedarim 51a",
+                        "Chidushei Chatam Sofer on Nedarim 51b",
+                        "Chidushei Chatam Sofer on Nedarim 52a",
+                        "Chidushei Chatam Sofer on Nedarim 52b",
+                        "Chidushei Chatam Sofer on Nedarim 53a",
+                        "Chidushei Chatam Sofer on Nedarim 53b",
+                        "Chidushei Chatam Sofer on Nedarim 54a",
+                        "Chidushei Chatam Sofer on Nedarim 54b",
+                        "Chidushei Chatam Sofer on Nedarim 55a",
+                        "Chidushei Chatam Sofer on Nedarim 55b",
+                        "Chidushei Chatam Sofer on Nedarim 56a",
+                        "Chidushei Chatam Sofer on Nedarim 56b",
+                        "Chidushei Chatam Sofer on Nedarim 57a",
+                        "Chidushei Chatam Sofer on Nedarim 57b",
+                        "Chidushei Chatam Sofer on Nedarim 58a",
+                        "Chidushei Chatam Sofer on Nedarim 58b",
+                        "Chidushei Chatam Sofer on Nedarim 59a",
+                        "Chidushei Chatam Sofer on Nedarim 59b",
+                        "Chidushei Chatam Sofer on Nedarim 60a",
+                        "Chidushei Chatam Sofer on Nedarim 60b",
+                        "Chidushei Chatam Sofer on Nedarim 61a",
+                        "Chidushei Chatam Sofer on Nedarim 61b",
+                        "Chidushei Chatam Sofer on Nedarim 62a",
+                        "Chidushei Chatam Sofer on Nedarim 62b",
+                        "Chidushei Chatam Sofer on Nedarim 63a",
+                        "Chidushei Chatam Sofer on Nedarim 63b",
+                        "Chidushei Chatam Sofer on Nedarim 64a",
+                        "Chidushei Chatam Sofer on Nedarim 64b",
+                        "Chidushei Chatam Sofer on Nedarim 65a",
+                        "Chidushei Chatam Sofer on Nedarim 65b",
+                        "Chidushei Chatam Sofer on Nedarim 66a",
+                        "Chidushei Chatam Sofer on Nedarim 66b",
+                        "Chidushei Chatam Sofer on Nedarim 67a",
+                        "Chidushei Chatam Sofer on Nedarim 67b",
+                        "Chidushei Chatam Sofer on Nedarim 68a",
+                        "Chidushei Chatam Sofer on Nedarim 68b",
+                        "Chidushei Chatam Sofer on Nedarim 69a",
+                        "Chidushei Chatam Sofer on Nedarim 69b",
+                        "Chidushei Chatam Sofer on Nedarim 70a",
+                        "Chidushei Chatam Sofer on Nedarim 70b",
+                        "Chidushei Chatam Sofer on Nedarim 71a",
+                        "Chidushei Chatam Sofer on Nedarim 71b",
+                        "Chidushei Chatam Sofer on Nedarim 72a",
+                        "Chidushei Chatam Sofer on Nedarim 72b",
+                        "Chidushei Chatam Sofer on Nedarim 73a",
+                        "Chidushei Chatam Sofer on Nedarim 73b",
+                        "Chidushei Chatam Sofer on Nedarim 74a",
+                        "Chidushei Chatam Sofer on Nedarim 74b",
+                        "Chidushei Chatam Sofer on Nedarim 75a",
+                        "Chidushei Chatam Sofer on Nedarim 75b",
+                        "Chidushei Chatam Sofer on Nedarim 76a",
+                        "Chidushei Chatam Sofer on Nedarim 76b",
+                        "Chidushei Chatam Sofer on Nedarim 77a",
+                        "Chidushei Chatam Sofer on Nedarim 77b",
+                        "Chidushei Chatam Sofer on Nedarim 78a",
+                        "Chidushei Chatam Sofer on Nedarim 78b",
+                        "Chidushei Chatam Sofer on Nedarim 79a",
+                        "Chidushei Chatam Sofer on Nedarim 79b",
+                        "Chidushei Chatam Sofer on Nedarim 80a",
+                        "Chidushei Chatam Sofer on Nedarim 80b",
+                        "Chidushei Chatam Sofer on Nedarim 81a",
+                        "Chidushei Chatam Sofer on Nedarim 81b",
+                        "Chidushei Chatam Sofer on Nedarim 82a",
+                        "Chidushei Chatam Sofer on Nedarim 82b",
+                        "Chidushei Chatam Sofer on Nedarim 83a",
+                        "Chidushei Chatam Sofer on Nedarim 83b",
+                        "Chidushei Chatam Sofer on Nedarim 84a",
+                        "Chidushei Chatam Sofer on Nedarim 84b",
+                        "Chidushei Chatam Sofer on Nedarim 85a",
+                        "Chidushei Chatam Sofer on Nedarim 85b",
+                        "Chidushei Chatam Sofer on Nedarim 86a",
+                        "Chidushei Chatam Sofer on Nedarim 86b",
+                        "Chidushei Chatam Sofer on Nedarim 87a",
+                        "Chidushei Chatam Sofer on Nedarim 87b",
+                        "Chidushei Chatam Sofer on Nedarim 88a",
+                        "Chidushei Chatam Sofer on Nedarim 88b",
+                        "Chidushei Chatam Sofer on Nedarim 89a",
+                        "Chidushei Chatam Sofer on Nedarim 89b",
+                        "Chidushei Chatam Sofer on Nedarim 90a",
+                        "Chidushei Chatam Sofer on Nedarim 90b",
+                        "Chidushei Chatam Sofer on Nedarim 91a",
+                        "Chidushei Chatam Sofer on Nedarim 91b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 21b:1-32a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-322"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 3; Arba'ah Nedarim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "ארבעה נדרים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 3; Arba'ah Nedarim",
+                    "heTitle": "ארבעה נדרים",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 21b:1-2",
+                        "Chidushei Chatam Sofer on Nedarim 22a",
+                        "Chidushei Chatam Sofer on Nedarim 22b",
+                        "Chidushei Chatam Sofer on Nedarim 23a",
+                        "Chidushei Chatam Sofer on Nedarim 23b",
+                        "Chidushei Chatam Sofer on Nedarim 24a",
+                        "Chidushei Chatam Sofer on Nedarim 24b",
+                        "Chidushei Chatam Sofer on Nedarim 25a",
+                        "Chidushei Chatam Sofer on Nedarim 25b",
+                        "Chidushei Chatam Sofer on Nedarim 26a",
+                        "Chidushei Chatam Sofer on Nedarim 26b",
+                        "Chidushei Chatam Sofer on Nedarim 27a",
+                        "Chidushei Chatam Sofer on Nedarim 27b",
+                        "Chidushei Chatam Sofer on Nedarim 28a",
+                        "Chidushei Chatam Sofer on Nedarim 28b",
+                        "Chidushei Chatam Sofer on Nedarim 29a",
+                        "Chidushei Chatam Sofer on Nedarim 29b",
+                        "Chidushei Chatam Sofer on Nedarim 30a",
+                        "Chidushei Chatam Sofer on Nedarim 30b",
+                        "Chidushei Chatam Sofer on Nedarim 31a",
+                        "Chidushei Chatam Sofer on Nedarim 31b",
+                        "Chidushei Chatam Sofer on Nedarim 32a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 41
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 33a:1-91b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-418"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Ein Bein HaMuddar",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "אין בין המודר",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Ein Bein HaMuddar",
+                    "heTitle": "אין בין המודר",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 33a:1-3",
+                        "Chidushei Chatam Sofer on Nedarim 33b",
+                        "Chidushei Chatam Sofer on Nedarim 34a",
+                        "Chidushei Chatam Sofer on Nedarim 34b",
+                        "Chidushei Chatam Sofer on Nedarim 35a",
+                        "Chidushei Chatam Sofer on Nedarim 35b",
+                        "Chidushei Chatam Sofer on Nedarim 36a",
+                        "Chidushei Chatam Sofer on Nedarim 36b",
+                        "Chidushei Chatam Sofer on Nedarim 37a",
+                        "Chidushei Chatam Sofer on Nedarim 37b",
+                        "Chidushei Chatam Sofer on Nedarim 38a",
+                        "Chidushei Chatam Sofer on Nedarim 38b",
+                        "Chidushei Chatam Sofer on Nedarim 39a",
+                        "Chidushei Chatam Sofer on Nedarim 39b",
+                        "Chidushei Chatam Sofer on Nedarim 40a",
+                        "Chidushei Chatam Sofer on Nedarim 40b",
+                        "Chidushei Chatam Sofer on Nedarim 41a",
+                        "Chidushei Chatam Sofer on Nedarim 41b",
+                        "Chidushei Chatam Sofer on Nedarim 42a",
+                        "Chidushei Chatam Sofer on Nedarim 42b",
+                        "Chidushei Chatam Sofer on Nedarim 43a",
+                        "Chidushei Chatam Sofer on Nedarim 43b",
+                        "Chidushei Chatam Sofer on Nedarim 44a",
+                        "Chidushei Chatam Sofer on Nedarim 44b",
+                        "Chidushei Chatam Sofer on Nedarim 45a",
+                        "Chidushei Chatam Sofer on Nedarim 45b",
+                        "Chidushei Chatam Sofer on Nedarim 46a",
+                        "Chidushei Chatam Sofer on Nedarim 46b",
+                        "Chidushei Chatam Sofer on Nedarim 47a",
+                        "Chidushei Chatam Sofer on Nedarim 47b",
+                        "Chidushei Chatam Sofer on Nedarim 48a",
+                        "Chidushei Chatam Sofer on Nedarim 48b",
+                        "Chidushei Chatam Sofer on Nedarim 49a",
+                        "Chidushei Chatam Sofer on Nedarim 49b",
+                        "Chidushei Chatam Sofer on Nedarim 50a",
+                        "Chidushei Chatam Sofer on Nedarim 50b",
+                        "Chidushei Chatam Sofer on Nedarim 51a",
+                        "Chidushei Chatam Sofer on Nedarim 51b",
+                        "Chidushei Chatam Sofer on Nedarim 52a",
+                        "Chidushei Chatam Sofer on Nedarim 52b",
+                        "Chidushei Chatam Sofer on Nedarim 53a",
+                        "Chidushei Chatam Sofer on Nedarim 53b",
+                        "Chidushei Chatam Sofer on Nedarim 54a",
+                        "Chidushei Chatam Sofer on Nedarim 54b",
+                        "Chidushei Chatam Sofer on Nedarim 55a",
+                        "Chidushei Chatam Sofer on Nedarim 55b",
+                        "Chidushei Chatam Sofer on Nedarim 56a",
+                        "Chidushei Chatam Sofer on Nedarim 56b",
+                        "Chidushei Chatam Sofer on Nedarim 57a",
+                        "Chidushei Chatam Sofer on Nedarim 57b",
+                        "Chidushei Chatam Sofer on Nedarim 58a",
+                        "Chidushei Chatam Sofer on Nedarim 58b",
+                        "Chidushei Chatam Sofer on Nedarim 59a",
+                        "Chidushei Chatam Sofer on Nedarim 59b",
+                        "Chidushei Chatam Sofer on Nedarim 60a",
+                        "Chidushei Chatam Sofer on Nedarim 60b",
+                        "Chidushei Chatam Sofer on Nedarim 61a",
+                        "Chidushei Chatam Sofer on Nedarim 61b",
+                        "Chidushei Chatam Sofer on Nedarim 62a",
+                        "Chidushei Chatam Sofer on Nedarim 62b",
+                        "Chidushei Chatam Sofer on Nedarim 63a",
+                        "Chidushei Chatam Sofer on Nedarim 63b",
+                        "Chidushei Chatam Sofer on Nedarim 64a",
+                        "Chidushei Chatam Sofer on Nedarim 64b",
+                        "Chidushei Chatam Sofer on Nedarim 65a",
+                        "Chidushei Chatam Sofer on Nedarim 65b",
+                        "Chidushei Chatam Sofer on Nedarim 66a",
+                        "Chidushei Chatam Sofer on Nedarim 66b",
+                        "Chidushei Chatam Sofer on Nedarim 67a",
+                        "Chidushei Chatam Sofer on Nedarim 67b",
+                        "Chidushei Chatam Sofer on Nedarim 68a",
+                        "Chidushei Chatam Sofer on Nedarim 68b",
+                        "Chidushei Chatam Sofer on Nedarim 69a",
+                        "Chidushei Chatam Sofer on Nedarim 69b",
+                        "Chidushei Chatam Sofer on Nedarim 70a",
+                        "Chidushei Chatam Sofer on Nedarim 70b",
+                        "Chidushei Chatam Sofer on Nedarim 71a",
+                        "Chidushei Chatam Sofer on Nedarim 71b",
+                        "Chidushei Chatam Sofer on Nedarim 72a",
+                        "Chidushei Chatam Sofer on Nedarim 72b",
+                        "Chidushei Chatam Sofer on Nedarim 73a",
+                        "Chidushei Chatam Sofer on Nedarim 73b",
+                        "Chidushei Chatam Sofer on Nedarim 74a",
+                        "Chidushei Chatam Sofer on Nedarim 74b",
+                        "Chidushei Chatam Sofer on Nedarim 75a",
+                        "Chidushei Chatam Sofer on Nedarim 75b",
+                        "Chidushei Chatam Sofer on Nedarim 76a",
+                        "Chidushei Chatam Sofer on Nedarim 76b",
+                        "Chidushei Chatam Sofer on Nedarim 77a",
+                        "Chidushei Chatam Sofer on Nedarim 77b",
+                        "Chidushei Chatam Sofer on Nedarim 78a",
+                        "Chidushei Chatam Sofer on Nedarim 78b",
+                        "Chidushei Chatam Sofer on Nedarim 79a",
+                        "Chidushei Chatam Sofer on Nedarim 79b",
+                        "Chidushei Chatam Sofer on Nedarim 80a",
+                        "Chidushei Chatam Sofer on Nedarim 80b",
+                        "Chidushei Chatam Sofer on Nedarim 81a",
+                        "Chidushei Chatam Sofer on Nedarim 81b",
+                        "Chidushei Chatam Sofer on Nedarim 82a",
+                        "Chidushei Chatam Sofer on Nedarim 82b",
+                        "Chidushei Chatam Sofer on Nedarim 83a",
+                        "Chidushei Chatam Sofer on Nedarim 83b",
+                        "Chidushei Chatam Sofer on Nedarim 84a",
+                        "Chidushei Chatam Sofer on Nedarim 84b",
+                        "Chidushei Chatam Sofer on Nedarim 85a",
+                        "Chidushei Chatam Sofer on Nedarim 85b",
+                        "Chidushei Chatam Sofer on Nedarim 86a",
+                        "Chidushei Chatam Sofer on Nedarim 86b",
+                        "Chidushei Chatam Sofer on Nedarim 87a",
+                        "Chidushei Chatam Sofer on Nedarim 87b",
+                        "Chidushei Chatam Sofer on Nedarim 88a",
+                        "Chidushei Chatam Sofer on Nedarim 88b",
+                        "Chidushei Chatam Sofer on Nedarim 89a",
+                        "Chidushei Chatam Sofer on Nedarim 89b",
+                        "Chidushei Chatam Sofer on Nedarim 90a",
+                        "Chidushei Chatam Sofer on Nedarim 90b",
+                        "Chidushei Chatam Sofer on Nedarim 91a",
+                        "Chidushei Chatam Sofer on Nedarim 91b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 64
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 49a:1-52b:5",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "sixth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-614"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 6,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 6; HaNoder Min HaMevushal",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הנודר מן המבושל",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 6; HaNoder Min HaMevushal",
+                    "heTitle": "הנודר מן המבושל",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 49a:1-3",
+                        "Chidushei Chatam Sofer on Nedarim 49b",
+                        "Chidushei Chatam Sofer on Nedarim 50a",
+                        "Chidushei Chatam Sofer on Nedarim 50b",
+                        "Chidushei Chatam Sofer on Nedarim 51a",
+                        "Chidushei Chatam Sofer on Nedarim 51b",
+                        "Chidushei Chatam Sofer on Nedarim 52a",
+                        "Chidushei Chatam Sofer on Nedarim 52b:1-5"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 96
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 54a:1-59b:14",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "seventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-712"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 7,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 7; HaNoder Min HaYarak",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "הנודר מן הירק",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 7; HaNoder Min HaYarak",
+                    "heTitle": "הנודר מן הירק",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 54a:1-2",
+                        "Chidushei Chatam Sofer on Nedarim 54b",
+                        "Chidushei Chatam Sofer on Nedarim 55a",
+                        "Chidushei Chatam Sofer on Nedarim 55b",
+                        "Chidushei Chatam Sofer on Nedarim 56a",
+                        "Chidushei Chatam Sofer on Nedarim 56b",
+                        "Chidushei Chatam Sofer on Nedarim 57a",
+                        "Chidushei Chatam Sofer on Nedarim 57b",
+                        "Chidushei Chatam Sofer on Nedarim 58a",
+                        "Chidushei Chatam Sofer on Nedarim 58b",
+                        "Chidushei Chatam Sofer on Nedarim 59a",
+                        "Chidushei Chatam Sofer on Nedarim 59b:1-14"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 106
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 60a:1-63a:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "eighth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-812"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 8,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 8; Konam Yayin",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "קונם יין",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 8; Konam Yayin",
+                    "heTitle": "קונם יין",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 60a:1-2",
+                        "Chidushei Chatam Sofer on Nedarim 60b",
+                        "Chidushei Chatam Sofer on Nedarim 61a",
+                        "Chidushei Chatam Sofer on Nedarim 61b",
+                        "Chidushei Chatam Sofer on Nedarim 62a",
+                        "Chidushei Chatam Sofer on Nedarim 62b",
+                        "Chidushei Chatam Sofer on Nedarim 63a:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 118
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 64a:1-66b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "ninth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-912"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 9,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 9; Rabbi Eliezer",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "רבי אליעזר",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 9; Rabbi Eliezer",
+                    "heTitle": "רבי אליעזר",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 64a:1-3",
+                        "Chidushei Chatam Sofer on Nedarim 64b",
+                        "Chidushei Chatam Sofer on Nedarim 65a",
+                        "Chidushei Chatam Sofer on Nedarim 65b",
+                        "Chidushei Chatam Sofer on Nedarim 66a",
+                        "Chidushei Chatam Sofer on Nedarim 66b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 126
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 66b:3-79a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "tenth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-107"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 10,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 10; Na'arah HaMeorasah",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "נערה המאורסה",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 10; Na'arah HaMeorasah",
+                    "heTitle": "נערה המאורסה",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 66b:3-5",
+                        "Chidushei Chatam Sofer on Nedarim 67a",
+                        "Chidushei Chatam Sofer on Nedarim 67b",
+                        "Chidushei Chatam Sofer on Nedarim 68a",
+                        "Chidushei Chatam Sofer on Nedarim 68b",
+                        "Chidushei Chatam Sofer on Nedarim 69a",
+                        "Chidushei Chatam Sofer on Nedarim 69b",
+                        "Chidushei Chatam Sofer on Nedarim 70a",
+                        "Chidushei Chatam Sofer on Nedarim 70b",
+                        "Chidushei Chatam Sofer on Nedarim 71a",
+                        "Chidushei Chatam Sofer on Nedarim 71b",
+                        "Chidushei Chatam Sofer on Nedarim 72a",
+                        "Chidushei Chatam Sofer on Nedarim 72b",
+                        "Chidushei Chatam Sofer on Nedarim 73a",
+                        "Chidushei Chatam Sofer on Nedarim 73b",
+                        "Chidushei Chatam Sofer on Nedarim 74a",
+                        "Chidushei Chatam Sofer on Nedarim 74b",
+                        "Chidushei Chatam Sofer on Nedarim 75a",
+                        "Chidushei Chatam Sofer on Nedarim 75b",
+                        "Chidushei Chatam Sofer on Nedarim 76a",
+                        "Chidushei Chatam Sofer on Nedarim 76b",
+                        "Chidushei Chatam Sofer on Nedarim 77a",
+                        "Chidushei Chatam Sofer on Nedarim 77b",
+                        "Chidushei Chatam Sofer on Nedarim 78a",
+                        "Chidushei Chatam Sofer on Nedarim 78b",
+                        "Chidushei Chatam Sofer on Nedarim 79a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 131
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Chidushei Chatam Sofer on Nedarim 79a:2-91b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "eleventh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "bavli",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "talmud",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "chatam-sofer",
+                                "gemara",
+                                "perek",
+                                "chapter-1111"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 11,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 11; VeEllu Nedarim",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "ואלו נדרים",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 11; VeEllu Nedarim",
+                    "heTitle": "ואלו נדרים",
+                    "refs": [
+                        "Chidushei Chatam Sofer on Nedarim 79a:2-8",
+                        "Chidushei Chatam Sofer on Nedarim 79b",
+                        "Chidushei Chatam Sofer on Nedarim 80a",
+                        "Chidushei Chatam Sofer on Nedarim 80b",
+                        "Chidushei Chatam Sofer on Nedarim 81a",
+                        "Chidushei Chatam Sofer on Nedarim 81b",
+                        "Chidushei Chatam Sofer on Nedarim 82a",
+                        "Chidushei Chatam Sofer on Nedarim 82b",
+                        "Chidushei Chatam Sofer on Nedarim 83a",
+                        "Chidushei Chatam Sofer on Nedarim 83b",
+                        "Chidushei Chatam Sofer on Nedarim 84a",
+                        "Chidushei Chatam Sofer on Nedarim 84b",
+                        "Chidushei Chatam Sofer on Nedarim 85a",
+                        "Chidushei Chatam Sofer on Nedarim 85b",
+                        "Chidushei Chatam Sofer on Nedarim 86a",
+                        "Chidushei Chatam Sofer on Nedarim 86b",
+                        "Chidushei Chatam Sofer on Nedarim 87a",
+                        "Chidushei Chatam Sofer on Nedarim 87b",
+                        "Chidushei Chatam Sofer on Nedarim 88a",
+                        "Chidushei Chatam Sofer on Nedarim 88b",
+                        "Chidushei Chatam Sofer on Nedarim 89a",
+                        "Chidushei Chatam Sofer on Nedarim 89b",
+                        "Chidushei Chatam Sofer on Nedarim 90a",
+                        "Chidushei Chatam Sofer on Nedarim 90b",
+                        "Chidushei Chatam Sofer on Nedarim 91a",
+                        "Chidushei Chatam Sofer on Nedarim 91b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 156
+                }
+            ],
+            "titles": [
+                {
+                    "text": "חידושי חתם סופר על נדרים",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Chidushei Chatam Sofer on Nedarim",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Chidushei Chatam Sofer on Nedarim",
+            "heTitle": "חידושי חתם סופר על נדרים"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Paragraph"

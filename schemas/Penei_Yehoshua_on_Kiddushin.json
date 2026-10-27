@@ -17,6 +17,14 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "penei-yehoshua",
+                    "kiddushin"
+                ]
+            }
+        ],
         "lengths": [
             164,
             1212
@@ -27,8 +35,7 @@
         ],
         "isSegmentLevelDiburHamatchil": true,
         "diburHamatchilRegexes": [
-            "^<b>(.+?)</b>",
-            "^(.+?)[\\-–]"
+            "^<b>(.+?)</b>"
         ],
         "titles": [
             {
@@ -50,6 +57,9 @@
         ],
         "key": "Penei Yehoshua on Kiddushin"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Jacob Joshua Falk",
@@ -87,6 +97,709 @@
     "heTitleVariants": [
         "פני יהושע על קידושין"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Kiddushin 2a:1-41a:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-117"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 1; HaIshah Nikneit"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "האשה נקנית"
+                        }
+                    ],
+                    "title": "Chapter 1; HaIshah Nikneit",
+                    "heTitle": "האשה נקנית",
+                    "refs": [
+                        "Penei Yehoshua on Kiddushin 2a:1-16",
+                        "Penei Yehoshua on Kiddushin 2b",
+                        "Penei Yehoshua on Kiddushin 3a",
+                        "Penei Yehoshua on Kiddushin 3b",
+                        "Penei Yehoshua on Kiddushin 4a",
+                        "Penei Yehoshua on Kiddushin 4b",
+                        "Penei Yehoshua on Kiddushin 5a",
+                        "Penei Yehoshua on Kiddushin 5b",
+                        "Penei Yehoshua on Kiddushin 6a",
+                        "Penei Yehoshua on Kiddushin 6b",
+                        "Penei Yehoshua on Kiddushin 7a",
+                        "Penei Yehoshua on Kiddushin 7b",
+                        "Penei Yehoshua on Kiddushin 8a",
+                        "Penei Yehoshua on Kiddushin 8b",
+                        "Penei Yehoshua on Kiddushin 9a",
+                        "Penei Yehoshua on Kiddushin 9b",
+                        "Penei Yehoshua on Kiddushin 10a",
+                        "Penei Yehoshua on Kiddushin 10b",
+                        "Penei Yehoshua on Kiddushin 11a",
+                        "Penei Yehoshua on Kiddushin 11b",
+                        "Penei Yehoshua on Kiddushin 12a",
+                        "Penei Yehoshua on Kiddushin 12b",
+                        "Penei Yehoshua on Kiddushin 13a",
+                        "Penei Yehoshua on Kiddushin 13b",
+                        "Penei Yehoshua on Kiddushin 14a",
+                        "Penei Yehoshua on Kiddushin 14b",
+                        "Penei Yehoshua on Kiddushin 15a",
+                        "Penei Yehoshua on Kiddushin 15b",
+                        "Penei Yehoshua on Kiddushin 16a",
+                        "Penei Yehoshua on Kiddushin 16b",
+                        "Penei Yehoshua on Kiddushin 17a",
+                        "Penei Yehoshua on Kiddushin 17b",
+                        "Penei Yehoshua on Kiddushin 18a",
+                        "Penei Yehoshua on Kiddushin 18b",
+                        "Penei Yehoshua on Kiddushin 19a",
+                        "Penei Yehoshua on Kiddushin 19b",
+                        "Penei Yehoshua on Kiddushin 20a",
+                        "Penei Yehoshua on Kiddushin 20b",
+                        "Penei Yehoshua on Kiddushin 21a",
+                        "Penei Yehoshua on Kiddushin 21b",
+                        "Penei Yehoshua on Kiddushin 22a",
+                        "Penei Yehoshua on Kiddushin 22b",
+                        "Penei Yehoshua on Kiddushin 23a",
+                        "Penei Yehoshua on Kiddushin 23b",
+                        "Penei Yehoshua on Kiddushin 24a",
+                        "Penei Yehoshua on Kiddushin 24b",
+                        "Penei Yehoshua on Kiddushin 25a",
+                        "Penei Yehoshua on Kiddushin 25b",
+                        "Penei Yehoshua on Kiddushin 26a",
+                        "Penei Yehoshua on Kiddushin 26b",
+                        "Penei Yehoshua on Kiddushin 27a",
+                        "Penei Yehoshua on Kiddushin 27b",
+                        "Penei Yehoshua on Kiddushin 28a",
+                        "Penei Yehoshua on Kiddushin 28b",
+                        "Penei Yehoshua on Kiddushin 29a",
+                        "Penei Yehoshua on Kiddushin 29b",
+                        "Penei Yehoshua on Kiddushin 30a",
+                        "Penei Yehoshua on Kiddushin 30b",
+                        "Penei Yehoshua on Kiddushin 31a",
+                        "Penei Yehoshua on Kiddushin 31b",
+                        "Penei Yehoshua on Kiddushin 32a",
+                        "Penei Yehoshua on Kiddushin 32b",
+                        "Penei Yehoshua on Kiddushin 33a",
+                        "Penei Yehoshua on Kiddushin 33b",
+                        "Penei Yehoshua on Kiddushin 34a",
+                        "Penei Yehoshua on Kiddushin 34b",
+                        "Penei Yehoshua on Kiddushin 35a",
+                        "Penei Yehoshua on Kiddushin 35b",
+                        "Penei Yehoshua on Kiddushin 36a",
+                        "Penei Yehoshua on Kiddushin 36b",
+                        "Penei Yehoshua on Kiddushin 37a",
+                        "Penei Yehoshua on Kiddushin 37b",
+                        "Penei Yehoshua on Kiddushin 38a",
+                        "Penei Yehoshua on Kiddushin 38b",
+                        "Penei Yehoshua on Kiddushin 39a",
+                        "Penei Yehoshua on Kiddushin 39b",
+                        "Penei Yehoshua on Kiddushin 40a",
+                        "Penei Yehoshua on Kiddushin 40b",
+                        "Penei Yehoshua on Kiddushin 41a:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Kiddushin 41a:2-58b:6",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-215"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 2; HaIsh Mekaddesh"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "האיש מקדש"
+                        }
+                    ],
+                    "title": "Chapter 2; HaIsh Mekaddesh",
+                    "heTitle": "האיש מקדש",
+                    "refs": [
+                        "Penei Yehoshua on Kiddushin 41a:2-6",
+                        "Penei Yehoshua on Kiddushin 41b",
+                        "Penei Yehoshua on Kiddushin 42a",
+                        "Penei Yehoshua on Kiddushin 42b",
+                        "Penei Yehoshua on Kiddushin 43a",
+                        "Penei Yehoshua on Kiddushin 43b",
+                        "Penei Yehoshua on Kiddushin 44a",
+                        "Penei Yehoshua on Kiddushin 44b",
+                        "Penei Yehoshua on Kiddushin 45a",
+                        "Penei Yehoshua on Kiddushin 45b",
+                        "Penei Yehoshua on Kiddushin 46a",
+                        "Penei Yehoshua on Kiddushin 46b",
+                        "Penei Yehoshua on Kiddushin 47a",
+                        "Penei Yehoshua on Kiddushin 47b",
+                        "Penei Yehoshua on Kiddushin 48a",
+                        "Penei Yehoshua on Kiddushin 48b",
+                        "Penei Yehoshua on Kiddushin 49a",
+                        "Penei Yehoshua on Kiddushin 49b",
+                        "Penei Yehoshua on Kiddushin 50a",
+                        "Penei Yehoshua on Kiddushin 50b",
+                        "Penei Yehoshua on Kiddushin 51a",
+                        "Penei Yehoshua on Kiddushin 51b",
+                        "Penei Yehoshua on Kiddushin 52a",
+                        "Penei Yehoshua on Kiddushin 52b",
+                        "Penei Yehoshua on Kiddushin 53a",
+                        "Penei Yehoshua on Kiddushin 53b",
+                        "Penei Yehoshua on Kiddushin 54a",
+                        "Penei Yehoshua on Kiddushin 54b",
+                        "Penei Yehoshua on Kiddushin 55a",
+                        "Penei Yehoshua on Kiddushin 55b",
+                        "Penei Yehoshua on Kiddushin 56a",
+                        "Penei Yehoshua on Kiddushin 56b",
+                        "Penei Yehoshua on Kiddushin 57a",
+                        "Penei Yehoshua on Kiddushin 57b",
+                        "Penei Yehoshua on Kiddushin 58a",
+                        "Penei Yehoshua on Kiddushin 58b:1-6"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 80
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Kiddushin 58b:7-69a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-315"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 3; HaOmer LeChavero"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "האומר לחברו"
+                        }
+                    ],
+                    "title": "Chapter 3; HaOmer LeChavero",
+                    "heTitle": "האומר לחברו",
+                    "refs": [
+                        "Penei Yehoshua on Kiddushin 58b:7-10",
+                        "Penei Yehoshua on Kiddushin 59a",
+                        "Penei Yehoshua on Kiddushin 59b",
+                        "Penei Yehoshua on Kiddushin 60a",
+                        "Penei Yehoshua on Kiddushin 60b",
+                        "Penei Yehoshua on Kiddushin 61a",
+                        "Penei Yehoshua on Kiddushin 61b",
+                        "Penei Yehoshua on Kiddushin 62a",
+                        "Penei Yehoshua on Kiddushin 62b",
+                        "Penei Yehoshua on Kiddushin 63a",
+                        "Penei Yehoshua on Kiddushin 63b",
+                        "Penei Yehoshua on Kiddushin 64a",
+                        "Penei Yehoshua on Kiddushin 64b",
+                        "Penei Yehoshua on Kiddushin 65a",
+                        "Penei Yehoshua on Kiddushin 65b",
+                        "Penei Yehoshua on Kiddushin 66a",
+                        "Penei Yehoshua on Kiddushin 66b",
+                        "Penei Yehoshua on Kiddushin 67a",
+                        "Penei Yehoshua on Kiddushin 67b",
+                        "Penei Yehoshua on Kiddushin 68a",
+                        "Penei Yehoshua on Kiddushin 68b",
+                        "Penei Yehoshua on Kiddushin 69a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 115
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Penei Yehoshua on Kiddushin 69a:5-82a:4",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "bavli",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "talmud",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "penei-yehoshua",
+                                "gemara",
+                                "perek",
+                                "chapter-413"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "lang": "en",
+                            "text": "Chapter 4; Asarah Yochasin"
+                        },
+                        {
+                            "primary": true,
+                            "lang": "he",
+                            "text": "עשרה יוחסין"
+                        }
+                    ],
+                    "title": "Chapter 4; Asarah Yochasin",
+                    "heTitle": "עשרה יוחסין",
+                    "refs": [
+                        "Penei Yehoshua on Kiddushin 69a:5-9",
+                        "Penei Yehoshua on Kiddushin 69b",
+                        "Penei Yehoshua on Kiddushin 70a",
+                        "Penei Yehoshua on Kiddushin 70b",
+                        "Penei Yehoshua on Kiddushin 71a",
+                        "Penei Yehoshua on Kiddushin 71b",
+                        "Penei Yehoshua on Kiddushin 72a",
+                        "Penei Yehoshua on Kiddushin 72b",
+                        "Penei Yehoshua on Kiddushin 73a",
+                        "Penei Yehoshua on Kiddushin 73b",
+                        "Penei Yehoshua on Kiddushin 74a",
+                        "Penei Yehoshua on Kiddushin 74b",
+                        "Penei Yehoshua on Kiddushin 75a",
+                        "Penei Yehoshua on Kiddushin 75b",
+                        "Penei Yehoshua on Kiddushin 76a",
+                        "Penei Yehoshua on Kiddushin 76b",
+                        "Penei Yehoshua on Kiddushin 77a",
+                        "Penei Yehoshua on Kiddushin 77b",
+                        "Penei Yehoshua on Kiddushin 78a",
+                        "Penei Yehoshua on Kiddushin 78b",
+                        "Penei Yehoshua on Kiddushin 79a",
+                        "Penei Yehoshua on Kiddushin 79b",
+                        "Penei Yehoshua on Kiddushin 80a",
+                        "Penei Yehoshua on Kiddushin 80b",
+                        "Penei Yehoshua on Kiddushin 81a",
+                        "Penei Yehoshua on Kiddushin 81b",
+                        "Penei Yehoshua on Kiddushin 82a:1-4"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 136
+                }
+            ],
+            "titles": [
+                {
+                    "primary": true,
+                    "lang": "he",
+                    "text": "פני יהושע על קידושין"
+                },
+                {
+                    "text": "Penei Yehoshua on Kiddushin",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Penei Yehoshua on Kiddushin",
+            "heTitle": "פני יהושע על קידושין"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

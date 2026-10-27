@@ -59,9 +59,12 @@
         ],
         "key": "Rashba on Rosh Hashanah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Rashba",
+            "en": "Shlomo ibn Adret (Rashba)",
             "he": "רשב\"א",
             "slug": "rashba1"
         }
@@ -93,6 +96,613 @@
     "heTitleVariants": [
         "רשב״א על ראש השנה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Rosh Hashanah 2a:1-22a:8",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "bavli",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "gemara",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "bavli",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "gemara",
+                                "perek",
+                                "chapter-130"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 1; Arba'ah Rashei Shanim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ארבעה ראשי שנים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Arba'ah Rashei Shanim",
+                    "heTitle": "ארבעה ראשי שנים",
+                    "refs": [
+                        "Rashba on Rosh Hashanah 2a:1-2",
+                        "Rashba on Rosh Hashanah 2b",
+                        "Rashba on Rosh Hashanah 3a",
+                        "Rashba on Rosh Hashanah 3b",
+                        "Rashba on Rosh Hashanah 4a",
+                        "Rashba on Rosh Hashanah 4b",
+                        "Rashba on Rosh Hashanah 5a",
+                        "Rashba on Rosh Hashanah 5b",
+                        "Rashba on Rosh Hashanah 6a",
+                        "Rashba on Rosh Hashanah 6b",
+                        "Rashba on Rosh Hashanah 7a",
+                        "Rashba on Rosh Hashanah 7b",
+                        "Rashba on Rosh Hashanah 8a",
+                        "Rashba on Rosh Hashanah 8b",
+                        "Rashba on Rosh Hashanah 9a",
+                        "Rashba on Rosh Hashanah 9b",
+                        "Rashba on Rosh Hashanah 10a",
+                        "Rashba on Rosh Hashanah 10b",
+                        "Rashba on Rosh Hashanah 11a",
+                        "Rashba on Rosh Hashanah 11b",
+                        "Rashba on Rosh Hashanah 12a",
+                        "Rashba on Rosh Hashanah 12b",
+                        "Rashba on Rosh Hashanah 13a",
+                        "Rashba on Rosh Hashanah 13b",
+                        "Rashba on Rosh Hashanah 14a",
+                        "Rashba on Rosh Hashanah 14b",
+                        "Rashba on Rosh Hashanah 15a",
+                        "Rashba on Rosh Hashanah 15b",
+                        "Rashba on Rosh Hashanah 16a",
+                        "Rashba on Rosh Hashanah 16b",
+                        "Rashba on Rosh Hashanah 17a",
+                        "Rashba on Rosh Hashanah 17b",
+                        "Rashba on Rosh Hashanah 18a",
+                        "Rashba on Rosh Hashanah 18b",
+                        "Rashba on Rosh Hashanah 19a",
+                        "Rashba on Rosh Hashanah 19b",
+                        "Rashba on Rosh Hashanah 20a",
+                        "Rashba on Rosh Hashanah 20b",
+                        "Rashba on Rosh Hashanah 21a",
+                        "Rashba on Rosh Hashanah 21b",
+                        "Rashba on Rosh Hashanah 22a:1-8"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Rosh Hashanah 22a:9-25a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "bavli",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "bavli",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "gemara",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "bavli",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "gemara",
+                                "perek",
+                                "chapter-225"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 2; Im Einan Makkirin",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "אם אינן מכירין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Im Einan Makkirin",
+                    "heTitle": "אם אינן מכירין",
+                    "refs": [
+                        "Rashba on Rosh Hashanah 22a:9",
+                        "Rashba on Rosh Hashanah 22b",
+                        "Rashba on Rosh Hashanah 23a",
+                        "Rashba on Rosh Hashanah 23b",
+                        "Rashba on Rosh Hashanah 24a",
+                        "Rashba on Rosh Hashanah 24b",
+                        "Rashba on Rosh Hashanah 25a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 42
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Rosh Hashanah 25b:1-29a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "bavli",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "bavli",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "gemara",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "bavli",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "gemara",
+                                "perek",
+                                "chapter-325"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 3; Rauhu Beit Din",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ראוהו בית דין",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; Rauhu Beit Din",
+                    "heTitle": "ראוהו בית דין",
+                    "refs": [
+                        "Rashba on Rosh Hashanah 25b:1-7",
+                        "Rashba on Rosh Hashanah 26a",
+                        "Rashba on Rosh Hashanah 26b",
+                        "Rashba on Rosh Hashanah 27a",
+                        "Rashba on Rosh Hashanah 27b",
+                        "Rashba on Rosh Hashanah 28a",
+                        "Rashba on Rosh Hashanah 28b",
+                        "Rashba on Rosh Hashanah 29a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 49
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Rashba on Rosh Hashanah 29b:1-35a:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "bavli",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "bavli",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "gemara",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "bavli",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "talmud",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "rashba",
+                                "gemara",
+                                "perek",
+                                "chapter-421"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Chapter 4; Yom Tov",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "יום טוב",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 4; Yom Tov",
+                    "heTitle": "יום טוב",
+                    "refs": [
+                        "Rashba on Rosh Hashanah 29b:1-4",
+                        "Rashba on Rosh Hashanah 30a",
+                        "Rashba on Rosh Hashanah 30b",
+                        "Rashba on Rosh Hashanah 31a",
+                        "Rashba on Rosh Hashanah 31b",
+                        "Rashba on Rosh Hashanah 32a",
+                        "Rashba on Rosh Hashanah 32b",
+                        "Rashba on Rosh Hashanah 33a",
+                        "Rashba on Rosh Hashanah 33b",
+                        "Rashba on Rosh Hashanah 34a",
+                        "Rashba on Rosh Hashanah 34b",
+                        "Rashba on Rosh Hashanah 35a:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 57
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "text": "רשב״א על ראש השנה",
+                    "primary": true
+                },
+                {
+                    "text": "Rashba on Rosh Hashanah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Rashba on Rosh Hashanah",
+            "heTitle": "רשב״א על ראש השנה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"

@@ -16,6 +16,13 @@
                 "sectionNames": [
                     "Paragraph"
                 ],
+                "match_templates": [
+                    {
+                        "term_slugs": [
+                            "introduction"
+                        ]
+                    }
+                ],
                 "toc_zoom": 2,
                 "sharedTitle": "Introduction",
                 "titles": [
@@ -63,6 +70,26 @@
                     "פסקה"
                 ],
                 "key": "default"
+            }
+        ],
+        "nodeType": "SchemaNode",
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "peninei-halakhah",
+                    "family-purity"
+                ]
+            }
+        ],
+        "ref_resolver_context_mutations": [
+            {
+                "op": "add",
+                "input_terms": [
+                    "shulchan-arukh"
+                ],
+                "output_terms": [
+                    "yoreh-deah"
+                ]
             }
         ],
         "titles": [

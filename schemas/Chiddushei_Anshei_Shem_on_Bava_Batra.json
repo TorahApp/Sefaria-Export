@@ -19,6 +19,22 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "chiddushei-anshei-shem",
+                    "bava-batra"
+                ]
+            }
+        ],
+        "lengths": [
+            165,
+            109
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "חידושי אנשי שם על בבא בתרא",
@@ -39,7 +55,17 @@
         ],
         "key": "Chiddushei Anshei Shem on Bava Batra"
     },
-    "authors": [],
+    "authors": [
+        {
+            "en": "Nathan Nota Spira",
+            "he": "נתן נטע שפירא",
+            "slug": "nathan-nota-spira"
+        }
+    ],
+    "enDesc": "",
+    "heDesc": "",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "hasErrorMargin": true,
     "compDate": [
         1610,

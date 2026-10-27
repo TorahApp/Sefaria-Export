@@ -186,6 +186,9 @@
         ],
         "key": "Saadia Gaon on Exodus"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Saadia Gaon",
@@ -252,6 +255,208 @@
         "רס”ג על שמות",
         "ר' סעדיה גאון על שמות"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Saadia Gaon on Exodus 19:7:1-20:15:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "saadia-gaon",
+                                "parasha",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "saadia-gaon",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Yitro",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Jethro",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Yitro",
+                    "heTitle": "יתרו"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "text": "Rasag on Exod."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Ex."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Exo"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Shmot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Shemot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Ex"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Exo."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Exod"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Shemoth"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rasag on Exodus"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Exod."
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Ex."
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Exo"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Shmot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Shemot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Ex"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Exo."
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Exod"
+                },
+                {
+                    "lang": "en",
+                    "text": "Saadia Gaon on Shemoth"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Exod."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Ex."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Exo"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Shmot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Shemot"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Ex"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Exo."
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Exod"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Shemoth"
+                },
+                {
+                    "lang": "en",
+                    "text": "Rav Saadia on Exodus"
+                },
+                {
+                    "lang": "he",
+                    "text": "רס\"ג על שמות"
+                },
+                {
+                    "text": "רס״ג על שמות",
+                    "lang": "he"
+                },
+                {
+                    "text": "רס”ג על שמות",
+                    "lang": "he"
+                },
+                {
+                    "text": "ר' סעדיה גאון על שמות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Saadia Gaon on Exodus",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Saadia Gaon on Exodus",
+            "heTitle": "ר' סעדיה גאון על שמות"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

@@ -59,9 +59,12 @@
         ],
         "key": "Marit HaAyin on Meilah"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
-            "en": "Hayyim Joseph David Azulai",
+            "en": "Hayyim Joseph David Azulai (Chida)",
             "he": "חיים דוד אזולאי",
             "slug": "hayyim-joseph-david-azulai"
         }
@@ -96,6 +99,154 @@
     "heTitleVariants": [
         "מראית העין על מעילה"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Marit HaAyin on Meilah 17a:1-17b:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "perek",
+                                "fourth"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "talmud",
+                                "bavli",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "bavli",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "talmud",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "gemara",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "bavli",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "talmud",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "marit-haayin",
+                                "gemara",
+                                "perek",
+                                "chapter-415"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 4,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "lang": "en",
+                            "text": "Chapter 4; Kodshei Mizbeach",
+                            "primary": true
+                        },
+                        {
+                            "lang": "he",
+                            "text": "קדשי מזבח",
+                            "primary": true
+                        }
+                    ],
+                    "title": "Chapter 4; Kodshei Mizbeach",
+                    "heTitle": "קדשי מזבח",
+                    "refs": [
+                        "Marit HaAyin on Meilah 17a:1-2",
+                        "Marit HaAyin on Meilah 17b:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 32
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "he",
+                    "primary": true,
+                    "text": "מראית העין על מעילה"
+                },
+                {
+                    "text": "Marit HaAyin on Meilah",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Marit HaAyin on Meilah",
+            "heTitle": "מראית העין על מעילה"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Line"

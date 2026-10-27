@@ -19,6 +19,20 @@
             "Mishnah",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "ikar-tosafot-yom-tov",
+                    "mishnah",
+                    "makhshirin"
+                ]
+            }
+        ],
+        "lengths": [
+            6,
+            46,
+            96
+        ],
         "titles": [
             {
                 "lang": "en",
@@ -87,7 +101,7 @@
             "slug": "meshulam-katz"
         },
         {
-            "en": "Yom-Tov Lipmann Heller",
+            "en": "Yom Tov Lipmann Heller (Tosefot Yom Tov)",
             "he": "יום-טוב ליפמן הלר",
             "slug": "yom-tov-lipmann-heller"
         }

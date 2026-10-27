@@ -39,40 +39,40 @@
         ],
         "titles": [
             {
-                "lang": "en",
-                "text": "Kli Yakar on Exod."
+                "text": "Kli Yakar on Exod.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Ex."
+                "text": "Kli Yakar on Ex.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Exo"
+                "text": "Kli Yakar on Exo",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Shmot"
+                "text": "Kli Yakar on Shmot",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Shemot"
+                "text": "Kli Yakar on Shemot",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Ex"
+                "text": "Kli Yakar on Ex",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Exo."
+                "text": "Kli Yakar on Exo.",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Exod"
+                "text": "Kli Yakar on Exod",
+                "lang": "en"
             },
             {
-                "lang": "en",
-                "text": "Kli Yakar on Shemoth"
+                "text": "Kli Yakar on Shemoth",
+                "lang": "en"
             },
             {
                 "text": "כלי יקר על שמות",
@@ -94,6 +94,9 @@
         ],
         "key": "Kli Yakar on Exodus"
     },
+    "exclude_structs": [
+        "Parasha"
+    ],
     "authors": [
         {
             "en": "Shlomo Ephraim ben Aaron Luntschitz",
@@ -101,7 +104,10 @@
             "slug": "shlomo-ephraim-ben-aaron-luntschitz"
         }
     ],
-    "enDesc": "Torah commentary written by Rabbi Shlomo Ephraim ben Aaron Luntschitz and originally published in 1602. The name, Kli Yakar, comes from Proverbs 20:15 where it says that wise speech is a “kli yakar”,  a precious object.",
+    "enDesc": "*Kli Yakar* is a Torah commentary by Rabbi Shlomo Ephraim ben Aaron Luntschitz, originally published in 1602. The title, which translates to \"precious jewel,\" is a reference to [Proverbs 20:15](https://www.sefaria.org/Proverbs.20.15?lang=bi&amp;with=all&amp;lang2=en). In the book's introduction, the author writes that he wrote the book as a way of expressing thanks to God after recovering from a harsh illness. *Kli Yakar* focuses on *peshat,* or a straightforward understanding of the biblical text, while also incorporating midrashic texts and engaging with earlier commentaries. Many of the ideas in the commentary are based on weekly sermons that Luntschitz delivered in Lviv and include *musar,* (moral instruction or rebuke), critiquing the pursuit of wealth and other practices that the author saw as problematic. ",
+    "heDesc": "",
+    "enShortDesc": "",
+    "heShortDesc": "",
     "pubDate": [
         1602
     ],
@@ -142,6 +148,656 @@
     "heTitleVariants": [
         "כלי יקר על שמות"
     ],
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 1:1:1-6:1:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "shemot"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "shemot"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Shemot",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "שמות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת שמות",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parsha Shemot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Names",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Shmot",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Exodos",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Sh'mot",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Shemot",
+                    "heTitle": "שמות"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 6:2:1-9:30:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "vaera"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "vaera"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vaera",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vaera",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "וארא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vaera",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת וארא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Va'era",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Va'era",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ve'Erah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parshat Vaera",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vaera",
+                    "heTitle": "וארא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 10:1:1-13:16:4",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "bo"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "bo"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Bo",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Bo",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Bo",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בא",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Bo",
+                    "heTitle": "בא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 13:17:1-17:12:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "beshalach"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "beshalach"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Beshalach",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Beshalach",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "בשלח",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Beshalach",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת בשלח",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Beshalach",
+                    "heTitle": "בשלח"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 18:1:1-20:22:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "yitro"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Yitro",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת יתרו",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Yitro",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Jethro",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Yitro",
+                    "heTitle": "יתרו"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 21:1:1-24:11:3",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "mishpatim"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "mishpatim"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Mishpatim",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Mishpatim",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "משפטים",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Mishpatim",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת משפטים",
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Mishpatim",
+                    "heTitle": "משפטים"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 25:1:1-27:4:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "terumah"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "terumah"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Terumah",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Terumah",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תרומה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Terumah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תרומה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Truma",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Trumah",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "T'rumah",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Terumah",
+                    "heTitle": "תרומה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 27:20:1-30:10:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "tetzaveh"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "tetzaveh"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Tetzaveh",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Tetzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "תצוה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tetzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תצוה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "T'tzaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת תצווה",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Tezaveh",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Parashat Teztaveh",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Tetzaveh",
+                    "heTitle": "תצוה"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 30:11:1-34:33:1",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "ki-tisa"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "ki-tisa"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Ki Tisa",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Ki Tisa",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "כי תשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tisa",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת כי תשא",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Ki Tissa",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "Ki Tissa",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Ki Tisa",
+                    "heTitle": "כי תשא"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 35:1:1-38:8:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "vayakhel"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "vayakhel"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Vayakhel",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Vayakhel",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "ויקהל",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Vayakhel",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת ויקהל",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parshat Vayakel",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Vayakhel",
+                    "heTitle": "ויקהל"
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 0,
+                    "wholeRef": "Kli Yakar on Exodus 38:21:1-40:34:2",
+                    "includeSections": false,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "parasha",
+                                "pekudei"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "kli-yakar",
+                                "pekudei"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "sharedTitle": "Pekudei",
+                    "titles": [
+                        {
+                            "primary": true,
+                            "text": "Pekudei",
+                            "lang": "en"
+                        },
+                        {
+                            "primary": true,
+                            "text": "פקודי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pekudei",
+                            "lang": "en"
+                        },
+                        {
+                            "text": "פרשת פקודי",
+                            "lang": "he"
+                        },
+                        {
+                            "text": "Parashat Pikudei",
+                            "lang": "en"
+                        }
+                    ],
+                    "title": "Pekudei",
+                    "heTitle": "פקודי"
+                }
+            ],
+            "titles": [
+                {
+                    "text": "Kli Yakar on Exod.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Ex.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Exo",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Shmot",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Shemot",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Ex",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Exo.",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Exod",
+                    "lang": "en"
+                },
+                {
+                    "text": "Kli Yakar on Shemoth",
+                    "lang": "en"
+                },
+                {
+                    "text": "כלי יקר על שמות",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Kli Yakar on Exodus",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Kli Yakar on Exodus",
+            "heTitle": "כלי יקר על שמות"
+        }
+    },
     "sectionNames": [
         "Chapter",
         "Verse",

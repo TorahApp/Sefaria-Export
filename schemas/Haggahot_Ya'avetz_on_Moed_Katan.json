@@ -18,6 +18,22 @@
             "Daf",
             "Comment"
         ],
+        "match_templates": [
+            {
+                "term_slugs": [
+                    "haggahot-yaavetz",
+                    "moed-katan"
+                ]
+            }
+        ],
+        "lengths": [
+            57,
+            58
+        ],
+        "isSegmentLevelDiburHamatchil": true,
+        "diburHamatchilRegexes": [
+            "^<b>(.+?)</b>"
+        ],
         "titles": [
             {
                 "text": "הגהות יעב\"ץ על מועד קטן",
@@ -38,6 +54,9 @@
         ],
         "key": "Haggahot Ya'avetz on Moed Katan"
     },
+    "exclude_structs": [
+        "Chapters"
+    ],
     "authors": [
         {
             "en": "Yaakov Emden",
@@ -75,6 +94,468 @@
     "heTitleVariants": [
         "הגהות יעב\"ץ על מועד קטן"
     ],
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Moed Katan 2a:1-11a:2",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "first"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-125"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 1,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 1; Mashkin Beit HaShelachin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "משקין בית השלחין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 1; Mashkin Beit HaShelachin",
+                    "heTitle": "משקין בית השלחין",
+                    "refs": [
+                        "Haggahot Ya'avetz on Moed Katan 2a:1",
+                        "Haggahot Ya'avetz on Moed Katan 2b",
+                        "Haggahot Ya'avetz on Moed Katan 3a",
+                        "Haggahot Ya'avetz on Moed Katan 3b",
+                        "Haggahot Ya'avetz on Moed Katan 4a",
+                        "Haggahot Ya'avetz on Moed Katan 4b",
+                        "Haggahot Ya'avetz on Moed Katan 5a",
+                        "Haggahot Ya'avetz on Moed Katan 5b",
+                        "Haggahot Ya'avetz on Moed Katan 6a",
+                        "Haggahot Ya'avetz on Moed Katan 6b",
+                        "Haggahot Ya'avetz on Moed Katan 7a",
+                        "Haggahot Ya'avetz on Moed Katan 7b",
+                        "Haggahot Ya'avetz on Moed Katan 8a",
+                        "Haggahot Ya'avetz on Moed Katan 8b",
+                        "Haggahot Ya'avetz on Moed Katan 9a",
+                        "Haggahot Ya'avetz on Moed Katan 9b",
+                        "Haggahot Ya'avetz on Moed Katan 10a",
+                        "Haggahot Ya'avetz on Moed Katan 10b",
+                        "Haggahot Ya'avetz on Moed Katan 11a:1-2"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 2
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Moed Katan 11b:1",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "second"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-220"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 2,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 2; Mi SheHafakh",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "מי שהפך",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 2; Mi SheHafakh",
+                    "heTitle": "מי שהפך",
+                    "refs": [
+                        "Haggahot Ya'avetz on Moed Katan 11b:1"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 21
+                },
+                {
+                    "nodeType": "ArrayMapNode",
+                    "depth": 1,
+                    "wholeRef": "Haggahot Ya'avetz on Moed Katan 14b:1-28b:3",
+                    "includeSections": true,
+                    "match_templates": [
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "third"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "perek",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "last"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "bavli",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "bavli",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "talmud",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        },
+                        {
+                            "term_slugs": [
+                                "haggahot-yaavetz",
+                                "gemara",
+                                "perek",
+                                "chapter-320"
+                            ],
+                            "scope": "alone"
+                        }
+                    ],
+                    "numeric_equivalent": 3,
+                    "isSegmentLevelDiburHamatchil": true,
+                    "titles": [
+                        {
+                            "text": "Chapter 3; VeEllu Megallechin",
+                            "primary": true,
+                            "lang": "en"
+                        },
+                        {
+                            "text": "ואלו מגלחין",
+                            "primary": true,
+                            "lang": "he"
+                        }
+                    ],
+                    "title": "Chapter 3; VeEllu Megallechin",
+                    "heTitle": "ואלו מגלחין",
+                    "refs": [
+                        "Haggahot Ya'avetz on Moed Katan 14b:1-3",
+                        "Haggahot Ya'avetz on Moed Katan 15a",
+                        "Haggahot Ya'avetz on Moed Katan 15b",
+                        "Haggahot Ya'avetz on Moed Katan 16a",
+                        "Haggahot Ya'avetz on Moed Katan 16b",
+                        "Haggahot Ya'avetz on Moed Katan 17a",
+                        "Haggahot Ya'avetz on Moed Katan 17b",
+                        "Haggahot Ya'avetz on Moed Katan 18a",
+                        "Haggahot Ya'avetz on Moed Katan 18b",
+                        "Haggahot Ya'avetz on Moed Katan 19a",
+                        "Haggahot Ya'avetz on Moed Katan 19b",
+                        "Haggahot Ya'avetz on Moed Katan 20a",
+                        "Haggahot Ya'avetz on Moed Katan 20b",
+                        "Haggahot Ya'avetz on Moed Katan 21a",
+                        "Haggahot Ya'avetz on Moed Katan 21b",
+                        "Haggahot Ya'avetz on Moed Katan 22a",
+                        "Haggahot Ya'avetz on Moed Katan 22b",
+                        "Haggahot Ya'avetz on Moed Katan 23a",
+                        "Haggahot Ya'avetz on Moed Katan 23b",
+                        "Haggahot Ya'avetz on Moed Katan 24a",
+                        "Haggahot Ya'avetz on Moed Katan 24b",
+                        "Haggahot Ya'avetz on Moed Katan 25a",
+                        "Haggahot Ya'avetz on Moed Katan 25b",
+                        "Haggahot Ya'avetz on Moed Katan 26a",
+                        "Haggahot Ya'avetz on Moed Katan 26b",
+                        "Haggahot Ya'avetz on Moed Katan 27a",
+                        "Haggahot Ya'avetz on Moed Katan 27b",
+                        "Haggahot Ya'avetz on Moed Katan 28a",
+                        "Haggahot Ya'avetz on Moed Katan 28b:1-3"
+                    ],
+                    "addressTypes": [
+                        "Talmud"
+                    ],
+                    "sectionNames": [
+                        "Daf"
+                    ],
+                    "offset": 27
+                }
+            ],
+            "titles": [
+                {
+                    "text": "הגהות יעב\"ץ על מועד קטן",
+                    "lang": "he",
+                    "primary": true
+                },
+                {
+                    "text": "Haggahot Ya'avetz on Moed Katan",
+                    "lang": "en",
+                    "primary": true
+                }
+            ],
+            "title": "Haggahot Ya'avetz on Moed Katan",
+            "heTitle": "הגהות יעב\"ץ על מועד קטן"
+        }
+    },
     "sectionNames": [
         "Daf",
         "Comment"
